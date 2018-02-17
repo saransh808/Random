@@ -1,0 +1,63 @@
+Return-Path: <0102015bae558b3d-316554ae-d603-47bf-a8e0-8678302c78da-000000@eu-west-1.amazonses.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id Ma7JEUqfAVkLwgYAwZeyeg
+	for <tushar@simplifytrips.com>; Thu, 27 Apr 2017 00:35:38 -0700
+Return-path: <0102015bae558b3d-316554ae-d603-47bf-a8e0-8678302c78da-000000@eu-west-1.amazonses.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Thu, 27 Apr 2017 00:35:38 -0700
+Received: from a7-17.smtp-out.eu-west-1.amazonses.com ([54.240.7.17]:38670)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1:ECDHE-RSA-AES128-SHA:128)
+	(Exim 4.88)
+	(envelope-from <0102015bae558b3d-316554ae-d603-47bf-a8e0-8678302c78da-000000@eu-west-1.amazonses.com>)
+	id 1d3dxi-001rYr-0T
+	for tushar@simplifytrips.com; Thu, 27 Apr 2017 00:35:38 -0700
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=shh3fegwg5fppqsuzphvschd53n6ihuv; d=amazonses.com; t=1493278493;
+	h=MIME-Version:Content-Type:Content-Transfer-Encoding:Subject:From:To:Date:Message-ID:Feedback-ID;
+	bh=JnyHd4yU42ny4iSlNUUx8xbRoUIncTGmEuHNNicpXN8=;
+	b=Imqe71aD3DDvTMzuGRfkU7bK9mA9yFeftsWOZmzRUzjgN9dzqb7uwUp1SJ7z8JIw
+	7+ZekyDaxrdtR6hlc0BllHt0JvAYs9WQH5WLnAUlXYX6wfc07oyCwlA/Kk72ldBhnQV
+	Ayc5MXtXsCnq7wK+MzYFkysxBQ2e8RnUepSUEv0k=
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+Subject: Sign up Link - Indian Angel Network Tech Platform
+From: INDIAN ANGEL NETWORK <noreply@indianangelnetwork.com>
+To: tushar@simplifytrips.com
+Date: Thu, 27 Apr 2017 07:34:53 +0000
+Message-ID: <0102015bae558b3d-316554ae-d603-47bf-a8e0-8678302c78da-000000@eu-west-1.amazonses.com>
+X-SES-Outgoing: 2017.04.27-54.240.7.17
+Feedback-ID: 1.eu-west-1.MSoHkEq6FHwLMcSaHzxLNbFLvqHojaPX1lVlpxeVwNA=:AmazonSES
+
+
+
+
+
+<p><span style="font-size:12px"><span style="font-family:verdana,geneva,sans-serif">Dear Tushar Choudhary,</span></span></p>
+
+<p><span style="font-size:12px"><span style="font-family:verdana,geneva,sans-serif">Thank you for connecting with IAN, Your account has been created on IAN Tech Platform. Please click on below link to complete the registration.</span></span></p>
+
+<p><a href="
+https://www.indianangelnetwork.com/accounts/reset_password_from_key/tushar_choudhary_mzv/532e293228664361410660ec307ea1bdc06c13d5"><span style="font-size:12px"><span style="font-family:verdana,geneva,sans-serif">
+https://www.indianangelnetwork.com/accounts/reset_password_from_key/tushar_choudhary_mzv/532e293228664361410660ec307ea1bdc06c13d5</span></span></a></p>
+
+<p><span style="font-size:12px"><span style="font-family:verdana,geneva,sans-serif">Please download the mobile app from:</span></span></p>
+
+<p><span style="font-size:12px"><span style="font-family:verdana,geneva,sans-serif">Android: <a href="https://play.google.com/store/apps/details?id=com.tmz.ian" target="_blank">https://play.google.com/store/apps/details?id=com.tmz.ian</a></span></span></p>
+
+<p><span style="font-size:12px"><span style="font-family:verdana,geneva,sans-serif">iTunes: <a href="https://itunes.apple.com/us/app/indian-angel-network/id1176949342?mt=8" target="_blank">https://itunes.apple.com/us/app/indian-angel-network/id1176949342?mt=8</a></span></span></p>
+
+<p><span style="font-size:12px"><span style="font-family:verdana,geneva,sans-serif">Web: <a href="https://www.indianangelnetwork.com/" target="_blank">https://www.indianangelnetwork.com/ </a>- Use login button on top right-hand corner.</span></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:12px"><span style="font-family:verdana,geneva,sans-serif">Best Regards,</span></span></p>
+
+<p><span style="font-size:12px"><span style="font-family:verdana,geneva,sans-serif">Team IAN</span></span></p>
+
+<p><span style="font-size:12px"><span style="font-family:verdana,geneva,sans-serif"><a href="https://www.indianangelnetwork.com"><img src="https://d2n91hbqyoc1c7.cloudfront.net/img/logo.png" style="width:200px" /></a></span></span></p>
+
+<hr />
+<p><span style="font-size:10px"><span style="font-family:verdana,geneva,sans-serif">Please do not reply to this message. This email was sent from a notification-only address which is unmonitored mailbox.</span></span></p>
+

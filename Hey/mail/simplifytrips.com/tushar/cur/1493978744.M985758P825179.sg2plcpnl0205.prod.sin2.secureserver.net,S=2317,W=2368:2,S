@@ -1,0 +1,51 @@
+Return-Path: <no-reply@getclicky.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id UdSqOnhODFlblwwAwZeyeg
+	for <tushar@simplifytrips.com>; Fri, 05 May 2017 03:05:44 -0700
+Return-path: <no-reply@getclicky.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Fri, 05 May 2017 03:05:44 -0700
+Received: from helo.getclicky.com ([198.145.13.4]:52020)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <no-reply@getclicky.com>)
+	id 1d6a7M-003TV3-Nc
+	for tushar@simplifytrips.com; Fri, 05 May 2017 03:05:44 -0700
+Received: from getclicky.com (unknown [10.0.0.2])
+	by helo.getclicky.com (Postfix) with ESMTP id 976BEBBAB
+	for <tushar@simplifytrips.com>; Fri,  5 May 2017 03:05:02 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=getclicky.com;
+	s=default.private; t=1493978702;
+	bh=uAJ963WcDRjAqn7vlzhHIeCAWBK2Rs4FSDjJL8//CUo=;
+	h=To:Subject:From:Reply-To:Date;
+	b=VLMJJzBHz4vmEXZGbJl+gHzgP/Mx4AKh6a3zjRaXRtzuDedUtEngwGV8k+K1WSgaI
+	 rar0SaTXq9KWGGYjbk51pKKeTvS583GpWhvpLIgx5eoMfdz7f4ccxsX4ZhzSbElMza
+	 q9Kxu88v7NB1gboLYnakRCUc4cvLL0cM1K1EycFI=
+Received: by getclicky.com (Postfix, from userid 1000)
+	id 9871D1015F; Fri,  5 May 2017 03:05:02 -0700 (PDT)
+To: Tushar Choudhary <tushar@simplifytrips.com>
+Subject: Clicky premium service
+X-PHP-Originating-Script: 1000:functions.php
+From: Clicky <no-reply@getclicky.com>
+Reply-To: Clicky <no-reply@getclicky.com>
+Message-Id: <20170505100502.9871D1015F@getclicky.com>
+Date: Fri,  5 May 2017 03:05:02 -0700 (PDT)
+
+Hi Tushar,
+
+This is a friendly automated reminder that your trial of Clicky premium service is ending after Monday, May 8th, 2017.
+
+To see all of the benefits of premium service, as well as to upgrade, please visit this page:
+
+http://clicky.com/user/upgrade?utm_campaign=email&utm_content=trial+expire
+
+Thank you for your support!
+
+(In case you have multiple accounts, this message is in regards to username "Simplifytrips").
+
+
+-- Your friends at Clicky :)
+http://clicky.com
+
+Note: This is an automated message. Please do not reply, as this email address is not monitored. If you wish to contact us, please go to our contact page via the link above.

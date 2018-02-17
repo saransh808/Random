@@ -1,0 +1,71 @@
+Return-Path: <bounce-md_30616101.58ff14e1.v1-f2e7739e1cbf4f4495996dd754a7b330@mandrillapp.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id GST+GgwV/1g3swkAwZeyeg
+	for <tushar@simplifytrips.com>; Tue, 25 Apr 2017 02:21:16 -0700
+Return-path: <bounce-md_30616101.58ff14e1.v1-f2e7739e1cbf4f4495996dd754a7b330@mandrillapp.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Tue, 25 Apr 2017 02:21:16 -0700
+Received: from mail132-26.atl131.mandrillapp.com ([198.2.132.26]:44507)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <bounce-md_30616101.58ff14e1.v1-f2e7739e1cbf4f4495996dd754a7b330@mandrillapp.com>)
+	id 1d2weq-002fYO-4Q
+	for tushar@simplifytrips.com; Tue, 25 Apr 2017 02:21:16 -0700
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=letsintern.com;
+ h=From:Subject:To:Message-Id:Date:MIME-Version:Content-Type; i=info@letsintern.com;
+ bh=50K6xolwArmi/ytws9HNqnN0EXQ=;
+ b=pamQG0G2+L/S+sdHGqyOImf+Pnd/b+y+OcY4uu4P3dWERRtCct43ZEfaqcK6UKj7XNt5g0UPMzpR
+   kOsYuWZ38mAlHF10oKkfhKKeqKWhsjp9ZxR+Jav1jhXQbGwNOc65ULGQsgJGn7ydUxR51pxki8jm
+   oIHA6waqV0PZN4IIiic=
+Received: from pmta02.mandrill.prod.atl01.rsglab.com (127.0.0.1) by mail132-26.atl131.mandrillapp.com id hvsago1sar8k for <tushar@simplifytrips.com>; Tue, 25 Apr 2017 09:20:33 +0000 (envelope-from <bounce-md_30616101.58ff14e1.v1-f2e7739e1cbf4f4495996dd754a7b330@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1493112033; h=From : 
+ Subject : To : Message-Id : Date : MIME-Version : Content-Type : From : 
+ Subject : Date : X-Mandrill-User : List-Unsubscribe; 
+ bh=QPFLTmo2kOpIj8UrVwVa+uzHkMFvCnIVd0wiPpWC6n8=; 
+ b=UVA9MG8r7ilzH4rDFUrlU/vcVGmlEmCb9WfbuZV7B9fTRrj4FuTRKEIPAoCTjE1LMAqM17
+ M5ovITrFlt/zhVXDo5Q0h6X1GIWx9GC0+HEP5DmWvBzklTpgGIo+g6uwh9sahLl8OGNeLYGH
+ zoCtOXHh4ZSjyQgkZUxa6/oPScxK4=
+From: <info@letsintern.com>
+Subject: Your password on Letsintern has been reset.
+Received: from [52.73.80.122] by mandrillapp.com id f2e7739e1cbf4f4495996dd754a7b330; Tue, 25 Apr 2017 09:20:33 +0000
+To: <tushar@simplifytrips.com>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30616101.f2e7739e1cbf4f4495996dd754a7b330
+X-Mandrill-User: md_30616101
+Message-Id: <30616101.20170425092033.58ff14e172fa13.03694136@mail132-26.atl131.mandrillapp.com>
+Date: Tue, 25 Apr 2017 09:20:33 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-5fr3dLnDhP9JqWK9rQTu3g"
+
+--_av-5fr3dLnDhP9JqWK9rQTu3g
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi Tushar Choudhary,
+
+The password for your Letsintern account has been reset. You can change it =
+later, by going to the =E2=80=98Change Password=E2=80=99 option in your acc=
+ount.
+
+If you have any queries, please write to us at marcos@letsintern.com.
+
+Best,
+The Letsintern Team
+
+--_av-5fr3dLnDhP9JqWK9rQTu3g
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+<p id="docs-internal-guid-ca25934e-95fa-456b-5b5c-4700d2cc4301" dir="ltr"><span style="font-family: arial, Helvetica, sans-serif; font-size: 10pt;">Hi Tushar Choudhary,</span></p>
+      <p dir="ltr"><span style="font-family: arial, Helvetica, sans-serif; font-size: 10pt;">The password for your Letsintern account has been reset. You can change it later, by going to the &lsquo;Change password&rsquo; option in your account.</span></p>
+
+<p dir="ltr"><span style="font-family: arial, Helvetica, sans-serif; font-size: 10pt;">If you have any queries, please write to us at <a href="mailto:marcos@letsintern.com">marcos@letsintern.com</a></span></p>
+<p dir="ltr"><span style="font-family: arial, Helvetica, sans-serif;font-size: 10pt;">Best,</span><br><span style="font-family: arial, Helvetica, sans-serif;font-size: 10pt;">The Letsintern Team</span></p>
+<img src="https://mandrillapp.com/track/open.php?u=30616101&id=f2e7739e1cbf4f4495996dd754a7b330" height="1" width="1"></body>
+</html>
+--_av-5fr3dLnDhP9JqWK9rQTu3g--
+

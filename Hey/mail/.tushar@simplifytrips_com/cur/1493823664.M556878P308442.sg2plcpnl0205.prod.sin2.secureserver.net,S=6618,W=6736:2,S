@@ -1,0 +1,118 @@
+Return-Path: <0100015bced369fa-e2740104-9072-436a-b0da-f03e785768fa-000000@amazonses.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id qVoPIbDwCVnatAQAwZeyeg
+	for <tushar@simplifytrips.com>; Wed, 03 May 2017 08:01:04 -0700
+Return-path: <0100015bced369fa-e2740104-9072-436a-b0da-f03e785768fa-000000@amazonses.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Wed, 03 May 2017 08:01:04 -0700
+Received: from a11-118.smtp-out.amazonses.com ([54.240.11.118]:55332)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1:ECDHE-RSA-AES128-SHA:128)
+	(Exim 4.88)
+	(envelope-from <0100015bced369fa-e2740104-9072-436a-b0da-f03e785768fa-000000@amazonses.com>)
+	id 1d5vm4-001I1t-5r
+	for tushar@simplifytrips.com; Wed, 03 May 2017 08:01:04 -0700
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=224i4yxa5dv7c2xz3womw6peuasteono; d=amazonses.com; t=1493823613;
+	h=Date:To:From:Subject:Message-ID:MIME-Version:Content-Transfer-Encoding:Content-Type:Feedback-ID;
+	bh=6XRKa1ekY24pDf8HFpJrAwPSSXl7Y5wp+XupeJzKodU=;
+	b=QKkSTI8FIGcc4tBsqvhnfe3DHYRc0r9O05neWLDkFw3Dmhn6OPbeBsQymFAYXq4G
+	GbJbxVED4SBdiXQCu4AglP7GB/T2t/xEEz9upJAAVx7LyEF9dpAtIqWk24ed+ttEgG8
+	FvGgBwEUDrxJN7SDSPY5VzFBVVDrifE5OTKDly8w=
+Date: Wed, 3 May 2017 15:00:13 +0000
+To: tushar@simplifytrips.com
+From: Letsintern <info@letsintern.com>
+Subject: 3 Days until your job posting expires on Letsintern.
+Message-ID: <0100015bced369fa-e2740104-9072-436a-b0da-f03e785768fa-000000@email.amazonses.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.4 (https://github.com/Synchro/PHPMailer/)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset=iso-8859-1
+X-SES-Outgoing: 2017.05.03-54.240.11.118
+Feedback-ID: 1.us-east-1.S0THvJuq58KydR06Dj+5IwCdP3hCdXH6Uc7C8IjYJEs=:AmazonSES
+
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<div style="background-color: #fafafa; width: 100%;">
+<table style="font-family: arial, Helvetica, sans-serif; padding: 2%; margin: auto; background-color: #fafafa;" border="0">
+<tbody>
+<tr>
+<td>
+<div style="padding: 20px 20px; text-align: center;"><a href="http://www.letsintern.com/" target="_blank"> <img src="http://letsintern.com.s3.amazonaws.com/images/letsintern-logo.png" alt="Letintern" align="center" /> </a></div>
+<table style="width: 100%; max-width: 600px; border: 1px solid #e3e3e3; background-color: #ffffff;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<div><img src="http://letsintern.com.s3.amazonaws.com/images/letsintern-header.png" alt="letsintern" width="100%" /></div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="padding: 10px 30px;">
+<h1 style="color: #044048; font-size: 28px; font-weight: normal;">Manage applications using Enterprise Plan</h1>
+<p style="font-family: arial, Helvetica; font-size: 13px; line-height: 20px; font-weight: bold; padding-top: 20px;"><span style="font-family: arial, Helvetica;"><strong>Dear Tushar Choudhary,</strong></span></p>
+<p style="font-family: arial, Helvetica; font-size: 13px; line-height: 20px;"><span style="font-family: arial, Helvetica;"> Your <a href='http://www.letsintern.com/internship/Online-Marketing-Execuitive/Simplifytrips.com/Online-Marketing/74438'>requirement posted</a>&nbsp;on Letsintern.com will expire in 3 days.</span></p>
+<p style="color: #333333; font-size: 13px; line-height: 20px;"><span style="font-family: arial, Helvetica;">Since the opportunity was posted, you have received a total of 7 applications and 4&nbsp;applications are waiting for your responsse.</span></p>
+<p style="color: #333333; font-size: 13px; line-height: 20px;"><span style="font-family: arial, Helvetica;">Too many applications to manage? We can automate the entire process. Out Enterprise plan for employers provides the support of our client servicing team for efficient data management, shortlisting and candidate engagement.</span></p>
+<p style="color: #333333; font-size: 13px; line-height: 20px;"><span style="font-family: arial, Helvetica;">If you have any questions regarding your posting or anything else you&rsquo;d like us to help you with, please write to marcos@letsintern.com.<br /><br /></span></p>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="padding: 10px 30px;">
+<div style="background-color: #014049; padding: 10px 20px; display: inline-block; border-radius: 4px; margin-right: 10px; margin-bottom: 10px;"><a style="color: #fff; font-size: 13px; text-decoration: none; text-transform: uppercase;" href="http://www.letsintern.com/employer/uplans" target="_blank">subscribe to enterprise plan</a></div>
+<div style="background-color: #ff9714; padding: 10px 20px; display: inline-block; border-radius: 4px;"><a style="color: #fff; font-size: 13px; text-decoration: none; text-transform: uppercase;" href="http://www.letsintern.com/employer/login" target="_blank">view applications</a></div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div style="padding: 20px 30px;">
+<p style="padding: 0 0 5px 0; margin: 0; font-size: 14px; padding-top: 20px;"><span style="font-family: arial, Helvetica;">Warm Regards, </span></p>
+<p style="padding: 0 0 5px 0; margin: 0; font-size: 14px;"><span style="font-family: arial, Helvetica;"><strong>Letsintern Team</strong></span></p>
+<p style="padding: 0 0 10px 0; margin: 0; font-size: 14px;"><span style="font-family: arial, Helvetica;"><a href="mailto:info@aspiringminds.com" target="_blank">&nbsp;</a></span></p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#fafafa">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="left">
+<div style="padding: 2% 0% 0% 0%;"><img class="CToWUd" src="https://s3.amazonaws.com/myamcatimages/new_images/am-logo.png" alt="aspiringminds logo" width="140" align="left" /></div>
+</td>
+<td style="padding: 2% 0% 2% 0%;" align="right">
+<p style="font-size: 13px; font-weight: bold; margin-bottom: 0;"><span style="display: inline-block; padding: 10px 0 0 15px;">FOLLOW US ON:</span></p>
+<div style="display: block; text-align: right; overflow: hidden; float: right;">&nbsp;</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size: 10px; line-height: 20px; border-top: 1px solid #dcdcdc; margin-top: 20px; color: #a7a7a7;">
+<p style="display: inline-block; text-align: left; width: 49%;">This is an auto generated email. Please donot reply.</p>
+<p style="display: inline-block; text-align: right; width: 49%;"><a style="color#a7a7a7; text-decoration: none;" href="#" target="_blank">&nbsp;</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</body>
+</html>
+
+

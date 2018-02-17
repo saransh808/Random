@@ -1,0 +1,56 @@
+Return-Path: <0100015bca1addf9-392b43ba-3d46-4f47-856a-36ddf62a817d-000000@amazonses.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id gW2hEUa7CFn8vQ8AwZeyeg
+	for <tushar@simplifytrips.com>; Tue, 02 May 2017 10:00:54 -0700
+Return-path: <0100015bca1addf9-392b43ba-3d46-4f47-856a-36ddf62a817d-000000@amazonses.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Tue, 02 May 2017 10:00:54 -0700
+Received: from a11-5.smtp-out.amazonses.com ([54.240.11.5]:55616)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1:ECDHE-RSA-AES128-SHA:128)
+	(Exim 4.88)
+	(envelope-from <0100015bca1addf9-392b43ba-3d46-4f47-856a-36ddf62a817d-000000@amazonses.com>)
+	id 1d5bAU-004KMD-04
+	for tushar@simplifytrips.com; Tue, 02 May 2017 10:00:54 -0700
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=224i4yxa5dv7c2xz3womw6peuasteono; d=amazonses.com; t=1493744410;
+	h=Date:To:From:Subject:Message-ID:MIME-Version:Content-Transfer-Encoding:Content-Type:Feedback-ID;
+	bh=DMykR6fr27c8RtAB4KKqB2pOPo47dS4BiSHZPrXCN0A=;
+	b=O8Ul6D1qQYgKQqfCQsrafkmKBxO3OYe5IPKIfW6sUtN1wuwOZWTimwFXQ6sJA+tA
+	ZvNn1QxwUFYKUpsAgE4z3fmHJvkdv+CNYwQIcTHxP81qwbXgJL0PDwjpKV6KCK9Tamf
+	mZ6oFvSQiVcpTBw+KnC3p+mi6kSu9oo0mfgZDd04=
+Date: Tue, 2 May 2017 17:00:10 +0000
+To: tushar@simplifytrips.com
+From: Letsintern <info@letsintern.com>
+Subject: Students are waiting to work for you. Shortlist the best ones today.
+Message-ID: <0100015bca1addf9-392b43ba-3d46-4f47-856a-36ddf62a817d-000000@email.amazonses.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.4 (https://github.com/Synchro/PHPMailer/)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset=iso-8859-1
+X-SES-Outgoing: 2017.05.02-54.240.11.5
+Feedback-ID: 1.us-east-1.S0THvJuq58KydR06Dj+5IwCdP3hCdXH6Uc7C8IjYJEs=:AmazonSES
+
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p dir="ltr">Dear Tushar Choudhary,</p>
+<p dir="ltr">After you posted your <a href='http://www.letsintern.com/internship/Online-Marketing-Execuitive/Simplifytrips.com/Online-Marketing/74438'>requirement posted</a> on Letsintern 7 days ago, &nbsp;you have  new applications awaiting your response.</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">Please&nbsp;<a href="http://www.letsintern.com/employer/login">login</a>&nbsp;to your account to check and manage all candidates.</p>
+<p dir="ltr">We have thousands of students logging in everyday looking for opportunities that interest them. They&rsquo;d be happy to hear back from you, even if it is a non-selection.&nbsp;</p>
+</li>
+</ul>
+<p dir="ltr">If your internship opportunity is not relevant anymore kindly close it. It will give to students the possibility of a clear and relevant search.</p>
+<p dir="ltr">If you have any queries regarding your posting or anything else you&rsquo;d like us to help you with, please write to&nbsp;<a href="mailto:marcos@letsintern.com">marcos@letsintern.com</a>.</p>
+<p dir="ltr">Best,</p>
+<p dir="ltr">Letsintern Team</p>
+<p dir="ltr">&nbsp;</p>
+</body>
+</html>
+
+

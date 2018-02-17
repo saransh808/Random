@@ -1,0 +1,284 @@
+Return-Path: <835ea6ad.sqT.tHx.O.pIUBHo+tushar=simplifytrips.com@bnc.mailjet.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id CYwgAOykCVkXyw4AwZeyeg
+	for <tushar@simplifytrips.com>; Wed, 03 May 2017 02:37:48 -0700
+Return-path: <835ea6ad.sqT.tHx.O.pIUBHo+tushar=simplifytrips.com@bnc.mailjet.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Wed, 03 May 2017 02:37:48 -0700
+Received: from o29.p4.mailjet.com ([178.33.221.29]:44385)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.88)
+	(envelope-from <835ea6ad.sqT.tHx.O.pIUBHo+tushar=simplifytrips.com@bnc.mailjet.com>)
+	id 1d5qjD-0044Le-Dx
+	for tushar@simplifytrips.com; Wed, 03 May 2017 02:37:47 -0700
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; q=dns/txt;
+	d=interndesk.com; i=noreply@interndesk.com; s=mailjet;
+	h=domainkey-signature:message-id:mime-version:content-type:from:reply-to:to:subject:date:x-priority:list-unsubscribe:x-csa-complaints:x-sender;
+	bh=YKe8344XpmzjcHW+gmUAXC6goj8=;
+	b=LyowY/pPFDw4Vfr/AJLWv4S1TA9XqoBS7T+ZPRZ3jTycAGIj0JniOwes1EC4zI3fAbzSo839KFUuuMlpnzMgootxvSs6OisAraZTSuZM7YWMkI8fpE7Vmvc8k3usmuA9+Rug8481E9Hx/no6J9nv6Wj4wgRxuZzRvorPOLzEsg0=
+Domainkey-Signature: a=rsa-sha1; c=simple; q=dns;
+	d=interndesk.com; s=mailjet;
+	h=message-id:mime-version:content-type:from:reply-to:to:subject:date:x-priority:list-unsubscribe:x-csa-complaints:x-sender;
+	b=Y+89K/hiU8HtviMjHWIeBFm74viqkghcRIe8IhEPV10JpUsnuwrJvLSo2J6qX5V7QFxzpIkQMe8oxtrpUHzvXNKNnoI2vV3H9E2uWbkq1OKYMBUsaRfziCj3fZ4VAyRbN0tQT0HCyVp/wx7+TbiN6+Gha3Kr2c0fMJ+zuMhRkKM=
+Message-Id: <835ea6ad.sqT.tHx.O.pIUBHo@mailjet.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_5909a4bd5bfbf"
+From: "InternDesk" <noreply@interndesk.com>
+Reply-To: "noreply@interndesk.com" <noreply@interndesk.com>
+To: tushar@simplifytrips.com
+Subject: Please verify your email address
+Date: Wed, 3 May 2017 09:37:01 +0000
+X-Priority: 3 (Normal)
+List-Unsubscribe: <mailto:unsub-835ea6ad.1mrr.x03rwnli@bnc.mailjet.com>
+X-CSA-Complaints: whitelist-complaints@eco.de
+X-Sender: noreply@interndesk.com
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5909a4bd5bfbf
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+Please verify your email address
+
+ 
+
+&nbsp;
+ 
+ 
+ 
+ 
+
+&nbsp;
+
+Hi ,
+Welcome to InternDesk! You signed up under the login
+tushar@simplifytrips.com.
+
+We&rsquo;re thrilled to have you chosen us to hire interns and freshers.
+
+Here&rsquo;s how to get started:
+
+1. Click this link to validate your email address:
+
+Validate Sign Up
+
+Or you can also copy and paste this link to your browser:
+
+http://www.interndesk.com/index.php/verify?r=TVRjek1qZ3lNRGN3TlE9PQ==
+
+2. Follow the profile setup wizard to create your company profile and start
+posting jobs.
+
+3. Invite Interns with matching skills and expertise, post jobs privately.
+
+4. Add your teammates to manage your company page.
+
+5. Start posting jobs. You can post jobs privately and send invitation to
+selected Interns to apply.
+
+6. Accept or reject the internship/fresher job applications and proposals
+online.
+
+Warm Wishes, 
+The InternDesk Team
+Disclaimer
+This email is sent to you by interndesk.com confirming recent activity on
+your account with us. In case you don't wish to receive email in future,
+please unsubscribe.
+This email was meant for . www.interndesk.com, India
+
+
+
+
+
+--B_ALT_5909a4bd5bfbf
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<p>Please verify your email address</p>
+<table style=3D"background-color: #f2f2f2; height: 52px;" border=3D"0" widt=
+h=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td align=3D"center"><center>
+<table style=3D"height: 100%;" border=3D"0" width=3D"600px" cellspacing=3D"=
+0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding-left: 20px;" align=3D"left" valign=3D"middle"><a href=
+=3D"index.html"> <img src=3D"http://lifeinurl.com/img/internship-io2.png" a=
+lt=3D"InternDesk logo" width=3D"150px" height=3D"14px" /> </a></td>
+<td style=3D"padding-right: 20px;" align=3D"right" valign=3D"middle">
+<table style=3D"height: 100%;" border=3D"0" width=3D"200px" cellspacing=3D"=
+0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td width=3D"30px">&nbsp;</td>
+<td><a href=3D"http://1mrr.mj.am/link/1mrr/x03rwnli/a1/9kXzLAUJUAsY7hYlz8OO=
+tg/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2ludGVybmRlc2s"> <img src=3D"http://lif=
+einurl.com/img/facebook-icon.png" alt=3D"social icon" width=3D"30px" height=
+=3D"30px" /> </a></td>
+<td style=3D"padding-left: 5px;"><a href=3D"http://1mrr.mj.am/link/1mrr/x03=
+rwnli/a2/Hxoauh4d3Dz7BGA95gKPvQ/aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlcm5kZXNr"> =
+<img src=3D"http://lifeinurl.com/img/twitter-icon.png" alt=3D"social icon" =
+width=3D"30px" height=3D"30px" /> </a></td>
+<td style=3D"padding-left: 5px;"><a href=3D"http://1mrr.mj.am/link/1mrr/x03=
+rwnli/a3/K4_mCE2mWUrj-ScWVbmx7Q/aHR0cHM6Ly9wbHVzLmdvb2dsZS5jb20vcy9pbnRlcm5=
+kZXNr"> <img src=3D"http://lifeinurl.com/img/google-icon.png" alt=3D"social=
+ icon" width=3D"30px" height=3D"30px" /> </a></td>
+<td style=3D"padding-left: 5px;"><a href=3D"http://1mrr.mj.am/link/1mrr/x03=
+rwnli/a4/2UoPSYjwi-n295ISKiaTNQ/aHR0cDovL3d3dy5saW5rZWRpbi5jb20vY29tcGFueS9=
+pbnRlcm5kZXNr"> <img src=3D"http://lifeinurl.com/img/linkedin-icon.png" alt=
+=3D"social icon" width=3D"30px" height=3D"30px" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</center></td>
+</tr>
+</tbody>
+</table>
+<table style=3D"border-bottom: 1px solid #e7e7e7;" border=3D"0" width=3D"10=
+0%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td><center>
+<table style=3D"height: 100%;" border=3D"0" width=3D"600px" cellspacing=3D"=
+0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td colspan=3D"2" height=3D"20px">&nbsp;</td>
+</tr>
+<tr>
+<td style=3D"padding-left: 20px; padding-bottom: 20px;" align=3D"left" vali=
+gn=3D"bottom">
+<div class=3D"textdark">Hi ,<br /><br /></div>
+<div class=3D"textdark">Welcome to InternDesk! You signed up under the logi=
+n tushar@simplifytrips.com.</div>
+</td>
+</tr>
+<tr>
+<td style=3D"padding-left: 20px; padding-bottom: 20px;" align=3D"left" vali=
+gn=3D"bottom">
+<div class=3D"textdark">We&rsquo;re thrilled to have you chosen us to hire =
+interns and freshers.</div>
+</td>
+</tr>
+<tr>
+<td style=3D"padding-left: 20px; padding-bottom: 20px;" align=3D"left" vali=
+gn=3D"bottom">
+<div class=3D"textdark"><strong>Here&rsquo;s how to get started:</strong></=
+div>
+</td>
+</tr>
+<tr>
+<td style=3D"padding-left: 20px; padding-bottom: 20px;" align=3D"left" vali=
+gn=3D"bottom">
+<div class=3D"textdark">1. Click this link to validate your email address:<=
+/div>
+</td>
+</tr>
+<tr>
+<td style=3D"padding-left: 20px; padding-bottom: 20px;" align=3D"left" vali=
+gn=3D"bottom">
+<div class=3D"textdark"><a href=3D"http://1mrr.mj.am/link/1mrr/x03rwnli/a5/=
+dWJbzMGFXLQ91pb0G6MR5g/aHR0cDovL3d3dy5pbnRlcm5kZXNrLmNvbS9pbmRleC5waHAvdmVy=
+aWZ5P3I9VFZSamVrMXFaM2xOUkdOM1RsRTlQUT09"><button class=3D"btn appblue" typ=
+e=3D"button">Validate Sign Up</button></a></div>
+</td>
+</tr>
+<tr>
+<td style=3D"padding-left: 20px; padding-bottom: 20px;" align=3D"left" vali=
+gn=3D"bottom">
+<div class=3D"textdark">Or you can also copy and paste this link to your br=
+owser:</div>
+</td>
+</tr>
+<tr>
+<td style=3D"padding-left: 20px; padding-bottom: 20px;" align=3D"left" vali=
+gn=3D"bottom">
+<div class=3D"textdark">http://www.interndesk.com/index.php/verify?r=3DTVRj=
+ek1qZ3lNRGN3TlE9PQ=3D=3D</div>
+</td>
+</tr>
+<tr>
+<td style=3D"padding-left: 20px; padding-bottom: 20px;" align=3D"left" vali=
+gn=3D"bottom">
+<div class=3D"textdark">2. Follow the profile setup wizard to create your c=
+ompany profile and start posting jobs.</div>
+</td>
+</tr>
+<tr>
+<td style=3D"padding-left: 20px; padding-bottom: 20px;" align=3D"left" vali=
+gn=3D"bottom">
+<div class=3D"textdark">3. Invite Interns with matching skills and expertis=
+e, post jobs privately.</div>
+</td>
+</tr>
+<tr>
+<td style=3D"padding-left: 20px; padding-bottom: 20px;" align=3D"left" vali=
+gn=3D"bottom">
+<div class=3D"textdark">4. Add your teammates to manage your company page=
+=2E</div>
+</td>
+</tr>
+<tr>
+<td style=3D"padding-left: 20px; padding-bottom: 20px;" align=3D"left" vali=
+gn=3D"bottom">
+<div class=3D"textdark">5. Start posting jobs. <br /> You can post jobs pri=
+vately and send invitation to selected Interns to apply.</div>
+</td>
+</tr>
+<tr>
+<td style=3D"padding-left: 20px; padding-bottom: 20px;" align=3D"left" vali=
+gn=3D"bottom">
+<div class=3D"textdark">6. Accept or reject the internship/fresher job appl=
+ications and proposals online.</div>
+</td>
+</tr>
+</tbody>
+</table>
+</center></td>
+</tr>
+</tbody>
+</table>
+<table style=3D"background-color: #f2f2f2;" border=3D"0" width=3D"100%" cel=
+lspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td align=3D"center"><center>
+<table style=3D"height: 100%;" border=3D"0" width=3D"600px" cellspacing=3D"=
+0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"textblack" style=3D"font-size: 12px; padding: 20px;" align=3D"=
+left" valign=3D"middle">Warm Wishes, <br />
+<p>The InternDesk Team</p>
+<p><em><strong>Disclaimer</strong></em></p>
+<p><em>This email is sent to you by interndesk.com confirming recent activi=
+ty on your account with us. In case you don't wish to receive email in futu=
+re, please unsubscribe.</em></p>
+<p><em>This email was meant for . <a href=3D"www.interndesk.com">www.intern=
+desk.com</a>, India</em></p>
+</td>
+</tr>
+</tbody>
+</table>
+</center></td>
+</tr>
+</tbody>
+</table>
+
+
+<br/><img src=3D"http://1mrr.mj.am/o/1mrr/62a04ad6/x03rwnlie.gif" height=3D=
+"1" width=3D"1" alt=3D"" border=3D"0" />
+
+
+--B_ALT_5909a4bd5bfbf--
+

@@ -1,0 +1,275 @@
+Return-Path: <naukrirecruiter@naukri.com>
+Delivered-To: hr@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id weLfJ109/lhVuQoAwZeyeg
+	for <hr@simplifytrips.com>; Mon, 24 Apr 2017 11:01:01 -0700
+Return-path: <naukrirecruiter@naukri.com>
+Envelope-to: hr@simplifytrips.com
+Delivery-date: Mon, 24 Apr 2017 11:01:01 -0700
+Received: from nmail194.naukri.com ([180.179.180.194]:37447)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <naukrirecruiter@naukri.com>)
+	id 1d2iIH-0032EU-FY
+	for hr@simplifytrips.com; Mon, 24 Apr 2017 11:01:01 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=naukri.com; s=2015;
+	t=1493056820; bh=nDr0wBAsjGD1bOTKj38PNLeFfw5A4qch6+RK4vDxESo=;
+	h=From:Subject:To:Date;
+	b=YP4EwOxR6FO88dUrJd34MQ9WlWnA/pG+Qk1b8jxNu8F4TIV/FKY/1fxQselL6FkGx
+	 iu7hGhFd37mhwTJa7EHKbMXp++Cb6K/xMK5GDBHnfBW74UNcrFiLqaizGS3O+s9E4P
+	 +5J2wKv5q+Yc0RVKQYKWD65VJwulZKMwwfxnZ+OA=
+Received: from [172.10.122.51] ([172.10.122.51:13062] helo=naukri.com)
+	by nplimla13.ieil.net (envelope-from <naukrirecruiter@naukri.com>)
+	(ecelerity 3.6.13.50539 r(Core:3.6.13.0)) with ESMTP
+	id AD/BF-18810-43D3EF85; Mon, 24 Apr 2017 23:30:20 +0530
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=naukri.com; s=2015;
+	t=1493056820; bh=nDr0wBAsjGD1bOTKj38PNLeFfw5A4qch6+RK4vDxESo=;
+	h=From:Subject:To:Date;
+	b=YP4EwOxR6FO88dUrJd34MQ9WlWnA/pG+Qk1b8jxNu8F4TIV/FKY/1fxQselL6FkGx
+	 iu7hGhFd37mhwTJa7EHKbMXp++Cb6K/xMK5GDBHnfBW74UNcrFiLqaizGS3O+s9E4P
+	 +5J2wKv5q+Yc0RVKQYKWD65VJwulZKMwwfxnZ+OA=
+Received: from [172.10.113.53] ([172.10.113.53:34974] helo=localhost)
+	by n5plimla01.ieil.net (envelope-from <naukrirecruiter@naukri.com>)
+	(ecelerity 3.6.13.50539 r(Core:3.6.13.0)) with ESMTP
+	id 27/30-18259-43D3EF85; Mon, 24 Apr 2017 23:30:20 +0530
+From: NaukriRecruiter <naukrirecruiter@naukri.com>
+Message-ID: <27.30.18259.43D3EF85@n5plimla01.ieil.net>
+Subject: Enrich your profile and complete your registration
+To: hr@simplifytrips.com
+Date: Mon, 24 Apr 2017 23:30:20 +0530
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+MIME-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://w=
+ww.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A<html xmlns=3D"http:=
+//www.w3.org/1999/xhtml">=0A    <head>=0A        <meta http-equiv=3D"Con=
+tent-Type" content=3D"text/html; charset=3Dutf-8" />=0A        <meta nam=
+e=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1, maxim=
+um-scale=3D1, user-scalable=3Dno;">=0A            <title></title>=0A   =
+         <style type=3D"text/css">=0A                body {=0A         =
+           margin-left: 0px;=0A                    margin-top: 0px;=0A =
+                   margin-right: 0px;=0A                    margin-botto=
+m: 0px;=0A                }=0A            </style>=0A    </head>=0A    <=
+body >        =0A        <table border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" align=3D"center" bgcolor=3D"#f1f1f1" style=3D"max-width:600px;"=
+>=0A            <tr>=0A                <td width=3D"16" style=3D"border-=
+top:8px solid #f8f8f8"><img src=3D"http://static.naukimg.com/s/1/10/i/nr=
+/spacer.gif" width=3D"10" height=3D"1" vspace=3D"0" hspace=3D"0" align=
+=3D"left" /></td>=0A                <td width=3D"568" valign=3D"top" sty=
+le=3D"border-top:8px solid #f8f8f8">=0A                    <table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"max-width:568px;">=
+=0A                        <tr>=0A                            <td colspa=
+n=3D"2" align=3D"center"><img src=3D"https://naukrirecruiter.naukri.com/=
+openRate/track?mid=3D13" width=3D"0" height=3D"0" /><a href=3D"http://na=
+ukrirecruiter.naukri.com/" title=3D"NaukriRecruiter" target=3D"_blank" s=
+tyle=3D"text-decoration:none;font-size:28px;font-family:Arial, Helvetica=
+, sans-serif;color:#106db7;"><img src=3D"http://static.naukimg.com/s/1/1=
+0/i/nr/logo.gif" alt=3D"naukrirecruiter" width=3D"258" height=3D"50" hsp=
+ace=3D"0" vspace=3D"0" border=3D"0" align=3D"right" style=3D"background-=
+color:#f8f8f8" /></a></td>=0A                        </tr>=0A          =
+              <tr>=0A                            <td width=3D"284" heigh=
+t=3D"24"></td>=0A                            <td width=3D"284"></td>=0A=
+                        </tr>=0A                        <tr>=0A        =
+                    <td colspan=3D"2" bgcolor=3D"#ffffff" valign=3D"top"=
+>=0A                                <table border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" align=3D"center" style=3D"max-width:568px;">=0A    =
+                                <tr>=0A                                =
+        <td width=3D"18"><img src=3D"http://static.naukimg.com/s/1/10/i/=
+nr/spacer.gif" width=3D"5" height=3D"1" vspace=3D"0" hspace=3D"0" align=
+=3D"left" /></td>=0A                                        <td width=3D=
+"532" valign=3D"top">=0A                                            <tab=
+le border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"max-width:5=
+32px;">=0A                                                <tr>=0A      =
+                                              <td width=3D"266" height=
+=3D"18"></td>=0A                                                    <td=
+ width=3D"266"></td>=0A                                                <=
+/tr>=0A                                                <tr>=0A         =
+                                           <td colspan=3D"2" style=3D"fo=
+nt-family:Arial, Helvetica, sans-serif; font-size:14px;color:#303030;">=
+=0A                                                        Dear hr@simpl=
+ifytrips.com,</td>=0A                                                </t=
+r>=0A                                                <tr>=0A           =
+                                         <td height=3D"18"></td>=0A    =
+                                                <td></td>=0A           =
+                                     </tr>=0A                          =
+                      <tr>=0A                                          =
+          <td colspan=3D"2" style=3D"font-family:Arial, Helvetica, sans-=
+serif; font-size:14px;color:#303030;">=0A                              =
+                          Your profile is <b>not</b> searchable by jobse=
+ekers. They cannot follow your job updates and apply to them.=0A       =
+                                                 Once you activate your=
+ account, you can use your public profile to highlight what you hire for=
+, get jobseekers to follow you, and post unlimited jobs for free! =0A  =
+                                                  </td>=0A             =
+                                   </tr>=0A=0A                         =
+                       <tr>=0A                                         =
+           <td height=3D"5"></td>=0A                                   =
+                 <td></td>=0A                                          =
+      </tr>=0A                                                <tr>=0A  =
+                                                  <td colspan=3D"2" vali=
+gn=3D"top">=0A                                                        <t=
+able border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" s=
+tyle=3D"max-width:532px;">=0A                                          =
+                  <tr>=0A                                              =
+                  <td width=3D"10"><img src=3D"http://static.naukimg.com=
+/s/1/10/i/nr/spacer.gif" width=3D"5" height=3D"1" vspace=3D"0" hspace=3D=
+"0" align=3D"left" /></td>=0A                                          =
+                      <td width=3D"512" height=3D"15"></td>=0A         =
+                                                       <td width=3D"10">=
+<img src=3D"http://static.naukimg.com/s/1/10/i/nr/spacer.gif" width=3D"5=
+" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"right" /></td>=0A    =
+                                                        </tr>=0A       =
+                                                     <tr>=0A           =
+                                                     <td height=3D"15"><=
+/td>=0A                                                                <=
+td></td>=0A                                                            =
+    <td></td>=0A                                                       =
+     </tr>=0A                                                          =
+  <tr>=0A                                                              =
+  <td colspan=3D"2">=0A                                                =
+                    <table border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" align=3D"left" style=3D"max-width:230px;">=0A                      =
+                                                  <tr>=0A              =
+                                                              <td width=
+=3D"9"><img src=3D"http://static.naukimg.com/s/1/10/i/nr/link_bg_left.gi=
+f" width=3D"9" height=3D"47" vspace=3D"0" hspace=3D"0" align=3D"left" />=
+</td>=0A                                                               =
+             <td width=3D"212" background=3D"http://static.naukimg.com/s=
+/1/10/i/nr/link_bg_right.gif" align=3D"center" bgcolor=3D"#1c8de3">=0A=
+=0A                                                                    =
+            <a href=3D"https://naukrirecruiter.naukri.com/signup/activat=
+eAccount?activationLink=3D98613C9A-9636-13F9-A8CA3153588-E1619" title=3D=
+"Activate My Account " target=3D"_blank" style=3D"font-family:Arial, Hel=
+vetica, sans-serif;font-size:19px;color:#ffffff;text-decoration:none;dis=
+play:block;line-height:40px;"><strong>Activate My Account</strong></a></=
+td>=0A=0A                                                              =
+              <td width=3D"9"><img src=3D"http://static.naukimg.com/s/1/=
+10/i/nr/link_bg_.gif" width=3D"9" height=3D"47" vspace=3D"0" hspace=3D"0=
+" align=3D"left" /></td>=0A                                            =
+                            </tr>=0A                                   =
+                                 </table>=0A                           =
+                                     </td>=0A                          =
+                                      <td></td>=0A                     =
+                                       </tr>=0A                        =
+                                    <tr>=0A                            =
+                                    <td></td>=0A                       =
+                                         <td height=3D"10"></td>=0A    =
+                                                            <td></td>=0A=
+                                                            </tr>=0A   =
+                                                     </table>=0A=0A    =
+                                                </td>=0A               =
+                                 </tr>=0A                              =
+                  <tr>=0A                                              =
+      <td height=3D"25"></td>=0A                                       =
+             <td></td>=0A                                              =
+  </tr>=0A                                                <tr>=0A      =
+                                              <td height=3D"21" style=3D=
+"font-family:Arial, Helvetica, sans-serif;font-size:14px;color:#303030;"=
+>Regards, </td>=0A                                                    <t=
+d></td>=0A                                                </tr>=0A     =
+                                           <tr>=0A                     =
+                               <td style=3D"font-family:Arial, Helvetica=
+, sans-serif;font-size:14px;color:#303030"><font color=3D"#25abe0">Naukr=
+i</font><font color=3D"#3784c3">Recruiter</font> Team</td>=0A          =
+                                          <td></td>=0A                 =
+                               </tr>=0A                                =
+                <tr>=0A                                                =
+    <td height=3D"25"></td>=0A                                         =
+           <td></td>=0A                                                <=
+/tr>=0A                                            </table>=0A=0A      =
+                                  </td>=0A                             =
+           <td width=3D"18"><img src=3D"http://static.naukimg.com/s/1/10=
+/i/nr/spacer.gif" width=3D"5" height=3D"1" vspace=3D"0" hspace=3D"0" ali=
+gn=3D"right" /></td>=0A                                    </tr>=0A    =
+                            </table>=0A=0A                            </=
+td>=0A                        </tr>=0A                        <tr>=0A  =
+                          <td height=3D"15"></td>=0A                   =
+         <td></td>=0A                        </tr>=0A                  =
+      <tr>=0A                            <td style=3D"font-family:Arial,=
+ Helvetica, sans-serif;font-size:13px;color:#565656;"><strong>You can re=
+ach us at:</strong></td>=0A                            <td></td>=0A    =
+                    </tr>=0A                        <tr>=0A            =
+                <td height=3D"11"></td>=0A                            <t=
+d></td>=0A                        </tr>=0A                        <tr>=
+=0A                            <td colspan=3D"2">=0A                   =
+             <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" ali=
+gn=3D"left" style=3D"font-family:Arial,Helvetica,sans-serif; font-size:1=
+2px; max-width:568px; min-width:300px; width:100%">=0A                 =
+                   <tbody>=0A                                        <tr=
+>=0A                                            <td height=3D"3"></td>=
+=0A                                        </tr>=0A                    =
+                    <tr>=0A                                            <=
+td>=0A                                                <table width=3D"12=
+7" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"left" style=
+=3D"font-family:Arial,Helvetica,sans-serif; font-size:12px">=0A        =
+                                            <tbody>=0A                 =
+                                       <tr>=0A                         =
+                                   <td width=3D"19"><img src=3D"http://s=
+tatic.naukimg.com/s/1/10/i/nr/footer_icon_1.gif" vspace=3D"0" hspace=3D"=
+5" align=3D"left" border=3D"0" width=3D"8" height=3D"8"></td>=0A       =
+                                                     <td width=3D"92" st=
+yle=3D"color:#818181">1800 102 5558 <br>0120-4960600</td>=0A           =
+                                                 <td width=3D"10" style=
+=3D"border-right:1px #cdcdcd solid"></td>=0A                           =
+                                 <td width=3D"11"></td>=0A             =
+                                           </tr>=0A                    =
+                                </tbody>=0A                            =
+                    </table>=0A                                        =
+        <table width=3D"160" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"left" style=3D"font-family:Arial,Helvetica,sans-serif; f=
+ont-size:12px">=0A                                                    <t=
+body>=0A                                                        <tr>=0A=
+                                                            <td width=3D=
+"18"><img src=3D"http://static.naukimg.com/s/1/10/i/nr/footer_icon_2.gif=
+" vspace=3D"0" hspace=3D"5" align=3D"left" border=3D"0" width=3D"14" hei=
+ght=3D"7"></td>=0A                                                     =
+       <td width=3D"128"><span style=3D"display:none;visibility:hidden">=
+&nbsp;</span><a href=3D'mailto:support@naukri.com' title=3D'support@nauk=
+ri.com' style=3D"text-decoration:none; color:#0e7dcb"><span>support@nauk=
+ri.com</span></a></td>=0A                                              =
+              <td width=3D"10" style=3D"border-right:1px #cdcdcd solid">=
+</td>=0A                                                            <td=
+ width=3D"11"></td>=0A                                                 =
+       </tr>=0A                                                    </tbo=
+dy>=0A                                                </table>=0A      =
+                                          <table width=3D"125" border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"left" style=3D"font-fam=
+ily:Arial,Helvetica,sans-serif; font-size:12px">=0A                    =
+                                <tbody>=0A                             =
+                           <tr>=0A                                     =
+                       <td width=3D"22"><img src=3D"http://static.naukim=
+g.com/s/1/10/i/nr/footer_icon_3.gif" vspace=3D"0" hspace=3D"5" align=3D"=
+left" border=3D"0" width=3D"12" height=3D"11"></td>=0A                 =
+                                           <td width=3D"123"><a href=3D"=
+http://www.naukri.com/mynaukri/mn_contactus.php" title=3D"Our Branches"=
+ style=3D"text-decoration:none; color:#0e7dcb">Our Branches</a></td>=0A=
+                                                        </tr>=0A       =
+                                             </tbody>=0A               =
+                                 </table>=0A                           =
+                     <table width=3D"127" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0" align=3D"right" style=3D"font-family:Arial,Helvetica,=
+sans-serif; font-size:12px">=0A                                        =
+            <tbody>=0A                                                 =
+       <tr>=0A                                                         =
+   <td width=3D"24"><img src=3D"http://static.naukimg.com/s/1/10/i/nr/fo=
+oter_icon_4.gif" vspace=3D"0" hspace=3D"5" align=3D"left" border=3D"0" w=
+idth=3D"9" height=3D"10"></td>=0A                                      =
+                      <td width=3D"103"><a href=3D"http://w5.naukri.com/=
+fdbck/main/feedback.php?app_id=3D18" title=3D"Report a problem" style=3D=
+"text-decoration:none; color:#0e7dcb">Report a problem</a></td>=0A     =
+                                                   </tr>=0A            =
+                                        </tbody>=0A                    =
+                            </table>=0A                                =
+            </td>=0A                                        </tr>=0A   =
+                                 </tbody>=0A                           =
+     </table>=0A                            </td>=0A                   =
+     </tr>=0A                        <tr>=0A                           =
+ <td height=3D"30"></td>=0A                            <td></td>=0A    =
+                    </tr>=0A                    </table>=0A=0A         =
+       </td>=0A                <td width=3D"16" style=3D"border-top:8px=
+ solid #f8f8f8"><img src=3D"http://static.naukimg.com/s/1/10/i/nr/spacer=
+.gif" width=3D"10" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"right=
+" /></td>=0A            </tr>=0A        </table>=0A=0A    </body>=0A</ht=
+ml>=0A

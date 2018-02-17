@@ -1,0 +1,73 @@
+Return-Path: <divyasehdev@gmail.com>
+Delivered-To: info@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id GeUbN5qq5FhY0QwAwZeyeg
+	for <info@simplifytrips.com>; Wed, 05 Apr 2017 01:28:10 -0700
+Return-path: <divyasehdev@gmail.com>
+Envelope-to: info@simplifytrips.com
+Delivery-date: Wed, 05 Apr 2017 01:28:10 -0700
+Received: from mail-wm0-f52.google.com ([74.125.82.52]:37764)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <divyasehdev@gmail.com>)
+	id 1cvgIU-003ZT9-Ip
+	for info@simplifytrips.com; Wed, 05 Apr 2017 01:28:10 -0700
+Received: by mail-wm0-f52.google.com with SMTP id x124so7060526wmf.0
+        for <info@simplifytrips.com>; Wed, 05 Apr 2017 01:27:50 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=message-id:reply-to:from:to:date:subject:mime-version;
+        bh=nLrAMhgvyUvwi+HVwtjXGXeuEx4eT5p/h6qgTiyBJvk=;
+        b=Jmwyzni17RjDPOxbMuc+zUNJDXCiggEfHllGYNKcc5oyNSE49m70UU96To3Q7BjQLv
+         xknYFBvhcxInqeSMUbXN2ICj/fmeUlWCbOHvwZPtOxyAFxGeVh0AhT4Ke0ZvqYHUGMhi
+         zlsFI38oPD+rCBa/ZTbHYn/gmWPxTogv5fMpqjoNhVyuxHndLwPsxIahVPcR1mKmK6+l
+         DK+VHhfvw2LLhYqOa3FLg4CHmWidV/Fbay/tSDkOGO3hu85lINWBlVoBLGsWSKQNCDPl
+         l60Gtefv/b6b2rq8b6gpq2/Dk8LBeXAlQ3eUludpNz+CLF9/FkeVOt0DGoMMS9hJtSIY
+         zPvQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:message-id:reply-to:from:to:date:subject
+         :mime-version;
+        bh=nLrAMhgvyUvwi+HVwtjXGXeuEx4eT5p/h6qgTiyBJvk=;
+        b=mZUdkc6N/iEjxFJZvsM5v9WYWlM8A1I3en717PTTdXmJY1vEt83rE0WfXssf4A7Q+r
+         3t4Z2CJVtHd0uZZenOYH2oNuJ2Ipkf+fZaxSwr5ILcuiFpg1PqNCFxRL/lCmtt6J+hBK
+         A+fGHQaoC823BXj7wVEPlRIt0Uvx1XWWn29LQesHOVG1ZpKlhpayPqFNSxg1GSnZLR7i
+         M1fIAPxeN6SCVeXwnPpi490catbRwjxf/apLcSHgFSWBYoqnR9rmoXkunLsB8gj3Zo8V
+         6p16tj/LJLJwKbt6mJYYev1nE1q78C+ClDUM5bx8UaNRO7GCFsn4xk/sQxyDNh7ukwWl
+         b94A==
+X-Gm-Message-State: AFeK/H1hKuYBh+drG6vqmxnM2YupsorgnI90rwSMOZACP7fptW1xDcQv
+	LdHKCqmKiIXfgaNk
+X-Received: by 10.28.232.202 with SMTP id f71mr4515920wmi.24.1491380847595;
+        Wed, 05 Apr 2017 01:27:27 -0700 (PDT)
+Received: from 172.18.194.194 (bda-178-239-83-96.bis7.eu.blackberry.com. [178.239.83.96])
+        by smtp.gmail.com with ESMTPSA id e21sm17509347wma.5.2017.04.05.01.27.26
+        for <info@simplifytrips.com>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Wed, 05 Apr 2017 01:27:27 -0700 (PDT)
+Message-ID:<1100104380-1491380846-cardhu_decombobulator_blackberry.rim.net-1364612588-@b1.c1.bise7.blackberry>
+Reply-To: divyasehdev@gmail.com
+X-Priority: Normal
+From: divyasehdev@gmail.com
+To: info@simplifytrips.com
+Date: Wed, 5 Apr 2017 08:27:30 +0000
+Subject: Delivered: Destination Insights for Summer 2017
+Content-Type: multipart/report; boundary="part4819-boundary-1248958862-850213663"
+MIME-Version: 1.0
+
+
+--part4819-boundary-1248958862-850213663
+Content-Transfer-Encoding: base64
+Content-Type: text/plain; charset="Windows-1252"
+
+WW91ciBtZXNzYWdlIHdhcyBkZWxpdmVyZWQgdG8gdGhlIHJlY2lwaWVudC4NClNlbnQgZnJvbSBC
+bGFja0JlcnJ5riBvbiBBaXJ0ZWw=
+
+--part4819-boundary-1248958862-850213663
+Content-Type: message/delivery-status
+
+Original-Message-ID:2147485255
+Final-Recipient:divyasehdev@gmail.com
+Action:Delivered
+
+--part4819-boundary-1248958862-850213663--
+

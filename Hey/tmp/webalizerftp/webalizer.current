@@ -1,0 +1,402 @@
+# Webalizer V2.23-05 Incremental Data - 04/30/2017 03:10:20
+2017 4 30 3 10 20
+280 280 1 140 0 0 1545605 14 2 1
+1 140 141 30 30
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+280 280 1545605 1 14 2
+0 0 0 0 0 0
+140 140 782579 7
+0 0 0 0
+0 0 0 0
+140 140 763026 7
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+280
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home/tusharchoudhary/public_html/application/models/User_model.php
+0 2 0 11255 0 0
+/home/tusharchoudhary/public_html/application/views/agent/international_trip.php
+0 2 7887043606331616354 8035 0 0
+/home/tusharchoudhary/public_html/application/views/main/login.php
+0 2 7887043606331616354 10019 0 0
+/home/tusharchoudhary/public_html/application/views/
+0 2 0 273 1 0
+/home/tusharchoudhary/public_html/application/views/errors/html/error_php.php
+0 2 0 1702 0 0
+/home/tusharchoudhary/public_html/application/controllers/Agent.php
+0 2 0 56462 0 0
+/home/tusharchoudhary/public_html/application/models/
+0 2 0 273 0 0
+/home/tusharchoudhary/public_html/application/views/hauth/home.php
+0 2 7887043606331616354 13637 0 0
+/home/tusharchoudhary/public_html/application/controllers/Search.php
+0 2 0 3853 0 0
+/home/tusharchoudhary/public_html/application/views/errors/html/error_404.php
+0 2 0 2437 0 0
+/home/tusharchoudhary/public_html/application/views/admin/managecategory.php
+0 2 7887043606331616354 6144 0 0
+/home/tusharchoudhary/public_html/application/views/main/headerwithoutlogin.php
+0 2 0 4031 0 0
+/home/tusharchoudhary/public_html/application/views/errors/html/error_general.php
+0 2 0 2411 0 0
+/home/tusharchoudhary/public_html/application/views/agent/addtrip.php
+0 2 0 15856 0 0
+/home/tusharchoudhary/public_html/application/views/admin/editBudgettrip.php
+0 2 0 14382 0 0
+/home/tusharchoudhary/public_html/application/views/admin/editpackage.php
+0 2 0 20034 0 0
+/home/tusharchoudhary/public_html/application/views/agent/profile.php
+0 2 7887043606331616354 29248 0 0
+/home/tusharchoudhary/public_html/application/views/admin/managecountry.php
+0 2 7887043606331616354 6136 0 0
+/home/tusharchoudhary/public_html/application/views/main/terms.php
+0 2 0 29393 0 0
+/home/tusharchoudhary/public_html/application/models/Agent_model.php
+0 2 0 6244 0 0
+/home/tusharchoudhary/public_html/application/views/main/testimonial.php
+0 2 0 8282 0 0
+/home/tusharchoudhary/public_html/application/views/admin/manageAdventure.php
+0 2 7887043606331616354 6320 0 0
+/home/tusharchoudhary/public_html/application/views/admin/addHistorical.php
+0 2 7887043606331616354 12239 0 0
+/home/tusharchoudhary/public_html/application/views/admin/addsomething_-_Copy_(2).php
+0 2 7887043606331616354 16876 0 0
+/home/tusharchoudhary/public_html/application/views/admin/managetrip_int.php
+0 2 7887043606331616354 7860 0 0
+/home/tusharchoudhary/public_html/application/views/main/customize.php
+0 2 0 11947 0 0
+/home/tusharchoudhary/public_html/application/views/admin/managequizlevel.php
+0 2 0 6349 0 0
+/home/tusharchoudhary/public_html/application/views/admin/editlocation.php
+0 2 0 6825 0 0
+/home/tusharchoudhary/public_html/application/views/agent/forgot-your-password.php
+0 2 0 6031 0 0
+/home/tusharchoudhary/public_html/application/views/admin/manageReview.php
+0 2 7887043606331616354 6650 0 0
+/home/tusharchoudhary/public_html/application/views/main/about.php
+0 2 0 4537 0 0
+/home/tusharchoudhary/public_html/application/views/admin/editwravellers_specific.php
+0 2 7887043606331616354 14398 0 0
+/home/tusharchoudhary/public_html/application/controllers/CommingSoon.php
+0 2 0 381 0 0
+/home/tusharchoudhary/public_html/application/views/admin/managetrip.php
+0 2 0 7948 0 0
+/home/tusharchoudhary/public_html/application/models/Admin_model.php
+0 2 0 88298 0 0
+/home/tusharchoudhary/public_html/application/views/admin/addpackage.php
+0 2 7887043606331616354 16527 0 0
+/home/tusharchoudhary/public_html/application/views/admin/manageHistorical.php
+0 2 7887043606331616354 6324 0 0
+/home/tusharchoudhary/public_html/application/views/main/login-client.php
+0 2 0 8328 0 0
+/home/tusharchoudhary/public_html/application/views/agent/edit_international_trip.php
+0 2 0 20074 0 0
+/home/tusharchoudhary/public_html/application/views/main/privacy.php
+0 2 0 11299 0 0
+/home/tusharchoudhary/public_html/application/views/admin/addcountry.php
+0 2 0 4847 0 0
+/home/tusharchoudhary/public_html/application/views/admin/editHistorical.php
+0 2 7887043606331616354 14382 0 0
+/home/tusharchoudhary/public_html/application/views/admin/managelocation.php
+0 2 7887043606331616354 6470 0 0
+/home/tusharchoudhary/public_html/application/views/welcome_message.php
+0 2 0 4190 0 0
+/home/tusharchoudhary/public_html/application/views/admin/addLocations_-_Copy.php
+0 2 0 16876 0 0
+/home/tusharchoudhary/public_html/application/views/admin/addstate.php
+0 2 0 5702 0 0
+/home/tusharchoudhary/public_html/application/views/main/footer.php
+0 2 7887043606331616354 10862 0 0
+/home/tusharchoudhary/public_html/application/views/errors/html/
+0 2 7887043606331616354 273 0 0
+/home/tusharchoudhary/public_html/application/controllers/
+0 2 5 273 1 0
+/home/tusharchoudhary/public_html/application/views/agent/login.php
+0 2 0 8607 0 0
+/home/tusharchoudhary/public_html/application/views/admin/addFamily.php
+0 2 0 12233 0 0
+/home/tusharchoudhary/public_html/application/controllers/Account.php
+0 2 7887043606331616354 13722 0 0
+/home/tusharchoudhary/public_html/application/views/admin/addlocation.php
+0 2 0 7710 0 0
+/home/tusharchoudhary/public_html/application/views/main/meet-agents.php
+0 2 0 12542 0 0
+/home/tusharchoudhary/public_html/application/controllers/Hauth.php
+0 2 0 5072 0 0
+/home/tusharchoudhary/public_html/application/views/admin/addAttractions.php
+0 2 0 11362 0 0
+/home/tusharchoudhary/public_html/application/views/errors/cli/error_404.php
+0 2 0 263 0 0
+/home/tusharchoudhary/public_html/application/views/admin/addsomething.php
+0 2 0 16876 0 0
+/home/tusharchoudhary/public_html/application/views/admin/managegalleryitem.php
+0 2 0 6709 0 0
+/home/tusharchoudhary/public_html/application/views/main/user-panel.html
+0 2 7887043606331616354 35765 0 0
+/home/tusharchoudhary/public_html/application/views/errors/cli/error_db.php
+0 2 0 281 0 0
+/home/tusharchoudhary/public_html/application/views/errors/cli/error_php.php
+0 2 0 1401 0 0
+/home/tusharchoudhary/public_html/application/views/admin/editcountry.php
+0 2 0 4985 0 0
+/home/tusharchoudhary/public_html/application/views/main/change_password.php
+0 2 0 16713 0 0
+/home/tusharchoudhary/public_html/application/views/admin/addgalleryitem.php
+0 2 0 12317 0 0
+/home/tusharchoudhary/public_html/application/controllers/Ajax.php
+0 2 0 3489 0 0
+/home/tusharchoudhary/public_html/application/views/admin/editFamily.php
+0 2 7887043606331616354 14366 0 0
+/home/tusharchoudhary/public_html/application/views/admin/addBudgettrip.php
+0 2 7887043606331616354 12241 0 0
+/home/tusharchoudhary/public_html/application/views/admin/manageBudgettrip.php
+0 2 0 6324 0 0
+/home/tusharchoudhary/public_html/application/views/main/compare.php
+0 2 0 10108 0 0
+/home/tusharchoudhary/public_html/application/views/main/
+0 2 7887043606331616354 26614 0 1
+/home/tusharchoudhary/public_html/application/views/admin/manageWeekend.php
+0 2 0 6312 0 0
+/home/tusharchoudhary/public_html/application/controllers/Welcome.php
+0 2 0 1383 0 0
+/home/tusharchoudhary/public_html/application/views/main/profile.php
+0 2 0 21136 0 0
+/home/tusharchoudhary/public_html/application/views/main/signup-client.php
+0 2 0 11182 0 0
+/home/tusharchoudhary/public_html/application/views/admin/managecity.php
+0 2 0 10389 0 0
+/home/tusharchoudhary/public_html/application/views/admin/managesomething.php
+0 2 7887043606331616354 7054 0 0
+/home/tusharchoudhary/public_html/application/views/agent/edit_domestic_trip.php
+0 2 7887043606331616354 19631 0 0
+/home/tusharchoudhary/public_html/application/views/admin/addLocations.php
+0 2 0 16876 0 0
+/home/tusharchoudhary/public_html/application/views/admin/managelocality.php
+0 2 0 10580 0 0
+/home/tusharchoudhary/public_html/application/views/agent/domestic_trip.php
+0 2 0 8589 0 0
+/home/tusharchoudhary/public_html/application/views/agent/change_password.php
+0 2 0 16713 0 0
+/home/tusharchoudhary/public_html/application/views/agent/headerwithoutlogin.php
+0 2 0 4195 0 0
+/home/tusharchoudhary/public_html/application/views/admin/editgalleryitem.php
+0 2 0 14662 0 0
+/home/tusharchoudhary/public_html/application/views/main/signup.php
+0 2 0 11196 0 0
+/home/tusharchoudhary/public_html/application/views/main/header-home.php
+0 2 0 6784 0 0
+/home/tusharchoudhary/public_html/application/views/admin/addAdventure.php
+0 2 0 12220 0 0
+/home/tusharchoudhary/public_html/application/views/admin/managestate.php
+0 2 0 6290 0 0
+/home/tusharchoudhary/public_html/application/controllers/Home.php
+0 2 7887043606331616354 10702 0 0
+/home/tusharchoudhary/public_html/application/models/Front_model.php
+0 2 7887043606331616354 26531 0 0
+/home/tusharchoudhary/public_html/application/views/errors/html/error_db.php
+0 2 7887043606331616354 2429 0 0
+/home/tusharchoudhary/public_html/application/views/admin/manageagent.php
+0 2 0 6860 0 0
+/home/tusharchoudhary/public_html/application/views/admin/addcategory.php
+0 2 7887043606331616354 4859 0 0
+/home/tusharchoudhary/public_html/application/views/admin/addquizlevel.php
+0 2 7887043606331616354 6867 0 0
+/home/tusharchoudhary/public_html/application/views/admin/admin_site_header.php
+0 2 0 8237 0 0
+/home/tusharchoudhary/public_html/application/views/agent/addtrip_int.php
+0 2 0 17280 0 0
+/home/tusharchoudhary/public_html/application/views/admin/editLocations.php
+0 2 0 19917 0 0
+/home/tusharchoudhary/public_html/application/views/admin/managesomething_-_Copy.php
+0 2 0 7054 0 0
+/home/tusharchoudhary/public_html/application/views/main/contact.php
+0 2 7887043606331616354 8438 0 0
+/home/tusharchoudhary/public_html/application/views/main/forgot-your-password.php
+0 2 0 7543 0 0
+/home/tusharchoudhary/public_html/application/views/main/header.php
+0 2 0 6810 0 0
+/home/tusharchoudhary/public_html/application/views/errors/cli/
+0 2 0 273 0 0
+/home/tusharchoudhary/public_html/application/views/main/listing.php
+0 2 0 27443 0 0
+/home/tusharchoudhary/public_html/application/views/errors/cli/error_general.php
+0 2 0 263 0 0
+/home/tusharchoudhary/public_html/application/views/admin/addquizquestions.php
+0 2 0 10430 0 0
+/home/tusharchoudhary/public_html/application/views/commingsoon.php
+0 2 0 5778 0 0
+/home/tusharchoudhary/public_html/application/views/admin/editstate.php
+0 2 0 5872 0 0
+/home/tusharchoudhary/public_html/application/views/errors/
+0 2 0 273 0 0
+/home/tusharchoudhary/public_html/application/views/agent/header.php
+0 2 0 6027 0 0
+/home/tusharchoudhary/public_html/application/views/admin/addwravellers_specific.php
+0 2 0 12242 0 0
+/home/tusharchoudhary/public_html/application/views/hauth/status.php
+0 2 0 210 0 0
+/home/tusharchoudhary/public_html/application/controllers/Trip.php
+0 2 0 13051 0 0
+/home/tusharchoudhary/public_html/application/views/admin/dashbord.php
+0 2 0 1576 0 0
+/home/tusharchoudhary/public_html/application/views/admin/manageFamily.php
+0 2 0 6308 0 0
+/home/tusharchoudhary/public_html/application/views/admin/managewravellers_specific.php
+0 2 7887043606331616354 6360 0 0
+/home/tusharchoudhary/public_html/application/views/admin/managesomething_-_Copy_(2).php
+0 2 7887043606331616354 7054 0 0
+/home/tusharchoudhary/public_html/application/views/admin/managequizquestions.php
+0 2 0 7066 0 0
+/home/tusharchoudhary/public_html/application/views/hauth/done.php
+0 2 0 73 0 0
+/home/tusharchoudhary/public_html/application/views/admin/manageuser.php
+0 2 0 6555 0 0
+/home/tusharchoudhary/public_html/application/views/admin/managegallerycat.php
+0 2 0 6160 0 0
+/home/tusharchoudhary/public_html/application/views/admin/managepackage.php
+0 2 0 6685 0 0
+/home/tusharchoudhary/public_html/application/views/main/listing.php1
+0 2 0 26992 0 0
+/home/tusharchoudhary/public_html/application/views/admin/admin_site_footer.php
+0 2 0 7690 0 0
+/home/tusharchoudhary/public_html/application/views/admin/editgallerycat.php
+0 2 0 5051 0 0
+/home/tusharchoudhary/public_html/application/views/admin/addgallerycat.php
+0 2 7887043606331616354 4919 0 0
+/home/tusharchoudhary/public_html/application/views/errors/html/error_exception.php
+0 2 0 1805 0 0
+/home/tusharchoudhary/public_html/application/views/errors/cli/error_exception.php
+0 2 0 1511 0 0
+/home/tusharchoudhary/public_html/application/views/agent/signup.php
+0 2 7887043606331616354 9265 0 0
+/home/tusharchoudhary/public_html/application/views/main/tour-listing.html
+0 2 0 80129 0 0
+/home/tusharchoudhary/public_html/application/views/admin/addsomething_-_Copy.php
+0 2 0 16876 0 0
+/home/tusharchoudhary/public_html/application/views/agent/footer.php
+0 2 0 10287 0 0
+/home/tusharchoudhary/public_html/application/views/admin/addWeekend.php
+0 2 0 12215 0 0
+/home/tusharchoudhary/public_html/application/views/admin/admin_site_sidebar.php
+0 2 0 9909 0 0
+/home/tusharchoudhary/public_html/application/views/admin/manageLocations.php
+0 2 0 7054 0 0
+/home/tusharchoudhary/public_html/application/controllers/Admin.php
+0 2 0 35765 0 0
+/home/tusharchoudhary/public_html/application/views/admin/editAdventure.php
+0 2 0 14395 0 0
+/home/tusharchoudhary/public_html/application/views/admin/editcategory.php
+0 2 7887043606331616354 4999 0 0
+/home/tusharchoudhary/public_html/application/views/admin/editWeekend.php
+0 2 0 14353 0 0
+/home/tusharchoudhary/public_html/application/views/admin/editReview.php
+0 2 7887043606331616354 7716 0 0
+/home/tusharchoudhary/public_html/application/views/admin/login_view.php
+0 2 0 13363 0 0
+# End Of Table - urls
+# -sites- (monthly)
+103.225.59.105
+0 280 280 1545605 2 1493521820
+/home/tusharchoudhary/public_html/application/models/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+103.225.59.105
+0 280 280 1545605 2 1493521820
+/home/tusharchoudhary/public_html/application/models/
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+simplifytrip@simplifytrips.com
+0 280 280 1545605 2 1493521820
+# End Of Table - usernames

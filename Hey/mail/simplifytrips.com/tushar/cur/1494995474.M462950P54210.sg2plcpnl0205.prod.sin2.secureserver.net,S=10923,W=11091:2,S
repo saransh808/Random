@@ -1,0 +1,168 @@
+Return-Path: <bounce-md_30940213.591bd1e0.v1-31dbf52ca17f402886d45aa81259f6b5@mandrillapp.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id WSWAGxLSG1nC0wAAwZeyeg
+	for <tushar@simplifytrips.com>; Tue, 16 May 2017 21:31:14 -0700
+Return-path: <bounce-md_30940213.591bd1e0.v1-31dbf52ca17f402886d45aa81259f6b5@mandrillapp.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Tue, 16 May 2017 21:31:14 -0700
+Received: from mail179-21.suw41.mandrillapp.com ([198.2.179.21]:12381)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <bounce-md_30940213.591bd1e0.v1-31dbf52ca17f402886d45aa81259f6b5@mandrillapp.com>)
+	id 1dAqcE-000Esd-3s
+	for tushar@simplifytrips.com; Tue, 16 May 2017 21:31:14 -0700
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=setmore.com;
+ h=From:Subject:Reply-To:To:Message-Id:Date:MIME-Version:Content-Type; i=no-reply@setmore.com;
+ bh=GC6P32E1N1GZtUW9qqN5mFQhpK4=;
+ b=h2VH5KYsy3p+A3VDWZnygpv8ij4CEjPDIQsDXe6Wm42KV9tOUk0PhlklyV2KQiCYxzcwGtUkhyH1
+   kCQT8L1M8mxy9gqNfNjLD4JJ/B+ZWBWbqqUJcEk0OmOOSrnnaUnzfCjnlYN7kCAhlEXsjUec3vtU
+   9MgTPP4g/22RBaJZOAk=
+Received: from pmta04.mandrill.prod.suw01.rsglab.com (127.0.0.1) by mail179-21.suw41.mandrillapp.com id h3f91422s287 for <tushar@simplifytrips.com>; Wed, 17 May 2017 04:30:31 +0000 (envelope-from <bounce-md_30940213.591bd1e0.v1-31dbf52ca17f402886d45aa81259f6b5@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1494995424; h=From : 
+ Subject : Reply-To : To : Message-Id : Date : MIME-Version : 
+ Content-Type : From : Subject : Date : X-Mandrill-User : 
+ List-Unsubscribe; bh=L1gC/O5FkY7RwHoZMwijVY0mIOowICroIv5WubY4fHE=; 
+ b=cGC17C5O8310V/iJLYwBsUwMpbREgq1yEYUUTxOmH0U9MNin157XRbXafHI+u4Y14mu5In
+ 5ggxIEpgURxyukmodesNxpNKpXWJrePzaH35W6GaadQifaWti/JwGqGQ6Yh1NaE0wOw/G+9/
+ +OglmYLNixVMn932uv2FfzAQ7LZkI=
+From: FHS Accelerator <no-reply@setmore.com>
+Subject: REMINDER: You have an appointment FHS Accelerator Pvt Ltd
+Received: from [107.178.231.133] by mandrillapp.com id 31dbf52ca17f402886d45aa81259f6b5; Wed, 17 May 2017 04:30:24 +0000
+Reply-To: <rajiv@first100sales.com>
+To: Setmore <tushar@simplifytrips.com>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30940213.31dbf52ca17f402886d45aa81259f6b5
+X-Mandrill-User: md_30940213
+Message-Id: <30940213.20170517043024.591bd1e0873942.99434072@mail179-21.suw41.mandrillapp.com>
+Date: Wed, 17 May 2017 04:30:24 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-6Vaj40D-RMg5o0zM3VxUoQ"
+
+--_av-6Vaj40D-RMg5o0zM3VxUoQ
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+   E-mail Template          = REMINDER =
+
+ Hi Tushar Choudhary, Your appointment has been booked with FHS Accelerator
+Pvt Ltd
+
+ 
+   When:  Wed May 17, 2017 11:00 AM IST
+
+ 
+ In Your Local Timezone: 
+When: Wed May 17, 2017 11:00 AM IST
+
+  Service:  Understanding your Immediate Need
+
+ 
+  Consultant:  Pradeep
+
+ 
+ 
+   Please put your Startup/Idea details @ fhsidealab.com/auth/login
+
+Call +91 99807 33554 at the appointment time
+& come online @ appear.in/fhsaccelerator
+
+N.B : PLEASE DON'T VISIT OFFICE WITHOUT CALLING
+
+Thanks,
+Pradeep
+pradeep@first100sales.com  
+   
+ FHS Accelerator Pvt Ltd
+  
+9980733554 Email <mailto:rajiv@first100sales.com> View Website
+<http://first100sales.com>  
+ Reschedule
+<http://my.setmore.com/reschduleCustomerAppointmentPopup.do?cancellationKey=b3f9e8bd-1518-476c-bb74-fed6c246f75a&isEdited=true>
+Cancel Appointment
+<http://my.setmore.com/cancelCustomerAppointmentPopup.do?cancellationKey=b3f9e8bd-1518-476c-bb74-fed6c246f75a>
+      
+ Powerful Free Scheduling - Setmore
+<https://www.setmore.com/?utm_source=footer%20email&utm_medium=HT>
+--_av-6Vaj40D-RMg5o0zM3VxUoQ
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>E-mail Template</title>
+		<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800" rel="stylesheet" type="text/css">
+		
+		<style>
+		#setmoreFooterContent:hover
+		{
+			text-decoration: underline;
+		}
+		</style>
+		
+	</head>
+	<body style="margin:0px;">
+		<table cellpadding="0" cellspacing="0" width="700" align="center" border="0" style="font-family: 'Open Sans', sans-serif; font-size:12px;margin-top:10px;">
+			<tbody style="background-color:rgba(241, 245, 247, 0.5);vertical-align: top;line-height: 20px;">
+				<tr>
+					<td style="background-color:#ffffff;padding: 30px 40px;border: 1px solid #c2c2c2;border-radius: 7px;">
+						<div style="border-bottom: 1px solid #e5e5e5;padding-bottom: 5px;margin-bottom: 20px;">
+							<h1 style="color:#4e5b63;font-size: 28px;margin: 15px 0px 0px;font-weight: 500;">REMINDER</h1>
+							<h6 style="color:#4e5b63;font-size: 15px;margin: 25px 0px 10px;font-weight: 500;">Hi Tushar Choudhary,</h6>
+							<p style="color:#788a95;font-size: 15px;margin: 10px 0px 15px;">Your appointment has been booked with FHS Accelerator Pvt Ltd</p>
+						</div>
+						<div style="border-bottom: 1px solid #e5e5e5;margin-bottom: 20px;padding-bottom: 15px;">
+							<div style="position: relative;display: inline-block;width: 100%;">
+								<label style="color:#788a95;font-size:15px;">When:&nbsp;</label>
+								<p style="display: inline-block;margin: 0;color:#637374;font-size:15px;">Wed May 17, 2017 11:00 AM IST</p>
+							</div>
+							<div style="position: relative;display: inline-block;width: 100%;"><label style="color:#788a95;font-size:15px;">In Your Local Timezone:&nbsp;</label></div><div style="position: relative;display: inline-block;width: 100%;"><label style="color:#788a95;font-size:15px;">When:&nbsp;</label><p style="display: inline-block;margin: 0;color:#637374;font-size:15px;">Wed May 17, 2017 11:00 AM IST</p></div>
+							<div style="position: relative;display: inline-block;width: 100%;">
+								<label style="color:#788a95;font-size:15px;">Service:&nbsp;</label>
+								<p style="display: inline-block;margin: 0;color:#637374;font-size:15px;">Understanding your Immediate Need</p>
+							</div>
+							<div style="position: relative;display: inline-block;width: 100%;">
+								<label style="color:#788a95;font-size:15px;">Consultant:&nbsp;</label>
+								<p style="display: inline-block;margin: 0;color:#637374;font-size:15px;">Pradeep</p>
+							</div>
+						
+						</div>
+						<div>
+							<dl>
+								<dd style="color:#788a95;font-size:15px;margin: 0;">Please put your Startup/Idea details @ fhsidealab.com/auth/login<br><br>Call +91 99807 33554 at the appointment time<br>&amp; come online @ appear.in/fhsaccelerator<br><br>N.B :  PLEASE DON&#039;T VISIT OFFICE WITHOUT CALLING<br><br>Thanks,<br>Pradeep<br>pradeep@first100sales.com</dd>
+							</dl>
+						</div>
+					</td>
+					<td style="background-color:rgba(241, 245, 247, 0.5);padding:20px;border-top-right-radius: 7px;border-bottom-right-radius: 7px;">
+						<div style=" width: 158px; line-height:0px;padding : 2px;"><img src="http://lh3.ggpht.com/v4SA7OcwG5rD5uEwxZMATAHN5QHqAlGwIPLlQQJOE3DInViASEgy8TPlYHXItOZJ8aeXBYqTQgy-rchxzHv6sYUsi04fZefkDA=s250" style="height: auto; width: 158px;border-radius: 5px;margin-bottom: 20px;" /></div>
+
+						<div style="color:#4e5b63;width:150px;">FHS Accelerator Pvt Ltd</div>
+						<dl style="margin:0px;color:#95a5a6;line-height: 20px;width: 150px;">
+							<dd style="margin:0 0 5px 0;"><br />9980733554</dd>
+							<a href="mailto:rajiv@first100sales.com" style="color:#33c3ba; text-decoration:none;">Email</a>
+							<a href="https://mandrillapp.com/track/click/30940213/first100sales.com?p=eyJzIjoiZU9HTmg1VndkTjFVcll4SFJNeUFPRUYwMmZrIiwidiI6MSwicCI6IntcInVcIjozMDk0MDIxMyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvZmlyc3QxMDBzYWxlcy5jb21cIixcImlkXCI6XCIzMWRiZjUyY2ExN2Y0MDI4ODZkNDVhYTgxMjU5ZjZiNVwiLFwidXJsX2lkc1wiOltcImFmNjY4ZGM0MDA2OTZhZGU2ZTZiNmE3NzRmY2ZiNmEzZDNjYzcxZmJcIl19In0" style="display: block;margin:0 0 5px 0; cursor: pointer; text-decoration: none;color: #33c3ba;">View Website</a>
+							
+								<!-- <span>Get Directions?</span> <a href="#" style="color: #95a5a6;text-decoration: none;">Click here</a> -->
+						</dl><br />
+						<a href="https://mandrillapp.com/track/click/30940213/my.setmore.com?p=eyJzIjoiQU82dDVta2pnRDFnb3ZVSFc0bnVTdDUteTVFIiwidiI6MSwicCI6IntcInVcIjozMDk0MDIxMyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvbXkuc2V0bW9yZS5jb21cXFwvcmVzY2hkdWxlQ3VzdG9tZXJBcHBvaW50bWVudFBvcHVwLmRvP2NhbmNlbGxhdGlvbktleT1iM2Y5ZThiZC0xNTE4LTQ3NmMtYmI3NC1mZWQ2YzI0NmY3NWEmaXNFZGl0ZWQ9dHJ1ZVwiLFwiaWRcIjpcIjMxZGJmNTJjYTE3ZjQwMjg4NmQ0NWFhODEyNTlmNmI1XCIsXCJ1cmxfaWRzXCI6W1wiYTE5YTI0YTZiYzkzZGI0ZmI1NzgwM2UyYzU0MjAwNzk2OGI2NjZjM1wiXX0ifQ" style="width: 177px;text-decoration: none;text-align: center;display: block;padding: 9px 0px;border: 1px solid #cad3d9;border-radius: 4px;color: #33c3ba;background: #f7f9fa;margin-bottom: 7px;">Reschedule</a>
+						<a href="https://mandrillapp.com/track/click/30940213/my.setmore.com?p=eyJzIjoiSFJ5WlY2RFVtVEowaWNpcEtzX0JPbkdpWkxBIiwidiI6MSwicCI6IntcInVcIjozMDk0MDIxMyxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvbXkuc2V0bW9yZS5jb21cXFwvY2FuY2VsQ3VzdG9tZXJBcHBvaW50bWVudFBvcHVwLmRvP2NhbmNlbGxhdGlvbktleT1iM2Y5ZThiZC0xNTE4LTQ3NmMtYmI3NC1mZWQ2YzI0NmY3NWFcIixcImlkXCI6XCIzMWRiZjUyY2ExN2Y0MDI4ODZkNDVhYTgxMjU5ZjZiNVwiLFwidXJsX2lkc1wiOltcIjYzMzlmZWYzYWE1ZGNhZTIxYzM0NDhlOWZlODQ1YWQ3Y2E3YmRjYTNcIl19In0" style="width: 177px;text-decoration: none;text-align: center;display: block;padding: 9px 0px;border: 1px solid #cad3d9;border-radius: 4px;color: #33c3ba;background: #f7f9fa;margin-bottom: 7px;">Cancel Appointment</a>
+
+					</td>
+
+				</tr>
+								<tr>
+					<td colspan="2" style="padding: 15px 0px;background-color: #fff;">
+						<a style="text-decoration:none" href="https://mandrillapp.com/track/click/30940213/www.setmore.com?p=eyJzIjoiM1hsMlBldGstbE1qekNpYkZEbnlKaWlWMl9zIiwidiI6MSwicCI6IntcInVcIjozMDk0MDIxMyxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5zZXRtb3JlLmNvbVxcXC8_dXRtX3NvdXJjZT1mb290ZXIlMjBlbWFpbCZ1dG1fbWVkaXVtPUhUXCIsXCJpZFwiOlwiMzFkYmY1MmNhMTdmNDAyODg2ZDQ1YWE4MTI1OWY2YjVcIixcInVybF9pZHNcIjpbXCIwZTU4MTk3NTllNmIzZDhkYTk1MjQ4MWE3ZDJkMDkwZjQ1YzRiNTFiXCJdfSJ9" target="_blank"><div style="float:left">
+							<img src="http://my.setmore.com/images/emailTemplate-images/setmorelogo.png" style="width:24px;height:21px;" />
+						</div>
+						<div id="setmoreFooterContent" style="width:230px;color:rgba(68, 87, 98, 0.69);font-size:100%;">Powerful Free Scheduling - Setmore</div></a>
+					</td>
+				</tr>
+							</tbody>
+		</table>
+	<img src="https://mandrillapp.com/track/open.php?u=30940213&id=31dbf52ca17f402886d45aa81259f6b5" height="1" width="1"></body>
+</html>
+--_av-6Vaj40D-RMg5o0zM3VxUoQ--
+

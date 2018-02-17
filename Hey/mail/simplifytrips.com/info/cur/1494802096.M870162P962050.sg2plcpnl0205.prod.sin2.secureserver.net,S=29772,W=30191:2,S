@@ -1,0 +1,419 @@
+Return-Path: <naukrirecruiter-activity@naukri.com>
+Delivered-To: info@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id iZ8KMrDeGFkCrg4AwZeyeg
+	for <info@simplifytrips.com>; Sun, 14 May 2017 15:48:16 -0700
+Return-path: <naukrirecruiter-activity@naukri.com>
+Envelope-to: info@simplifytrips.com
+Delivery-date: Sun, 14 May 2017 15:48:16 -0700
+Received: from nmail193.naukri.com ([180.179.180.193]:49709)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <naukrirecruiter-activity@naukri.com>)
+	id 1dA2JE-0042Kv-Kl
+	for info@simplifytrips.com; Sun, 14 May 2017 15:48:16 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=naukri.com; s=2015;
+	t=1494802055; bh=8GwozgJerlTG1Hue9Y6O4Mq273SFa5Qtmr+xKa0KnZk=;
+	h=From:Subject:Reply-To:To:Date;
+	b=rquEygSmD+aouF3IQzCAW6s7bnJCIL3Rm/n3RjO9YVLhlWV9/ZqwgZcdz1MrqWBAT
+	 S8KsT36GEZ+RcVjNQlZqk9gaBlDj/PcJ+r5VrkTFd3fUgCp7m3tohDH3KkA+zRfRvH
+	 eIY6xazdqMZ0HAh8ds6WFcN7O6ajgSn7PiKY6u5I=
+Received: from [172.10.122.51] ([172.10.122.51:15956] helo=naukri.com)
+	by nplimla13.ieil.net (envelope-from <naukrirecruiter-activity@naukri.com>)
+	(ecelerity 3.6.13.50539 r(Core:3.6.13.0)) with ESMTP
+	id EF/17-63917-78ED8195; Mon, 15 May 2017 04:17:35 +0530
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=naukri.com; s=2015;
+	t=1494802055; bh=8GwozgJerlTG1Hue9Y6O4Mq273SFa5Qtmr+xKa0KnZk=;
+	h=From:Subject:Reply-To:To:Date;
+	b=rquEygSmD+aouF3IQzCAW6s7bnJCIL3Rm/n3RjO9YVLhlWV9/ZqwgZcdz1MrqWBAT
+	 S8KsT36GEZ+RcVjNQlZqk9gaBlDj/PcJ+r5VrkTFd3fUgCp7m3tohDH3KkA+zRfRvH
+	 eIY6xazdqMZ0HAh8ds6WFcN7O6ajgSn7PiKY6u5I=
+Received: from [172.10.113.53] ([172.10.113.53:29518] helo=localhost)
+	by n5plimla01.ieil.net (envelope-from <naukrirecruiter-activity@naukri.com>)
+	(ecelerity 3.6.13.50539 r(Core:3.6.13.0)) with ESMTP
+	id 0E/78-22001-78ED8195; Mon, 15 May 2017 04:17:35 +0530
+From: NaukriRecruiter <naukrirecruiter-activity@naukri.com>
+Message-ID: <0E.78.22001.78ED8195@n5plimla01.ieil.net>
+Subject: Tushar, Refresh your jobs to get more responses
+Reply-To: donotreply@naukri.com
+To: info@simplifytrips.com
+Date: Mon, 15 May 2017 04:17:35 +0530
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+MIME-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://w=
+ww.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A<html xmlns=3D"http:=
+//www.w3.org/1999/xhtml">=0A    <head>=0A        <meta http-equiv=3D"Con=
+tent-Type" content=3D"text/html charset=3Dutf-8" />=0A        <meta name=
+=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1, maximu=
+m-scale=3D1, user-scalable=3Dno">=0A            <title></title>=0A     =
+       <style type=3D"text/css">=0A                body {=0A           =
+         margin-left: 0px;=0A                    margin-top: 0px;=0A   =
+                 margin-right: 0px;=0A                    margin-bottom:=
+ 0px;=0A                }=0A            </style>=0A    </head>=0A    <bo=
+dy>        =0A        <table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"center" style=3D"max-width:600px; " bgcolor=3D"#f1f1f1">=
+=0A            <tr>=0A                <td width=3D"16" style=3D"border-t=
+op:8px solid #f8f8f8"><img src=3D"http://static.naukimg.com/s/1/10/i/nr/=
+spacer.gif" width=3D"10" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D=
+"left" /></td>=0A                <td width=3D"568" valign=3D"top" style=
+=3D"border-top:8px solid #f8f8f8">=0A                    <table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"max-width:568px;">=
+=0A                        <tr>=0A                            <td colspa=
+n=3D"2" align=3D"center"><a href=3D"http://naukrirecruiter.naukri.com/"=
+ title=3D"naukrirecruiter" target=3D"_blank" style=3D"text-decoration:no=
+ne;font-size:28px;font-family:Arial, Helvetica, sans-serif;color:#106db7=
+;"><img src=3D"http://static.naukimg.com/s/1/10/i/nr/logo.gif" alt=3D"na=
+ukrirecruiter" width=3D"258" height=3D"50" hspace=3D"0" vspace=3D"0" bor=
+der=3D"0" align=3D"right" style=3D"background-color:#f8f8f8" /></a><img=
+ src=3D"https://naukrirecruiter.naukri.com/openRate/track?mid=3D10" widt=
+h=3D"0" height=3D"0" /></td>=0A                        </tr>=0A        =
+                <tr>=0A                            <td width=3D"284" hei=
+ght=3D"24"></td>=0A                            <td width=3D"284"></td>=
+=0A                        </tr>=0A                        <tr>=0A     =
+                       <td colspan=3D"2" style=3D"font-family:Georgia, '=
+Times New Roman', Times, serif;font-size:27px;color:#28699a;">Refresh Qu=
+ick-Jobs to receive more responses</td>=0A                        </tr>=
+=0A                        <tr>=0A                            <td width=
+=3D"284" height=3D"10"></td>=0A                            <td width=3D"=
+284"></td>=0A                        </tr>=0A                        <tr=
+>=0A                            <td colspan=3D"2" bgcolor=3D"#ffffff" va=
+lign=3D"top">=0A                                <table border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" align=3D"center" style=3D"max-width:568p=
+x">=0A                                    <tr>=0A                      =
+                  <td width=3D"12"><img src=3D"http://static.naukimg.com=
+/s/1/10/i/nr/spacer.gif" width=3D"5" height=3D"1" vspace=3D"0" hspace=3D=
+"0" align=3D"left" /></td>=0A                                        <td=
+ width=3D"538" valign=3D"top">=0A                                      =
+      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"m=
+ax-width:532px">=0A                                                <tr>=
+=0A                                                    <td width=3D"266"=
+ height=3D"18"></td>=0A                                                =
+    <td width=3D"266"></td>=0A                                         =
+       </tr>=0A                                                <tr>=0A =
+                                                   <td colspan=3D"2" sty=
+le=3D"font-family:Arial, Helvetica, sans-serif;font-size:14px;">Hi Tusha=
+r Choudhary,</td>=0A                                                </tr=
+>=0A                                                <tr>=0A            =
+                                        <td height=3D"18"></td>=0A     =
+                                               <td></td>=0A            =
+                                    </tr>=0A                           =
+                     <tr>=0A                                           =
+         <td colspan=3D"2" style=3D"font-family:Arial, Helvetica, sans-s=
+erif;font-size:14px;">It has been a month since you posted the following=
+ jobs. You may want to refresh them now to receive more responses.</td>=
+=0A                                                </tr>=0A            =
+                                    <tr>=0A                            =
+                        <td height=3D"18"></td>=0A                     =
+                               <td></td>=0A                            =
+                    </tr>=0A                                           =
+     <tr>=0A                                                    <td cols=
+pan=3D"2" style=3D"font-family:Arial, Helvetica, sans-serif;font-size:14=
+px;">If you are no longer hiring for any of these positions, you can clo=
+se them. Jobseekers might still want to get in touch with you for your c=
+losed positions.</td>=0A                                               =
+ </tr>=0A                                                <tr>=0A       =
+                                             <td height=3D"15"></td>=0A=
+                                                    <td></td>=0A       =
+                                         </tr>=0A=0A                   =
+                                                                       =
+                                                                       =
+    =0A                                                                =
+                                        <tr>=0A                        =
+                                <td width=3D"100%" align=3D"left">=0A  =
+                                                          <table width=
+=3D"100%" border=3D"0" bgcolor=3D"#f6f6f6" cellspacing=3D"0" cellpadding=
+=3D"0">            =0A                                                 =
+               <tbody><tr><td height=3D"15"></td></tr>=0A              =
+                                                      <tr>=0A          =
+                                                              <td>=0A  =
+                                                                       =
+   <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+">=0A                                                                  =
+              <tbody>=0A                                               =
+                                     <tr>=0A                           =
+                                                             <td width=
+=3D"15"></td>=0A                                                       =
+                                 <td>=0A                               =
+                                                             <table cell=
+padding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">=0A        =
+                                                                       =
+                 <tr>=0A                                               =
+                                                     <td>=0A           =
+                                                                       =
+               <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" w=
+idth=3D"100%">=0A                                                      =
+                                               <tr>=0A                 =
+                                                                       =
+             <td>=0A                                                   =
+                                                     <a href=3D"http://w=
+ww.naukri.com/recruiter-job-listings-Urgent-requirement-for-Tele-Caller-=
+female-with-a-start-up-Simplifytrips-11-0-to-1-years-3295620" style=3D"f=
+ont-family:Arial, Helvetica, sans-serif; font-size:14px;color:#0e7dcb;te=
+xt-decoration:none;line-height:12px;">=0A                              =
+                                                                       =
+       Urgent requirement for Tele Caller-femal  =0A                   =
+                                                                       =
+                                                                       =
+                                                           ...=0A      =
+                                                                       =
+                               </a>=0A                                 =
+                                                                       <=
+span style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12px;c=
+olor:#303030;line-height:12px;"> =0A                                   =
+                                                                       =
+                                                                       =
+                                                                       =
+                                                                       =
+                 (0 - 1 yrs.)=0A                                       =
+                                                                       =
+                                                                       =
+                                       </span></td></tr>=0A            =
+                                                                       =
+             <tr><td height=3D"3"></td></tr>=0A                        =
+                                                                       =
+ <tr><td>=0A                                                           =
+                                             <span style=3D"font-family:=
+Arial, Helvetica, sans-serif; font-size:12px;color:#303030;line-height:1=
+2px;">Simplifytrips ,  Noida</span>=0A                                 =
+                                                                   </td>=
+</tr>=0A                                                               =
+                                 <tr><td height=3D"3"></td></tr>=0A    =
+                                                                       =
+                 </table>=0A                                           =
+                                                         </td>=0A      =
+                                                                       =
+                   </tr>                                               =
+                                                 =0A                   =
+                                                                       =
+      <tr>=0A                                                          =
+                                          <td align=3D"left">          =
+      =0A                                                              =
+                                          <table cellpadding=3D"0" cells=
+pacing=3D"0" border=3D"0" align=3D"left" style=3D"margin:0; border-spaci=
+ng:0">=0A                                                              =
+                                              <tr>=0A                  =
+                                                                       =
+                       <td align=3D"left" style=3D"padding:0;margin:0;fo=
+nt-family: Arial,Helvetica,sans-serif; color: rgb(48, 48, 48); font-size=
+: 11px;"><span style=3D"font-family:Arial, Helvetica, sans-serif; font-s=
+ize:11px;color:#303030;line-height:11px;">Posted on 17-Apr-2017</span> <=
+/td>=0A                                                                =
+                                                <td width=3D"10" style=
+=3D"color:#303030;font-family: Arial,Helvetica,sans-serif;font-size:11px=
+ ">&nbsp;|&nbsp;</td>=0A                                               =
+                                                                 <td ali=
+gn=3D"left" style=3D"font-family: Arial,Helvetica,sans-serif; color: rgb=
+(48, 48, 48); font-size: 11px;">=0A                                    =
+                                                                       =
+         =0A                                                           =
+                                                             <b style=3D=
+"font-family: Arial,Helvetica,sans-serif; color: rgb(48, 48, 48); font-s=
+ize: 12px;">                                                           =
+                                                    =0A                =
+                                                                       =
+                                                                       =
+                                                                       =
+                      0&nbsp;=0A                                       =
+                                                                       =
+                                                                       =
+                                                                   =0A =
+                                                                       =
+                                                </b> responses=0A      =
+                                                                       =
+                                   </td>                               =
+                                                                       =
+               =0A                                                     =
+                                                           <td width=3D"=
+10"></td>=0A                                                           =
+                                                 </tr>=0A              =
+                                                                       =
+                       <tr>=0A                                         =
+                                                                       =
+ <td height=3D"10"></td>=0A                                            =
+                                                                </tr>=0A=
+                                                                       =
+                                 </table>=0A                           =
+                                                                       =
+      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"r=
+ight">=0A                                                              =
+                                              <tbody>=0A               =
+                                                                       =
+                          <tr>=0A                                      =
+                                                                       =
+       <td width=3D"100" height=3D"22" align=3D"center" style=3D"backgro=
+und:#ffb838;text-align:center;">=0A                                    =
+                                                                       =
+             <a style=3D"display:block;background:#ffb838;font-family:Ar=
+ial, Helvetica, sans-serif; font-size:12px;color:#303030;line-height:22p=
+x; text-align:center;text-decoration:none;" href=3D"https://naukrirecrui=
+ter.naukri.com/mrp/refreshJob?rfId=3D090dff58f051677d5d5aaa029dac40573a0=
+7a2d41beb994a&id=3D2d9a6180ad4aabf0be330d81db7d0c2085a496cf0dd68f3f8f4ec=
+6e0a6cc2f030298a1f9e73a49c0">Refresh Job</a></td>=0A                   =
+                                                                       =
+                          <td width=3D"10"></td>=0A                    =
+                                                                       =
+                         <td width=3D"100" height=3D"20" align=3D"center=
+" style=3D"background:#ffb838;text-align:center;">=0A                  =
+                                                                       =
+                           <a style=3D"display:block;background:#ffb838;=
+font-family:Arial, Helvetica, sans-serif; font-size:12px;color:#303030;l=
+ine-height:22px; text-align:center;text-decoration:none;" href=3D"https:=
+//naukrirecruiter.naukri.com/mrp/closeJob?qjId=3D090dff58f051677d5d5aaa0=
+29dac40573a07a2d41beb994a&id=3D2d9a6180ad4aabf0be330d81db7d0c2085a496cf0=
+dd68f3f8f4ec6e0a6cc2f030298a1f9e73a49c0">Mark as Closed</a></td>=0A    =
+                                                                       =
+                                     </tr>=0A                          =
+                                                                       =
+           </tbody>=0A                                                 =
+                                                       </table>=0A     =
+                                                                       =
+                        </td>=0A                                       =
+                                                         </tr>=0A      =
+                                                                       =
+               </table>=0A                                             =
+                                           </td>=0A                    =
+                                                                    <td=
+ width=3D"15"></td> =0A                                                =
+                                    </tr>=0A                           =
+                                                     </tbody></table>=0A=
+                                                                       =
+ </td>=0A                                                              =
+      </tr>=0A                                                         =
+           <tr><td height=3D"15"></td></tr>=0A=0A                      =
+                                          </tbody>=0A                  =
+                                          </table>=0A                  =
+                                      </td>=0A                         =
+                           </tr>=09=09=09=09=09=09=09=09=09=09=09=09=0A=
+                                                =0A=0A                 =
+                               <tr>=0A                                 =
+                   <td height=3D"15" colspan=3D"2" valign=3D"top">=0A=0A=
+                                                    </td>=0A           =
+                                     </tr>=0A                          =
+                      <tr>=0A                                          =
+          <td style=3D"font-family:Arial, Helvetica, sans-serif;font-siz=
+e:14px;color:#303030;width:100%;">7 effective ways to increase responses=
+ to your Quick-Jobs.<a href=3D"http://recruiterzone.naukri.com/improve-r=
+esponses-to-your-quick-jobs/" style=3D"text-decoration:none;font-family:=
+Arial, Helvetica, sans-serif; font-size:14px;color:#0e7dcb;"> Learn More=
+</a></td>=0A                                                </tr>=0A   =
+                                              <tr>=0A                  =
+                                  <td height=3D"10" colspan=3D"2"></td>=
+=0A                                                </tr>=0A            =
+                                    <tr>=0A                            =
+                        <td height=3D"21" style=3D"font-family:Arial, He=
+lvetica, sans-serif;font-size:14px;color:#303030;">Regards, </td>=0A   =
+                                                 <td></td>=0A          =
+                                      </tr>=0A                         =
+                       <tr>=0A                                         =
+           <td style=3D"font-family:Arial, Helvetica, sans-serif;font-si=
+ze:14px;color:#303030;"><font color=3D"#25abe0">Naukri</font><font color=
+=3D"#3784c3">Recruiter</font> Team</td>=0A                             =
+                       <td></td>=0A                                    =
+            </tr>=0A                                                <tr>=
+=0A                                                    <td height=3D"25"=
+></td>=0A                                                    <td></td>=
+=0A                                                </tr>=0A            =
+                                </table>=0A=0A                         =
+               </td>=0A                                        <td width=
+=3D"18"><img src=3D"http://static.naukimg.com/s/1/10/i/nr/spacer.gif" wi=
+dth=3D"5" height=3D"1" vspace=3D"0" hspace=3D"0" align=3D"right" /></td>=
+=0A                                    </tr>=0A                        =
+        </table>=0A=0A                            </td>=0A             =
+           </tr>=0A                        <tr>=0A                     =
+       <td height=3D"15"></td>=0A                            <td></td>=
+=0A                        </tr>                        =0A            =
+            <tr>=0A                            <td style=3D"font-family:=
+Arial, Helvetica, sans-serif;font-size:13px;color:#565656;"><strong>You=
+ can reach us at:</strong></td>=0A                            <td></td>=
+=0A                        </tr>=0A                        <tr>=0A     =
+                       <td height=3D"5"></td>=0A                       =
+     <td></td>=0A                        </tr>=0A                      =
+  <tr>=0A                            <td colspan=3D"2">=0A             =
+                   <table border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" align=3D"left" style=3D"font-family:Arial,Helvetica,sans-serif; font-=
+size:12px; max-width:568px; min-width:300px; width:100%">=0A           =
+                         <tbody>=0A                                    =
+    <tr>=0A                                            <td height=3D"3">=
+</td>=0A                                        </tr>=0A               =
+                         <tr>=0A                                       =
+     <td>=0A                                                <table width=
+=3D"127" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"left"=
+ style=3D"font-family:Arial,Helvetica,sans-serif; font-size:12px">=0A  =
+                                                  <tbody>=0A           =
+                                             <tr>=0A                   =
+                                         <td width=3D"19"><img src=3D"ht=
+tp://static.naukimg.com/s/1/10/i/nr/footer_icon_1.gif" vspace=3D"0" hspa=
+ce=3D"5" align=3D"left" border=3D"0" width=3D"8" height=3D"8"></td>=0A =
+                                                           <td width=3D"=
+92" style=3D"color:#818181">1800 102 5558 <br>0120-4960600</td>=0A     =
+                                                       <td width=3D"10"=
+ style=3D"border-right:1px #cdcdcd solid"></td>=0A                     =
+                                       <td width=3D"11"></td>=0A       =
+                                                 </tr>=0A              =
+                                      </tbody>=0A                      =
+                          </table>=0A                                  =
+              <table width=3D"160" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"left" style=3D"font-family:Arial,Helvetica,sans-ser=
+if; font-size:12px">=0A                                                =
+    <tbody>=0A                                                        <t=
+r>=0A                                                            <td wid=
+th=3D"18"><img src=3D"http://static.naukimg.com/s/1/10/i/nr/footer_icon_=
+2.gif" vspace=3D"0" hspace=3D"5" align=3D"left" border=3D"0" width=3D"14=
+" height=3D"7"></td>=0A                                                =
+            <td width=3D"128"><span style=3D"display:none;visibility:hid=
+den">&nbsp;</span><a href=3D'mailto:support@naukri.com' title=3D'support=
+@naukri.com' style=3D"text-decoration:none; color:#0e7dcb"><span>support=
+@naukri.com</span></a></td>=0A                                         =
+                   <td width=3D"10" style=3D"border-right:1px #cdcdcd so=
+lid"></td>=0A                                                          =
+  <td width=3D"11"></td>=0A                                            =
+            </tr>=0A                                                   =
+ </tbody>=0A                                                </table>=0A=
+=0A                                                <table width=3D"125"=
+ border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"left" style=
+=3D"font-family:Arial,Helvetica,sans-serif; font-size:12px">=0A        =
+                                            <tbody>=0A                 =
+                                       <tr>=0A                         =
+                                   <td width=3D"22"><img src=3D"http://s=
+tatic.naukimg.com/s/1/10/i/nr/footer_icon_3.gif" vspace=3D"0" hspace=3D"=
+5" align=3D"left" border=3D"0" width=3D"12" height=3D"11"></td>=0A     =
+                                                       <td width=3D"123"=
+><a href=3D"http://www.naukri.com/mynaukri/mn_contactus.php" title=3D"Ou=
+r Branches" style=3D"text-decoration:none; color:#0e7dcb">Our Branches</=
+a></td>=0A                                                        </tr>=
+=0A                                                    </tbody>=0A     =
+                                           </table>=0A                 =
+                               <table width=3D"127" border=3D"0" cellspa=
+cing=3D"0" cellpadding=3D"0" align=3D"right" style=3D"font-family:Arial,=
+Helvetica,sans-serif; font-size:12px">=0A                              =
+                      <tbody>=0A                                       =
+                 <tr>=0A                                               =
+             <td width=3D"24"><img src=3D"http://static.naukimg.com/s/1/=
+10/i/nr/footer_icon_4.gif" vspace=3D"0" hspace=3D"5" align=3D"left" bord=
+er=3D"0" width=3D"9" height=3D"10"></td>=0A                            =
+                                <td width=3D"103"><a href=3D"http://w5.n=
+aukri.com/fdbck/main/feedback.php?app_id=3D18" title=3D"Report a problem=
+" style=3D"text-decoration:none; color:#0e7dcb">Report a problem</a></td=
+>=0A                                                        </tr>=0A   =
+                                                 </tbody>=0A           =
+                                     </table>=0A                       =
+                     </td>=0A                                        </t=
+r>=0A                                    </tbody>=0A                   =
+             </table>=0A                            </td>=0A           =
+             </tr>=0A                        <tr>=0A                   =
+         <td style=3D"padding-top: 15px; padding-left: 5px; font: 13px a=
+rial; color: rgb(170, 170, 170);" colspan=3D"2">In case you do not wish=
+ to receive this mail in future, you can <a href=3D"https://naukrirecrui=
+ter.naukri.com/unsubscribe?id=3D71b0c90be15f193b96ca5461c74a32c3a48624f2=
+bbbe4f96&typeId=3D3"  style=3D"text-decoration:none; color:#0e7dcb">unsu=
+bscribe.</a></td>=0A                        </tr>=0A                   =
+     <tr>=0A                            <td height=3D"10"></td>=0A     =
+                       <td></td>=0A                        </tr>=0A    =
+                </table>=0A=0A                </td>=0A                <t=
+d width=3D"16" style=3D"border-top:8px solid #f8f8f8"><img src=3D"http:/=
+/static.naukimg.com/s/1/10/i/nr/spacer.gif" width=3D"10" height=3D"1" vs=
+pace=3D"0" hspace=3D"0" align=3D"right" /></td>=0A            </tr>=0A =
+       </table>=0A=0A    </body>=0A</html>=0A

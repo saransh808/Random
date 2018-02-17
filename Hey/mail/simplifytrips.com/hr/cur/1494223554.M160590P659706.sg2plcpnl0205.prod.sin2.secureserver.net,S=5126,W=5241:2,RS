@@ -1,0 +1,115 @@
+Return-Path: <hemani.verma95@gmail.com>
+Delivered-To: hr@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id ocQUCcIKEFn6EAoAwZeyeg
+	for <hr@simplifytrips.com>; Sun, 07 May 2017 23:05:54 -0700
+Return-path: <hemani.verma95@gmail.com>
+Envelope-to: hr@simplifytrips.com
+Delivery-date: Sun, 07 May 2017 23:05:54 -0700
+Received: from mail-yb0-f175.google.com ([209.85.213.175]:35157)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.88)
+	(envelope-from <hemani.verma95@gmail.com>)
+	id 1d7bnu-002lkZ-2e
+	for hr@simplifytrips.com; Sun, 07 May 2017 23:05:54 -0700
+Received: by mail-yb0-f175.google.com with SMTP id p143so9089421yba.2
+        for <hr@simplifytrips.com>; Sun, 07 May 2017 23:05:33 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=eZBkwCbOHmoWxqstxlr5Axf3yXyN3cLjWuhpbvqQNm4=;
+        b=RLBhyGRTG8aBOrv0Prgb1GaOvwQ1HRwKa1vDY8ADxHJhBUA6eQUiz3tBjsybVrl1Mq
+         ZW9+PqtfWPhQ3EEsPjOzKCP+z9FHS4qHTcDP+GPN+rUYpVw7M7H2d8LFV7qUObgUFRg4
+         KxfmyLTBajLatdySlWLrZsXpOohQ1ssx69wEUKxL9ae+y+5lZIPZy94tqAgwNYR/bhKc
+         uoyZU7Qidq/0u4RDWTHsT+cM8nFXn3Gxkciwx5Rf1aP7cHxml11mbfAO3z+81jGVS3XM
+         YnCxOVJtfbHX4gQU2eeMKkbC8zfLSas8k67Ly4blQGFbniUZ66wjjzA4fcYTA8N1uDPP
+         UGaQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=eZBkwCbOHmoWxqstxlr5Axf3yXyN3cLjWuhpbvqQNm4=;
+        b=sC0fOpV2+221h8OY/SXPldfWgjwRM9B+XSzi5VCKNgRfrsNlBEMweEVGMgYq3/YqzA
+         kMYISe/o4W+Pj0h7EF54MQ/AIl/RW5Cd6tHJEffprRdWfNme3L6UN3jcCXlRmAdalqlv
+         INYughN6+M4QUGkUdLRuWNPeeCgaHcBUZwKol82I0/D+jcdiCoOcCBYL1arwO0jctnoe
+         ES1zRdAZNMDXRgmSwK57Bd51dfLGAHwOjmHBVSHKe8Erydm9CLMkV9wCiu89arLV+W2b
+         6SWoDRoIwl3mc6mLxodpk3fd3q5t5RjZEYg8cV713NndiEeOTSVKQE9CeI6uc3wbafK3
+         +aqw==
+X-Gm-Message-State: AODbwcB9ftAIREYNmBBdVZVMM5gEJDPUIQ/+RWPXrvep3IqGxMZas/7w
+	eXEt3BXFIu0bZi0+IC+6+TwqYepvBb5D
+X-Received: by 10.37.35.210 with SMTP id j201mr9098357ybj.103.1494223511525;
+ Sun, 07 May 2017 23:05:11 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.37.174.86 with HTTP; Sun, 7 May 2017 23:05:10 -0700 (PDT)
+Received: by 10.37.174.86 with HTTP; Sun, 7 May 2017 23:05:10 -0700 (PDT)
+In-Reply-To: <CA+5chwtT_U0wWdVWcmORNDXavDcq8uOCeZNpeMfe95vJfNOqYw@mail.gmail.com>
+References: <6a43821ef5a1be8473b7aecf55aff80d@simplifytrips.com>
+ <CA+5chwvsh0nc8B0GPRqJ1hNQ6Ox_H6+uV6dw33oYkKqb1es_ng@mail.gmail.com> <CA+5chwtT_U0wWdVWcmORNDXavDcq8uOCeZNpeMfe95vJfNOqYw@mail.gmail.com>
+From: Himani Verma <hemani.verma95@gmail.com>
+Date: Mon, 8 May 2017 11:35:10 +0530
+Message-ID: <CA+5chwv3CFOtcuyPSTHcYwQZDUCPRS4bJwFBWv1uxyWFqW0wAw@mail.gmail.com>
+Subject: Re: Interview Shortlisting
+To: hr@simplifytrips.com
+Content-Type: multipart/alternative; boundary=001a113d431a9e9ceb054efd05d2
+
+--001a113d431a9e9ceb054efd05d2
+Content-Type: text/plain; charset=UTF-8
+
+Hi Tushar
+Thankyou for the information. I will be there for the interview.
+
+Best,
+Himani Verma
+:)
+
+On 06-May-2017 5:55 PM, <hr@simplifytrips.com> wrote:
+
+> Hi Himani,
+>
+> As per your application received through letsintern, we are pleased to
+> inform you that you have been shortlisted for Face 2 Face interview with
+> us. Your interview is scheduled on 10 May 2017 @ 11:00 hrs. Kindly come
+> with your updated resume/cv and experience certificates.
+>
+> We are looking forward towards the interaction with you.
+>
+>
+> P.S:- You should revert with your consent for this interview.
+>
+> WBR
+>
+> HR,
+> simplifytrips.com
+>
+
+--001a113d431a9e9ceb054efd05d2
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Hi Tushar<div dir=3D"auto">Thankyou for the information. =
+I will be there for the interview.</div><div dir=3D"auto"><br></div><div di=
+r=3D"auto">Best,</div><div dir=3D"auto">Himani Verma</div><div dir=3D"auto"=
+>:)</div></div><div class=3D"gmail_extra"><br><div class=3D"gmail_quote">On=
+ 06-May-2017 5:55 PM,  &lt;<a href=3D"mailto:hr@simplifytrips.com" target=
+=3D"_blank">hr@simplifytrips.com</a>&gt; wrote:<br type=3D"attribution"><bl=
+ockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #=
+ccc solid;padding-left:1ex">Hi Himani,<br>
+<br>
+As per your application received through letsintern, we are pleased to info=
+rm you that you have been shortlisted for Face 2 Face interview with us. Yo=
+ur interview is scheduled on 10 May 2017 @ 11:00 hrs. Kindly come with your=
+ updated resume/cv and experience certificates.<br>
+<br>
+We are looking forward towards the interaction with you.<br>
+<br>
+<br>
+P.S:- You should revert with your consent for this interview.<br>
+<br>
+WBR<br>
+<br>
+HR,<br>
+<a href=3D"http://simplifytrips.com" rel=3D"noreferrer" target=3D"_blank">s=
+implifytrips.com</a><br>
+</blockquote></div></div>
+
+--001a113d431a9e9ceb054efd05d2--

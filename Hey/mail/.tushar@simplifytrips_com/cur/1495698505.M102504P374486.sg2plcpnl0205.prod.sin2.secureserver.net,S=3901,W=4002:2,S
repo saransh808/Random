@@ -1,0 +1,101 @@
+Return-Path: <journey@bol.net.in>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id aUYFBkmMJlnWtgUAwZeyeg
+	for <tushar@simplifytrips.com>; Thu, 25 May 2017 00:48:25 -0700
+Return-path: <journey@bol.net.in>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Thu, 25 May 2017 00:48:25 -0700
+Received: from tbms.bol.net.in ([203.94.248.20]:30728)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtp (Exim 4.88)
+	(envelope-from <journey@bol.net.in>)
+	id 1dDnVQ-001glV-Ud
+	for tushar@simplifytrips.com; Thu, 25 May 2017 00:48:25 -0700
+DKIM-Signature: v=1; a=rsa-sha1; q=dns/txt; c=simple/relaxed; t=1495698460;
+	s=xgen; d=bol.net.in;
+	h=From:In-Reply-To:Date:Message-ID:MIME-Version;
+	z=From:"Journey=20Asia"=20<journey@bol.net.in>|In-Reply-To:<d4deff9523b082e33c389659171ded32@simplifytrips.com>|Date:Thu,=2025=20May=202017=2013:17:11=20+0530|Message-ID:<1667219549.18057461495698460716.JavaMail.root@Mail-Bol-APP>|MIME-Version:1.0;
+	l=1680; bh=hGeYwDz2cgm+BcZWKafSEYSmx/g=;
+	b=Z4aJUhvCgY9esbDYvL5nbDuq5yFJecheD29eaLohqprSMnY/Yq2BHnTA33bBI1Ig
+	xkLO8cvJbqE1GoG9e1Pv5OJZ6BYgn0bUrwX4H0MQP19McGLlwWmUSYM1oGSGkd0Nxl8
+	BYeLYyXvTvT08os8KYEdYt9wGo+XAhSgZgChQJKo=
+Received: From localhost[127.0.0.1] by [203.94.248.57] [Mail-Bol-APP] [mta] with SMTP id ../InBoxS/20170525/13/71952.8853429453(1495698458734); Thu, 25 May 2017 07:47:38 +0000
+Received: From localhost[127.0.0.1] by [127.0.0.1] [Mail-Bol-APP] [mta] with SMTP id 87770.22438130828(1495698458690); Thu, 25 May 2017 07:47:38 +0000
+Received: From[2a4e924bdf17f1239c0357c789fa7b55]  [182.64.105.119] with SMTP id 50394.14358808819(1495698449589); Thu, 25 May 2017 07:47:29 +0000
+From: "Journey Asia" <journey@bol.net.in>
+To: <tushar@simplifytrips.com>
+In-Reply-To: <d4deff9523b082e33c389659171ded32@simplifytrips.com>
+Subject: Read: Strategic Partnership
+Date: Thu, 25 May 2017 13:17:11 +0530
+Message-ID: <1667219549.18057461495698460716.JavaMail.root@Mail-Bol-APP>
+MIME-Version: 1.0
+Content-Type: multipart/report;
+	report-type=disposition-notification;
+	boundary="----=_NextPart_000_0071_01D2D559.40D237D0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdLVITgoatffVeLASdyekUg5gReyfwACcdXn
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0071_01D2D559.40D237D0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_0072_01D2D559.40D237D0"
+
+
+------=_NextPart_001_0072_01D2D559.40D237D0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+Your message
+
+    To:  journey@bol.net.in
+    Subject:  Strategic Partnership
+    Sent:  5/25/2017 11:56 AM
+
+was read on 5/25/2017 1:16 PM.
+
+------=_NextPart_001_0072_01D2D559.40D237D0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3DWindows-1252">
+<META NAME=3D"Generator" CONTENT=3D"MS Exchange Server version =
+08.00.0681.000">
+<TITLE>Read: Strategic Partnership</TITLE>
+</HEAD>
+<BODY>
+<!-- Converted from text/plain format -->
+
+<P><FONT SIZE=3D2>Your message<BR>
+<BR>
+&nbsp;&nbsp;&nbsp; To:&nbsp; journey@bol.net.in<BR>
+&nbsp;&nbsp;&nbsp; Subject:&nbsp; Strategic Partnership<BR>
+&nbsp;&nbsp;&nbsp; Sent:&nbsp; 5/25/2017 11:56 AM<BR>
+<BR>
+was read on 5/25/2017 1:16 PM.</FONT>
+</P>
+
+</BODY>
+</HTML>
+------=_NextPart_001_0072_01D2D559.40D237D0--
+
+------=_NextPart_000_0071_01D2D559.40D237D0
+Content-Type: message/disposition-notification
+Content-Transfer-Encoding: 7bit
+
+Reporting-UA: bol.net.in; Microsoft Office Outlook 12.0
+Final-Recipient: rfc822;journey@bol.net.in
+Original-Message-ID: <d4deff9523b082e33c389659171ded32@simplifytrips.com>
+Disposition: manual-action/MDN-sent-manually; displayed
+
+------=_NextPart_000_0071_01D2D559.40D237D0--
+
+
+
+

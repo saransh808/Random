@@ -1,0 +1,106 @@
+Return-Path: <0100015bb37d8ef1-9a985768-b749-4692-9026-e331e71013ff-000000@amazonses.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id ATpbCzbxAlmSHg0AwZeyeg
+	for <tushar@simplifytrips.com>; Fri, 28 Apr 2017 00:37:26 -0700
+Return-path: <0100015bb37d8ef1-9a985768-b749-4692-9026-e331e71013ff-000000@amazonses.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Fri, 28 Apr 2017 00:37:26 -0700
+Received: from a10-67.smtp-out.amazonses.com ([54.240.10.67]:35598)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1:ECDHE-RSA-AES128-SHA:128)
+	(Exim 4.88)
+	(envelope-from <0100015bb37d8ef1-9a985768-b749-4692-9026-e331e71013ff-000000@amazonses.com>)
+	id 1d40Sz-003cRE-Rv
+	for tushar@simplifytrips.com; Fri, 28 Apr 2017 00:37:26 -0700
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=sagm3s5v2bkj5ajhhso3p5qk6rxw6hya; d=internshala.com;
+	t=1493365002;
+	h=Date:From:Reply-To:To:Subject:Message-ID:Mime-Version:Content-Type;
+	bh=6r/8OuXuhCV4U77uFz0lrtuEZpYup3qM5JDfVGjLFww=;
+	b=DNBzjc9QZGkSqQmezM12uVBvI0tKoDPtvyyS5FEjZW0Rx/6FhmpNAEAtDg8G+NAx
+	qv2ERk5R3YA+BNG1mCsvBTxzIHlrimMcagvZVmZPDia4p473W/glMxI2zMQ/d/+cZFB
+	f25ng5/0Ya1MgOJE32W7eBk9sAUp/VwaLEeOp398=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=224i4yxa5dv7c2xz3womw6peuasteono; d=amazonses.com; t=1493365002;
+	h=Date:From:Reply-To:To:Subject:Message-ID:Mime-Version:Content-Type:Feedback-ID;
+	bh=6r/8OuXuhCV4U77uFz0lrtuEZpYup3qM5JDfVGjLFww=;
+	b=XTxAjBopYbv2Wx1BmGwM4dqPVqhelJ+UPg0EVFbtIf+iwVqwiNnBvKbrxCGNE6Cn
+	ql4HnMul/KOYbZ68uXjWXqLp9YRbJ7VtWkDqyrhUjaNtmTpztdRhrPW44WNwidlPCVO
+	gyeiL7O0MWZMXUypp0nYdJiCfG2a+ub2wTqH0IKM=
+User-Agent: internshala.com
+Date: Fri, 28 Apr 2017 07:36:42 +0000
+From: "Internshala" <employer@internshala.com>
+Reply-To: "Internshala" <employer@internshala.com>
+To: tushar@simplifytrips.com
+Subject: =?UTF-8?Q?Your=20Social=20Media=20Ma?==?UTF-8?Q?rketing=20?= =?UTF-8?Q?internship=20is=20now=20liv?==?UTF-8?Q?e=20on=20Int?= =?UTF-8?Q?ernshala?=
+X-Sender: employer@internshala.com
+X-Mailer: internshala.com
+X-Priority: 3 (Normal)
+Message-ID: <0100015bb37d8ef1-9a985768-b749-4692-9026-e331e71013ff-000000@email.amazonses.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_5902f107653ad"
+X-SES-Outgoing: 2017.04.28-54.240.10.67
+Feedback-ID: 1.us-east-1.zxtucPVubGftJWR49L2EMyyk1hBPV57S2rBAeFj2vQs=:AmazonSES
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5902f107653ad
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Dear Tushar,
+
+We are happy to let you know that your Social Media Marketing internship has
+been accepted and is now live on Internshala. We'll send you regular updates
+once applications start coming in (usually with-in 24-48 hours), you can
+also check them on your dashboard.
+
+What next?
+
+1. Please share the internship post on your Facebook, Linkedin and/or
+Twitter page - it can help you receive upto 20% more applications. Just
+click on the links to share.
+
+2. We recommend reading through these 4 useful intern hiring tips to avoid
+some of the common pain points and ensure a smooth intern hiring experience.
+
+Please feel free to ask if you have any queries. Hope you find some great
+interns :)
+
+ Many thanks,
+ Nitin Malik
+ Manager - Employer Relations
+ Internshala
+ Phone - +91 - 83758 36427
+ LinkedIn | Facebook
+
+
+--B_ALT_5902f107653ad
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Tushar,=0A<br><br>=0AWe are happy to let you know that your <a href=3D=
+"https://internshala.com/internship/detail/social-media-marketing-internshi=
+p-in-noida-at-simplifytrips1493355946">Social Media Marketing internship</a=
+> has been accepted and is now live on Internshala. We'll send you regular =
+updates once applications start coming in (usually with-in 24-48 hours), yo=
+u can also check them on your dashboard.=0A<br><br>=0A<b>What next?</b>=0A<=
+br><br>=0A1. Please share the internship post on your <a href=3D"https://in=
+ternshala.com/internship/share/178383/facebook">Facebook</a>, <a href=3D"ht=
+tps://internshala.com/internship/share/178383/linkedin">Linkedin</a> and/or=
+ <a href=3D"https://internshala.com/internship/share/178383/twitter">Twitte=
+r</a> page - it can help you receive <b>upto 20% more applications</b>. Jus=
+t click on the links to share.=0A<br><br>=0A2. We recommend reading through=
+ <a href=3D"http://blog.internshala.com/2013/06/tips-forinterns-hiring/">th=
+ese 4 useful intern hiring tips</a> to avoid some of the common pain points=
+ and ensure a smooth intern hiring experience.=0A<br><br>=0APlease feel fre=
+e to ask if you have any queries. Hope you find some great interns :)=0A<br=
+/><br/>=0A                        Many thanks,=0A                        <b=
+r/>Nitin Malik=0A                        <br/>Manager - Employer Relations=
+=0A                        <br/><a href=3D'https://internshala.com'>Interns=
+hala<a>=0A                        <br/>Phone - +91 - 83758 36427=0A        =
+                <br/><a href=3D'http://www.linkedin.com/company/1706756'>Li=
+nkedIn</a> | <a href=3D'https://www.facebook.com/Internshala/'>Facebook</a>
+
+--B_ALT_5902f107653ad--

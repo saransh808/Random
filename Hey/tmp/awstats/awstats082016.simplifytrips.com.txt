@@ -1,0 +1,547 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201608 will be lost/reset.
+# Last config file used to build this data file was /home/tusharchoudhary/tmp/awstats/awstats.simplifytrips.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2702                
+POS_VISITOR 10042               
+POS_DAY 13416               
+POS_DOMAIN 3487                
+POS_LOGIN 3944                
+POS_ROBOT 4099                
+POS_WORMS 4619                
+POS_EMAILSENDER 4750                
+POS_EMAILRECEIVER 4893                
+POS_SESSION 13989               
+POS_SIDER 14190               
+POS_FILETYPES 5028                
+POS_DOWNLOADS 5299                
+POS_OS 5347                
+POS_BROWSER 5624                
+POS_SCREENSIZE 6579                
+POS_UNKNOWNREFERER 6653                
+POS_UNKNOWNREFERERBROWSER 7052                
+POS_ORIGIN 7366                
+POS_SEREFERRALS 7506                
+POS_PAGEREFS 7661                
+POS_SEARCHWORDS 8008                
+POS_KEYWORDS 8160                
+POS_MISC 2365                
+POS_ERRORS 8219                
+POS_CLUSTER 3800                
+POS_SIDER_404 8371                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160901002420 100 18774 9558772387610
+FirstTime 20160810011413
+LastTime 20160831224857
+LastUpdate 20160901044915 100 0 99 0 0
+TotalVisits 145                 
+TotalUnique 84                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 85                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 81 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 93 118 1491325 63 81 215884
+1 7 10 133342 39 41 154182
+2 49 96 1941292 61 89 213219
+3 6 12 501394 63 76 199868
+4 41 62 3135017 66 80 134372
+5 60 82 1607018 59 92 1035972
+6 25 65 1159537 33 42 136869
+7 12 24 183173 33 43 636262
+8 5 11 491383 57 62 161378
+9 5 25 1068671 95 109 392116
+10 10 47 940523 70 82 317293
+11 33 110 2830030 40 60 213702
+12 4 4 3956 20 26 42006
+13 4 4 3951 12 13 45523
+14 2 2 2061 7 12 25184
+15 2 2 3167 8 12 29926
+16 9 9 28098 6 9 7698
+17 2 2 0 19 20 78383
+18 10 10 95972 27 37 122705
+19 10 28 1557378 61 76 816963
+20 7 25 1464433 49 61 120296
+21 11 38 1995427 39 58 117059
+22 6 30 607006 57 75 196759
+23 72 113 2476592 65 92 263956
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 19
+in 343 774 22533322
+il 51 55 544950
+us 46 46 172455
+br 19 28 168586
+jp 7 7 104196
+it 3 3 2835
+fr 2 2 2066
+ph 2 2 1890
+ca 2 2 3564
+ru 1 1 1116
+ua 1 1 950
+ro 1 1 89573
+de 1 1 89573
+st 1 1 945
+dz 1 1 945
+se 1 1 945
+gb 1 1 945
+au 1 1 945
+es 1 1 945
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+googlebot 123 253296 20160831231455 9
+php 91 1827882 20160822023114 0
+spider 26 144147 20160830100952 0
+bot[\s_+:,\.\;\/\\-] 20 60049 20160826183510 4
+unknown 5 230 20160822141931 5
+ruby\/ 3 7050 20160829102833 0
+no_user_agent 3 22599 20160831064355 0
+googlebot\-image 2 894686 20160831072343 0
+robot 2 7397 20160825214532 0
+ia_archiver 2 2248 20160824191748 1
+curl 1 0 20160823040146 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+svg 5 27010 0 0
+php 250 3906860 0 0
+Unknown 15 45765 0 0
+ttf 1 13889 0 0
+css 105 603086 0 0
+png 17 2140369 0 0
+jpg 53 12637924 0 0
+gif 5 25886 0 0
+html 195 1292223 0 0
+js 259 2468766 0 0
+woff 24 558968 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+linuxandroid 101 22
+win7 103 64
+macosx9 5 5
+winnt 576 302
+blackberry 1 1
+winlong 54 15
+Unknown 36 36
+linuxubuntu 2 2
+macosx7 3 3
+macosx8 3 3
+linux 10 10
+win8 5 4
+winphone 14 2
+winxp 11 11
+win8.1 4 4
+macosx6 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 47
+chrome27.0.1453.90 1 1
+chrome50.0.2661.89 1 1
+firefox24.0 1 1
+chrome51.0.2704.103 1 1
+chrome52.0.2743.98 86 19
+firefox3.6.3 1 1
+firefox47.0 1 1
+mozilla 1 1
+chrome31.0.1650.57 2 2
+safari7.0 1 1
+chrome37.0.2062.120 1 1
+firefox36.0 2 2
+chrome31.0.1650.63 10 10
+firefox27.3 1 1
+chrome32.0.1700.68 1 1
+msie10.0 16 4
+opera12.16 1 1
+msie8.0 7 7
+chrome47.0.2526.111 7 7
+firefox7.0.1 1 1
+chrome32.0.1700.107 5 5
+chrome12.0.742.91 1 1
+safari6.0.5 1 1
+firefox28.0 2 2
+msie9.0 1 1
+chrome49.0.2623.108 7 1
+chrome36.0.1985.143 28 19
+chrome32.0.1700.72 2 2
+chrome41.0.2227.0 3 3
+firefox14.0.1 2 2
+safari6.1.1 2 2
+firefox33.0 1 1
+Unknown 35 35
+chrome35.0.1916.153 1 0
+chrome49.0.2623.112 52 13
+firefox26.0 14 11
+chrome49.0.2623.105 7 1
+firefox40.1 1 1
+firefox27.0 2 2
+blackberry 1 1
+msie11.0 1 1
+msie6.0 1 1
+chrome52.0.2743.116 608 307
+firefox25.0 4 4
+chrome40.0.2214.111 2 2
+chrome28.0.1500.71 1 1
+chrome10.0.639.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Mozilla/5.0_(compatible;_Embedly/0.2;__http://support.embed.ly/) 20160829043739
+WordPress/4.6;_http://www.simplifytrips.com 20160824062317
+panscient.com 20160816203333
+Ruby 20160817161257
+Pinterest_Domain_Verifier 20160823005004
+WordPress/4.5.3;_http://www.simplifytrips.com 20160822180318
+Whibse 20160821210554
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+WordPress/4.6;_http://www.simplifytrips.com 20160824062317
+panscient.com 20160816203333
+Ruby 20160817161257
+WordPress/4.5.3;_http://www.simplifytrips.com 20160822180318
+Pinterest_Domain_Verifier 20160823005004
+Whibse 20160821210554
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 155 157
+From1 0 0
+From2 3 3
+From3 33 33
+From4 294 736
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+http://seo-2-0.com/try.php 25 25
+http://buttons-for-website.com 4 4
+http://l.facebook.com/lsr.php 1 1
+http://burger-imperia.com 1 1
+https://t.co/REusFbcYiv 1 1
+https://www.facebook.com/check_tag 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+206 616 2146655
+403 9 13329
+301 11 488
+404 256 265152
+302 16 0
+500 26 32367
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 40
+/user/ 1 -
+/images/social-icons.png 41 http://www.simplifytrips.com/
+/administrator/index.php 2 -
+/typo3/ 2 -
+/sitemap.xml 3 -
+/2016/03/simplifying-trips-leh-ladakh-episode-4.html 12 -
+/2016/03/simplifying-trips-leh-ladakh-episode-2.html 5 -
+/merchants 1 -
+/2016_04_01_archive.html 6 -
+/blog 1 -
+/blog/ 1 http://simplifytrips.com/blog/
+/feeds/68701338629881555/comments/default 1 -
+/2016/03/21/simplifying-trips-leh-ladakh-episode-4/ 1 -
+/comming/index.html 1 -
+/admin/index.php 1 -
+/admin.php 3 -
+/2016/04/simplifying-ttips-kota-shivpuri-jhansi.html 5 -
+/feeds/3971185922594253061/comments/default 1 -
+/robots.txt 64 -
+/2016/04/ 1 -
+/feeds/posts/default 15 -
+/2016/04/13/simplifying-trips-rajkot-gandhinagar-udaipur-chittorgarh-kota/ 1 -
+/2016/03/simplifying-trips-leh-ladakh-epsiode-3.html 4 -
+/2016/03/simplifying-trips-noida-to-rajkot.html 18 -
+/manager/ 1 -
+/2016/03/simplifying-trips-leh-ladakh-episode-1.html 5 -
+/search 6 -
+/2016/03/simplifying-trips-leh-ladakh-episode-5.html 12 -
+/category/uncategorized/ 1 -
+/wp-login.php 1 -
+/2016_03_01_archive.html 13 -
+/2016/04/simplifying-trips-rajkot-gandhinagar.html 12 -
+/feeds/7231472498010021189/comments/default 2 -
+/index.php/admin 1 -
+/2016/03/17/simplifying-trips-leh-ladakh-episode-1/ 1 -
+/delete-comment.g 1 -
+/feeds/7650620466404888887/comments/default 1 -
+/wp-admin 4 -
+/2016/03/ 3 -
+/operators 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 85
+116.75.219.117 126 245 6530655 20160831194521
+182.71.57.202 83 113 3619092 20160822042510
+202.142.67.220 60 124 1748267 20160817060319
+82.80.249.156 29 31 309629 20160818001136
+103.12.134.6 23 74 1303118 20160824114943
+166.62.30.157 22 22 4495 20160824062317
+82.80.230.228 21 22 212529 20160818001150
+112.133.254.243 12 46 1570289 20160831215514
+202.142.99.192 8 39 2070014 20160826032324
+103.12.134.4 7 41 1615823 20160831095347
+202.142.70.183 4 16 527873 20160831224857
+202.142.67.212 4 4 5455 20160812035637
+184.168.224.190 3 3 2835 20160814161825
+184.168.224.231 3 3 2835 20160816162510
+69.58.178.56 3 3 13007 20160815034126
+200.232.232.46 3 12 153466 20160817073824
+150.129.177.213 3 6 23231 20160810012642
+72.76.221.220 2 2 3565 20160816203333
+202.142.70.59 2 2 3566 20160811043548
+150.129.177.94 2 14 525309 20160829050628
+192.95.50.77 2 2 3564 20160813180052
+187.2.248.61 1 1 945 20160810115510
+152.241.84.114 1 1 945 20160814073433
+82.50.114.80 1 1 945 20160811082333
+201.55.136.206 1 1 945 20160814121029
+171.51.51.251 1 7 486492 20160830193203
+52.25.110.184 1 1 20538 20160821210554
+176.126.252.12 1 1 89573 20160817193251
+150.70.173.41 1 1 2825 20160831194745
+117.239.117.228 1 6 485186 20160825213834
+1.39.51.195 1 1 945 20160810024556
+82.56.7.81 1 1 945 20160810130901
+54.236.1.12 1 1 5277 20160823005004
+177.13.223.248 1 1 945 20160813123326
+83.40.159.151 1 1 945 20160811053940
+200.148.27.229 1 1 945 20160810134232
+112.198.246.10 1 1 945 20160810233853
+66.220.145.244 1 1 945 20160812082108
+197.116.237.200 1 1 945 20160810130807
+138.59.105.87 1 1 945 20160812085215
+184.168.224.230 1 1 945 20160810162415
+150.70.173.59 1 1 2825 20160830112126
+168.205.174.105 1 1 945 20160814181649
+173.252.88.186 1 1 945 20160811021948
+54.221.199.147 1 1 950 20160829043739
+122.175.61.246 1 7 486326 20160829233331
+191.44.33.67 1 1 945 20160810110745
+150.70.173.8 1 1 2825 20160830193319
+82.80.249.211 1 1 20538 20160818001050
+189.84.79.82 1 1 945 20160812075325
+150.70.188.179 1 1 89573 20160821104529
+186.216.194.243 1 1 945 20160813142418
+54.159.181.92 1 1 945 20160815180604
+96.247.191.237 1 1 945 20160811064053
+177.104.64.102 1 1 945 20160813203426
+54.198.13.178 1 1 2222 20160829150130
+31.132.183.106 1 1 1116 20160830132103
+193.251.65.223 1 1 1116 20160831141611
+103.5.218.52 1 1 945 20160815190233
+87.248.59.21 1 1 945 20160816044633
+125.60.156.179 1 1 945 20160815021834
+184.168.224.229 1 1 20538 20160817161257
+186.232.205.219 1 1 945 20160816055443
+79.102.160.118 1 1 945 20160816061920
+178.238.232.57 1 1 89573 20160819182228
+27.58.131.208 1 7 486326 20160830092937
+150.70.173.46 1 1 1963 20160811073351
+124.148.139.124 1 1 945 20160816025236
+163.172.38.175 1 1 945 20160813150126
+186.244.115.0 1 1 945 20160816161658
+223.176.181.31 1 7 486326 20160825020906
+106.222.20.126 1 7 486326 20160827085303
+191.185.176.225 1 1 945 20160814181433
+104.197.0.150 1 1 89573 20160822010627
+91.210.147.155 1 1 950 20160825123554
+82.80.249.143 0 1 2254 
+223.176.188.168 1 7 71758 20160825104319
+177.7.144.197 1 1 945 20160814053625
+72.14.199.102 1 1 950 20160828231545
+150.70.173.9 1 1 2222 20160827085458
+150.70.188.169 1 1 1963 20160816025414
+191.179.237.188 1 1 945 20160815200104
+200.180.69.138 1 1 945 20160815041410
+149.202.114.211 1 1 950 20160826192831
+197.159.189.157 1 1 945 20160812022312
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 22
+20160810 12 15 33412 10
+20160811 15 21 59331 11
+20160812 10 13 33199 8
+20160813 8 8 9234 7
+20160814 7 7 6615 7
+20160815 10 10 19622 8
+20160816 11 11 14763 9
+20160817 70 151 2111226 8
+20160818 53 57 544950 5
+20160819 48 51 2365900 5
+20160820 2 2 0 2
+20160821 5 13 205019 5
+20160822 111 166 3011660 9
+20160823 39 41 292625 5
+20160824 38 150 5805712 8
+20160825 5 29 1531686 5
+20160826 3 15 526259 3
+20160827 2 8 488548 2
+20160828 4 22 117899 4
+20160829 6 27 1483491 5
+20160830 16 72 3514532 10
+20160831 10 40 1545063 9
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+2mn-5mn 2
+15mn-30mn 4
+30s-2mn 2
+30mn-1h 5
+0s-30s 123
+5mn-15mn 9
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 47
+/ 144 811118 116 107
+/wp-admin/admin-ajax.php 113 57064 3 4
+/wp-admin/load-scripts.php 34 2421616 0 0
+/wp-cron.php 20 0 16 17
+/wp-admin/setup-config.php 12 20265 2 1
+/wp-admin/load-styles.php 11 769878 0 1
+/2016/03/17/simplifying-trips-leh-ladakh-episode-1/ 10 87154 0 0
+/wp-login.php 10 11687 1 2
+/cpanel 10 32658 0 7
+/wp-admin/themes.php 9 128618 0 0
+/wp-admin/update.php 8 73240 0 0
+/wp-content/themes/deserve/fonts/istokweb-regular-webfont.woff 8 184048 0 0
+/wp-admin/theme-install.php 8 106569 0 0
+/wp-content/themes/deserve/fonts/istokweb-bold-webfont.woff 8 177880 0 1
+/wp-content/themes/deserve/fonts/opensans-regular-webfont.woff 8 197040 0 1
+/2016/03/21/simplifying-trips-leh-ladakh-episode-4/ 6 42170 0 0
+/2016/03/28/simplifying-trips-noida-to-rajkot/ 6 45246 0 0
+/wp-admin/ 5 66040 0 0
+/webmail 5 13107 4 2
+/wp-admin/profile.php 4 65482 0 0
+/wp-admin/edit.php 4 51582 0 0
+/2016/08/17/hello-world/ 3 14586 1 0
+/2016/04/13/simplifying-trips-rajkot-gandhinagar-udaipur-chittorgarh-kota/ 2 13620 1 0
+/2016/03/18/simplifying-trips-leh-ladakh-episode-2/ 2 15036 0 0
+/wp-admin/admin.php 2 12473 0 0
+/wp-content/themes/twentysixteen/genericons/Genericons.ttf 1 13889 0 0
+/comments/feed/ 1 1613 0 0
+/wp-admin/plugin-install.php 1 11700 0 0
+/2016/04/19/simplifying-trips-kota-shivpuri-jhansi-fatehpur-allahabad/ 2 13440 0 0
+/2016/04/ 2 15636 0 0
+/wp-admin/install.php 2 3411 0 0
+/2016/03/24/simplifying-trips-leh-ladakh-episode-5-final-episode/ 2 14096 0 0
+/author/tushar/ 2 41192 0 1
+/wp-admin/upgrade.php 1 21 1 1
+/2016/08/ 1 3906 0 0
+/wp-admin/import.php 2 12346 0 0
+/2016/03/ 2 34210 0 0
+/wp-admin/tools.php 1 7994 0 0
+/2016/03/19/simplifying-trips-leh-ladakh-epsiode-3/ 2 14762 0 0
+/feed/ 1 17204 0 0
+/category/uncategorized/ 2 41194 0 0
+/wp-admin/update-core.php 2 33762 0 0
+/wp-admin/plugins.php 2 38097 0 0
+/wp-admin/options-media.php 1 16181 0 0
+/wp-admin/post.php 1 30357 0 0
+/wp-admin/options-general.php 1 16282 0 0
+/wp-admin/about.php 1 18235 0 0
+END_SIDER

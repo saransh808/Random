@@ -1,0 +1,129 @@
+Return-Path: <hemani.verma95@gmail.com>
+Delivered-To: hr@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id +Zp2BYXVFVmUqAkAwZeyeg
+	for <hr@simplifytrips.com>; Fri, 12 May 2017 08:32:21 -0700
+Return-path: <hemani.verma95@gmail.com>
+Envelope-to: hr@simplifytrips.com
+Delivery-date: Fri, 12 May 2017 08:32:21 -0700
+Received: from mail-yw0-f175.google.com ([209.85.161.175]:34996)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.88)
+	(envelope-from <hemani.verma95@gmail.com>)
+	id 1d9CYH-002ffN-0g
+	for hr@simplifytrips.com; Fri, 12 May 2017 08:32:21 -0700
+Received: by mail-yw0-f175.google.com with SMTP id l135so12676514ywb.2
+        for <hr@simplifytrips.com>; Fri, 12 May 2017 08:32:00 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=tpe977ic5kv3L3OJm819/V+E6mpMPZ03iBHc1K5AsyA=;
+        b=NSrbp3ih8b+/FhRYzyuzDZGVkOMY773VCfOtNFcGFc39P8IDC+YnghQMboxZiQMV73
+         /xRSIUZiQ6UYetOX4hMkXJ9EihtTdLn8A9mdKiTfj05rr1JZs5+aXjVF1tOeTtNm3p69
+         fG4NcgbXgO1SIRq0o1Lcdi1YAUHunrBYojJKxfDUwmO0QGL6n1WflnTi7zCpFKKXGqg+
+         Jzro+KJJJBCRRijlxSP4y+68mSJJ3qe5qITVxPkSxanciJzLKoQCVU9gWeRnj1NcKW5b
+         dcvdoYq6KNBXbH56LNIKOrEu7cze1c+koqJB2a9Ij07+DJy2bUA+O2GH5lvSXu9kWuHi
+         ONoQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=tpe977ic5kv3L3OJm819/V+E6mpMPZ03iBHc1K5AsyA=;
+        b=eFjPhui5SYVMoKD5lOkw83eWFSkrQ+4YMDaKIrFlqH+11YPymuVrHzxNQDp+CDq5bu
+         oh2EOsvBz4FgQqTaabycOo3/vTWoy/JizUV+6TSYk9BFKjv1ny8NX2020GTua79izTq5
+         NbdvECCS+nBNorpdNdi1E6o7YqfOX9qx05wE0ye92i9y48u/8f2IQfcoaSyBKZ16QwKP
+         cypLMR5NwOTDWSzDhMb4WZ5bR97lUniE0LjXbyJR8geJ7mbtTtXiKHJ56+qRTlqhTdD1
+         XCgktxzCmqm79enPOPjteDwHizHWLyGrZyWDbo4xVpJG1ETFvY6Kba7dGQZOxZBNnJ0V
+         UzkA==
+X-Gm-Message-State: AODbwcCH2e+ywZwETcnRlxs9D/AkaO04tKH36xg51yOG9cuw7zSMgW4p
+	mo5jqGvSz6jFwUIOmpoG4nIEllQHF+iq
+X-Received: by 10.129.85.68 with SMTP id j65mr4056902ywb.309.1494603098843;
+ Fri, 12 May 2017 08:31:38 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.37.174.86 with HTTP; Fri, 12 May 2017 08:31:38 -0700 (PDT)
+Received: by 10.37.174.86 with HTTP; Fri, 12 May 2017 08:31:38 -0700 (PDT)
+In-Reply-To: <559611bbe0fa1dae6da60970c77f3c0e@simplifytrips.com>
+References: <559611bbe0fa1dae6da60970c77f3c0e@simplifytrips.com>
+From: Himani Verma <hemani.verma95@gmail.com>
+Date: Fri, 12 May 2017 21:01:38 +0530
+Message-ID: <CA+5chwsBNA+YDRzgmA0cAZDP3EfvB=P4q3zT6-tZCL5hpGTt3g@mail.gmail.com>
+Subject: Re: Lets cut the chase - Application declined
+To: hr@simplifytrips.com
+Content-Type: multipart/alternative; boundary="001a113f1eaac97c82054f5566a3"
+
+--001a113f1eaac97c82054f5566a3
+Content-Type: text/plain; charset="UTF-8"
+
+Hi Tushar
+I reached at the address given, but because there was no office in A7 1st
+floor Manhattan building, and even the guards there didn't know if there is
+any office, I came back.
+
+I saw your calls right now. And, I think there might have been some mistake
+in the address only provided in the mail and told by you over phone.
+
+Still I am sorry for any inconvenience caused.
+
+Best,
+Himani Verma
+
+On 12-May-2017 1:27 PM, <hr@simplifytrips.com> wrote:
+
+> Dear Himani,
+>
+>  Since you didn't turned up for the interview even after confirming the
+> same from your end and didn't even responded to the calls, we have to
+> assume that your priorities have changed and your application for online
+> market intern with simplifytrips is hereby cancelled. You should have
+> informed us during the call that you will not be coming for the interview
+> instead of asking for the address.
+>
+>
+> We wish you best of luck for your future and hope you stick to all your
+> future commitments.
+>
+>
+> WBR
+>
+> HR,
+> simplifytrips.com
+>
+
+--001a113f1eaac97c82054f5566a3
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Hi Tushar<div dir=3D"auto">I reached at the address given=
+, but because there was no office in A7 1st floor Manhattan building, and e=
+ven the guards there didn&#39;t know if there is any office, I came back.</=
+div><div dir=3D"auto"><br></div><div dir=3D"auto">I saw your calls right no=
+w. And, I think there might have been some mistake in the address only prov=
+ided in the mail and told by you over phone.</div><div dir=3D"auto"><br></d=
+iv><div dir=3D"auto">Still I am sorry for any inconvenience caused.</div><d=
+iv dir=3D"auto"><br></div><div dir=3D"auto">Best,</div><div dir=3D"auto">Hi=
+mani Verma</div></div><div class=3D"gmail_extra"><br><div class=3D"gmail_qu=
+ote">On 12-May-2017 1:27 PM,  &lt;<a href=3D"mailto:hr@simplifytrips.com">h=
+r@simplifytrips.com</a>&gt; wrote:<br type=3D"attribution"><blockquote clas=
+s=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;pad=
+ding-left:1ex">Dear Himani,<br>
+<br>
+=C2=A0Since you didn&#39;t turned up for the interview even after confirmin=
+g the same from your end and didn&#39;t even responded to the calls, we hav=
+e to assume that your priorities have changed and your application for onli=
+ne market intern with simplifytrips is hereby cancelled. You should have in=
+formed us during the call that you will not be coming for the interview ins=
+tead of asking for the address.<br>
+<br>
+<br>
+We wish you best of luck for your future and hope you stick to all your fut=
+ure commitments.<br>
+<br>
+<br>
+WBR<br>
+<br>
+HR,<br>
+<a href=3D"http://simplifytrips.com" rel=3D"noreferrer" target=3D"_blank">s=
+implifytrips.com</a><br>
+</blockquote></div></div>
+
+--001a113f1eaac97c82054f5566a3--

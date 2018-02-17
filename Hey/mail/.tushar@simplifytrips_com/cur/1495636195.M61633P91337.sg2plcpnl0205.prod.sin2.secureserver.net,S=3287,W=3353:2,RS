@@ -1,0 +1,66 @@
+Return-Path: <anujaprakash02@gmail.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id gU6SA+OYJVnJZAEAwZeyeg
+	for <tushar@simplifytrips.com>; Wed, 24 May 2017 07:29:55 -0700
+Return-path: <anujaprakash02@gmail.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Wed, 24 May 2017 07:29:55 -0700
+Received: from mail-oi0-f53.google.com ([209.85.218.53]:36746)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.88)
+	(envelope-from <anujaprakash02@gmail.com>)
+	id 1dDXIQ-000OuL-UY
+	for tushar@simplifytrips.com; Wed, 24 May 2017 07:29:54 -0700
+Received: by mail-oi0-f53.google.com with SMTP id h4so243524444oib.3
+        for <tushar@simplifytrips.com>; Wed, 24 May 2017 07:29:34 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=2vhd3CZJ7k4uHff9YSM+30bOLFw95h6ORuPmRn4syA0=;
+        b=Mi9TEGMIKyIZLG2OlLFWmoqk6WPYycEbDQERVpaDNfn698k6OOC36WsdmJ+isNbFiP
+         Ky5HayqLb1uiYp+35Wl2mCYEeA3uTTBIVi7z8EwpHJ5HDNnpDBbHkxPkZ6ZndGavp51c
+         TqJo76Mjn3TssOjNk5tZhfuXKYE+UVQmombBGhd/AzDWOnb8GIrewYQBUnYtsoMKTOsE
+         IJ6zU4+D/Qeww/yD/NnBnFdliQ2Wo9qUIPzTM+ZVBBySOTFbxkl6bTd3oLRkPAX3Sl6R
+         6EFijPc5RLV3So7A4mxwNYvy5+ZZcs6jy6qXPxgKETmR56uu3+9oUKlz4WSu6zIJtRdG
+         aGkA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=2vhd3CZJ7k4uHff9YSM+30bOLFw95h6ORuPmRn4syA0=;
+        b=uATywHgcu0jORNlsLfYtLZ/oy9NvYHtjZ+tkG6gWa9Q8h0j3sNjkit7nZd/aaFYi3A
+         J0n/KZvGA5/uE4mt8FnWBvQlt7sfTyHvVD4IhK+iya5Q3gr5dk50JeNKKWnDvK0nZgg/
+         KKWgzlhwbjr1jp/RY61uHGZPQjgvFF13Dhxb9u2Jlf6aziU5iFPOownyiI4sRvXOic7U
+         4OiAIg3FViSRXBcxmnN1hGP+BwEV3nLsv6FMPGT5/tHuB9w6/lc4D03w1Sx/jSNOYd2j
+         rO5xAxK/ZJ57ibWAFtydResOk/Etbdc9AlOmCVmg1yOjGP9fnB7QbPobDCgfMkuUD7GH
+         pgCg==
+X-Gm-Message-State: AODbwcDACKuL2JVtxOWmgx3sgH4JzgiMhZKvtIZGwyjEr5xJEAoweyBe
+	YFitphWlrhVGfT4vYM3ARjCG9b3Srw==
+X-Received: by 10.202.78.200 with SMTP id c191mr17882768oib.203.1495636152636;
+ Wed, 24 May 2017 07:29:12 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.74.89.209 with HTTP; Wed, 24 May 2017 07:29:12 -0700 (PDT)
+From: anuja prakash <anujaprakash02@gmail.com>
+Date: Wed, 24 May 2017 19:59:12 +0530
+Message-ID: <CAD5EM6QEjAP8LHbwX5oxTS7tNcoPgktcpiXHv16LrN3erzEpWQ@mail.gmail.com>
+Subject: Internship
+To: tushar@simplifytrips.com
+Content-Type: multipart/alternative; boundary="001a11c160b6975cfe055045ed97"
+
+--001a11c160b6975cfe055045ed97
+Content-Type: text/plain; charset="UTF-8"
+
+Dear sir,
+I have been shortlisted for internship at simplifytrips. Please let me know
+when my interview is.
+
+-- 
+Anuja Prakash
+
+--001a11c160b6975cfe055045ed97
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr">Dear sir,<div>I have been shortlisted for internship at simplifytrips. Please let me know when my interview is.<br clear="all"><div><br></div>-- <br><div class="gmail_signature" data-smartmail="gmail_signature">Anuja Prakash</div>
+</div></div>
+
+--001a11c160b6975cfe055045ed97--

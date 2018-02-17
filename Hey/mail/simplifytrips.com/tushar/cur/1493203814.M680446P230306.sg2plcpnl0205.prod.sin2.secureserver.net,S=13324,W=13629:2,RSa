@@ -1,0 +1,305 @@
+Return-Path: <ravishankars@nativebag.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id mUdwKGZ7AFmigwMAwZeyeg
+	for <tushar@simplifytrips.com>; Wed, 26 Apr 2017 03:50:14 -0700
+Return-path: <ravishankars@nativebag.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Wed, 26 Apr 2017 03:50:14 -0700
+Received: from [103.8.124.3] (port=38463 helo=server15.hostingraja.in)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <ravishankars@nativebag.com>)
+	id 1d3KWU-000xu0-Dh
+	for tushar@simplifytrips.com; Wed, 26 Apr 2017 03:50:14 -0700
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=nativebag.com; s=default; h=Content-Type:In-Reply-To:MIME-Version:Date:
+	Message-ID:From:Cc:References:To:Subject;
+	bh=iEypSHlrsLxLdd1GfY7na5py+vySi6frtPpTYVwaLBg=; b=jeJLgwPfd0nqYJ7WQiYxgfrUdM
+	DUbJZhOwAnYJK/gJB183Lll36XPlSbr1UvBCdNtsvcU9Fhc+92NWP6C3eIKUcHInXZK1HgR5y0/5c
+	+MjxKPgzrkDhDtPwcfjvvaTQGZzQo4C1AcVVvO41zMsU4W3w9mIZGsEIZ39T5Cei4Z9IpYbIm9m4N
+	zIo01nS1fDaXaKOlfAmWISbKmx4XZGphaELXryHPNdZ+idxHux/gvsoMh7TBmoRLQZeDR0Z6EjYS5
+	oMS6pdat2Of95+BUIwTA73XS+VYLAuE7cQS8fDSmmUwal0jxtA/rHkqLsbEUcuf84nRHf2wDW/SsK
+	MhNzNvXQ==;
+Received: from [103.227.99.71] (port=8966 helo=ravishankar.com)
+	by server15.hostingraja.in with esmtpa (Exim 4.86_1)
+	(envelope-from <ravishankars@nativebag.com>)
+	id 1d3KVn-001e8T-NH; Wed, 26 Apr 2017 16:19:31 +0530
+Subject: Re: Strategic Partnership - Nativebag.in
+To: tushar@simplifytrips.com
+References: <b61fdff2-860f-0669-bd6d-21d31169f138@nativebag.com>
+ <0e62a347-355c-1976-8369-7df17bedce82@nativebag.com>
+ <2a526611-497a-667d-6f93-972b00b39c0b@nativebag.com>
+ <0344da10bb4bc86f37ee45df2e8264de@simplifytrips.com>
+ <f1c210db-d461-5692-d79b-0ab7c6228300@nativebag.com>
+Cc: Bharath <bharathars@nativebag.com>
+From: Ravishankar <ravishankars@nativebag.com>
+Message-ID: <c0b2c801-a195-79fc-ce03-147080da7d09@nativebag.com>
+Date: Wed, 26 Apr 2017 16:19:32 +0530
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101
+ Thunderbird/45.4.0
+MIME-Version: 1.0
+In-Reply-To: <f1c210db-d461-5692-d79b-0ab7c6228300@nativebag.com>
+Content-Type: multipart/alternative;
+ boundary="------------4D627A770769E526EB2614D2"
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server15.hostingraja.in
+X-AntiAbuse: Original Domain - simplifytrips.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - nativebag.com
+X-Get-Message-Sender-Via: server15.hostingraja.in: authenticated_id: ravishankars@nativebag.com
+X-Authenticated-Sender: server15.hostingraja.in: ravishankars@nativebag.com
+
+This is a multi-part message in MIME format.
+--------------4D627A770769E526EB2614D2
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Dear Tushar,
+
++Co-founder, Bharath.
+
+Below is the tentative plan for the Phase I launch:
+*Step 1:* Discuss options to integrate [Dedicated/Integrated Payment 
+model] (Target: End of this week?)
+Nativebag to send the snapshots of the target plugin look and placement.
+Finalize locations to target as Phase I launch; Top revenue making 
+locations for SimplifyTrips.com.
+We can get into a conference call. Please let me know the best time for 
+a call tomorrow.
+*Step 2:* Implemement/Finalize the NB Plugin based on the customization 
+needs. (Duration: ~2 weeks)
+*2 a)* SimplifyTrips.com to share, if any APIs to push the content to 
+their PNR/ticketing system with the Nativebag order.
+*Step 3:* Integration and Staging (Duration: 1 week)
+*Step 4:* Launch (Can we target May end?)
+Note: All the above plans are indicative and just to move forward. We 
+would be definitely looking for your inputs to amend.
+
+Please let me know your thoughts.
+We would love to meet in person, but we seem based out a little far now. :)
+
+Regards,
+Ravi
+
+
+------------------------------------------------------------------------
+
+*From:* Ravishankar
+*Sent:* Tuesday, April 25, 2017 1:12PM
+*To:* Tushar
+*Subject:* Re: Strategic Partnership - Nativebag.in
+
+Thanks a lot Tushar and it really made our day.
+This will be a joint exercise in terms of understanding each other's 
+technical stack and integration points.
+I will send you the next course of actions shortly.
+
+Regards,
+Ravi
+------------------------------------------------------------------------
+
+*From:* Tushar
+*Sent:* Tuesday, April 25, 2017 12:28PM
+*To:* Ravishankar
+*Subject:* Re: Strategic Partnership - Nativebag.in
+
+On 2017-04-20 06:24, Ravishankar wrote:
+
+>
+> hi Tushar,
+>
+> I am co-founder of Nativebag.in, with rich prior experience in Amadeus 
+> Software Labs and have keen interest in Travel & related businesses.
+> I would like to present you with a partnership proposal for 
+> Nativebag.in with SimplifyTrips.com.
+> Nativebag specializes in specialties (food/gourmet/arts/handicrafts 
+> etc) of every place in India.
+> We also supply GI Tagged products (like a patent to certain section of 
+> manufacturers/sellers) of India.
+> We are also affiliated with _**Textiles-Ministry of India through 
+> IHB**__*(Indian Handloom Brand)*_ and their authorized e-commerce 
+> partner channel.
+>
+> _*Proposal:*_
+> Based on the travel location searched/booked by your customers, we 
+> could offer specific specialty products of the location as content in 
+> your website.
+> We could offer our products either as a separately bookable content 
+> like 'Local Specialties' (or) along with any bookable content on your 
+> site.
+> Technically we can work it out based on the scenario._
+> _*_
+> Whats in it forSimplifyTrips.com?_*
+> a) Customer satisfaction as they would get access to specific 
+> products/specialties where they travel.
+> b) Souvenir is a very unorganized sector with lots of adulteration and 
+> duplicate issues. With GI and select authorized sellers from our side, 
+> this can be averted. This gives an edge over other players in the OTA 
+> industry.
+> c) Completes the trip from a nativity experience perspective.
+> d) Additional review channel.
+>
+> Please let me know your thoughts.
+> Looking forward for a positive response and hence with a mutually 
+> beneficial partnership.
+>
+> Regards,
+> Ravi
+> Co-founder, Nativebag.in
+> https://www.linkedin.com/in/ravisingaram/
+> 9632559988/9663381003
+
+Hi Ravi,
+
+After discussing your proposal with my team , I am pleased to inform you 
+that everyone has nodded yes to this proposal. Moreover kindly let me 
+know what exactly how should we proceed on this.
+
+
+
+
+
+
+--------------4D627A770769E526EB2614D2
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+  </head>
+  <body smarttemplateinserted="true" bgcolor="#FFFFFF" text="#000000">
+    <div id="smartTemplate4-template">
+      <p><font face="Courier New, Courier, monospace">Dear Tushar,</font></p>
+      <font face="Courier New, Courier, monospace">+Co-founder, Bharath.<br>
+      </font><br>
+      <font face="Courier New, Courier, monospace">Below is the
+        tentative plan for the Phase I launch:<br>
+        <b><font color="#cc6600">Step 1:</font></b> Discuss options to
+        integrate [Dedicated/Integrated Payment model] (Target: End of
+        this week?)<br>
+        Nativebag to send the snapshots of the target plugin look and
+        placement.<br>
+        Finalize locations to target as Phase I launch; Top revenue
+        making locations for SimplifyTrips.com.</font><br>
+      <font face="Courier New, Courier, monospace"><font face="Courier
+          New, Courier, monospace">We can get into a conference call.
+          Please let me know the best time for a call tomorrow.<br>
+        </font><b><font color="#cc6600">Step 2:</font></b> Implemement/Finalize
+        the NB Plugin based on the customization needs. (Duration: ~2
+        weeks)<br>
+        <b><font color="#cc6600">2 a)</font></b> SimplifyTrips.com to
+        share, if any APIs to push the content to their PNR/ticketing
+        system with the Nativebag order.<br>
+        <b><font color="#cc6600">Step 3:</font></b> Integration and
+        Staging (Duration: 1 week)<br>
+        <b><font color="#cc6600">Step 4:</font></b> Launch (Can we
+        target May end?)</font><font face="Courier New, Courier,
+        monospace" size="+1"><br>
+      </font></div>
+    <font face="Courier New, Courier, monospace">Note: All the above
+      plans are indicative and just to move forward. We would be
+      definitely looking for your inputs to amend.<br>
+      <br>
+      Please let me know your thoughts. <br>
+      We would love to meet in person, but we seem based out a little
+      far now. :)<br>
+      <br>
+      Regards,<br>
+      Ravi</font><br>
+    <div id="smartTemplate4-quoteHeader"><br>
+      <br>
+      <hr><br>
+      <b>From:</b> Ravishankar<br>
+      <b>Sent:</b> Tuesday, April 25, 2017 1:12PM<br>
+      <b>To:</b> Tushar<br>
+      <b>Subject:</b> Re: Strategic Partnership - Nativebag.in<br>
+      <br>
+    </div>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <div id="smartTemplate4-template">
+      <p><font face="Courier New, Courier, monospace" size="+1">Thanks a
+          lot Tushar and it really made our day.<br>
+          This will be a joint exercise in terms of understanding each
+          other's technical stack and integration points.<br>
+          I will send you the next course of actions shortly.<br>
+        </font></p>
+    </div>
+    Regards,<br>
+    Ravi<br>
+    <div id="smartTemplate4-quoteHeader">
+      <hr><br>
+      <b>From:</b> Tushar<br>
+      <b>Sent:</b> Tuesday, April 25, 2017 12:28PM<br>
+      <b>To:</b> Ravishankar<br>
+      <b>Subject:</b> Re: Strategic Partnership - Nativebag.in<br>
+      <br>
+    </div>
+    <meta http-equiv="Context-Type" content="text/html; ">
+    <p>On 2017-04-20 06:24, Ravishankar wrote:</p>
+    <blockquote type="cite">
+      <p><br>
+      </p>
+      <p><span><tt>hi Tushar,</tt></span></p>
+      <span> <tt>I am co-founder of Nativebag.in, with rich prior
+          experience in Amadeus Software Labs and have keen interest in
+          Travel &amp; related businesses.</tt><tt><br>
+        </tt><tt>I </tt><tt>would like to present you with a
+          partnership proposal for Nativebag.in with SimplifyTrips.com.
+        </tt><tt><br>
+        </tt><tt>Nativebag specializes in specialties
+          (food/gourmet/arts/handicrafts etc) of every place in India. </tt><tt><br>
+        </tt><tt>We also supply GI Tagged products (like a patent to
+          certain section of manufacturers/sellers) of India. <br>
+          We are also affiliated with <u><strong><cite><strong>Textiles-Ministry
+                  of India through IHB</strong></cite></strong></u><u><strong><cite>
+                (Indian Handloom Brand)</cite></strong></u> and their
+          authorized e-commerce partner channel.</tt><tt><span><span><span><br>
+                <br>
+              </span></span></span></tt><u><strong>Proposal:</strong></u><tt><br>
+          Based on the travel location searched/booked by your
+          customers, we could offer specific specialty products of the
+          location as content in your website.</tt><tt><br>
+        </tt><tt>We could offer our products either as a separately
+          bookable content like 'Local Specialties' (or) along with any
+          bookable content on your site.<br>
+          Technically we can work it out based on the scenario</tt></span><tt><span>.</span></tt><span><u><br>
+        </u><strong><u><br>
+            Whats in it for<span> </span>SimplifyTrips.com?</u></strong><tt><br>
+        </tt><tt>a) Customer satisfaction as they would get access to
+          specific products/specialties where they travel. </tt><br>
+        <tt>b) Souvenir is a very unorganized sector with lots of
+          adulteration and duplicate issues. With GI and select
+          authorized sellers from our side, this can be averted. This
+          gives an edge over other players in the OTA industry.</tt><br>
+        <tt>c) Completes the trip from a nativity experience
+          perspective.</tt><br>
+        <tt>d) Additional review channel.<br>
+          <br>
+          Please let me know your thoughts.<br>
+          Looking forward for a positive response and hence with a
+          mutually beneficial partnership.<br>
+          <span><br>
+            Regards,<br>
+            Ravi</span></tt><span><span> <br>
+            <tt>Co-founder, Nativebag.in</tt><tt><br>
+            </tt><tt><a moz-do-not-send="true"
+                class="moz-txt-link-freetext"
+                href="https://www.linkedin.com/in/ravisingaram/">https://www.linkedin.com/in/ravisingaram/</a></tt><tt><br>
+            </tt><tt>9632559988/9663381003</tt></span></span></span></blockquote>
+    <p>Hi Ravi,</p>
+    <p>After discussing your proposal with my team , I am pleased to
+      inform you that everyone has nodded yes to this proposal. Moreover
+      kindly let me know what exactly how should we proceed on this.<br>
+       </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <br>
+    <br>
+  </body>
+</html>
+
+--------------4D627A770769E526EB2614D2--

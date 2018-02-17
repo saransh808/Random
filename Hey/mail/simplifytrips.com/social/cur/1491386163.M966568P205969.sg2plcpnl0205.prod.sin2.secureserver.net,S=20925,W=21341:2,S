@@ -1,0 +1,416 @@
+Return-Path: <b02618b5cc1social=simplifytrips.com@bounce.twitter.com>
+Delivered-To: social@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id VotlOTO/5FiRJAMAwZeyeg
+	for <social@simplifytrips.com>; Wed, 05 Apr 2017 02:56:03 -0700
+Return-path: <b02618b5cc1social=simplifytrips.com@bounce.twitter.com>
+Envelope-to: social@simplifytrips.com
+Delivery-date: Wed, 05 Apr 2017 02:56:03 -0700
+Received: from spring-chicken-ap.twitter.com ([199.16.156.155]:26231)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <b02618b5cc1social=simplifytrips.com@bounce.twitter.com>)
+	id 1cvhfX-000rOa-Fs
+	for social@simplifytrips.com; Wed, 05 Apr 2017 02:56:03 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=twitter.com;
+	s=dkim-201406; t=1491386120;
+	bh=hj14IJgNhy1Xa99OGrd+z3GzB+zkB9oFPPcYplIkqFs=;
+	h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:
+	 Message-ID;
+	b=EDfEcHLmG5roZxdO5bMddB0WluTAJ3FsRzeHhTfFqm0IP2o0BNkgf0jdn1tBqDO8k
+	 AWZAuisf4rAeY5RDEGi8cqnnClZ4vu1AmIhS29iuVTVvZS2Tf1B1bVBHyTOf56rUby
+	 r1vDq7Bu1P5IDcG5w0KZ/WxFM/WHWooZs8dbAVk17XPwdBuiOHwEmyDxZBLTIvzD5l
+	 l00ob2LcO7vpADN1L0E6iGTKtyYzBQiKe4zAY/FS3PV/dUipc29mNNeQC//61EtK9F
+	 u1HTSdhVYuSDhFRFao7B3Xw7T81Mv645ODuAb4Kn04UQg7oAOKVOPNyFW5rM2E2TL6
+	 6bdcwbKMnPLFA==
+X-MSFBL: r/BFPK6ROnEfPcAqMJojuekJr1A4VwSAqdJg7y5HgFc=|eyJyIjoic29jaWFsQHN
+	pbXBsaWZ5dHJpcHMuY29tIiwidSI6InNvY2lhbEBzaW1wbGlmeXRyaXBzLmNvbUB
+	paWQjIzFlYzVjODVkOTY2NzRhNGVhNzI2ZjAwZTlmMjhjZGVhQDIzQDc2MzY4NzM
+	wMjYzMTU5NjAzM0AxNDc5NjgxNjMxQGEwYTI3ZWRkMGMzNTJhMjRlODRlNWZjNzc
+	0YjIxZmVjMGZhOGMzYTciLCJiIjoiYXRsYS1iZHctMDctc3IxLUV2ZXJ5dGhpbmc
+	uMTc1IiwiZyI6IkV2ZXJ5dGhpbmcifQ==
+Date: Wed, 05 Apr 2017 09:55:20 +0000
+From: "InnoServ Digital (via Twitter)" <notify@twitter.com>
+To: Simplifytrips <social@simplifytrips.com>
+Subject: InnoServ Digital (@InnoServSol) is now following you on Twitter!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_41711797_789564291.1491386120527"
+List-Unsubscribe: <https://twitter.com/i/u?t=1&listunsub=t&cn=Zm9sbG93ZXI%3D&sig=e6ccae0b6e079f11407be87939e4ea2d78d31b6d&iid=1ec5c85d96674a4ea726f00e9f28cdea&uid=763687302631596033&nid=23+26>
+Feedback-ID: 154a162f28f18f41:154a162f28f18f41:none:twitterESP
+Message-ID: <BF.1D.47198.80FB4E85@twitter.com>
+
+------=_Part_41711797_789564291.1491386120527
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Simplifytrips,
+You have a new follower on Twitter.
+
+------------------------
+
+InnoServ Digital
+@InnoServSol
+InnoServ Digital  is a rapidly growing independent 360=C2=B0 digital market=
+ing and media solutions agency headquartered in Pune, India.
+Baner, Pune, Maharashtra, India
+https://t.co/dWkZKNRCfg
+
+Follow:
+https://twitter.com/InnoServSol
+
+
+--=20
+
+Forgot your Twitter password? Get instructions on how to reset it:
+https://twitter.com/account/resend_password
+
+You can also unsubscribe from these emails or change your notification sett=
+ings:
+https://twitter.com/i/u?t=3D1&cn=3DZm9sbG93ZXI%3D&sig=3D38e2f8e9659dcce3454=
+52368a59a06b34ff43daf&iid=3D1ec5c85d96674a4ea726f00e9f28cdea&uid=3D76368730=
+2631596033&nid=3D23+26
+https://twitter.com/settings/notifications
+
+Need help?
+https://support.twitter.com
+
+If you received this message in error and did not sign up for a Twitter acc=
+ount, click on the url below:
+https://twitter.com/account/not_my_account/763687302631596033/HEFGA-F96H3-1=
+49138?ut=3D1
+------=_Part_41711797_789564291.1491386120527
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<style type="text/css">
+@media only screen and (max-device-width: 480px) {
+table[class=outer] .global-width-670-to-320 {
+width: 320px !important;
+}
+table[class=outer] .global-width-520-to-320 {
+width: 320px !important;
+}
+table[class=outer] .global-width-500-to-300 {
+width: 300px !important;
+}
+table[class=outer] .global-separator-padding {
+height: 8px !important;
+}
+table[class=outer] .global-shrinking-to-0 {
+height: 0 !important;
+}
+table[class=outer] .global-shrinking-to-10 {
+height: 10px !important;
+}
+table[class=outer] .global-h1 {
+font-size: 14px !important;
+}
+
+table[class=outer] .cut {
+width: 0 !important;
+padding: 0 !important;
+}
+table[class=outer] .vcut {
+height: 0 !important;
+padding: 0 !important;
+}
+table[class=outer] img.cut {
+display: none !important;
+width: 0 !important;
+height: 0 !important;
+}
+table[class=outer] .cut span, table[class=outer] .cut a {
+display: none !important;
+}
+table[class=outer] .frame {
+width: 320px !important;
+border-left: 0 !important;
+border-right: 0 !important;
+}
+table[class=outer] .main_header.media_header {
+width: 300px !important;
+height: 55px !important;
+}
+table[class=outer] .header_left {
+height: 55px !important;
+}
+table[class=outer] .logo_header {
+height: 62px !important;
+}
+table[class=outer] .main_name {
+font-size: 12px !important;
+}
+table[class=outer] .subtitle {
+font-size: 12px !important;
+}
+table[class=outer] .media_main {
+width: 300px !important;
+}
+table[class=outer] .media_main .intro {
+width: 260px !important;
+font-size: 14px !important;
+}
+table[class=outer] .media_main .intro2 {
+font-size: 14px !important;
+}
+table[class=outer] .media_main .suggestions {
+font-size: 14px !important;
+}
+table[class=outer] .media_more {
+width: 300px !important;
+border-radius: 0 !important;
+background: #fff !important;
+border-top: 1px solid #e8e8e8 !important;
+}
+table[class=outer] .media_button {
+width: 300px !important;
+background-color: #209ae4 !important;
+padding-top: 3px !important;
+padding-bottom: 3px !important;
+}
+table[class=outer] .media_footer {
+font-size: 11px !important;
+line-height: 14px !important;
+padding: 0 10px !important;
+}
+table[class=outer] .address {
+font-size: 11px !important;
+line-height: 14px !important;
+display: block !important;
+}
+table[class=outer] td[class=footer-padding-top] {
+height: 12px !important;
+}
+table[class=outer] td[class=footer-padding-bottom] {
+height: 17px !important;
+}
+table[class=outer] .media_footer br {
+display: none !important;
+}
+table[class=outer] .spacer.ios {
+display: none !important;
+}
+table[class=outer] .reset {
+display: block !important;
+padding-bottom: 4px !important;
+}
+table[class=outer] .media_logo_div {
+display: block !important;
+position: absolute !important;
+left: 274px !important;
+top: 0 !important;
+background-image: url('https://ea.twimg.com/email/t1/ribbon.png') !important;
+background-size: 100% 100% !important;
+width: 36px !important;
+height: 68px !important;
+z-index: 1 !important;
+}
+table[class=employee-only-padding-top-bottom] {
+width: 300px !important;
+}
+table[class=employee-only] {
+width: 300px !important;
+padding: 10px 0;
+}
+td[class=header_padding] {
+height: 55px !important;
+}
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+table[class=outer] .media_button {
+padding-top: 3px !important;
+padding-bottom: 3px !important;
+background-color: #209ae4 !important;
+}
+table[class=outer] .media_button td.cut {
+width: 0 !important;
+padding: 0 !important;
+}
+table[class=outer] .media_button {
+padding-left: 10px !important;
+padding-right: 10px !important;
+}
+}
+</style>
+</head>
+<body style="margin: 0; padding: 0; background: #fff;-webkit-text-size-adjust:100%;">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" class="outer" style="position:relative;background:#ddd;">
+<tbody>
+<tr>
+<td>
+<table class="inner frame" align="center" cellpadding="0" cellspacing="0" border="0" width="670" style="background:#fff;position:relative;border:0;border-left:1px solid #ccc;border-right:1px solid #ccc;">
+<tbody>
+<tr>
+<td> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%3Fcn%3DZm9sbG93ZXI%253D%26refsrc%3Demail&amp;t=1&amp;cn=Zm9sbG93ZXI%3D&amp;sig=5b89c957198bd845103d190b00fa6a82119060a7&amp;iid=1ec5c85d96674a4ea726f00e9f28cdea&amp;uid=763687302631596033&amp;nid=23+21" style="border:none;color:#0084b4;text-decoration:none;"><span class="media_logo_div"></span></a>
+<table cellpadding="0" cellspacing="0" border="0" width="670" class="header frame" style="background:#f2f2f2;table-layout:fixed;">
+<tbody>
+<tr>
+<td class="header_left cut" style="width:19px;height:77px;"> &nbsp; </td>
+<td height="94" width="46" valign="top" rowspan="2" class="logo_header cut" style="background:#fff;line-height:100%;"><a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%3Fcn%3DZm9sbG93ZXI%253D%26refsrc%3Demail&amp;t=1&amp;cn=Zm9sbG93ZXI%3D&amp;sig=5b89c957198bd845103d190b00fa6a82119060a7&amp;iid=1ec5c85d96674a4ea726f00e9f28cdea&amp;uid=763687302631596033&amp;nid=23+21" style="border:none;color:#0084b4;text-decoration:none;"><img class="logo cut" src="https://ea.twimg.com/email/t1/ribbon.png" width="46" height="94" style="border:0;line-height:100%;border:0;" /></a></td>
+<td class="cut" width="9"> &nbsp; </td>
+<td width="10" height="77" class="header_padding"> &nbsp; </td>
+<td width="458" height="77" class="main_header media_header" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#333;">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="main_name" style="font-size:14px;font-weight:bold;color:#000;"> <span dir="ltr">Simplifytrips,</span> </td>
+</tr>
+<tr>
+<td class="subtitle" style="font-size:14px;color:#666;"> You have a new follower on Twitter. </td>
+</tr>
+</tbody>
+</table> </td>
+<td width="10" height="77" class="header_padding"> &nbsp; </td>
+<td class="main_avatar cut" width="32" style="text-align:right;"> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fsocial_simplify%3Fcn%3DZm9sbG93ZXI%253D%26refsrc%3Demail&amp;t=1&amp;cn=Zm9sbG93ZXI%3D&amp;sig=0ab5d40a99ef70db0a0ec200cedc9658f2198552&amp;iid=1ec5c85d96674a4ea726f00e9f28cdea&amp;uid=763687302631596033&amp;nid=23+22" style="border:none;color:#0084b4;text-decoration:none;"><img class="cut" src="https://pbs.twimg.com/profile_images/849495528308133888/twshQV9j_reasonably_small.jpg" width="32" height="32" alt="Simplifytrips" style="background:#fff;border-radius:5px;border:0;" /></a> </td>
+<td class="col cut" style="width:85px;"></td>
+</tr>
+<tr>
+<td class="main header_drop cut" style="background:#fff;border-top:1px solid #ddd;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;">&nbsp;</td>
+<td class="main header_drop cut" style="background:#fff;border-top:1px solid #ddd;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;">&nbsp;</td>
+<td class="main header_drop media_header" height="17" style="background:#fff;border-top:1px solid #ddd;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;"><img width="1" height="1" style="display: block;border:0;" src="https://twitter.com/scribe/ibis?t=1&amp;cn=Zm9sbG93ZXI%3D&amp;iid=1ec5c85d96674a4ea726f00e9f28cdea&amp;uid=763687302631596033&amp;nid=23+20" /></td>
+<td class="main header_drop cut" height="17" colspan="4" style="background:#fff;border-top:1px solid #ddd;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+<td rowspan="3"></td>
+</tr>
+<tr>
+<td class="content" style="background:#fff;">  <style type="text/css">
+@media only screen and (max-device-width: 480px) {
+table[class=outer] .recent_tweets {
+border-top: 2px solid #e8e8e8;
+padding-top: 8px !important;
+}
+table[class=outer] .hero_avatar {
+width: 96px;
+height: 96px;
+}
+table[class=outer] .fd_button, table[class=outer] .following {
+padding-top: 3px !important;
+padding-bottom: 3px !important
+}
+}
+</style> <style type="text/css">
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+table[class=outer] .fd_button, table[class=outer] .following {
+padding-top: 3px !important;
+padding-bottom: 3px !important
+}
+}
+</style>
+<table width="670" border="0" cellpadding="0" cellspacing="0" class="main frame" style="background:#fff;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;">
+<tbody>
+<tr>
+<td class="col cut" style="width:85px;"></td>
+<td class="media_main" width="520">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody>
+<tr>
+<td height="22"></td>
+</tr>
+<tr>
+<td align="center">
+<!-- place hero unit here --> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2FInnoServSol%3Fcn%3DZm9sbG93ZXI%253D%26refsrc%3Demail&amp;t=1&amp;cn=Zm9sbG93ZXI%3D&amp;sig=e4e75e7af6a7a3e1f7999651fb2a03751736a5fc&amp;iid=1ec5c85d96674a4ea726f00e9f28cdea&amp;uid=763687302631596033&amp;nid=23+1100" style="border:none;color:#0084b4;text-decoration:none;"><img class="hero_avatar" src="https://pbs.twimg.com/profile_images/849145516424392708/L7hL5LVA_reasonably_small.jpg" width="128" height="128" style="border:0;border-radius:5px;" /></a> </td>
+</tr>
+<tr>
+<td align="center" class="hero_name row_pad" style="padding-left:10px;padding-right:10px;padding-top:10px;"> <a class="hero_name" href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2FInnoServSol%3Fcn%3DZm9sbG93ZXI%253D%26refsrc%3Demail&amp;t=1&amp;cn=Zm9sbG93ZXI%3D&amp;sig=206db1e39d064b33e169a637a72680f52350ffbb&amp;iid=1ec5c85d96674a4ea726f00e9f28cdea&amp;uid=763687302631596033&amp;nid=23+1120" dir="ltr" style="border:none;color:#0084b4;text-decoration:none;color:#333333;font-size:28px;font-weight:bold;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;">InnoServ Digital</a> </td>
+</tr>
+<tr>
+<td align="center" class="hero_screen_name row_pad" style="padding-left:10px;padding-right:10px;font-size:14px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;"> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2FInnoServSol%3Fcn%3DZm9sbG93ZXI%253D%26refsrc%3Demail&amp;t=1&amp;cn=Zm9sbG93ZXI%3D&amp;sig=2686326c41b2b57db490320cc371c05ac6470595&amp;iid=1ec5c85d96674a4ea726f00e9f28cdea&amp;uid=763687302631596033&amp;nid=23+1110" class="screen-name" style="direction:ltr;unicode-bidi:embed;border:none;color:#0084b4;text-decoration:none;">@InnoServSol</a> </td>
+</tr>
+<tr>
+<td align="center" class="hero_bio row_pad" dir="ltr" style="padding-left:10px;padding-right:10px;color:#777;font-size:14px;font-style:italic;line-height:20px;padding-top:4px;padding-bottom:2px;font-family:'Georgia', 'Helvetica Neue', Helvetica, Arial, sans-serif;"> InnoServ Digital is a rapidly growing independent 360&deg; digital marketing and media solutions agency headquartered in Pune, India. </td>
+</tr>
+<tr>
+<td align="center" class="hero_details row_pad" style="padding-left:10px;padding-right:10px;color:#777777;font-size:14px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;padding-bottom:15px;"> <a href="#" class="location" style="border:none;color:#0084b4;text-decoration:none;color:#777777;text-decoration:none;">Baner, Pune, Maharashtra, India</a> &middot; <a href="https://t.co/redirect?url=https%3A%2F%2Ft.co%2FdWkZKNRCfg%3Fcn%3DZm9sbG93ZXI%253D%26refsrc%3Demail&amp;t=1&amp;cn=Zm9sbG93ZXI%3D&amp;sig=2b9e60c87f5bd7907e52a8a791126c4adec94b5a&amp;iid=1ec5c85d96674a4ea726f00e9f28cdea&amp;uid=763687302631596033&amp;nid=23+314" style="border:none;color:#0084b4;text-decoration:none;"><span>http://innoservdigital.com/</span></a> </td>
+</tr>
+<tr>
+<td class="vcut top_border" height="5" style="border-top:1px solid #e8e8e8;"></td>
+</tr>
+<tr>
+<td height="8"></td>
+</tr>
+<tr>
+<td align="center" class="followed_by" style="color:#777777;font-size:12px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;padding-bottom:10px;"> Following: <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2FInnoServSol%2Ffollowing%3Fcn%3DZm9sbG93ZXI%253D%26refsrc%3Demail&amp;t=1&amp;cn=Zm9sbG93ZXI%3D&amp;sig=2dbe36470ea5f807e279d5c97c401de5f044f5bb&amp;iid=1ec5c85d96674a4ea726f00e9f28cdea&amp;uid=763687302631596033&amp;nid=23+1150" style="border:none;color:#0084b4;text-decoration:none;">1500</a> &middot; Followers: <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2FInnoServSol%2Ffollowers%3Fcn%3DZm9sbG93ZXI%253D%26refsrc%3Demail&amp;t=1&amp;cn=Zm9sbG93ZXI%3D&amp;sig=925552b2529b22bee6783a68aa7e965246e685f2&amp;iid=1ec5c85d96674a4ea726f00e9f28cdea&amp;uid=763687302631596033&amp;nid=23+1140" style="border:none;color:#0084b4;text-decoration:none;">1645</a> </td>
+</tr>
+<tr>
+<td align="center">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" background="https://ea.twimg.com/email/t1/button_bg.png" class="button following" style="white-space:nowrap;background-color:#33a9e5;border-radius:5px;border:1px solid #2288cc;padding:5px 0 5px 0;text-align:center;height:28px;">
+<tbody>
+<tr>
+<td width="10" style="color:#ffffff;font-size:13px;font-weight:bold;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#ffffff;"></td>
+<td style="color:#ffffff;font-size:13px;font-weight:bold;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#ffffff;"> Following </td>
+<td width="10" style="color:#ffffff;font-size:13px;font-weight:bold;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#ffffff;"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td height="15"></td>
+</tr>
+</tbody>
+</table> </td>
+<td class="col cut" style="width:85px;"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td>
+<table bgcolor="#eeeeee" border="0" cellpadding="0" cellspacing="0" width="670" class="frame footer" style="background-color:#eee;background-image:url('https://ea.twimg.com/email/t1/shadow-bottom.jpg');background-position:top;background-repeat:repeat-x;border-top-color:#ddd;border-top-style:solid;border-top-width:1px;">
+<tbody>
+<tr>
+<td colspan="4" height="16" class="footer-padding-top"></td>
+</tr>
+<tr>
+<td class="col cut" style="width:85px;"></td>
+<td class="footer_body media_footer" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;line-height:17px;color:#777;text-shadow:0 1px 0 #fff;">
+<div>
+Forgot your Twitter password?
+<a class="reset" href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Faccount%2Fresend_password%3Fcn%3DZm9sbG93ZXI%253D&amp;t=1&amp;cn=Zm9sbG93ZXI%3D&amp;sig=5a6e0c4af3bbe86eb40c40c72a83636a1fb99aef&amp;iid=1ec5c85d96674a4ea726f00e9f28cdea&amp;uid=763687302631596033&amp;nid=23+24" style="border:none;color:#0084b4;text-decoration:none;">Get instructions on how to reset it.</a>
+</div>
+<div>
+You can also
+<a href="https://twitter.com/i/u?t=1&amp;cn=Zm9sbG93ZXI%3D&amp;sig=38e2f8e9659dcce345452368a59a06b34ff43daf&amp;iid=1ec5c85d96674a4ea726f00e9f28cdea&amp;uid=763687302631596033&amp;nid=23+26" style="border:none;color:#0084b4;text-decoration:none;">unsubscribe from these emails</a>
+<span class="reset">or change your <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fsettings%2Fnotifications%3Fcn%3DZm9sbG93ZXI%253D&amp;t=1&amp;cn=Zm9sbG93ZXI%3D&amp;sig=9b1d537e0fbd5e39ebbd9f3a52d64f6768572747&amp;iid=1ec5c85d96674a4ea726f00e9f28cdea&amp;uid=763687302631596033&amp;nid=23+27" style="border:none;color:#0084b4;text-decoration:none;">notification settings</a>. Need <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Fsupport.twitter.com%3Fcn%3DZm9sbG93ZXI%253D&amp;t=1&amp;cn=Zm9sbG93ZXI%3D&amp;sig=73547a5c723bc122ec9469820694f85527c0a81e&amp;iid=1ec5c85d96674a4ea726f00e9f28cdea&amp;uid=763687302631596033&amp;nid=23+97" style="border:none;color:#0084b4;text-decoration:none;">help</a>?</span>
+</div>
+<div class="reset">
+If you received this message in error and did not sign up for Twitter, click
+<a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Faccount%2Fnot_my_account%2F763687302631596033%2FHEFGA-F96H3-149138%3Fut%3D1%26cn%3DZm9sbG93ZXI%253D&amp;t=1&amp;cn=Zm9sbG93ZXI%3D&amp;sig=ac534738b4a8d8b7c69b34f5cf62702b9e1d65af&amp;iid=1ec5c85d96674a4ea726f00e9f28cdea&amp;uid=763687302631596033&amp;nid=23+25" style="border:none;color:#0084b4;text-decoration:none;">not my account</a>.
+</div>
+<div>
+<a href="#" class="address" style="border:none;color:#0084b4;text-decoration:none;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;text-decoration:none;font-size:11px;line-height:17px;color:#999999;text-shadow:0 1px 0 #fff;">Twitter, Inc. 1355 Market St., Suite 900 <span class="nobreak" style="white-space:nowrap;">San Francisco, CA 94103</span></a>
+</div> </td>
+<td class="col cut" style="width:85px;"></td>
+</tr>
+<tr>
+<td colspan="3" class="footer-padding-bottom" height="25"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<img width="1" height="1" src="loadimage" style="border:0;" />
+</body>
+</html>
+
+------=_Part_41711797_789564291.1491386120527--

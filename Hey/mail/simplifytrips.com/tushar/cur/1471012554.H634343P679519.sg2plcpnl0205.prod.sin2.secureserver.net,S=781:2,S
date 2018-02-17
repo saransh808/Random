@@ -1,0 +1,21 @@
+Return-path: <shashank@simplifytrips.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Fri, 12 Aug 2016 07:35:54 -0700
+Received: from [127.0.0.1] (port=58517 helo=sg2plcpnl0205.prod.sin2.secureserver.net)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtpa (Exim 4.87)
+	(envelope-from <shashank@simplifytrips.com>)
+	id 1bYDYw-002qlY-Gf
+	for tushar@simplifytrips.com; Fri, 12 Aug 2016 07:35:54 -0700
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+Date: Fri, 12 Aug 2016 08:35:49 -0600
+From: shashank@simplifytrips.com
+To: tushar@simplifytrips.com
+Subject: Test
+Message-ID: <845a2fc0ec20c9b7181932c7e1a63256@simplifytrips.com>
+X-Sender: shashank@simplifytrips.com
+User-Agent: Roundcube Webmail/1.1.4
+
+HIIIIi

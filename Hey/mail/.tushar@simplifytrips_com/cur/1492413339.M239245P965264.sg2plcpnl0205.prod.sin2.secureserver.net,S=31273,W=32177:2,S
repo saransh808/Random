@@ -1,0 +1,904 @@
+Return-Path: <bounces+4740145-00f7-tushar=simplifytrips.com@sendgrid.net>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id 2RIgDptr9FiQug4AwZeyeg
+	for <tushar@simplifytrips.com>; Mon, 17 Apr 2017 00:15:39 -0700
+Return-path: <bounces+4740145-00f7-tushar=simplifytrips.com@sendgrid.net>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Mon, 17 Apr 2017 00:15:39 -0700
+Received: from o1.f.az.sendgrid.net ([208.117.55.132]:18794)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <bounces+4740145-00f7-tushar=simplifytrips.com@sendgrid.net>)
+	id 1d00ss-0043gt-KS
+	for tushar@simplifytrips.com; Mon, 17 Apr 2017 00:15:39 -0700
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=sendgrid.me; 
+	h=mime-version:from:to:subject:content-type:content-transfer-encoding; 
+	s=smtpapi; bh=R28qamWOQtsDhIwbW25euXuxMI8=; b=aSInnbsRHezvL2fulj
+	zEmvc3WE40orEF8vZ4orN6iwGsilY6o4wL8i59aGFdXfBllNiaf7p9Mupgu5llok
+	FTUbyLb0Ea7gZ/0NX65XwVuItXwOHWJ3MzraGMK1s8kQJ+LzYZ+8GKskYy+cki7X
+	BlWBACQBE+XPdNpOFZhiCGxcE=
+Received: by filter0094p1las1.sendgrid.net with SMTP id filter0094p1las1-16486-58F46B6F-B
+        2017-04-17 07:14:55.224654324 +0000 UTC
+Received: from RD0003FF809B8E (unknown [13.65.244.242])
+	by ismtpd0004p1sjc2.sendgrid.net (SG) with ESMTP id SaNiuJ0ES9uBXAGhS7Veow
+	for <tushar@simplifytrips.com>; Mon, 17 Apr 2017 07:14:55.054 +0000 (UTC)
+MIME-Version: 1.0
+From: "advertiise" <info@advertiise.com>
+To: tushar@simplifytrips.com
+Date: 17 Apr 2017 07:14:54 +0000
+Subject: Account Confirmation
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <SaNiuJ0ES9uBXAGhS7Veow@ismtpd0004p1sjc2.sendgrid.net>
+X-SG-EID: ciTnKEtQInDrnuQvwTjw1Y6TQwB4GE5rFgI3X/+V549UhwJKuJbnDj+UhC8Tu63S6xDuok2J/O2JV4
+ IHeXoDtBmqvPVCuomDfOvhtcowD12xrkRjoe4V7l7kUivvuC5dVN7b0TZS/sJNj+peiuBn2M26cu2j
+ U1r0gPcnL+2FzR1+xK4NBTCLwiQ+bNPwIyO4Dmv4a/BXf4ZLQyyGwZLzGGwqsGg0qUsfHJl7psoeve
+ 8=
+
+<!doctype html>=0D
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">=0D
+	<head>=0D
+		<!-- NAME: 1 COLUMN -->=0D
+		<!--[if gte mso 15]>=0D
+		<xml>=0D
+			<o:OfficeDocumentSettings>=0D
+			<o:AllowPNG/>=0D
+			<o:PixelsPerInch>96</o:PixelsPerInch>=0D
+			</o:OfficeDocumentSettings>=0D
+		</xml>=0D
+		<![endif]-->=0D
+		<meta charset=3D"UTF-8">=0D
+        <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">=0D
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-sc=
+ale=3D1">=0D
+		<title>Confirm Email</title>=0D
+        =0D
+    <style type=3D"text/css">=0D
+		p{=0D
+			margin:10px 0;=0D
+			padding:0;=0D
+		}=0D
+		table{=0D
+			border-collapse:collapse;=0D
+		}=0D
+		h1,h2,h3,h4,h5,h6{=0D
+			display:block;=0D
+			margin:0;=0D
+			padding:0;=0D
+		}=0D
+		img,a img{=0D
+			border:0;=0D
+			height:auto;=0D
+			outline:none;=0D
+			text-decoration:none;=0D
+		}=0D
+		body,#bodyTable,#bodyCell{=0D
+			height:100%;=0D
+			margin:0;=0D
+			padding:0;=0D
+			width:100%;=0D
+		}=0D
+		#outlook a{=0D
+			padding:0;=0D
+		}=0D
+		img{=0D
+			-ms-interpolation-mode:bicubic;=0D
+		}=0D
+		table{=0D
+			mso-table-lspace:0pt;=0D
+			mso-table-rspace:0pt;=0D
+		}=0D
+		.ReadMsgBody{=0D
+			width:100%;=0D
+		}=0D
+		.ExternalClass{=0D
+			width:100%;=0D
+		}=0D
+		p,a,li,td,blockquote{=0D
+			mso-line-height-rule:exactly;=0D
+		}=0D
+		a[href^=3Dtel],a[href^=3Dsms]{=0D
+			color:inherit;=0D
+			cursor:default;=0D
+			text-decoration:none;=0D
+		}=0D
+		p,a,li,td,body,table,blockquote{=0D
+			-ms-text-size-adjust:100%;=0D
+			-webkit-text-size-adjust:100%;=0D
+		}=0D
+		.ExternalClass,.ExternalClass p,.ExternalClass td,.ExternalClass div,.Ext=
+ernalClass span,.ExternalClass font{=0D
+			line-height:100%;=0D
+		}=0D
+		a[x-apple-data-detectors]{=0D
+			color:inherit !important;=0D
+			text-decoration:none !important;=0D
+			font-size:inherit !important;=0D
+			font-family:inherit !important;=0D
+			font-weight:inherit !important;=0D
+			line-height:inherit !important;=0D
+		}=0D
+		#bodyCell{=0D
+			padding:10px;=0D
+		}=0D
+		.templateContainer{=0D
+			max-width:600px !important;=0D
+		}=0D
+		a.mcnButton{=0D
+			display:block;=0D
+		}=0D
+		.mcnImage{=0D
+			vertical-align:bottom;=0D
+		}=0D
+		.mcnTextContent{=0D
+			word-break:break-word;=0D
+		}=0D
+		.mcnTextContent img{=0D
+			height:auto !important;=0D
+		}=0D
+		.mcnDividerBlock{=0D
+			table-layout:fixed !important;=0D
+		}=0D
+		.rounded {=0D
+			border-radius: 0px 0px 0px 100px;	=0D
+		}=0D
+	/*=0D
+	@tab Page=0D
+	@section Background Style=0D
+	@tip Set the background color and top border for your email. You may want =
+to choose colors that match your company's branding.=0D
+	*/=0D
+		body,#bodyTable{=0D
+			/*@editable*/background-color:#e9e9e9;=0D
+		}=0D
+	/*=0D
+	@tab Page=0D
+	@section Background Style=0D
+	@tip Set the background color and top border for your email. You may want =
+to choose colors that match your company's branding.=0D
+	*/=0D
+		#bodyCell{=0D
+			/*@editable*/border-top:0;=0D
+		}=0D
+	/*=0D
+	@tab Page=0D
+	@section Email Border=0D
+	@tip Set the border for your email.=0D
+	*/=0D
+		.templateContainer{=0D
+			/*@editable*/border:0;=0D
+		}=0D
+	/*=0D
+	@tab Page=0D
+	@section Heading 1=0D
+	@tip Set the styling for all first-level headings in your emails. These sh=
+ould be the largest of your headings.=0D
+	@style heading 1=0D
+	*/=0D
+		h1{=0D
+			/*@editable*/color:#202020;=0D
+			/*@editable*/font-family:'Century Gothic',Helvetica;=0D
+			/*@editable*/font-size:26px;=0D
+			/*@editable*/font-style:normal;=0D
+			/*@editable*/font-weight:bold;=0D
+			/*@editable*/line-height:125%;=0D
+			/*@editable*/letter-spacing:normal;=0D
+			/*@editable*/text-align:left;=0D
+		}=0D
+	/*=0D
+	@tab Page=0D
+	@section Heading 2=0D
+	@tip Set the styling for all second-level headings in your emails.=0D
+	@style heading 2=0D
+	*/=0D
+		h2{=0D
+			/*@editable*/color:#202020;=0D
+			/*@editable*/font-family:'Century Gothic',Helvetica;=0D
+			/*@editable*/font-size:22px;=0D
+			/*@editable*/font-style:normal;=0D
+			/*@editable*/font-weight:bold;=0D
+			/*@editable*/line-height:125%;=0D
+			/*@editable*/letter-spacing:normal;=0D
+			/*@editable*/text-align:left;=0D
+		}=0D
+	/*=0D
+	@tab Page=0D
+	@section Heading 3=0D
+	@tip Set the styling for all third-level headings in your emails.=0D
+	@style heading 3=0D
+	*/=0D
+		h3{=0D
+			/*@editable*/color:#202020;=0D
+			/*@editable*/font-family:'Century Gothic',Helvetica;=0D
+			/*@editable*/font-size:20px;=0D
+			/*@editable*/font-style:normal;=0D
+			/*@editable*/font-weight:bold;=0D
+			/*@editable*/line-height:125%;=0D
+			/*@editable*/letter-spacing:normal;=0D
+			/*@editable*/text-align:left;=0D
+		}=0D
+	/*=0D
+	@tab Page=0D
+	@section Heading 4=0D
+	@tip Set the styling for all fourth-level headings in your emails. These s=
+hould be the smallest of your headings.=0D
+	@style heading 4=0D
+	*/=0D
+		h4{=0D
+			/*@editable*/color:#202020;=0D
+			/*@editable*/font-family:'Century Gothic',Helvetica;=0D
+			/*@editable*/font-size:18px;=0D
+			/*@editable*/font-style:normal;=0D
+			/*@editable*/font-weight:bold;=0D
+			/*@editable*/line-height:125%;=0D
+			/*@editable*/letter-spacing:normal;=0D
+			/*@editable*/text-align:left;=0D
+		}=0D
+	/*=0D
+	@tab Preheader=0D
+	@section Preheader Style=0D
+	@tip Set the background color and borders for your email's preheader area.=
+=0D
+	*/=0D
+		#templatePreheader{=0D
+			/*@editable*/background-color:#e9e9e9;=0D
+			/*@editable*/background-image:none;=0D
+			/*@editable*/background-repeat:no-repeat;=0D
+			/*@editable*/background-position:center;=0D
+			/*@editable*/background-size:cover;=0D
+			/*@editable*/border-top:0;=0D
+			/*@editable*/border-bottom:0;=0D
+			/*@editable*/padding-top:9px;=0D
+			/*@editable*/padding-bottom:9px;=0D
+		}=0D
+	/*=0D
+	@tab Preheader=0D
+	@section Preheader Text=0D
+	@tip Set the styling for your email's preheader text. Choose a size and co=
+lor that is easy to read.=0D
+	*/=0D
+		#templatePreheader .mcnTextContent,#templatePreheader .mcnTextContent p{=
+=0D
+			/*@editable*/color:#656565;=0D
+			/*@editable*/font-family:'Century Gothic',Helvetica;=0D
+			/*@editable*/font-size:12px;=0D
+			/*@editable*/line-height:150%;=0D
+			/*@editable*/text-align:left;=0D
+		}=0D
+	/*=0D
+	@tab Preheader=0D
+	@section Preheader Link=0D
+	@tip Set the styling for your email's preheader links. Choose a color that=
+ helps them stand out from your text.=0D
+	*/=0D
+		#templatePreheader .mcnTextContent a,#templatePreheader .mcnTextContent p=
+ a{=0D
+			/*@editable*/color:#656565;=0D
+			/*@editable*/font-weight:normal;=0D
+			/*@editable*/text-decoration:underline;=0D
+		}=0D
+	/*=0D
+	@tab Header=0D
+	@section Header Style=0D
+	@tip Set the background color and borders for your email's header area.=0D
+	*/=0D
+		#templateHeader{=0D
+			/*@editable*/background-color:#FFFFFF;=0D
+			/*@editable*/background-image:none;=0D
+			/*@editable*/background-repeat:no-repeat;=0D
+			/*@editable*/background-position:center;=0D
+			/*@editable*/background-size:cover;=0D
+			/*@editable*/border-top:0;=0D
+			/*@editable*/border-bottom:0;=0D
+			/*@editable*/padding-top:9px;=0D
+			/*@editable*/padding-bottom:0;=0D
+		}=0D
+	/*=0D
+	@tab Header=0D
+	@section Header Text=0D
+	@tip Set the styling for your email's header text. Choose a size and color=
+ that is easy to read.=0D
+	*/=0D
+		#templateHeader .mcnTextContent,#templateHeader .mcnTextContent p{=0D
+			/*@editable*/color:#202020;=0D
+			/*@editable*/font-family:'Century Gothic',Helvetica;=0D
+			/*@editable*/font-size:16px;=0D
+			/*@editable*/line-height:150%;=0D
+			/*@editable*/text-align:left;=0D
+		}=0D
+	/*=0D
+	@tab Header=0D
+	@section Header Link=0D
+	@tip Set the styling for your email's header links. Choose a color that he=
+lps them stand out from your text.=0D
+	*/=0D
+		#templateHeader .mcnTextContent a,#templateHeader .mcnTextContent p a{=0D
+			/*@editable*/color:#2BAADF;=0D
+			/*@editable*/font-weight:normal;=0D
+			/*@editable*/text-decoration:underline;=0D
+		}=0D
+	/*=0D
+	@tab Body=0D
+	@section Body Style=0D
+	@tip Set the background color and borders for your email's body area.=0D
+	*/=0D
+		#templateBody{=0D
+			/*@editable*/background-color:#ffffff;=0D
+			/*@editable*/background-image:none;=0D
+			/*@editable*/background-repeat:no-repeat;=0D
+			/*@editable*/background-position:center;=0D
+			/*@editable*/background-size:cover;=0D
+			/*@editable*/border-top:0;=0D
+			/*@editable*/border-bottom:2px none #EAEAEA;=0D
+			/*@editable*/padding-top:0;=0D
+			/*@editable*/padding-bottom:9px;=0D
+		}=0D
+	/*=0D
+	@tab Body=0D
+	@section Body Text=0D
+	@tip Set the styling for your email's body text. Choose a size and color t=
+hat is easy to read.=0D
+	*/=0D
+		#templateBody .mcnTextContent,#templateBody .mcnTextContent p{=0D
+			/*@editable*/color:#202020;=0D
+			/*@editable*/font-family:'Century Gothic',Helvetica;=0D
+			/*@editable*/font-size:16px;=0D
+			/*@editable*/line-height:150%;=0D
+			/*@editable*/text-align:left;=0D
+		}=0D
+	/*=0D
+	@tab Body=0D
+	@section Body Link=0D
+	@tip Set the styling for your email's body links. Choose a color that help=
+s them stand out from your text.=0D
+	*/=0D
+		#templateBody .mcnTextContent a,#templateBody .mcnTextContent p a{=0D
+			/*@editable*/color:#2BAADF;=0D
+			/*@editable*/font-weight:normal;=0D
+			/*@editable*/text-decoration:underline;=0D
+		}=0D
+	/*=0D
+	@tab Footer=0D
+	@section Footer Style=0D
+	@tip Set the background color and borders for your email's footer area.=0D
+	*/=0D
+		#templateFooter{=0D
+			/*@editable*/background-color:#e9e9e9;=0D
+			/*@editable*/background-image:none;=0D
+			/*@editable*/background-repeat:no-repeat;=0D
+			/*@editable*/background-position:center;=0D
+			/*@editable*/background-size:cover;=0D
+			/*@editable*/border-top:0;=0D
+			/*@editable*/border-bottom:0;=0D
+			/*@editable*/padding-top:9px;=0D
+			/*@editable*/padding-bottom:9px;=0D
+		}=0D
+	/*=0D
+	@tab Footer=0D
+	@section Footer Text=0D
+	@tip Set the styling for your email's footer text. Choose a size and color=
+ that is easy to read.=0D
+	*/=0D
+		#templateFooter .mcnTextContent,#templateFooter .mcnTextContent p{=0D
+			/*@editable*/color:#656565;=0D
+			/*@editable*/font-family:'Century Gothic',Helvetica;=0D
+			/*@editable*/font-size:12px;=0D
+			/*@editable*/line-height:150%;=0D
+			/*@editable*/text-align:center;=0D
+		}=0D
+	/*=0D
+	@tab Footer=0D
+	@section Footer Link=0D
+	@tip Set the styling for your email's footer links. Choose a color that he=
+lps them stand out from your text.=0D
+	*/=0D
+		#templateFooter .mcnTextContent a,#templateFooter .mcnTextContent p a{=0D
+			/*@editable*/color:#656565;=0D
+			/*@editable*/font-weight:normal;=0D
+			/*@editable*/text-decoration:underline;=0D
+		}=0D
+	@media only screen and (min-width:768px){=0D
+		.templateContainer{=0D
+			width:600px !important;=0D
+		}=0D
+=0D
+}	@media only screen and (max-width: 480px){=0D
+		body,table,td,p,a,li,blockquote{=0D
+			-webkit-text-size-adjust:none !important;=0D
+		}=0D
+=0D
+}	@media only screen and (max-width: 480px){=0D
+		body{=0D
+			width:100% !important;=0D
+			min-width:100% !important;=0D
+		}=0D
+=0D
+}	@media only screen and (max-width: 480px){=0D
+		#bodyCell{=0D
+			padding-top:10px !important;=0D
+		}=0D
+=0D
+}	@media only screen and (max-width: 480px){=0D
+		.mcnImage{=0D
+			width:100% !important;=0D
+		}=0D
+=0D
+}	@media only screen and (max-width: 480px){=0D
+		.mcnCartContainer,.mcnCaptionTopContent,.mcnRecContentContainer,.mcnCapti=
+onBottomContent,.mcnTextContentContainer,.mcnBoxedTextContentContainer,.mcn=
+ImageGroupContentContainer,.mcnCaptionLeftTextContentContainer,.mcnCaptionR=
+ightTextContentContainer,.mcnCaptionLeftImageContentContainer,.mcnCaptionRi=
+ghtImageContentContainer,.mcnImageCardLeftTextContentContainer,.mcnImageCar=
+dRightTextContentContainer{=0D
+			max-width:100% !important;=0D
+			width:100% !important;=0D
+		}=0D
+=0D
+}	@media only screen and (max-width: 480px){=0D
+		.mcnBoxedTextContentContainer{=0D
+			min-width:100% !important;=0D
+		}=0D
+=0D
+}	@media only screen and (max-width: 480px){=0D
+		.mcnImageGroupContent{=0D
+			padding:9px !important;=0D
+		}=0D
+=0D
+}	@media only screen and (max-width: 480px){=0D
+		.mcnCaptionLeftContentOuter .mcnTextContent,.mcnCaptionRightContentOuter =
+.mcnTextContent{=0D
+			padding-top:9px !important;=0D
+		}=0D
+=0D
+}	@media only screen and (max-width: 480px){=0D
+		.mcnImageCardTopImageContent,.mcnCaptionBlockInner .mcnCaptionTopContent:=
+last-child .mcnTextContent{=0D
+			padding-top:18px !important;=0D
+		}=0D
+=0D
+}	@media only screen and (max-width: 480px){=0D
+		.mcnImageCardBottomImageContent{=0D
+			padding-bottom:9px !important;=0D
+		}=0D
+=0D
+}	@media only screen and (max-width: 480px){=0D
+		.mcnImageGroupBlockInner{=0D
+			padding-top:0 !important;=0D
+			padding-bottom:0 !important;=0D
+		}=0D
+=0D
+}	@media only screen and (max-width: 480px){=0D
+		.mcnImageGroupBlockOuter{=0D
+			padding-top:9px !important;=0D
+			padding-bottom:9px !important;=0D
+		}=0D
+=0D
+}	@media only screen and (max-width: 480px){=0D
+		.mcnTextContent,.mcnBoxedTextContentColumn{=0D
+			padding-right:18px !important;=0D
+			padding-left:18px !important;=0D
+		}=0D
+=0D
+}	@media only screen and (max-width: 480px){=0D
+		.mcnImageCardLeftImageContent,.mcnImageCardRightImageContent{=0D
+			padding-right:18px !important;=0D
+			padding-bottom:0 !important;=0D
+			padding-left:18px !important;=0D
+		}=0D
+=0D
+}	@media only screen and (max-width: 480px){=0D
+		.mcpreview-image-uploader{=0D
+			display:none !important;=0D
+			width:100% !important;=0D
+		}=0D
+=0D
+}	@media only screen and (max-width: 480px){=0D
+	/*=0D
+	@tab Mobile Styles=0D
+	@section Heading 1=0D
+	@tip Make the first-level headings larger in size for better readability o=
+n small screens.=0D
+	*/=0D
+		h1{=0D
+			/*@editable*/font-size:22px !important;=0D
+			/*@editable*/line-height:125% !important;=0D
+		}=0D
+=0D
+}	@media only screen and (max-width: 480px){=0D
+	/*=0D
+	@tab Mobile Styles=0D
+	@section Heading 2=0D
+	@tip Make the second-level headings larger in size for better readability =
+on small screens.=0D
+	*/=0D
+		h2{=0D
+			/*@editable*/font-size:20px !important;=0D
+			/*@editable*/line-height:125% !important;=0D
+		}=0D
+=0D
+}	@media only screen and (max-width: 480px){=0D
+	/*=0D
+	@tab Mobile Styles=0D
+	@section Heading 3=0D
+	@tip Make the third-level headings larger in size for better readability o=
+n small screens.=0D
+	*/=0D
+		h3{=0D
+			/*@editable*/font-size:18px !important;=0D
+			/*@editable*/line-height:125% !important;=0D
+		}=0D
+=0D
+}	@media only screen and (max-width: 480px){=0D
+	/*=0D
+	@tab Mobile Styles=0D
+	@section Heading 4=0D
+	@tip Make the fourth-level headings larger in size for better readability =
+on small screens.=0D
+	*/=0D
+		h4{=0D
+			/*@editable*/font-size:16px !important;=0D
+			/*@editable*/line-height:150% !important;=0D
+		}=0D
+=0D
+}	@media only screen and (max-width: 480px){=0D
+	/*=0D
+	@tab Mobile Styles=0D
+	@section Boxed Text=0D
+	@tip Make the boxed text larger in size for better readability on small sc=
+reens. We recommend a font size of at least 16px.=0D
+	*/=0D
+		.mcnBoxedTextContentContainer .mcnTextContent,.mcnBoxedTextContentContain=
+er .mcnTextContent p{=0D
+			/*@editable*/font-size:14px !important;=0D
+			/*@editable*/line-height:150% !important;=0D
+		}=0D
+=0D
+}	@media only screen and (max-width: 480px){=0D
+	/*=0D
+	@tab Mobile Styles=0D
+	@section Preheader Visibility=0D
+	@tip Set the visibility of the email's preheader on small screens. You can=
+ hide it to save space.=0D
+	*/=0D
+		#templatePreheader{=0D
+			/*@editable*/display:block !important;=0D
+		}=0D
+=0D
+}	@media only screen and (max-width: 480px){=0D
+	/*=0D
+	@tab Mobile Styles=0D
+	@section Preheader Text=0D
+	@tip Make the preheader text larger in size for better readability on smal=
+l screens.=0D
+	*/=0D
+		#templatePreheader .mcnTextContent,#templatePreheader .mcnTextContent p{=
+=0D
+			/*@editable*/font-size:14px !important;=0D
+			/*@editable*/line-height:150% !important;=0D
+		}=0D
+=0D
+}	@media only screen and (max-width: 480px){=0D
+	/*=0D
+	@tab Mobile Styles=0D
+	@section Header Text=0D
+	@tip Make the header text larger in size for better readability on small s=
+creens.=0D
+	*/=0D
+		#templateHeader .mcnTextContent,#templateHeader .mcnTextContent p{=0D
+			/*@editable*/font-size:16px !important;=0D
+			/*@editable*/line-height:150% !important;=0D
+		}=0D
+=0D
+}	@media only screen and (max-width: 480px){=0D
+	/*=0D
+	@tab Mobile Styles=0D
+	@section Body Text=0D
+	@tip Make the body text larger in size for better readability on small scr=
+eens. We recommend a font size of at least 16px.=0D
+	*/=0D
+		#templateBody .mcnTextContent,#templateBody .mcnTextContent p{=0D
+			/*@editable*/font-size:16px !important;=0D
+			/*@editable*/line-height:150% !important;=0D
+		}=0D
+=0D
+}	@media only screen and (max-width: 480px){=0D
+	/*=0D
+	@tab Mobile Styles=0D
+	@section Footer Text=0D
+	@tip Make the footer content text larger in size for better readability on=
+ small screens.=0D
+	*/=0D
+		#templateFooter .mcnTextContent,#templateFooter .mcnTextContent p{=0D
+			/*@editable*/font-size:14px !important;=0D
+			/*@editable*/line-height:150% !important;=0D
+		}=0D
+=0D
+}=0D
+</style>=0D
+</head>=0D
+    <body>=0D
+        <center>=0D
+            <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" height=3D"100%" width=3D"100%" id=3D"bodyTable">=0D
+                <tr>=0D
+                    <td align=3D"center" valign=3D"top" id=3D"bodyCell">=0D
+                        <!-- BEGIN TEMPLATE // -->=0D
+						<!--[if gte mso 9]>=0D
+						<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" width=3D"600" style=3D"width:600px;">=0D
+						<tr>=0D
+						<td align=3D"center" valign=3D"top" width=3D"600" style=3D"width:600p=
+x;">=0D
+						<![endif]-->=0D
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" class=3D"templateContainer">=0D
+                            <tr>=0D
+                                <td valign=3D"top" id=3D"templatePreheader"=
+></td>=0D
+                            </tr>=0D
+                            <tr>=0D
+                                <td valign=3D"top" id=3D"templateHeader"><t=
+able border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=
+=3D"mcnImageBlock" style=3D"min-width:100%;">=0D
+    <tbody class=3D"mcnImageBlockOuter">=0D
+            <tr>=0D
+                <td valign=3D"top" style=3D"padding:9px" class=3D"mcnImageB=
+lockInner">=0D
+                    <table align=3D"left" width=3D"100%" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" class=3D"mcnImageContentContainer" style=3D"=
+min-width:100%;">=0D
+                        <tbody><tr>=0D
+                            <td class=3D"mcnImageContent" valign=3D"top" st=
+yle=3D"padding-right: 9px; padding-left: 9px; padding-top: 0; padding-botto=
+m: 0; text-align:center;">=0D
+                                =0D
+                                    =0D
+                                        <a href=3D"https://u4740145.ct.send=
+grid.net/wf/click?upn=3DyI9xx4LMX-2Bmp9VZmGS594TIpff02-2BBFfZwcED-2F25Qv74w=
+PRiOd-2BqlVWTBD9TYENk_FI7baMgXBfyo8aqWPgoJtD0X22BYbD78qY9c5-2BcDKEhteba99Zm=
+QPyweEK-2FVaGwqR1n8tdQ-2BSWGNTICScSkEwnacid-2B2y0uEOzJM5hBJLIuKBBiQ0qtdi9vC=
+VRVG2mA1MtzSmMo8b5dLGMxl5IzVbVZkUwviscvVfANX284moRCpeYmXKuk2o-2FAQsWYAsc9Ym=
+MqCqodTD0LiHvVWruX1FYkKFp4L7-2FhoVMbP7CcdOpA-3D"><img align=3D"center" alt=
+=3D"" src=3D"http://www.advertiise.com/emails/images/search_banner.jpg" wid=
+th=3D"564" style=3D"max-width:600px; padding-bottom: 0; display: inline !im=
+portant; vertical-align: bottom;" class=3D"mcnImage"></a>=0D
+                                    =0D
+                                =0D
+                            </td>=0D
+                        </tr>=0D
+                    </tbody></table>=0D
+                </td>=0D
+            </tr>=0D
+    </tbody>=0D
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" class=3D"mcnImageBlock" style=3D"min-width:100%;">=0D
+    <tbody class=3D"mcnImageBlockOuter">=0D
+            <tr>=0D
+                <td valign=3D"top" style=3D"padding:0px" class=3D"mcnImageB=
+lockInner">=0D
+                    <table align=3D"left" width=3D"100%" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" class=3D"mcnImageContentContainer" style=3D"=
+min-width:100%;">=0D
+                        <tbody><tr>=0D
+                            <td class=3D"mcnImageContent" valign=3D"top" st=
+yle=3D"padding-right: 0px; padding-left: 0px; padding-top: 0; padding-botto=
+m: 0; text-align:center;">=0D
+                                =0D
+                                    =0D
+                                        <img align=3D"center" alt=3D"" src=
+=3D"http://www.advertiise.com/emails/images/banner.jpg" width=3D"599" style=
+=3D"max-width:599px; padding-bottom: 0; display: inline !important; vertica=
+l-align: bottom;" class=3D"mcnImage">=0D
+                                    =0D
+                                =0D
+                            </td>=0D
+                        </tr>=0D
+                    </tbody></table>=0D
+                </td>=0D
+            </tr>=0D
+    </tbody>=0D
+</table></td>=0D
+                            </tr>=0D
+                            <tr>=0D
+                                <td valign=3D"top" id=3D"templateBody" clas=
+s=3D"rounded"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" class=3D"mcnTextBlock" style=3D"min-width:100%;">=0D
+    <tbody class=3D"mcnTextBlockOuter">=0D
+        <tr>=0D
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding=
+-top:9px;">=0D
+              	<!--[if mso]>=0D
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"width:100%;">=0D
+				<tr>=0D
+				<![endif]-->=0D
+			    =0D
+				<!--[if mso]>=0D
+				<td valign=3D"top" width=3D"600" style=3D"width:600px;">=0D
+				<![endif]-->=0D
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" style=3D"max-width:100%; min-width:100%;" width=3D"100%" class=
+=3D"mcnTextContentContainer">=0D
+                    <tbody><tr>=0D
+                        =0D
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding: 0px 18px 9px; line-height: 100%;">=0D
+                        =0D
+                            <h1><span style=3D"color:#00adef"><span style=
+=3D"font-size:46px"><span style=3D"font-family:'Century Gothic',Helvetica,h=
+elvetica neue,helvetica,sans-serif"><span style=3D"line-height:.9"><strong>=
+welcome<br>=0D
+to advertiise,<br>=0D
+tushar choudhary!</strong></span></span></span></span></h1>=0D
+=0D
+<p style=3D"line-height: 100%;"><span style=3D"font-size:13px"><strong>Than=
+k you for joining the home of advertising space.</strong></span></p>=0D
+=0D
+<p style=3D"line-height: 100%;"><span style=3D"font-size:13px">Before we ca=
+n get your iis on the perfect space(s), please confirm your email address b=
+y clicking the link below.</span></p>=0D
+=0D
+                        </td>=0D
+                    </tr>=0D
+                </tbody></table>=0D
+				<!--[if mso]>=0D
+				</td>=0D
+				<![endif]-->=0D
+                =0D
+				<!--[if mso]>=0D
+				</tr>=0D
+				</table>=0D
+				<![endif]-->=0D
+            </td>=0D
+        </tr>=0D
+    </tbody>=0D
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" class=3D"mcnButtonBlock" style=3D"min-width:100%;">=0D
+    <tbody class=3D"mcnButtonBlockOuter">=0D
+        <tr>=0D
+            <td style=3D"padding-top:0; padding-right:18px; padding-bottom:=
+18px; padding-left:18px;" valign=3D"top" align=3D"left" class=3D"mcnButtonB=
+lockInner">=0D
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"mcnButtonContentContainer" style=3D"border-collapse: separate !import=
+ant;border-radius: 25px;background-color: #00ADEF;">=0D
+                    <tbody>=0D
+                        <tr>=0D
+                            <td align=3D"center" valign=3D"middle" class=3D=
+"mcnButtonContent" style=3D"font-family: 'Century Gothic',Helvetica; font-s=
+ize: 16px; padding: 15px;">=0D
+                                <a class=3D"mcnButton " title=3D"Advertiise=
+ Confirmation Link" href=3D"https://u4740145.ct.sendgrid.net/wf/click?upn=
+=3DyI9xx4LMX-2Bmp9VZmGS594TIpff02-2BBFfZwcED-2F25Qv5KCX2lMAwlreJ2u62TAbhXy2=
+4SN7uA3mWeYvkpQgrMSCPBwar6yEctGZJ452W-2FsDm-2BuQfVVN2cXQBVqg4fmxf6DhPIdBHC1=
+NmAuP-2BpocbGqg-3D-3D_FI7baMgXBfyo8aqWPgoJtD0X22BYbD78qY9c5-2BcDKEhteba99Zm=
+QPyweEK-2FVaGwqR1n8tdQ-2BSWGNTICScSkEwqqyNLGFACr-2BRiQmyO8wYhheqZ2Eu1EnXINh=
+rFMKtSlwwS9OZo6BMVvPhb9BeIM81nmX1clCU7tYITRapjsw15TSeaaLkAk9ncZGNdtDKgblw12=
+f7qTVqMA3402Dc4wqf6pQKpYHOOXX7ChHsSXzkLE-3D" target=3D"_blank" style=3D"fon=
+t-weight: bold;letter-spacing: normal;line-height: 100%;text-align: center;=
+text-decoration: none;color: #FFFFFF;">Confirmation Link</a>=0D
+                            </td>=0D
+                        </tr>=0D
+                    </tbody>=0D
+                </table>=0D
+            </td>=0D
+        </tr>=0D
+    </tbody>=0D
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" class=3D"mcnTextBlock" style=3D"min-width:100%;">=0D
+    <tbody class=3D"mcnTextBlockOuter">=0D
+        <tr>=0D
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding=
+-top:9px;">=0D
+              	<!--[if mso]>=0D
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"width:100%;">=0D
+				<tr>=0D
+				<![endif]-->=0D
+			    =0D
+				<!--[if mso]>=0D
+				<td valign=3D"top" width=3D"600" style=3D"width:600px;">=0D
+				<![endif]-->=0D
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" style=3D"max-width:100%; min-width:100%;" width=3D"100%" class=
+=3D"mcnTextContentContainer">=0D
+                    <tbody><tr>=0D
+                        =0D
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding: 0px 18px 9px; line-height: 100%;">=0D
+                            =0D
+                        </td>=0D
+                    </tr>=0D
+                </tbody></table>=0D
+				<!--[if mso]>=0D
+				</td>=0D
+				<![endif]-->=0D
+                =0D
+				<!--[if mso]>=0D
+				</tr>=0D
+				</table>=0D
+				<![endif]-->=0D
+            </td>=0D
+        </tr>=0D
+    </tbody>=0D
+</table></td>=0D
+                            </tr>=0D
+                            <tr>=0D
+                                <td valign=3D"top" id=3D"templateFooter"><t=
+able border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=
+=3D"mcnTextBlock" style=3D"min-width:100%;">=0D
+    <tbody class=3D"mcnTextBlockOuter">=0D
+        <tr>=0D
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding=
+-top:9px;">=0D
+              	<!--[if mso]>=0D
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"width:100%;">=0D
+				<tr>=0D
+				<![endif]-->=0D
+			    =0D
+				<!--[if mso]>=0D
+				<td valign=3D"top" width=3D"600" style=3D"width:600px;">=0D
+				<![endif]-->=0D
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" style=3D"max-width:100%; min-width:100%;" width=3D"100%" class=
+=3D"mcnTextContentContainer">=0D
+                    <tbody><tr>=0D
+                        =0D
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top:0; padding-right:18px; padding-bottom:9px; padding-left:18p=
+x;">=0D
+                        =0D
+                            =0D
+=0D
+<p style=3D"text-align: left;">You can view the&nbsp;<strong><a href=3D"htt=
+ps://u4740145.ct.sendgrid.net/wf/click?upn=3DyI9xx4LMX-2Bmp9VZmGS594TIpff02=
+-2BBFfZwcED-2F25Qv79ybrew-2BxwUIwiH2A5P5N4_FI7baMgXBfyo8aqWPgoJtD0X22BYbD78=
+qY9c5-2BcDKEhteba99ZmQPyweEK-2FVaGwqR1n8tdQ-2BSWGNTICScSkEwq-2FFbUaWHEPt9sX=
+EkSDbWsx0xDj8RVmbbx-2BhlLmD731to4HdyNPEVBhffa-2BSVfcNica8Ae3FvO3T4PqQvltUNx=
+lBWmWvj3ptokLQia0ItoR6sCUpvCpzqcDoX4sAfuS-2Ftr4cQT4LS9HbnTaBC-2B-2BmoY8-3D"=
+>privacy terms here</a></strong></p>=0D
+=0D
+                        </td>=0D
+                    </tr>=0D
+                </tbody></table>=0D
+				<!--[if mso]>=0D
+				</td>=0D
+				<![endif]-->=0D
+                =0D
+				<!--[if mso]>=0D
+				</tr>=0D
+				</table>=0D
+				<![endif]-->=0D
+            </td>=0D
+        </tr>=0D
+    </tbody>=0D
+</table></td>=0D
+                            </tr>=0D
+                        </table>=0D
+						<!--[if gte mso 9]>=0D
+						</td>=0D
+						</tr>=0D
+						</table>=0D
+						<![endif]-->=0D
+                        <!-- // END TEMPLATE -->=0D
+                    </td>=0D
+                </tr>=0D
+            </table>=0D
+        </center>=0D
+=20=20=20=20
+<img src=3D"https://u4740145.ct.sendgrid.net/wf/open?upn=3DFI7baMgXBfyo8aqW=
+PgoJtD0X22BYbD78qY9c5-2BcDKEhteba99ZmQPyweEK-2FVaGwqR1n8tdQ-2BSWGNTICScSkEw=
+qsWLY1eXDGt32z3-2B6QlOa-2FA5O1-2FGSl3c8kwsRbegdv1h1MIMjy2HJZf0CH8r4FaUCFDz6=
+P3Hg-2B-2FHdwYXEDVkxhm5lwd8y2cJ7FONC93voBKQiBar3svP-2B0Z3psiW0WEB0e39QrWaxc=
+iio7lS-2BP7fCs-3D" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"=
+height:1px !important;width:1px !important;border-width:0 !important;margin=
+-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;marg=
+in-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;p=
+adding-right:0 !important;padding-left:0 !important;"/>
+</body>=0D
+</html>
+
+

@@ -1,0 +1,257 @@
+Return-Path: <support@smartyads.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id 4fXgJWi7+FjaQQAAwZeyeg
+	for <tushar@simplifytrips.com>; Thu, 20 Apr 2017 06:45:12 -0700
+Return-path: <support@smartyads.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Thu, 20 Apr 2017 06:45:12 -0700
+Received: from mail.smartyads.com ([80.77.89.41]:56746)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <support@smartyads.com>)
+	id 1d1COW-0005RD-2k
+	for tushar@simplifytrips.com; Thu, 20 Apr 2017 06:45:12 -0700
+Received: from localhost (localhost [127.0.0.1])
+	by mail.smartyads.com (Postfix) with ESMTP id C63CCB05C43
+	for <tushar@simplifytrips.com>; Thu, 20 Apr 2017 09:44:28 -0400 (EDT)
+X-Virus-Scanned: Debian amavisd-new at mail.smartyads.com
+Received: from mail.smartyads.com ([127.0.0.1])
+	by localhost (mail.smartyads.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id nKJp-uKRp26C for <tushar@simplifytrips.com>;
+	Thu, 20 Apr 2017 09:44:24 -0400 (EDT)
+Received: from ssp.smartyads.com (unknown [88.214.226.77])
+	(Authenticated sender: wls-no-reply@smartyads.com)
+	by mail.smartyads.com (Postfix) with ESMTPSA id 202A0B05C40
+	for <tushar@simplifytrips.com>; Thu, 20 Apr 2017 09:44:24 -0400 (EDT)
+Date: Thu, 20 Apr 2017 13:44:19 +0000
+To: tushar@simplifytrips.com
+From: Support SmartyAds <support@smartyads.com>
+Subject: Notification: Inventory Declined
+Message-ID: <fd7cf81279c6737d7d0c1b39a98157f4@ssp.smartyads.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.9 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" style="height:100%">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<title>Email notification</title>
+
+</head>
+<body bgcolor="#fff"  style="width:100% !important; background-color: #fff; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; margin:0; padding:0; height:100%">
+
+
+
+
+
+	<!-- Wrapper/Container Table: Use a wrapper table to control the width and the background color consistently of your email. Use this approach instead of setting attributes on the body tag. -->
+	<table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%" style="margin:0;  padding:0; width:100% !important; height: 100%; line-height: 100% !important;">
+	<tr>
+		<td valign="top">
+
+		<!-- Tables are the most common way to format your email consistently. Set your table widths inside cells and in most cases reset cellpadding, cellspacing, and border to zero. Use nested tables as a way to space effectively in your message. -->
+		<table cellpadding="0" cellspacing="0" border="0" align="center" width="600"  bgcolor="#ffffff" align="center" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+			<tr>
+				<td width="600" valign="top">
+					<!-- header -->
+					<table cellpadding="0" cellspacing="0" border="0" width="600" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+						<tr>
+							<td width="264" bgcolor="#ffb900" valign="top">
+								<a href="https://smartyads.com"  target="_blank"><img class="image_fix" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; border:none; display: block;" src="https://smartyads.com/i/images/logo-smartyads.gif" alt="SmartyAds" title="SmartyAds" width="240" height="90" /></a>
+							</td>
+							<td width="186" bgcolor="#ffb900" >
+
+							</td>
+							<td  bgcolor="#ffb900" valign="top" style="text-align: right">
+
+								<img class="image_fix" src="https://smartyads.com/i/images/blank.gif" alt="" title="" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display: block;" height="28" width="100%"/>
+
+								<table cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; text-align:right">
+									<tr>
+										<td style="width:30px"><a href="https://www.facebook.com/smartyads"><img src="https://smartyads.com/i/images/soc-f.gif" height="30" width="30" alt="" /></a></td>
+										<td style="width:20px"></td>
+										<td style="width:30px"><a href="https://twitter.com/SmartyAds"><img src="https://smartyads.com/i/images/soc-t.gif" height="30" width="30" alt="" /></a></td>
+										<td style="width:20px"></td>
+										<td style="width:30px"><a href="https://www.linkedin.com/company/smartyads?trk=company_name"><img src="https://smartyads.com/i/images/soc-l.gif" height="30" width="30" alt="" /></a></td>
+										<td style="width:30px"><img class="image_fix" src="https://smartyads.com/i/images/blank.gif" alt="" title="" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display: block;" width="20" height="10"/></td>
+									</tr>
+								</table>
+
+							</td>
+						</tr>
+					</table>
+
+					<!-- end header -->
+				</td>
+			</tr>
+			<tr>
+				<td valign="top">
+				<table bgcolor="#f8f8f8" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" >
+					<tr>
+						<td valign="top"><img class="image_fix" src="https://smartyads.com/i/images/blank.gif" alt="" title="" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display: block;" height="10"/></td>
+						<td valign="top"></td>
+						<td valign="top"></td>
+					</tr>
+						<tr>
+							<td valign="top"><img class="image_fix" src="https://smartyads.com/i/images/blank.gif" alt="" title="" width="20"/></td>
+							<td width="560">
+								<h1  style="margin:0; color: #1e1e1e !important; font-family: Arial, sans-serif; font-size:24px; line-height: 24px; font-weight:normal"><center>Notification: Inventory Declined</center></h1>
+							</td>
+							<td valign="top"><img class="image_fix" src="https://smartyads.com/i/images/blank.gif" alt="" title="" width="20"/></td>
+						</tr>
+						<tr>
+						<td valign="top"><img class="image_fix" src="https://smartyads.com/i/images/blank.gif" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display: block;" alt="" title="" height="10"/></td>
+						<td valign="top"></td>
+						<td valign="top"></td>
+					</tr>
+					</table>
+
+					<!-- content -->
+					<table cellpadding="0" cellspacing="0" border="0" valign="top" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+						<tr>
+							<td valign="top"><img class="image_fix" src="https://smartyads.com/i/images/blank.gif" alt="" title="" width="20"/></td>
+							<td valign="top">
+        <p style="line-height:20px; margin: 1em 0; color: #7d7d7d; font-family: Arial, sans-serif; font-size: 14px">Hi Tushar, </p>
+        <p style="line-height:20px; margin: 1em 0; color: #7d7d7d; font-family: Arial, sans-serif; font-size: 14px">Unfortunately, your inventory <b><a href="https://ssp.smartyads.com/inventory">Advertisement 1 Simplifytrips (2561)</a></b> was declined by our publisher support team.</p>
+        <p style="line-height:20px; margin: 1em 0; color: #7d7d7d; font-family: Arial, sans-serif; font-size: 14px">Your resource wasn't approved by our Demand-partners.</p>
+        <p style="line-height:20px; margin: 1em 0; color: #7d7d7d; font-family: Arial, sans-serif; font-size: 14px">Regarding any questions or feedback, contact us on <a href="mailto:publishers@smartyads.com">publishers@smartyads.com</a></p>
+							</td>
+							<td valign="top"><img class="image_fix" src="https://smartyads.com/i/images/blank.gif" alt="" title="" width="20" height="1" /></td>
+						</tr>
+
+						<tr>
+						<td valign="top">
+						<img class="image_fix" src="https://smartyads.com/i/images/blank.gif" alt="" title="" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display: block;" height="20"/>
+						</td>
+						<td valign="top"></td>
+						<td valign="top"></td>
+					</tr>
+					</table>
+					<!-- end content -->
+
+
+					<table bgcolor="#f8f8f8" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" >
+					<tr>
+						<td valign="top">
+						<img class="image_fix" src="https://smartyads.com/i/images/blank.gif" alt="" title="" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display: block;" height="5"/>
+						</td>
+						<td valign="top"></td>
+						<td valign="top"></td>
+					</tr>
+						<tr>
+							<td valign="top"><img class="image_fix" src="https://smartyads.com/i/images/blank.gif" alt="" title="" width="20"/></td>
+							<td width="560">
+							<p style="line-height:20px; margin: 1em 0; color: #303030; font-family: Arial, sans-serif; font-size: 14px; text-align: center">
+							You are receiving this email because you are a <span style="color:#ffb900;">SmartyAds</span> user or requested emails via your account profile on smartyads.com. Don't want to receive any more? <a href="https://smartyads.com/user/account" style="color:#21bbd7; font-size: 14px; line-height: 20px; text-decoration: none; font-family: Arial, sans-serif;">Unsubscribe</a>.
+							</p>							</td>
+							<td valign="top"><img class="image_fix" src="https://smartyads.com/i/images/blank.gif" alt="" title="" width="20"/></td>
+						</tr>
+						<tr>
+						<td valign="top"><img class="image_fix" src="https://smartyads.com/i/images/blank.gif" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display: block;" alt="" title="" height="5"/></td>
+						<td valign="top"></td>
+						<td valign="top"></td>
+					</tr>
+					</table>
+
+
+
+					<table bgcolor="#ffb900" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" >
+					<tr>
+						<td valign="top">
+						<img class="image_fix" src="https://smartyads.com/i/images/blank.gif" alt="" title="" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display: block;" height="10"/>
+						</td>
+						<td valign="top"></td>
+						<td valign="top"></td>
+					</tr>
+						<tr>
+							<td valign="top"><img class="image_fix" src="https://smartyads.com/i/images/blank.gif" alt="" title="" width="20"/></td>
+							<td width="560">
+							<p style="line-height:20px; margin:0; color: #303030; font-family: Arial, sans-serif; font-size: 14px; text-align: center">
+							All member work copyright of respective owner, otherwise   2017 <a href="https://smartyads.com" style="color:#ffffff; font-size: 14px; line-height: 20px; text-decoration: none; font-family: Arial, sans-serif;">SmartyAds Inc</a>
+							</p>							</td>
+							<td valign="top"><img class="image_fix" src="https://smartyads.com/i/images/blank.gif" alt="" title="" width="20"/></td>
+						</tr>
+						<tr>
+						<td valign="top"><img class="image_fix" src="https://smartyads.com/i/images/blank.gif" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display: block;" alt="" title="" height="10"/></td>
+						<td valign="top"></td>
+						<td valign="top"></td>
+					</tr>
+					</table>
+
+
+
+				</td>
+			</tr>
+
+			<tr>
+				<td valign="top">
+					<!-- footer -->
+					<table cellpadding="0" cellspacing="0" border="0"  width="100%" bgcolor="#303030"  style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" >
+						<tr>
+							<td><img class="image_fix" src="https://smartyads.com/i/images/blank.gif" alt="" title="" width="20" height="1"/></td>
+							<td valign="top">
+								<img class="image_fix" src="https://smartyads.com/i/images/blank.gif" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display: block;" alt="" title="" width="100%" height="15"/>
+
+
+								<span style="text-align:center; display:block; width:100%; text-transform: uppercase; color:#ffb900;  font-family: Arial, sans-serif; font-size: 14px; line-height:24px;">SmartyAds LLP</span>
+								<span style="text-align: center; display:block; width:100%; text-transform: uppercase; color:#c1c1c1; font-family: Arial, sans-serif; font-size: 14px; line-height:24px">122 - 126 Tooley Street</span>
+								<span style="text-align: center; display:block; color:#c1c1c1; font-family: Arial, sans-serif; font-size: 14px; line-height: 24px ">London SE1 2TU Company No. OC368278</span>
+
+
+
+
+								<img class="image_fix" src="https://smartyads.com/i/images/blank.gif" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display: block;" alt="" title="" width="100%" height="15"/>
+
+
+								<table cellpadding="0" cellspacing="0" border="0"  width="100%" bgcolor="#303030"  style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" >
+									<tr>
+										<td style="text-align:right">
+											<span style="text-align:right; color:#c1c1c1; font-family: Arial, sans-serif; line-height:24px; font-size:14px">GENERAL INQUIRIES: <br />
+												<a href="mailto:support@smartyads.com" style="color:#21bbd7; font-size: 14px; line-height: 20px; text-decoration: none; font-family: Arial, sans-serif;">support@smartyads.com</a></span>
+										</td>
+										<td width="10"><img class="image_fix" src="https://smartyads.com/i/images/blank.gif" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display: block;" alt="" title="" width="10" height="15"/>
+</td>
+										<td width="30"><img src="https://smartyads.com/i/images/icon-mail.gif" height="30" width="30" alt="" /></td>
+										<td width="10"><img class="image_fix" src="https://smartyads.com/i/images/blank.gif" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display: block;" alt="" title="" width="10" height="15"/>
+</td>
+										<td width="30"><img src="https://smartyads.com/i/images/icon-phone.gif" height="30" width="30" alt="" /></td>
+										<td width="10"><img class="image_fix" src="https://smartyads.com/i/images/blank.gif" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display: block;" alt="" title="" width="10" height="15"/>
+</td>
+										<td style="text-align:left">
+											<span style="tetx-align:left; color:#c1c1c1; font-family: Arial, sans-serif; line-height:24px; font-size:14px">1 646 369 1384 (USA) <br />
+												44 203 519 3380 (UK)</span>
+										</td>
+									</tr>
+								</table>
+
+
+
+
+							</td>
+							<td valign="top"><img class="image_fix" src="https://smartyads.com/i/images/blank.gif" alt="" title="" width="20"/></td>
+						</tr>
+						<tr>
+							<td valign="top"><img class="image_fix" src="https://smartyads.com/i/images/blank.gif" alt="" title="" height="20"/></td>
+						</tr>
+					</table>
+					<!-- end footer -->
+
+
+				</td>
+			</tr>
+		</table>
+
+		<!-- End example table -->
+		</td>
+	</tr>
+	</table>
+	<!-- End of wrapper table -->
+</body>
+</html>
+

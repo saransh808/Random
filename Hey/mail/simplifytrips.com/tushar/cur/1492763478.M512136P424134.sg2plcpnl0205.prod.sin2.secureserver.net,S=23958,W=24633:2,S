@@ -1,0 +1,675 @@
+Return-Path: <699-SXJ-715.0.74244.0.0.18045.9.99231726@em-sj-77.mktomail.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id qa1jHlbD+VjGeAYAwZeyeg
+	for <tushar@simplifytrips.com>; Fri, 21 Apr 2017 01:31:18 -0700
+Return-path: <699-SXJ-715.0.74244.0.0.18045.9.99231726@em-sj-77.mktomail.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Fri, 21 Apr 2017 01:31:18 -0700
+Received: from barrosasaurus.mktdns.com ([192.28.146.14]:39160)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <699-SXJ-715.0.74244.0.0.18045.9.99231726@em-sj-77.mktomail.com>)
+	id 1d1TyH-001o15-T7
+	for tushar@simplifytrips.com; Fri, 21 Apr 2017 01:31:18 -0700
+X-MSFBL: dHVzaGFyQHNpbXBsaWZ5dHJpcHMuY29tQGR2cC0xOTItMjgtMTQ2LTE0QGJnLXNq
+	ZC0yMTVANjk5LVNYSi03MTU6MjgyMzc6MTM5OTI6NTQxODc6MDoxODA0NTo5Ojc0
+	MjQ0Ojk5MjMxNzI2
+Received: from [10.0.87.249] ([10.0.87.249:46087] helo=sjmas03.marketo.org)
+	by sjmta06.marketo.org (envelope-from <employers-noreply@indeed.com>)
+	(ecelerity 3.6.8.47404 r(Core:3.6.8.0)) with ESMTP
+	id D5/E7-21782-B23C9F85; Fri, 21 Apr 2017 03:30:35 -0500
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1492763435;
+	s=m1; d=indeed.com; i=@indeed.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=NE9by13uL4Cib8rxRxhqV2dzhGQpjzN2Spln/UYHPvs=;
+	b=jhWh8Qp35FI2z2O4TvQFJWuhS5IG//zBtEdUVjC9LnOn9bjWU9JRpRd736bqIAg9
+	8NssDHgMyAyMrRrroBdfKRVE7ik2aXn7yZ0LnMytXISH+t/HgTJkRjA3OJnsA4Mct5J
+	smRwXr++vXpGyp5j77qBzR1m8zNnvDEEmE9tLPZc=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1492763435;
+	s=m1; d=mktdns.com; i=@mktdns.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=NE9by13uL4Cib8rxRxhqV2dzhGQpjzN2Spln/UYHPvs=;
+	b=qVWNp+QoqSMq8ockUU9Uk2DzLJ2fRCtIAslwETVyE6mKK7hdjrcQlqMmTes6h1FC
+	kh6DwJ3SopUmebVb5wsXRrLXJT+BaJLonvvjI+URm3SwvKNoSWJcPNEV55X+EA39H3a
+	yWzYxmKubspGIjkI7IXZoADl5en7lvILZP7dAQ0o=
+Date: Fri, 21 Apr 2017 03:30:35 -0500 (CDT)
+From: Indeed <employers-noreply@indeed.com>
+Reply-To: employers-noreply@indeed.com
+To: tushar@simplifytrips.com
+Message-ID: <369649349.-341208937.1492763435696.JavaMail.root@sjmas03.marketo.org>
+Subject: Getting Started with Indeed: 3 tips to help you hire better.
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_-341208938_424995553.1492763435696"
+X-Binding: bg-sjd-215
+X-MarketoID: 699-SXJ-715:28237:13992:54187:0:18045:9:74244:99231726
+X-MktArchive: false
+List-Unsubscribe: <mailto:NNLEQOKVKI4UO4ZVIRPU2432LI3XC5THI42XOR2WKNUVO2SGHBFGURT2LJ2WMYKKPJIGGPI.74244.18045.9@unsub-sj.mktomail.com>
+X-Mailfrom: 699-SXJ-715.0.74244.0.0.18045.9.99231726@em-sj-77.mktomail.com
+X-MSYS-API: {"options":{"open_tracking":false,"click_tracking":false}}
+X-MktMailDKIM: true
+
+------=_Part_-341208938_424995553.1492763435696
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+View this email as a web page here >>http://offers.indeed.com/index.php/ema=
+il/emailWebview?mkt_tok=3DeyJpIjoiTW1Oak9URXlaRGs1TmpnMSIsInQiOiJ0aUR6T1Z6R=
+2ZTSjFRQ0h3RW9lSExPMUYrbzc2eXNaMW1adXVVSXRCV3JndGhCUER1KzR0TzNOTi9UNWhNRGpl=
+aDA0MFNBUG92U3Jldm9QU2tycjJodG9STWtIQUxsZzVOZjR3Y01VZG1aSmF3R1Q4dW1Yc0N3c1V=
+WWm1YdFFrVyJ9
+
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=
+=A0 =C2=A0
+
+
+
+
+
+
+
+
+
+
+
+=C2=A0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <http://content.indeed.com/I0D6NSH0JII81W2m0T0XJ00>
+
+
+
+
+
+
+
+
+Log in <http://content.indeed.com/I0D6OSH0JII91W2m0T0XJ00>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome to Indeed!
+
+
+
+
+
+
+
+Are you ready to hire?=C2=A0
+
+Here are three tips to help=C2=A0find the perfect hire on Indeed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tip 1 of 3: First impressions are everything!
+
+
+Your job title and description are crucial. Here are the top 3 ways to make=
+ your listing more effective:
+
+
+Use important keywords.
+
+Include the important terms that qualified candidates would search. Avoid j=
+argon, acronyms and buzzwords.
+
+
+Be specific.
+
+Describe the day to day responsibilities an eventual employee will perform.=
+ Include details that paint a clear picture of your job.
+
+
+Show some personality.
+
+Don=E2=80=99t forget the human touch. Give candidates a sense of your compa=
+ny=E2=80=99s culture and how they might fit into it.
+
+
+
+
+
+
+Edit Jobs <http://content.indeed.com/b0000WXJTSP6JIDa020mHI1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tip 2 of 3: Manage candidates like a pro.
+
+
+A smooth recruitment process helps you hire faster and makes a great first =
+impression with candidates. From the Indeed employer dashboard you can:
+
+
+Email candidates.
+
+Start a conversation using the =E2=80=9CCompose Message=E2=80=9D button in =
+your dashboard.
+
+
+Organise candidates.
+
+Assign candidate statuses like =E2=80=9Cscreened=E2=80=9D, =E2=80=9Crejecte=
+d=E2=80=9D and =E2=80=9Chired=E2=80=9D to filter and sort applicants easily=
+.
+
+
+Schedule interviews.
+
+Book interviews and send invitations that sync with your applicant=E2=80=99=
+s calendar programs.
+
+
+
+
+
+
+Manage Candidates <http://content.indeed.com/SX0J2W0HJ6I01SI0D00TmbQ>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tip 3 of 3: Stay on top of things.
+
+
+The Indeed Employer Dashboard is a control center for your recruitment. Her=
+e=E2=80=99s how to use it to organise your hiring activities.
+
+
+Get the big picture
+
+The Overview tab gives a snapshot of your entire hiring campaign. View new =
+applicants, open jobs and upcoming interviews at a glance.
+
+
+Manage your jobs
+
+Tweak your job title or add required skills and experience to your job desc=
+ription by clicking =E2=80=9Cedit job=E2=80=9D beneath the job title. You c=
+an also close or pause a job from a simple drop down menu.
+
+
+Evaluate your candidates
+
+Preview applicants to your jobs at a glance. Click on a name for a closer l=
+ook at qualifications and start communicating to learn more.
+
+
+
+
+
+
+
+
+
+Go to Your Dashboard <http://content.indeed.com/tWJI2m6TSH0Jc001XI000DR>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Questions? Sign in <http://content.indeed.com/CXI00d0SJ6TS01WH2m0DJ0I> and =
+click the 'contact' link at the bottom of the page.
+
+
+
+
+
+=C2=A9 2017 Indeed India Operations (Pte) Ltd. | 3rd Floor, Ashoka Capitol,=
+ Road No. 2, Banjara Hills, Hyderabad, 500034, Telangana, India
+
+
+
+
+
+
+
+If you no longer wish to receive these types of emails you may update your =
+subscriptions here <http://content.indeed.com/e10HTJ02060XST0mIDeJI0W>
+
+-
+
+------=_Part_-341208938_424995553.1492763435696
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+<title>Indeed.com_email-4</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style type="text/css">
+                        a{
+                                outline:none;
+                                color:#0000cc;
+                                text-decoration:underline;
+                        }
+                        a:hover{text-decoration:none !important;}
+                        a.link:hover{text-decoration:underline !important;}
+                        a[x-apple-data-detectors]{color:inherit !important; text-decoration:none !important;}
+                        .active:hover, .button:hover{opacity:0.8;}
+                        .active, .button{
+                                -webkit-transition:all 0.3s ease;
+                                -moz-transition:all 0.3s ease;
+                                -ms-transition:all 0.3s ease;
+                                transition:all 0.3s ease;
+                        }
+                        img{border:none;}
+                        table td{mso-line-height-rule:exactly;}
+                        .ExternalClass, .ExternalClass a, .ExternalClass span, .ExternalClass b, .ExternalClass br, .ExternalClass p, .ExternalClass div{line-height:inherit;}
+                        @media only screen and (max-width:500px) {
+                                /* default style */
+                                table[class="flexible"]{width:100% !important;}
+                                table[class="table-center"]{float:none !important; margin:0 auto !important;}
+                                *[class="hide"]{display:none !important; width:0 !important; height:0 !important; padding:0 !important; font-size:0 !important; line-height:0 !important;}
+                                span[class="db"]{display:block !important;}
+                                td[class="img-flex"] img{width:100% !important; height:auto !important;}
+                                td[class="aligncenter"]{text-align:center !important;}
+                                tr[class="table-holder"]{display:table !important; width:100% !important;}
+                                th[class="tcap"]{display:table-caption !important; width:100% !important;}
+                                th[class="thead"]{display:table-header-group !important; width:100% !important;}
+                                th[class="trow"]{display:table-row !important; width:100% !important;}
+                                th[class="tfoot"]{display:table-footer-group !important; width:100% !important;}
+                                th[class="flex"]{display:block !important; width:100% !important;}
+                                /* custom style */
+                                td[class="banner"]{padding: 35px 10px 15px !important;}
+                                td[class="banner-text"]{font-size: 16px !important; line-height: 20px !important; text-align: center !important;}
+                                td[class="block"]{padding: 40px 15px 36px !important;}
+                                td[class="side-padding"]{padding-left: 10px !important; padding-right: 10px !important;}
+                                td[class="button"] {width: 265px !important; font-size: 16px !important; line-height: 18px !important;}
+                                td[class="button"] a{padding-top: 15px !important; padding-bottom: 15px !important;}
+                                span[class="db"]{display: block !important;}
+                                td[class="footer"]{padding: 35px !important;}
+                                td[class="footer-text"]{font-size: 14px !important; line-height: 20px !important;}
+                                tr[class="mobile-ico"] img{width: 33px !important; height: auto !important;}
+                        }
+</style>
+</head>
+<body style="margin:0; padding:0; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; " bgcolor="#FFFFFF" >
+<div style="text-align: center; font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:11px; color:#000000; text-decoration: none;" >View this email as a web page: <a href=
+"http://content.indeed.com/v/NX00VSmW006DITJ0g1I0H2J"
+>click here</a></div>
+<div ><div class="mktEditable" ><table style="min-width: 320px;" width="100%" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"><!--mce:protected %3C%21==%20fix%20for%20gmail%20==%3E-->
+<tbody>
+<tr>
+<td style="line-height: 0;">
+<div style="display: none; white-space: nowrap; font: 15px/1px courier;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+</td>
+</tr>
+<tr>
+<td>
+<table class="flexible" width="600" align="center" style="margin: 0 auto;" cellpadding="0" cellspacing="0"><!--mce:protected %3C%21==%20fix%20for%20gmail%20==%3E-->
+<tbody>
+<tr>
+<td class="hide">
+<table width="600" cellpadding="0" cellspacing="0" style="width: 600px !important;">
+<tbody>
+<tr>
+<td style="min-width: 600px; font-size: 0; line-height: 0;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table width="100%" cellpadding="0" cellspacing="0"><!--mce:protected %3C%21==%20header%20==%3E-->
+<tbody>
+<tr>
+<td style="padding: 19px 60px 16px 53px;">
+<table width="100%" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="aligncenter"><a href=
+"http://content.indeed.com/I0D6NSH0JII81W2m0T0XJ00" target="_blank" style="text-decoration: none;"
+><img src="http://offers.indeed.com/rs/699-SXJ-715/images/logo.png" height="32" width="124" style="vertical-align: top; height: 32px; width: 124px; font: bold 15px Helvetica, Arial, sans-serif;" alt="indeed"></a></td>
+<td class="hide" align="right">
+<table width="100%" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td align="right">
+<table cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="active" align="center" background="http://s17.postimg.org/5unfjvqp7/bg_btn_01.png" style="font: bold 11px/13px Helvetica, Arial, sans-serif; color: #fff; mso-padding-alt: 8px 43px; background-image: url('http://s17.postimg.org/5unfjvqp7/bg_btn_01.png'); background-repeat: repeat-x; border-radius: 4px;" bgcolor="#0D38E0"><a target="_blank" style="text-decoration: none; color: #fff; display: block; padding: 8px 43px;" href=
+"http://content.indeed.com/I0D6OSH0JII91W2m0T0XJ00"
+>Log in</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!--mce:protected %3C%21==%20banner%20==%3E-->
+<tr>
+<td bgcolor="#FF6600" style="padding: 0 16px;">
+<table width="100%" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<th class="flex" width="293" align="left" style="vertical-align: middle; padding: 0;">
+<table width="100%" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="banner" style="padding: 12px 0 10px 35px;">
+<table width="100%" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="aligncenter" style="font: 25px/25px Helvetica, Arial, sans-serif; color: #fff; padding: 0 0 8px;">Welcome to Indeed!<br></td>
+</tr>
+<tr>
+<td class="aligncenter" style="font: 14px/25px Helvetica, Arial, sans-serif; color: #fff; padding: 0 0 8px;">
+<p></p>
+<p><span style="color: #ffffff; font-family: Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 25px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: #FF6600;">Are you ready to hire?&nbsp;</span></p>
+<p>Here are <b>three tips</b> to help&nbsp;find the perfect hire on Indeed.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="flex" width="275" align="right" style="vertical-align: top; padding: 0;">
+<table width="100%" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="img-flex"><img src="http://offers.indeed.com/rs/699-SXJ-715/images/header_image.png" height="253" width="282" style="vertical-align: top; height: 252px; width: 282px;" alt=""></td>
+</tr>
+</tbody>
+</table>
+</th>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!--mce:protected %3C%21==%20block-01%20==%3E-->
+<tr>
+<td class="block" style="padding: 15px 105px 45px;">
+<table width="100%" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td align="center" style="font: 20px/24px Helvetica, Arial, sans-serif; color: #000; padding: 0 0 12px;"><br>
+<b>Tip 1 of 3:</b> First impressions are everything!</td>
+</tr>
+<tr>
+<td class="side-padding" align="center" style="font: 13px/17px Helvetica, Arial, sans-serif; color: #494949; padding: 0 10px 27px;">Your job title and description are crucial. Here are the top 3 ways to make your listing more effective:</td>
+</tr>
+<tr>
+<td class="side-padding" align="center" style="font: 13px/17px Helvetica, Arial, sans-serif; color: #494949; padding: 0 5px 24px;"><span style="color: #ff6600;"><b>Use important keywords.</b></span><br>
+Include the important terms that qualified candidates would search. Avoid jargon, acronyms and buzzwords.</td>
+</tr>
+<tr>
+<td class="side-padding" align="center" style="font: 13px/17px Helvetica, Arial, sans-serif; color: #494949; padding: 0 5px 23px;"><span style="color: #ff6600;"><b>Be specific.</b></span><br>
+Describe the day to day responsibilities an eventual employee will perform. Include details that paint a clear picture of your job.</td>
+</tr>
+<tr>
+<td class="side-padding" align="center" style="font: 13px/17px Helvetica, Arial, sans-serif; color: #494949; padding: 0 15px 24px;"><span style="color: #ff6600;"><b>Show some personality.</b></span><br>
+Don&rsquo;t forget the human touch. Give candidates a sense of your company&rsquo;s culture and how they might fit into it.</td>
+</tr>
+<tr>
+<td align="center">
+<table align="center" style="margin: 0 auto;" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="button" width="173" align="center" background="http://s14.postimg.org/qvynj9ywd/bg_btn_02.png" style="font: bold 14px/16px Helvetica, Arial, sans-serif; color: #fff; mso-padding-alt: 11px 10px; background-image: url('http://s14.postimg.org/qvynj9ywd/bg_btn_02.png'); background-repeat: repeat-x; border-radius: 5px;" bgcolor="#0D38E0"><a target="_blank" width="173" style="text-decoration: none; color: #fff; display: block; padding: 11px 10px;" href=
+"http://content.indeed.com/b0000WXJTSP6JIDa020mHI1"
+>Edit Jobs</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!--mce:protected %3C%21==%20block-02%20==%3E-->
+<tr>
+<td class="block" bgcolor="#F7F8F9" style="padding: 41px 80px 44px;">
+<table width="100%" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td align="center" style="font: 20px/24px Helvetica, Arial, sans-serif; color: #000; padding: 0 0 12px;"><b>Tip 2 of 3:</b> Manage candidates like a pro.</td>
+</tr>
+<tr>
+<td class="side-padding" align="center" style="font: 13px/17px Helvetica, Arial, sans-serif; color: #494949; padding: 0 0 28px;">A smooth recruitment process helps you hire faster and makes a great first impression with candidates. From the Indeed employer dashboard you can:</td>
+</tr>
+<tr>
+<td class="side-padding" align="center" style="font: 13px/17px Helvetica, Arial, sans-serif; color: #494949; padding: 0 20px 23px;"><span style="color: #ff6600;"><b>Email candidates.</b></span><br>
+Start a conversation using the &ldquo;Compose Message&rdquo; button in your dashboard.</td>
+</tr>
+<tr>
+<td class="side-padding" align="center" style="font: 13px/17px Helvetica, Arial, sans-serif; color: #494949; padding: 0 20px 23px;"><span style="color: #ff6600;"><b>Organise candidates.</b></span><br>
+Assign candidate statuses like &ldquo;screened&rdquo;, &ldquo;rejected&rdquo; and &ldquo;hired&rdquo; to filter and sort applicants easily.</td>
+</tr>
+<tr>
+<td class="side-padding" align="center" style="font: 13px/17px Helvetica, Arial, sans-serif; color: #494949; padding: 0 25px 24px;"><span style="color: #ff6600;"><b>Schedule interviews.</b></span><br>
+Book interviews and send invitations that sync with your applicant&rsquo;s calendar programs.</td>
+</tr>
+<tr>
+<td align="center">
+<table align="center" style="margin: 0 auto;" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="button" width="173" align="center" background="http://s14.postimg.org/qvynj9ywd/bg_btn_02.png" style="font: bold 14px/16px Helvetica, Arial, sans-serif; color: #fff; mso-padding-alt: 11px 10px; background-image: url('http://s14.postimg.org/qvynj9ywd/bg_btn_02.png'); background-repeat: repeat-x; border-radius: 5px;" bgcolor="#0D38E0"><a width="173" target="_blank" style="text-decoration: none; color: #fff; display: block; padding: 11px 10px;" href=
+"http://content.indeed.com/SX0J2W0HJ6I01SI0D00TmbQ"
+>Manage Candidates</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!--mce:protected %3C%21==%20block-03%20==%3E-->
+<tr>
+<td class="block" style="padding: 43px 85px 45px;">
+<table width="100%" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td align="center" style="font: 20px/24px Helvetica, Arial, sans-serif; color: #000; padding: 0 15px 12px;"><b>Tip 3 of 3:</b> Stay on top of things.</td>
+</tr>
+<tr>
+<td class="side-padding" align="center" style="font: 13px/17px Helvetica, Arial, sans-serif; color: #494949; padding: 0 0 26px;">The Indeed Employer Dashboard is a control center for your recruitment. Here&rsquo;s how to use it to organise your hiring activities.</td>
+</tr>
+<tr>
+<td class="side-padding" align="center" style="font: 13px/17px Helvetica, Arial, sans-serif; color: #494949; padding: 0 20px 25px;"><span style="color: #ff6600;"><b>Get the big picture</b></span><br>
+The Overview tab gives a snapshot of your entire hiring campaign. View new applicants, open jobs and upcoming interviews at a glance.</td>
+</tr>
+<tr>
+<td class="side-padding" align="center" style="font: 13px/17px Helvetica, Arial, sans-serif; color: #494949; padding: 0 20px 23px;"><span style="color: #ff6600;"><b>Manage your jobs</b></span><br>
+Tweak your job title or add required skills and experience to your job description by clicking &ldquo;edit job&rdquo; beneath the job title. You can also close or pause a job from a simple drop down menu.</td>
+</tr>
+<tr>
+<td class="side-padding" align="center" style="font: 13px/17px Helvetica, Arial, sans-serif; color: #494949; padding: 0 20px 23px;"><span style="color: #ff6600;"><b>Evaluate your candidates</b></span><br>
+Preview applicants to your jobs at a glance. Click on a name for a closer look at qualifications and start communicating to learn more.</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td align="center">
+<table align="center" style="margin: 0 auto;" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="button" width="173" align="center" background="http://s14.postimg.org/qvynj9ywd/bg_btn_02.png" style="font: bold 14px/16px Helvetica, Arial, sans-serif; color: #fff; mso-padding-alt: 11px 10px; background-image: url('http://s14.postimg.org/qvynj9ywd/bg_btn_02.png'); background-repeat: repeat-x; border-radius: 5px;" bgcolor="#0D38E0"><a width="173" target="_blank" style="text-decoration: none; color: #fff; display: block; padding: 11px 10px;" href=
+"http://content.indeed.com/tWJI2m6TSH0Jc001XI000DR"
+>Go to Your Dashboard</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!--mce:protected %3C%21==%20footer%20==%3E-->
+<tr>
+<td class="footer" bgcolor="#F5F6F7" style="border-top: 1px solid #dedede; padding: 36px 100px 32px;">
+<table width="100%" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td class="footer-txt" style="font: 10px/12px Helvetica, Arial, sans-serif; color: #494949;" align="center"><b>Questions?</b> <a style="text-decoration: underline; color: #0000cc;" href=
+"http://content.indeed.com/CXI00d0SJ6TS01WH2m0DJ0I" target="_blank"
+>Sign in</a> and click the 'contact' link at the bottom of the page.<br>
+<br>
+<br>
+&copy; 2017 Indeed India Operations (Pte) Ltd. | 3rd Floor, Ashoka Capitol, Road No. 2, Banjara Hills, Hyderabad, 500034, Telangana, India<br></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="footer-text" align="center" style="font: 10px/14px Helvetica, Arial, sans-serif; color: #494949; padding: 10px 15px 25px;">If you no longer wish to receive these types of emails you may update your subscriptions <a href=
+"http://content.indeed.com/e10HTJ02060XST0mIDeJI0W" class="link" style="text-decoration: none; color: #0000cc;"
+>here</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<a href=
+"http://content.indeed.com/R00JIHDXmW0020I6SUJTf10"
+></a>
+<img src="http://content.indeed.com/trk?t=1&mid=Njk5LVNYSi03MTU6MjgyMzc6MTM5OTI6NTQxODc6MDoxODA0NTo5Ojc0MjQ0Ojk5MjMxNzI2OnR1c2hhckBzaW1wbGlmeXRyaXBzLmNvbQ%3D%3D" width="1" height="1" style="display:none !important;" alt="" />
+
+<!-- Unsubscribe Blank Comment -->
+</body>
+</html>
+------=_Part_-341208938_424995553.1492763435696--

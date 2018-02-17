@@ -1,0 +1,63 @@
+Return-Path: <mail@adventureworldindia.com>
+Delivered-To: info@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id kcz2JAG+5FhB9wIAwZeyeg
+	for <info@simplifytrips.com>; Wed, 05 Apr 2017 02:50:57 -0700
+Return-path: <mail@adventureworldindia.com>
+Envelope-to: info@simplifytrips.com
+Delivery-date: Wed, 05 Apr 2017 02:50:57 -0700
+Received: from mail-pg0-f47.google.com ([74.125.83.47]:35140)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <mail@adventureworldindia.com>)
+	id 1cvhab-000p21-DL
+	for info@simplifytrips.com; Wed, 05 Apr 2017 02:50:57 -0700
+Received: by mail-pg0-f47.google.com with SMTP id 81so5498225pgh.2
+        for <info@simplifytrips.com>; Wed, 05 Apr 2017 02:50:37 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=adventureworldindia-com.20150623.gappssmtp.com; s=20150623;
+        h=from:to:in-reply-to:subject:date:message-id:mime-version
+         :content-transfer-encoding:thread-index;
+        bh=mIkDx0QM/5nxTXkNZ1M4tsRYkeSFnbHNkGwdStmQaZo=;
+        b=olS+Fqp57+nu4hKGH6SldIy8jWD3H1OPjIe+Lmq7t7W2jKrYUWxQT4EZ02wGQ6WtjY
+         03ptu0gftB+ZbHd7+5USIWEt2h9z9xU0v0gd+OZkTJwtvXaTvgNtlhCxzcgQxFj6eOg1
+         ti4oJJZxjwVlGK7xJBK3nNPAR1Sal4q+GDzv7qpsDoBv27Nz+occClJPcy4M30QyDRWY
+         KzhkX/5BogCmb4bQCN4QWIDX4h7gS/t1Af7qKOL0C7tzFg34hEEO445oeEd1RdbDImjd
+         hG17ia81mMAZa8srmKHR00Zy8VxUc8pCWxXnrGDErR6kXnsbzWa/UYcV39NtF+ZuYA1M
+         fgcw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:to:in-reply-to:subject:date:message-id
+         :mime-version:content-transfer-encoding:thread-index;
+        bh=mIkDx0QM/5nxTXkNZ1M4tsRYkeSFnbHNkGwdStmQaZo=;
+        b=ERDJI1hACIfhMzvLrEfIPxovDIO8sxA/LLK34ie4Ntn13YdC5LQB4oKcmOQOECeubG
+         QQJg3qV59S/mbVpGSsy4iNwRvLWwmCxcmBbfL2y1tCFbAsqLhJ/VFl++/f0AY3eZvqyq
+         MhzHKkrSFoF1JfTSf9oA96uWeF22+A2PnM6XYV4jVlIX6wuakkddof1A+FzAcoBE9Paq
+         GSozFC6JdFYpYiC3jJz+4hdWvTIdBu14kHv7QYpE5LvTIAY2wzPhDwymBCm1vwhJuyz8
+         kXv49oZ1DNlNWecSHNoYFbZDUeb42R7GkXeT6L3EfYfZY8aoYC7XHg5N5N/DVUUfywDB
+         MvkQ==
+X-Gm-Message-State: AFeK/H31PAgcg59jD3rn7iYBrMwpuJt6HOAJBAccgbqIeqEOkCZt4tkFYmooIUcp9SI0bA==
+X-Received: by 10.99.202.73 with SMTP id o9mr28607946pgi.173.1491385815416;
+        Wed, 05 Apr 2017 02:50:15 -0700 (PDT)
+Received: from SERVERIBM ([182.69.135.160])
+        by smtp.gmail.com with ESMTPSA id m4sm36444435pfi.74.2017.04.05.02.50.13
+        for <info@simplifytrips.com>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Wed, 05 Apr 2017 02:50:14 -0700 (PDT)
+From: "Adventure World | Mail" <mail@adventureworldindia.com>
+To: <info@simplifytrips.com>
+In-Reply-To: <4323cf659cbe994ad5b3fc6f6aeb4c6c@simplifytrips.com>
+Subject: Read: Destination Insights for Summer 2017
+Date: Wed, 5 Apr 2017 15:20:06 +0530
+Message-ID: <02ab01d2adf2$039716d0$0ac54470$@adventureworldindia.com>
+MIME-Version: 1.0
+Content-Type: message/disposition-notification
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQDUd+zHHO1TyTXLSkWvGagyhEmdOgIFCVUJAKcZF/0CiK7VXqOJTZe2
+
+Reporting-UA: adventureworldindia.com; Microsoft Outlook 15.0
+Final-Recipient: rfc822;mail@adventureworldindia.com
+Original-Message-ID: <4323cf659cbe994ad5b3fc6f6aeb4c6c@simplifytrips.com>
+Disposition: manual-action/MDN-sent-automatically; displayed
+

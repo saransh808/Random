@@ -1,0 +1,131 @@
+Return-Path: <khuranarhythm07@gmail.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id ybLdJOypJlm4DgoAwZeyeg
+	for <tushar@simplifytrips.com>; Thu, 25 May 2017 02:54:52 -0700
+Return-path: <khuranarhythm07@gmail.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Thu, 25 May 2017 02:54:52 -0700
+Received: from mail-it0-f54.google.com ([209.85.214.54]:38541)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.88)
+	(envelope-from <khuranarhythm07@gmail.com>)
+	id 1dDpTo-002nqj-HF
+	for tushar@simplifytrips.com; Thu, 25 May 2017 02:54:52 -0700
+Received: by mail-it0-f54.google.com with SMTP id r63so54474380itc.1
+        for <tushar@simplifytrips.com>; Thu, 25 May 2017 02:54:32 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=rxlu7lyzNX6SUrGRSnqdikU+jR+iMqYN4cONoisM+kA=;
+        b=cWC05UKx9KnpuNIpiB7pc5lpPKWW+kbFu9MxzAIOs8l5Vj7EiF85edhr0/cDLgkFTj
+         +KM2p7GK6EM2IgIo+hmXgdTm0oMTZNLfvnOkuef4BpZ1bpUTNNu8/eWTB8W5xQbiTVZv
+         7KXcBjILFxjo+0meqsb3PO7LK84jpi+JJADb4Dco+b7wIH19QdGtIhMUFTvaOBrCS5NC
+         VVIQBqNxrMLe85y/OTAeCsensvhbXYO7P/z+JrffPoogGs749qwHSWgAg7g4PO3RPk1x
+         DEHywgK/l49KSatWqqt6aly9dNhFcwRp5AyeAsWCnWDec1IUlOh2zgqA2bH/qjkmshsO
+         n74Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=rxlu7lyzNX6SUrGRSnqdikU+jR+iMqYN4cONoisM+kA=;
+        b=tbqFOUcOP9GZlUknnn0Zkxg6yy4iejQ3EpDahhVzFLVpJMdvUT/aDyim2X57jXrRdh
+         HOHidKNbuK4cpw5bQUivOonNJ7I+y59l1q5klf0Zuz3r926B/pdPQoKE3ec0X8XRG9M3
+         pdYV3r35OfkM7uW+Q4bOKHYt3cTPB8rJlsD7AMlZbWOqE2EUnTSN1/3Qj+WyaMJkh7m9
+         eK9JLcSkrsu1Z4eAR7kWlVehuCv3YGPUgVEFiGybfZgqisfJU9XM7VGNULJ9T8s6nzRA
+         RHypPKI+8QnOosxcveY7tSBOLVj7mx/4Q2ZICMSu5trbcxAkeDCOsEsxu0v0KVNHZZBy
+         clYg==
+X-Gm-Message-State: AODbwcCr8wJaV+8oR4UTeJjR82Z4XjqgNUWnc9Uh3o1moNaAWNBJYNif
+	FuAkHfnpMdLTNVJcK20cnhLVWHqseg==
+X-Received: by 10.36.225.8 with SMTP id n8mr12129693ith.29.1495706050450; Thu,
+ 25 May 2017 02:54:10 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.36.161.75 with HTTP; Thu, 25 May 2017 02:54:10 -0700 (PDT)
+Received: by 10.36.161.75 with HTTP; Thu, 25 May 2017 02:54:10 -0700 (PDT)
+In-Reply-To: <36a76d1cfb483506676a563d211f210d@simplifytrips.com>
+References: <CAK6Y09-zAAiOByfQ1eGPRwyG=agGUOYPVhdjifY6+S2JPWa7mw@mail.gmail.com>
+ <36a76d1cfb483506676a563d211f210d@simplifytrips.com>
+From: rhythm khurana <khuranarhythm07@gmail.com>
+Date: Thu, 25 May 2017 15:24:10 +0530
+Message-ID: <CAK6Y0993JSAD-E_HST-gZehYxeGFutQ4K78iHckHdddEt8jueg@mail.gmail.com>
+Subject: Re: Blog
+To: tushar@simplifytrips.com
+Content-Type: multipart/alternative; boundary="94eb2c19df4ad35e19055056339e"
+
+--94eb2c19df4ad35e19055056339e
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Thanks, I have received it.
+Alright, yeah I will add images too.=F0=9F=91=8D
+
+On May 25, 2017 3:22 PM, <tushar@simplifytrips.com> wrote:
+
+> On 2017-05-25 03:36, rhythm khurana wrote:
+>
+> Hey Tushar,
+>
+> I have written an article on the unexplored places in Uttrakhand. I want
+> you to give it a read.
+> And,i also read about how we can set up guest post on blogspot. Here is
+> the link :
+>
+> http://smallbusiness.chron.com/set-up-guest-post-blogspot-48729.html
+>
+> So, you can send me an invite and then i can post this article and
+> subsequent articles that i will write on the simplifytrips blog that you
+> have created. Just check if that is possible.
+>
+> Thanks
+>
+> Regards
+> Rhythm Khurana
+>
+> Hi rhythm,
+>
+> I have sent you an invite , kindly check your mailbox, moreover do add
+> pics/images to this article to make it more interesting.
+>
+>
+> WBR
+>
+> Tushar Choudhary
+>
+
+--94eb2c19df4ad35e19055056339e
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Thanks, I have received it.=C2=A0<div dir=3D"auto">Alrigh=
+t, yeah I will add images too.=F0=9F=91=8D</div></div><div class=3D"gmail_e=
+xtra"><br><div class=3D"gmail_quote">On May 25, 2017 3:22 PM,  &lt;<a href=
+=3D"mailto:tushar@simplifytrips.com">tushar@simplifytrips.com</a>&gt; wrote=
+:<br type=3D"attribution"><blockquote class=3D"gmail_quote" style=3D"margin=
+:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div style=3D"font=
+-size:10pt;font-family:Verdana,Geneva,sans-serif">
+<p>On 2017-05-25 03:36, rhythm khurana wrote:</p>
+<blockquote type=3D"cite" style=3D"padding:0 0.4em;border-left:#1010ff 2px =
+solid;margin:0">
+<div dir=3D"ltr">Hey Tushar,<br><br>
+<div>I have written an article on the unexplored places in Uttrakhand. I wa=
+nt you to give it a read. <br>And,i also read about how we can set up guest=
+ post on blogspot. Here is the link :<br><br><a href=3D"http://smallbusines=
+s.chron.com/set-up-guest-post-blogspot-48729.html" target=3D"_blank">http:/=
+/smallbusiness.chron.<wbr>com/set-up-guest-post-<wbr>blogspot-48729.html</a=
+><br><br>So, you can send me an invite and then i can post this article and=
+ subsequent articles that i will write on the simplifytrips blog that you h=
+ave created. Just check if that is possible.=C2=A0<br><br>Thanks=C2=A0<br><=
+br>Regards<br>Rhythm Khurana</div>
+</div>
+</blockquote>
+<p>Hi rhythm,</p>
+<p>I have sent you an invite , kindly check your mailbox, moreover do add p=
+ics/images to this article to make it more interesting.</p>
+<p><br></p>
+<p>WBR</p>
+<p>Tushar Choudhary</p>
+
+</div>
+</blockquote></div></div>
+
+--94eb2c19df4ad35e19055056339e--

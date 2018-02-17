@@ -1,0 +1,262 @@
+Return-path: <no-reply@mail.instagram.com>
+Envelope-to: social@simplifytrips.com
+Delivery-date: Fri, 12 Aug 2016 08:09:31 -0700
+Received: from 69-171-232-137.outmail.facebook.com ([69.171.232.137]:12441 helo=mx-out.facebook.com)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1:ECDHE-RSA-AES128-SHA:128)
+	(Exim 4.87)
+	(envelope-from <no-reply@mail.instagram.com>)
+	id 1bYE5T-002wXx-6x
+	for social@simplifytrips.com; Fri, 12 Aug 2016 08:09:31 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=mail.instagram.com;
+	s=s1024-2013-q3; t=1471014527;
+	bh=ApmG4LpFuC5Ae7/r/EFQP4pZnN1NyJPTCyR5hiL/LvY=;
+	h=Date:To:Subject:From:MIME-Version:Content-Type;
+	b=LGAIJTAXiGsyKgZKOwuqVFGPmoMVC05K4VBMX7ZJPZiYIdbZciUgnOGVC55vIHTK/
+	 8iEElkzWoVCCzatMkBVC5tO6Ki01v1MjhXr6kw0wA352G/2mAARDu4gpYU30R16ovO
+	 wizfNgb8TNjflwPjrbGm6Fub6u0ybtTIeLKzpIcU=
+Received: from facebook.com (NzHFjdB2ycITiGQSRi+I+HcBZZZuBgTLe1/8W4uGFv05dFISi/Rjr6Mv8f36BS8r 10.223.101.81)
+ by facebook.com with Thrift id ab46a04a609e11e6a21224be05957580-357fcaa0;
+ Fri, 12 Aug 2016 08:08:47 -0700
+X-Facebook: from 2401:db00:2060:8161:face:0:3b:0 ([MTI3LjAuMC4x]) 
+	by api.facebook.com with HTTP (ZuckMail);
+Date: Fri, 12 Aug 2016 08:08:47 -0700
+To: social@simplifytrips.com
+Subject: Welcome to Instagram, simplifytrips! Please confirm your email.
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+From: "Instagram" <no-reply@mail.instagram.com>
+Reply-to: Instagram <no-reply@mail.instagram.com>
+Errors-To: no-reply@mail.instagram.com
+X-Facebook-Notify: ig_introduction; mailid=HMjM2NDQ2NjM3OnNvY2lhbEBzaW1wbGlmeXRyaXBzLmNvbTo4NTk
+List-Unsubscribe: <https://instagram.com/emails/unsubscribe/tutorial?user_id=3656217609&sig=AU9Gl5kOIaXa4I2m>
+X-FACEBOOK-PRIORITY: 0
+X-Auto-Response-Suppress: All
+Message-ID: <fcb41ddd6266fb335cbc802962fe9f9a@api.facebook.com>
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional =
+//EN"><html><head><title>Facebook</title><meta http-equiv=3D"Content-Type" =
+content=3D"text/html; charset=3Dutf-8" /><style>@media all and (max-width: =
+480px){*[class].ib_t{min-width:100% =
+!important}*[class].ib_row{display:block =
+!important}*[class].ib_ext{display:block !important;padding:10px 0 5px =
+0;vertical-align:top !important;width:100% =
+!important}*[class].ib_img,*[class].ib_mid{vertical-align:top =
+!important}*[class].mb_blk{display:block =
+!important;padding-bottom:10px;width:100% =
+!important}*[class].mb_hide{display:none =
+!important}*[class].mb_inl{display:inline !important}}</style></head><body =
+style=3D"margin:0;padding:0;" dir=3D"ltr" bgcolor=3D"#ffffff"><table =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%;" id=3D"email_table" =
+border=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+id=3D"email_content" style=3D"font-family:Helvetica Neue,Helvetica,Lucida =
+Grande,tahoma,verdana,arial,sans-serif;background:#ffffff;"><table =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr style=3D""><td height=3D"20" =
+style=3D"line-height:20px;" colspan=3D"3">&nbsp;</td></tr><tr><td =
+height=3D"1" colspan=3D"3" style=3D"line-height:1px;"></td></tr><tr><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"430" =
+style=3D"border-collapse:collapse;margin:0 auto 0 auto;"><tr><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"430px" =
+style=3D"border-collapse:collapse;margin:0 auto 0 auto;width:430px;"><tr =
+style=3D""><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D""><img =
+src=3D"https://static.xx.fbcdn.net/rsrc.php/v2/yv/r/ri-arh5nIkG.png" =
+width=3D"400" style=3D"border:0;width:430px;" /></td></tr><tr =
+style=3D""><td height=3D"30" style=3D"line-height:30px;" =
+colspan=3D"3">&nbsp;</td></tr><tr><td style=3D""><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td width=3D"30" =
+style=3D"display:block;width:30px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D""><p =
+style=3D"padding:0;margin:0;text-align:center;color:#000000;font-size:25px=
+;">Welcome to Instagram, simplifytrips</p><p style=3D"padding:0;margin:0;t=
+ext-align:center;color:#565a5c;font-size:18px;">First, please confirm your =
+email address. If you&#039;re ever locked out of your account, this will =
+help us get you back in.</p></td></tr><tr style=3D""><td height=3D"30" =
+style=3D"line-height:30px;" colspan=3D"1">&nbsp;</td></tr><tr><td =
+style=3D""><a href=3D"https://instagram.com/accounts/confirm_email/4puTMAF=
+k/c29jaWFsQHNpbXBsaWZ5dHJpcHMuY29t/?app_redirect=3DFalse" =
+style=3D"color:#3b5998;text-decoration:none;display:block;width:370px;"><t=
+able cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:3px;text-align:center;display:block;border:solid 1px =
+#009fdf;padding:10px 16px 14px 16px;margin:0 2px 0 =
+auto;min-width:80px;background-color:#47A2EA;"><a href=3D"https://instagra=
+m.com/accounts/confirm_email/4puTMAFk/c29jaWFsQHNpbXBsaWZ5dHJpcHMuY29t/?ap=
+p_redirect=3DFalse" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Roboto,Aria=
+l,sans-serif;white-space:nowrap;font-weight:bold;vertical-align:middle;col=
+or:#fdfdfd;font-size:16px;line-height:16px;">Confirm&nbsp;your&nbsp;email&=
+nbsp;address</span></font></center></a></td></tr></table></a></td></tr><tr =
+style=3D""><td height=3D"30" style=3D"line-height:30px;" =
+colspan=3D"3">&nbsp;</td></tr><tr><td style=3D"border-top:solid 1px =
+#c8c8c8;"></td></tr></table></td><td width=3D"30" style=3D"display:block;w=
+idth:30px;">&nbsp;&nbsp;&nbsp;</td></tr></table></td></tr><tr =
+style=3D""><td height=3D"25" style=3D"line-height:25px;" =
+colspan=3D"3">&nbsp;</td></tr></table></td><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr =
+style=3D""><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D""><img =
+src=3D"https://static.xx.fbcdn.net/rsrc.php/v2/yg/r/zACQd8KtsK7.png" =
+width=3D"400" style=3D"border:0;width:430px;" /></td></tr><tr =
+style=3D""><td height=3D"30" style=3D"line-height:30px;" =
+colspan=3D"3">&nbsp;</td></tr><tr><td style=3D""><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td width=3D"30" =
+style=3D"display:block;width:30px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D""><p =
+style=3D"padding:0;margin:0;text-align:center;color:#000000;font-size:25px=
+;">Choose What You See</p><p style=3D"padding:0;margin:0;text-align:center=
+;color:#565a5c;font-size:18px;">Following someone means you&#039;ll see =
+the photos and videos they post. The more accounts you follow, the more =
+great stuff you&#039;ll see in your feed. Follow your friends or people =
+who share your interests.</p></td></tr><tr style=3D""><td height=3D"30" =
+style=3D"line-height:30px;" colspan=3D"1">&nbsp;</td></tr><tr><td =
+style=3D""><a href=3D"https://instagram.com/accounts/confirm_email/4puTMAF=
+k/c29jaWFsQHNpbXBsaWZ5dHJpcHMuY29t/?app_redirect=3DFalse" =
+style=3D"color:#3b5998;text-decoration:none;display:block;width:370px;"><t=
+able cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:3px;text-align:center;display:block;border:solid 1px =
+#009fdf;padding:10px 16px 14px 16px;margin:0 2px 0 =
+auto;min-width:80px;background-color:#47A2EA;"><a href=3D"https://instagra=
+m.com/accounts/confirm_email/4puTMAFk/c29jaWFsQHNpbXBsaWZ5dHJpcHMuY29t/?ap=
+p_redirect=3DFalse" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Roboto,Aria=
+l,sans-serif;white-space:nowrap;font-weight:bold;vertical-align:middle;col=
+or:#fdfdfd;font-size:16px;line-height:16px;">Find&nbsp;People&nbsp;to&nbsp=
+;Follow</span></font></center></a></td></tr></table></a></td></tr><tr =
+style=3D""><td height=3D"30" style=3D"line-height:30px;" =
+colspan=3D"3">&nbsp;</td></tr><tr><td style=3D"border-top:solid 1px =
+#c8c8c8;"></td></tr></table></td><td width=3D"30" style=3D"display:block;w=
+idth:30px;">&nbsp;&nbsp;&nbsp;</td></tr></table></td></tr><tr =
+style=3D""><td height=3D"25" style=3D"line-height:25px;" =
+colspan=3D"3">&nbsp;</td></tr></table></td><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr =
+style=3D""><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D""><img =
+src=3D"https://static.xx.fbcdn.net/rsrc.php/v2/y4/r/twHu0ANul9l.png" =
+width=3D"400" style=3D"border:0;width:430px;" /></td></tr><tr =
+style=3D""><td height=3D"30" style=3D"line-height:30px;" =
+colspan=3D"3">&nbsp;</td></tr><tr><td style=3D""><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td width=3D"30" =
+style=3D"display:block;width:30px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D""><p =
+style=3D"padding:0;margin:0;text-align:center;color:#000000;font-size:25px=
+;">Express Yourself</p><p style=3D"padding:0;margin:0;text-align:center;co=
+lor:#565a5c;font-size:18px;">Share your perspective by capturing and =
+sharing photos and videos from your day, whether it&#039;s your morning =
+routine or the trip of a lifetime. Instagram&#039;s free filters and tools =
+make it easy to express yourself in new ways.</p></td></tr><tr =
+style=3D""><td height=3D"30" style=3D"line-height:30px;" =
+colspan=3D"1">&nbsp;</td></tr><tr><td style=3D""><a href=3D"https://instag=
+ram.com/_n/explore?utm_campaign=3Dintroduction_email&amp;utm_medium=3Demai=
+l&amp;utm_source=3Dinstagram&amp;target_user_id=3D3656217609" =
+style=3D"color:#3b5998;text-decoration:none;display:block;width:370px;"><t=
+able cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:3px;text-align:center;display:block;border:solid 1px =
+#009fdf;padding:10px 16px 14px 16px;margin:0 2px 0 =
+auto;min-width:80px;background-color:#47A2EA;"><a href=3D"https://instagra=
+m.com/_n/explore?utm_campaign=3Dintroduction_email&amp;utm_medium=3Demail&=
+amp;utm_source=3Dinstagram&amp;target_user_id=3D3656217609" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Roboto,Aria=
+l,sans-serif;white-space:nowrap;font-weight:bold;vertical-align:middle;col=
+or:#fdfdfd;font-size:16px;line-height:16px;">Open&nbsp;Instagram</span></f=
+ont></center></a></td></tr></table></a></td></tr><tr style=3D""><td =
+height=3D"30" style=3D"line-height:30px;" =
+colspan=3D"3">&nbsp;</td></tr><tr><td style=3D"border-top:solid 1px =
+#c8c8c8;"></td></tr></table></td><td width=3D"30" style=3D"display:block;w=
+idth:30px;">&nbsp;&nbsp;&nbsp;</td></tr></table></td></tr><tr =
+style=3D""><td height=3D"25" style=3D"line-height:25px;" =
+colspan=3D"3">&nbsp;</td></tr></table></td><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr =
+style=3D""><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D""><img =
+src=3D"https://static.xx.fbcdn.net/rsrc.php/v2/yC/r/QbsnSndHS4m.png" =
+width=3D"400" style=3D"border:0;width:430px;" /></td></tr><tr =
+style=3D""><td height=3D"30" style=3D"line-height:30px;" =
+colspan=3D"3">&nbsp;</td></tr><tr><td style=3D""><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td width=3D"30" =
+style=3D"display:block;width:30px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D""><p =
+style=3D"padding:0;margin:0;text-align:center;color:#000000;font-size:25px=
+;">Explore Your Interests</p><p style=3D"padding:0;margin:0;text-align:cen=
+ter;color:#565a5c;font-size:18px;">Visit the Explore tab to find photos =
+and videos from accounts you&#039;re not following yet. We&#039;ll show =
+you posts you might like, based on your interests and activity on =
+Instagram. You can also find new accounts to follow, so you&#039;ll see =
+their posts in your feed.</p></td></tr><tr style=3D""><td height=3D"30" =
+style=3D"line-height:30px;" colspan=3D"1">&nbsp;</td></tr><tr><td =
+style=3D""><a href=3D"https://instagram.com/accounts/confirm_email/4puTMAF=
+k/c29jaWFsQHNpbXBsaWZ5dHJpcHMuY29t/?app_redirect=3DFalse" =
+style=3D"color:#3b5998;text-decoration:none;display:block;width:370px;"><t=
+able cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-collapse:colla=
+pse;border-radius:3px;text-align:center;display:block;border:solid 1px =
+#009fdf;padding:10px 16px 14px 16px;margin:0 2px 0 =
+auto;min-width:80px;background-color:#47A2EA;"><a href=3D"https://instagra=
+m.com/accounts/confirm_email/4puTMAFk/c29jaWFsQHNpbXBsaWZ5dHJpcHMuY29t/?ap=
+p_redirect=3DFalse" =
+style=3D"color:#3b5998;text-decoration:none;display:block;"><center><font =
+size=3D"3"><span style=3D"font-family:Helvetica Neue,Helvetica,Roboto,Aria=
+l,sans-serif;white-space:nowrap;font-weight:bold;vertical-align:middle;col=
+or:#fdfdfd;font-size:16px;line-height:16px;">Visit&nbsp;Explore</span></fo=
+nt></center></a></td></tr></table></a></td></tr><tr style=3D""><td =
+height=3D"30" style=3D"line-height:30px;" =
+colspan=3D"3">&nbsp;</td></tr><tr><td style=3D"border-top:solid 1px =
+#c8c8c8;"></td></tr></table></td><td width=3D"30" style=3D"display:block;w=
+idth:30px;">&nbsp;&nbsp;&nbsp;</td></tr></table></td></tr><tr =
+style=3D""><td height=3D"25" style=3D"line-height:25px;" =
+colspan=3D"3">&nbsp;</td></tr></table></td><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr><tr><td =
+width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><p style=3D"padding:0;margin:0;text-align:center;color:#565a5c;=
+font-size:18px;">Clicking any of the links above will confirm =
+social&#064;simplifytrips.com on Instagram.</p></td><td width=3D"15" =
+style=3D"display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td></tr></table></=
+td></tr></table></td></tr><tr><td style=3D""><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"430px" =
+style=3D"border-collapse:collapse;margin:0 auto 0 auto;width:430px;"><tr =
+style=3D""><td height=3D"30" style=3D"line-height:30px;" =
+colspan=3D"3">&nbsp;</td></tr><tr><td width=3D"30" =
+style=3D"display:block;width:30px;">&nbsp;&nbsp;&nbsp;</td><td =
+style=3D""><div style=3D"color:#abadae;font-size:12px;margin:0 auto 5px =
+auto;">=C2=A9 Instagram, 1 Hacker Way, Menlo Park, CA 94022</div><div =
+style=3D"color:#abadae;font-size:12px;margin:0 auto 5px auto;">This =
+message was sent to <a style=3D"color:#abadae;text-decoration:underline;">=
+social&#064;simplifytrips.com</a> and intended for simplifytrips. =
+Instagram sends updates like this to help you keep up with the latest on =
+Instagram. You can <a href=3D"https://instagram.com/emails/unsubscribe/tut=
+orial?user_id=3D3656217609&amp;sig=3DAU9Gl5kOIaXa4I2m" =
+style=3D"color:#abadae;text-decoration:underline;">unsubscribe</a> from =
+these updates, or <a href=3D"https://instagram.com/accounts/remove/report_=
+wrong_email/1ogtfk9/4ee-34b2bb43b8e2954ef6ae584691de7c27/rbRILfxY/c29jaWFs=
+QHNpbXBsaWZ5dHJpcHMuY29t/" =
+style=3D"color:#abadae;text-decoration:underline;">let us know</a> if this =
+isn&#039;t your Instagram account.<br /></div></td><td width=3D"30" =
+style=3D"display:block;width:30px;">&nbsp;&nbsp;&nbsp;</td></tr></table></=
+td></tr><tr style=3D""><td height=3D"20" style=3D"line-height:20px;" =
+colspan=3D"3">&nbsp;</td></tr></table><span style=3D""><img =
+src=3D"https://www.facebook.com/email_open_log_pic.php?mid=3DHMjM2NDQ2NjM3=
+OnNvY2lhbEBzaW1wbGlmeXRyaXBzLmNvbTo4NTk" =
+style=3D"border:0;width:1px;height:1px;" =
+/></span></td></tr></table></body></html>
+

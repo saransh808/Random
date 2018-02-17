@@ -1,0 +1,469 @@
+Return-Path: <info@naukri.com>
+Delivered-To: hr@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id eQ7DJC5P9FiPXAoAwZeyeg
+	for <hr@simplifytrips.com>; Sun, 16 Apr 2017 22:14:22 -0700
+Return-path: <info@naukri.com>
+Envelope-to: hr@simplifytrips.com
+Delivery-date: Sun, 16 Apr 2017 22:14:22 -0700
+Received: from nmail188.naukri.com ([180.179.180.188]:55788)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <info@naukri.com>)
+	id 1czyzW-002qf4-GO
+	for hr@simplifytrips.com; Sun, 16 Apr 2017 22:14:22 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=naukri.com; s=2015;
+	t=1492406000; bh=RTgZxg9GNkCeFui/Ius3OfVdUhrV/bsC8q/gk5cqUgw=;
+	h=Date:Subject:From:To;
+	b=h8FwioNJsbHZEWoJTCIBnC6tffSS4fj1g6tNrdnK+aalNkcPTjyx46LWr40YPyU6Q
+	 JROuXM2tDJT5IcjZv99x0/nIG0nDroLBYQczhlVye0oMBYI3qJFdDSyZiKrDS2GYyX
+	 BeQwamlkieNqya1vRUwv0mMqk5L56IgfWzPtGkFQ=
+Received: from [172.10.122.51] ([172.10.122.51:21583] helo=naukri.com)
+	by nplimla13.ieil.net (envelope-from <info@naukri.com>)
+	(ecelerity 3.6.13.50539 r(Core:3.6.13.0)) with ESMTP
+	id 67/17-35677-0FE44F85; Mon, 17 Apr 2017 10:43:20 +0530
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=naukri.com; s=2015;
+	t=1492406000; bh=RTgZxg9GNkCeFui/Ius3OfVdUhrV/bsC8q/gk5cqUgw=;
+	h=Date:Subject:From:To;
+	b=h8FwioNJsbHZEWoJTCIBnC6tffSS4fj1g6tNrdnK+aalNkcPTjyx46LWr40YPyU6Q
+	 JROuXM2tDJT5IcjZv99x0/nIG0nDroLBYQczhlVye0oMBYI3qJFdDSyZiKrDS2GYyX
+	 BeQwamlkieNqya1vRUwv0mMqk5L56IgfWzPtGkFQ=
+Received: from [172.10.113.106] ([172.10.113.106:55386] helo=recruit.naukri.com)
+	by n5plimla01.ieil.net (envelope-from <info@naukri.com>)
+	(ecelerity 3.6.13.50539 r(Core:3.6.13.0)) with ESMTP
+	id AE/A0-45714-0FE44F85; Mon, 17 Apr 2017 10:43:20 +0530
+Message-ID: <8d92091dabe2f2f903df4de867c2e7f3@recruit.naukri.com>
+Date: Mon, 17 Apr 2017 10:43:20 +0530
+Subject: Keeping your Naukri account safe
+From: "Naukri.com" <info@naukri.com>
+To: hr@simplifytrips.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<table width=3D"600"=
+ border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center">
+  <tr=
+>
+      <td align=3D"center"><a href=3D"https://static.naukimg.com/mailer=
+s/2012/naukri/prot4june/index.html">Use this link, if unable to view the pa=
+ge<a></td>
+</tr>
+<tr>
+<td height=3D"10"></td>
+ </tr>
+</table>
+=
+
+
+<table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ align=3D"center" style=3D"border:1px solid #d9dddf;">
+  <tr>
+    <td c=
+olspan=3D"4" height=3D"35"></td>
+  </tr>
+  <tr>
+    <td width=3D"12">=
+<img src=3D"https://static.naukimg.com/mailers/2012/naukri/prot4june/images=
+/zero_trance.gif" width=3D"12" height=3D"1" vspace=3D"0" hspace=3D"0" borde=
+r=3D"0" /></td>
+    <td><a href=3D"http://www.naukri.com/" target=3D"_bla=
+nk"><img src=3D"https://static.naukimg.com/mailers/2012/naukri/prot4june/im=
+ages/logo.gif" width=3D"276" height=3D"66" vspace=3D"0" hspace=3D"0" align=
+=3D"left" border=3D"0" alt=3D"Naukri.com" title=3D"Naukri.com" /></a></td>=
+
+    <td><img src=3D"https://static.naukimg.com/mailers/2012/naukri/prot4=
+june/images/img1.jpg" width=3D"151" height=3D"66" vspace=3D"0" hspace=3D"0"=
+ align=3D"right" border=3D"0" /></td>
+    <td width=3D"12"><img src=3D"ht=
+tps://static.naukimg.com/mailers/2012/naukri/prot4june/images/zero_trance.g=
+if" width=3D"12" height=3D"1" vspace=3D"0" hspace=3D"0" border=3D"0" /></td=
+>
+  </tr>
+  <tr>
+    <td></td>
+    <td bgcolor=3D"#f1f8fe"><img src=
+=3D"https://static.naukimg.com/mailers/2012/naukri/prot4june/images/img3.gi=
+f" width=3D"311" height=3D"87" vspace=3D"0" hspace=3D"0" align=3D"left" bor=
+der=3D"0" alt=3D"Protect your password" /></td>
+    <td bgcolor=3D"#f1f8f=
+e"><img src=3D"https://static.naukimg.com/mailers/2012/naukri/prot4june/ima=
+ges/img2.jpg" width=3D"190" height=3D"147" vspace=3D"0" hspace=3D"0" align=
+=3D"right" border=3D"0" /></td>
+    <td></td>
+  </tr>
+  <tr>
+    <t=
+d></td>
+    <td colspan=3D"2"><table width=3D"576" border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"0" align=3D"center" bgcolor=3D"#f1f8fe">
+        =
+<tr>
+          <td width=3D"24"></td>
+          <td width=3D"525"><font=
+ face=3D"Tahoma, Arial, sans-serif" color=3D"#4a4b47" style=3D"font-size:13=
+px;">Never enter your Naukri.com recruiter account password after clicking =
+on a link sent in an email or present on another website or in reply to an =
+email.<br/>
+            <br/>
+            Naukri.com will <strong>never=
+</strong> email you to ask for your password. If you receive such an email =
+from someone pretending to be from Naukri.com, you can report it to <a href=
+=3D"mailto:reportabuse@naukri.com" style=3D"text-decoration:underline; colo=
+r:#2e77aa; font-size:13px;">reportabuse@naukri.com</a>.<br/>
+            =
+<br/>
+            Always go directly to <a href=3D"https://login.recruit.=
+naukri.com/" target=3D"_blank" style=3D"text-decoration:underline; color:#2=
+e77aa; font-size:13px;">https://login.recruit.naukri.com/</a> to login to y=
+our Naukri recruiter </font></td>
+          <td width=3D"27"></td>
+    =
+    </tr>
+        <tr>
+          <td height=3D"5"></td>
+          <td=
+></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td=
+></td>
+          <td><table width=3D"525" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"font-family:Tahoma, Arial, sans-serif; color:#4a=
+4b47; font-size:13px;">
+              <tr>
+                <td width=3D=
+"245">account. Note that the address starts with</td>
+                <td=
+ bgcolor=3D"#86a528" align=3D"center" width=3D"45"><font color=3D"#FFFFFF">=
+<strong>https</strong></font></td>
+                <td width=3D"50" align=
+=3D"center">and not</td>
+                <td bgcolor=3D"#af3838" align=3D=
+"center" width=3D"45"><font color=3D"#FFFFFF"><strong>http</strong></font><=
+/td>
+                <td width=3D"140" align=3D"left">.</td>
+          =
+    </tr>
+            </table></td>
+          <td></td>
+        </tr>=
+
+      </table></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>=
+
+    <td colspan=3D"2"><table width=3D"576" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" align=3D"center" bgcolor=3D"#f1f8fe">
+        <tr>
+=
+          <td height=3D"25" width=3D"24"></td>
+          <td width=3D"525=
+"></td>
+          <td width=3D"27"></td>
+        </tr>
+        <tr>=
+
+          <td></td>
+          <td><table width=3D"265" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+              <tr>
+                <=
+td rowspan=3D"3" width=3D"43"><img src=3D"https://static.naukimg.com/mailer=
+s/2012/naukri/prot4june/images/icon1.gif" width=3D"43" height=3D"43" vspace=
+=3D"0" hspace=3D"0" align=3D"left" border=3D"0" /></td>
+                <=
+td height=3D"4"></td>
+                <td></td>
+              </tr>
+ =
+             <tr>
+                <td height=3D"34" bgcolor=3D"#d7e1ea" a=
+lign=3D"center"><font face=3D"Arial, Helvetica, sans-serif" color=3D"#383f4=
+4" style=3D"font-size:15px;">Ensuring a secure connection</font></td>
+   =
+             <td width=3D"13" bgcolor=3D"#d7e1ea"><img src=3D"https://stati=
+c.naukimg.com/mailers/2012/naukri/prot4june/images/img4.gif" width=3D"13" h=
+eight=3D"34" vspace=3D"0" hspace=3D"0" align=3D"right" border=3D"0" /></td>=
+
+              </tr>
+              <tr>
+                <td height=3D=
+"5"></td>
+                <td></td>
+              </tr>
+            <=
+/table></td>
+          <td></td>
+        </tr>
+        <tr>
+       =
+   <td height=3D"15"></td>
+          <td></td>
+          <td></td>
+  =
+      </tr>
+        <tr>
+          <td></td>
+          <td><font face=
+=3D"Tahoma, Arial, sans-serif" color=3D"#4a4b47" style=3D"font-size:13px;">=
+This is how you can ensure that you are actually entering your password on =
+the original Naukri website and not on a scam website.<br/>
+            <=
+br/>
+            Check for these two things before entering your login an=
+d password.</font></td>
+          <td></td>
+        </tr>
+        <tr=
+>
+          <td height=3D"10"></td>
+          <td></td>
+          <td=
+></td>
+        </tr>
+        <tr>
+          <td></td>
+          <td=
+><table width=3D"525" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+ =
+             <tr>
+                <td><table width=3D"256" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0" style=3D"border:1px solid #d7e1ea; font-=
+family:Tahoma, Arial, sans-serif; color:#4a4b47; font-size:13px;" bgcolor=
+=3D"#ffffff">
+                    <tr>
+                      <td width=
+=3D"38" height=3D"30" bgcolor=3D"#eceff2" align=3D"center" style=3D"border-=
+bottom:1px solid #d7e1ea;">1</td>
+                      <td align=3D"cent=
+er" style=3D"border-bottom:1px solid #d7e1ea;">Correct Address in Address b=
+ar</td>
+                    </tr>
+                    <tr>
+          =
+            <td bgcolor=3D"#eceff2" height=3D"30" align=3D"center">2</td>=
+
+                      <td align=3D"center">No warning messages or icons<=
+/td>
+                    </tr>
+                  </table></td>
+      =
+          <td width=3D"269"><img src=3D"https://static.naukimg.com/mailers/=
+2012/naukri/prot4june/images/img5.gif" width=3D"239" height=3D"103" vspace=
+=3D"0" hspace=3D"0" align=3D"right" border=3D"0" /></td>
+              </=
+tr>
+            </table></td>
+          <td></td>
+        </tr>
+   =
+   </table></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <=
+td colspan=3D"2"><table width=3D"576" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center" bgcolor=3D"#f1f8fe">
+        <tr>
+        =
+  <td height=3D"25" width=3D"24"></td>
+          <td width=3D"525"></td>=
+
+          <td width=3D"27"></td>
+        </tr>
+        <tr>
+      =
+    <td></td>
+          <td><table width=3D"411" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0">
+              <tr>
+                <td rowspa=
+n=3D"3" width=3D"43"><img src=3D"https://static.naukimg.com/mailers/2012/na=
+ukri/prot4june/images/icon2.gif" width=3D"43" height=3D"43" vspace=3D"0" hs=
+pace=3D"0" align=3D"left" border=3D"0" /></td>
+                <td height=
+=3D"4"></td>
+                <td></td>
+              </tr>
+          =
+    <tr>
+                <td height=3D"34" bgcolor=3D"#d7e1ea" align=3D"c=
+enter"><font face=3D"Arial, Helvetica, sans-serif" color=3D"#383f44" style=
+=3D"font-size:15px;"><strong>Do not enter</strong> your login details if yo=
+u are suspicious:</font></td>
+                <td width=3D"13" bgcolor=3D=
+"#d7e1ea"><img src=3D"https://static.naukimg.com/mailers/2012/naukri/prot4j=
+une/images/img4.gif" width=3D"13" height=3D"34" vspace=3D"0" hspace=3D"0" a=
+lign=3D"right" border=3D"0" /></td>
+              </tr>
+              <=
+tr>
+                <td height=3D"5"></td>
+                <td></td>
+=
+              </tr>
+            </table></td>
+          <td></td>
+   =
+     </tr>
+        <tr>
+          <td height=3D"15"></td>
+          <=
+td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <=
+td></td>
+          <td><font face=3D"Tahoma, Arial, sans-serif" color=3D"=
+#4a4b47" style=3D"font-size:13px;">You should not enter your username and p=
+assword if any of these conditions is true.</font></td>
+          <td></t=
+d>
+        </tr>
+        <tr>
+          <td height=3D"10"></td>
+   =
+       <td></td>
+          <td></td>
+        </tr>
+        <tr>
+   =
+       <td></td>
+          <td><table width=3D"525" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" style=3D"font-family:Tahoma, Arial, sans-serif;=
+ color:#4a4b47; font-size:13px;">
+              <tr>
+                <t=
+d width=3D"15"></td>
+                <td width=3D"18" bgcolor=3D"#FFFFFF"=
+ align=3D"center">1</td>
+                <td width=3D"15"></td>
+       =
+         <td width=3D"477">Address in the address bar does not start with <=
+a href=3D"https://login.recruit.naukri.com/" target=3D"_blank" style=3D"tex=
+t-decoration:underline; color:#2e77aa; font-size:13px;">https://login.recru=
+it.naukri.com/</a></td>
+              </tr>
+              <tr>
+      =
+          <td colspan=3D"4" height=3D"10"></td>
+              </tr>
+   =
+           <tr>
+                <td></td>
+                <td bgcolor=
+=3D"#FFFFFF" align=3D"center">2</td>
+                <td></td>
+        =
+        <td>Address starts with only <strong>http</strong> instead of <stro=
+ng>https</strong>.</td>
+              </tr>
+              <tr>
+      =
+          <td colspan=3D"4" height=3D"10"></td>
+              </tr>
+   =
+           <tr>
+                <td></td>
+                <td bgcolor=
+=3D"#FFFFFF" align=3D"center">3</td>
+                <td></td>
+        =
+        <td>Address is correct and uses https but your browser shows a warn=
+ing message.</td>
+              </tr>
+              <tr>
+            =
+    <td colspan=3D"4" height=3D"35"></td>
+              </tr>
+         =
+   </table></td>
+          <td></td>
+        </tr>
+      </table></td=
+>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan=3D"2=
+"><table width=3D"576" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgc=
+olor=3D"#f1f8fe">
+  <tr>
+    <td colspan=3D"3" align=3D"center" height=
+=3D"35" valign=3D"top"><font face=3D"Tahoma, Arial, sans-serif" color=3D"#4=
+a4b47" style=3D"font-size:13px;">You can reach us at</font></td>
+    </tr=
+>
+  <tr>
+    <td width=3D"192" align=3D"center"><img src=3D"https://sta=
+tic.naukimg.com/mailers/2012/naukri/prot4june/images/footer1.gif" width=3D"=
+54" height=3D"54" vspace=3D"0" hspace=3D"0" align=3D"middle" border=3D"0" /=
+></td>
+    <td width=3D"192" align=3D"center"><img src=3D"https://static.=
+naukimg.com/mailers/2012/naukri/prot4june/images/footer2.gif" width=3D"54" =
+height=3D"54" vspace=3D"0" hspace=3D"0" align=3D"middle" border=3D"0" /></t=
+d>
+    <td width=3D"192" align=3D"center"><a href=3D"http://www.naukri.co=
+m/mynaukri/mn_contactus.php" target=3D"_blank"><img src=3D"https://static.n=
+aukimg.com/mailers/2012/naukri/prot4june/images/footer3.gif" width=3D"54" h=
+eight=3D"54" vspace=3D"0" hspace=3D"0" align=3D"middle" border=3D"0" /></a>=
+</td>
+  </tr>
+  <tr>
+    <td height=3D"25" align=3D"center"><font fac=
+e=3D"Tahoma, Arial, sans-serif" color=3D"#4a4b47" style=3D"font-size:13px;"=
+><strong>1800-102-5558</strong></font></td>
+    <td align=3D"center"><fon=
+t face=3D"Tahoma, Arial, sans-serif" color=3D"#4a4b47" style=3D"font-size:1=
+3px;"><a href=3D"mailto:support@naukri.com" style=3D"font-size:13px; text-d=
+ecoration:underline; color:#4a4b47;"><strong>support@naukri.com</strong></a=
+></font></td>
+    <td align=3D"center"><font face=3D"Tahoma, Arial, sans-=
+serif" color=3D"#4a4b47" style=3D"font-size:13px;"><a href=3D"http://www.na=
+ukri.com/mynaukri/mn_contactus.php" target=3D"_blank" style=3D"font-size:13=
+px; text-decoration:none; color:#4a4b47;"><strong>Our Branches</strong></a>=
+</font></td>
+  </tr>
+  <tr>
+    <td colspan=3D"3" height=3D"15"></td>=
+
+    </tr>
+</table>
+</td>
+    <td></td>
+  </tr>
+  <tr>
+    <t=
+d height=3D"13"></td>
+    <td colspan=3D"2"></td>
+    <td></td>
+  </t=
+r>
+</table>
+<table width=3D"600" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"0" align=3D"center">
+  <tr>
+    <td height=3D"70" valign=3D"bot=
+tom" align=3D"center"><font face=3D"Tahoma, Arial, sans-serif" color=3D"#88=
+8888" style=3D"font-size:11px;"><a href=3D"http://w5.naukri.com/fdbck/main/=
+feedback.php?app_id=3D18" target=3D"_blank" style=3D"text-decoration:underl=
+ine; color:#2e77aa; font-size:11px;">Report a problem</a><br/><br/>This is =
+a Computer-generated email, please do not reply to this message.</font></td=
+>
+  </tr>
+</table>
+
+</body>
+</html>

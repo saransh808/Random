@@ -1,0 +1,1545 @@
+Return-Path: <n0300b382ce-059b1538bc5d4bf683e372c757925d94-social===simplifytrips.com@bounce.twitter.com>
+Delivered-To: social@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id Wdg2EQdVGFlzpAUAwZeyeg
+	for <social@simplifytrips.com>; Sun, 14 May 2017 06:00:55 -0700
+Return-path: <n0300b382ce-059b1538bc5d4bf683e372c757925d94-social===simplifytrips.com@bounce.twitter.com>
+Envelope-to: social@simplifytrips.com
+Delivery-date: Sun, 14 May 2017 06:00:55 -0700
+Received: from spruce-goose-ap.twitter.com ([199.59.150.85]:31956)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.88)
+	(envelope-from <n0300b382ce-059b1538bc5d4bf683e372c757925d94-social===simplifytrips.com@bounce.twitter.com>)
+	id 1d9t8o-001YyE-M0
+	for social@simplifytrips.com; Sun, 14 May 2017 06:00:55 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=twitter.com;
+	s=dkim-201406; t=1494766812;
+	bh=cqnfgtTcoNG2McBmC7Q3u1+R7R1VZyZN9HPkNTwpBR4=;
+	h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:
+	 Message-ID;
+	b=JjTYStj6jMkNI/N3tXsTJLMI1KNSVM9I5H351rnFu2sVN/QW/GbhehvCzs3r4Y5ox
+	 O3o3U9lKwCoIrZItuvi10JrvRhlW21rAnVIuDF7V+S4dmYOgH8+5HBzhQlfKGxWxZZ
+	 aXT2Ht+vfoHeOTjFJijReVO/mK07M3T8oN+t67BblS7sZlkmf2Cqr186rWl1Sn4wy9
+	 LdxGq1lRcAUc4hyI7pH/G2OzZYQm67O6Bp45eTCCAZKoD4APVaU50yZnhMZSI2UM7h
+	 yYJlwTzjK87vRDvw/2D+RSQGBa6sKkiiAKv3knw9OSEQ2CSuTYDmjOo/cgzpysrD+Q
+	 9sTQazcIaOrYw==
+X-MSFBL: a8xa6wWKcf91OM5yOVeMCwUaUeDF92LOcvBGQsXfsJU=|eyJyIjoic29jaWFsQHN
+	pbXBsaWZ5dHJpcHMuY29tIiwiYiI6InNtZjEtYnZxLTI1LXNyMS1CdWxrLjE3NSI
+	sInUiOiJzb2NpYWxAc2ltcGxpZnl0cmlwcy5jb21AaWlkIyMwNTliMTUzOGJjNWQ
+	0YmY2ODNlMzcyYzc1NzkyNWQ5NEB1c2IjIzI0QDI0NEA3NjM2ODczMDI2MzE1OTY
+	wMzNAMEA2YmUwMjc5MTU3ZjdjZGJlMzM4ZTEwODFkMmMxOTcyMzQ5MmExMDlkIiw
+	iZyI6IkJ1bGsifQ==
+Date: Sun, 14 May 2017 13:00:12 +0000
+From: Twitter <info@twitter.com>
+To: Simplifytrips <social@simplifytrips.com>
+Subject: India Today shared "LIVE IPL 2017, KKR vs MI: Rain threatens to
+ ruin high profile clash"
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_8620075_2056139745.1494766812182"
+List-Unsubscribe: <https://twitter.com/i/u?t=1&listunsub=t&cn=ZmxleGlibGVfcmVjc18y&sig=efe02262e6f2232e4c63a543dd2a43307fbe47b8&iid=059b1538bc5d4bf683e372c757925d94&uid=763687302631596033&nid=244+26&usbid=9>
+Feedback-ID: 0040162518f58f41d1f0:15491f3b2ee48656f8e7fb2fac5926:none:twitterESP
+Precedence: Bulk
+Message-ID: <AB.03.30266.CD458195@twitter.com>
+
+------=_Part_8620075_2056139745.1494766812182
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+dmaslkdmalksdmklasmdklasmdklamskdlkasdmklasmdklasmkdlaskl
+  
+  Hey Simplifytrips,
+
+
+
+
+  Opt-out: https://twitter.com/i/u?t=1&cn=ZmxleGlibGVfcmVjc18y&sig=1e2d84cd52370ebeba10fa09215158bba9588afa&iid=059b1538bc5d4bf683e372c757925d94&uid=763687302631596033&nid=244+26&usbid=9
+------=_Part_8620075_2056139745.1494766812182
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!--https://twitter.com/scribe/ibis?t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp=
+;iid=3D059b1538bc5d4bf683e372c757925d94&amp;uid=3D763687302631596033&amp;ni=
+d=3D244+20-->
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, minimum-scale=3D1.=
+0, maximum-scale=3D1.0, user-scalable=3D0" />
+<meta name=3D"apple-mobile-web-app-capable" content=3D"yes" />
+<style type=3D"text/css">
+@media only screen and (max-width: 448px) {
+.wrapper {
+width:100% !important;
+}
+.full_tweet_margin_lr {
+width: 12px !important;
+}
+.full_tweet_margin_tb {
+height: 14px !important;
+}
+.moment_card_margin_lr {
+width: 12px !important;
+}
+.moment_card_margin_tb {
+height: 12px !important;
+}
+.module_space {
+height: 12px !important;
+}
+.module_margin_lr {
+width: 12px !important;
+}
+.module_margin_tb {
+height: 12px !important;
+}
+.full_tweet_box {
+border-radius: 0px !important;
+-webkit-border-radius: 0px !important;
+-moz-border-radius: 0px !important;
+border-left: none !important;
+border-right: none !important;
+}
+.quote_tweet_identity_truncate {
+width: 200px !important;
+}
+.player {
+width: 100% !important;
+}
+.inline_action_space {
+width: 60px !important;
+}
+.dashline {
+display: none !important;
+}
+.social_proof_margin_lr {
+width: 12px !important;
+}
+.news_margin_bottom {
+height: 14px !important;
+}
+.people_card_user_name {
+width: 170px !important;
+}
+.people_card_user_handle {
+width: 170px !important;
+}
+.button-width-full {
+width: 90% !important;
+}
+.width_full {
+width: 100% !important;
+}
+}
+@media only screen and (max-width: 380px) {
+.inline_action_space {
+width: 50px !important;
+}
+.people_card_user_name {
+width: 140px !important;
+}
+.people_card_user_handle {
+width: 140px !important;
+}
+.user_name_truncate {
+width: 170px !important;
+}
+.user_handle_truncate {
+width: 170px !important;
+}
+.button-width-full {
+width: 86% !important;
+}
+}
+@media only screen and (max-width: 350px) {
+.inline_action_space {
+width: 40px !important;
+}
+.people_card_user_name {
+width: 100px !important;
+}
+.people_card_user_handle {
+width: 100px !important;
+}
+.user_name_truncate {
+width: 140px !important;
+}
+.user_handle_truncate {
+width: 140px !important;
+}
+}
+</style>
+</head>
+<body style=3D"margin:0px;padding:0px;-webkit-text-size-adjust:100%;-ms-tex=
+t-size-adjust:100%;">
+<!--Preheader-->
+<div class=3D"preheader" style=3D"display:none;font-size:1px;color:#ffffff;=
+line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+</div>
+<!-- end preheader-->
+<style type=3D"text/css">
+.addressLink a { color: #8899A6 !important; text-decoration: none !importan=
+t; }
+</style>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100%=
+;background-color: #F5F8FA;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td align=3D"center" style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" class=3D"wrapper" s=
+tyle=3D"margin:0px;padding:0px;width:448px;">
+<!-- header start -->
+<tbody>
+<tr>
+<td align=3D"center" style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width:100%=
+;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td height=3D"24" style=3D"height:24px;margin:0px;padding:0px;"> </td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" st=
+yle=3D"margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td align=3D"center" style=3D"margin:0px;padding:0px;"> <a href=3D"https://=
+twitter.com/i/redirect?url=3Dhttps%3A%2F%2Ftwitter.com%2F&amp;t=3D1&amp;cn=
+=3DZmxleGlibGVfcmVjc18y&amp;sig=3Da92c1f428a8645344d9cc2fa9ef4003137701551&=
+amp;iid=3D059b1538bc5d4bf683e372c757925d94&amp;uid=3D763687302631596033&amp=
+;nid=3D244+1553" style=3D"margin:0px;padding:0px;text-decoration:none;"> <i=
+mg src=3D"https://ea.twimg.com/email/self_serve/media/logo-1400528502322.pn=
+g" width=3D"28" style=3D"width:28px;margin:0px;padding:0px;display:block;-m=
+s-interpolation-mode:bicubic;border:none;outline:none;" /> </a> </td>
+</tr>
+<tr>
+<td height=3D"6" style=3D"height:6px;margin:0px;padding:0px;"> </td>
+</tr>
+<tr align=3D"center">
+<td class=3D"header" style=3D"margin:0px;padding:0px;font-family:'Helvetica=
+ Neue Light', 'Helvetica Neue', Arial, sans-serif;-webkit-font-smoothing:an=
+tialiased;-webkit-text-size-adjust:none;font-weight:300;color:#292F33;font-=
+size:21px;line-height:21px;padding:0px;margin:0px;white-space:nowrap;"> Wha=
+t's happening </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td height=3D"24" style=3D"height:24px;margin:0px;padding:0px;"> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<!-- header end -->
+<tr>
+<td style=3D"margin:0px;padding:0px;"> <img width=3D"1" height=3D"1" src=3D=
+"https://twitter.com/scribe/ibis?t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp;ii=
+d=3D059b1538bc5d4bf683e372c757925d94&amp;uid=3D763687302631596033&amp;nid=
+=3D244+20" style=3D"margin:0px;padding:0px;display:block;-ms-interpolation-=
+mode:bicubic;border:none;outline:none;" /> </td>
+</tr>
+<!-- content start -->
+<tr>
+<td align=3D"center" style=3D"margin:0px;padding:0px;">
+<!--https://twitter.com/scribe/ibis?t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp=
+;iid=3D059b1538bc5d4bf683e372c757925d94&amp;uid=3D763687302631596033&amp;ni=
+d=3D244+20-->
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td class=3D"full_tweet_box" style=3D"margin:0px;padding:0px;border:1px sol=
+id #E1E8ED;background-color:#FFFFFF;border-radius:4px;-webkit-border-radius=
+:4px;-moz-border-radius:4px;"><a href=3D"https://t.co/redirect?url=3Dhttp%3=
+A%2F%2Findiatoday.intoday.in%2Fipl2017%2Fstory%2Fipl-2017-live-cricket-scor=
+es-kkr-vs-mi-gautam-gambhir-rohit-sharma%2F1%2F953128.html&amp;t=3D1&amp;cn=
+=3DZmxleGlibGVfcmVjc18y&amp;sig=3De6ed5da266f080178d811936344d588030ef2cd7&=
+amp;iid=3D059b1538bc5d4bf683e372c757925d94&amp;uid=3D763687302631596033&amp=
+;nid=3D244+272830465" style=3D"margin:0px;padding:0px;text-decoration:none;=
+">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td style=3D"margin:0px;padding:0px;"><a href=3D"https://t.co/redirect?url=
+=3Dhttp%3A%2F%2Findiatoday.intoday.in%2Fipl2017%2Fstory%2Fipl-2017-live-cri=
+cket-scores-kkr-vs-mi-gautam-gambhir-rohit-sharma%2F1%2F953128.html&amp;t=
+=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp;sig=3D4866fc5bcf47719381f5d6552b051e=
+ffdfad7a5f&amp;iid=3D059b1538bc5d4bf683e372c757925d94&amp;uid=3D76368730263=
+1596033&amp;nid=3D244+272830466" style=3D"margin:0px;padding:0px;text-decor=
+ation:none;">
+<!-- social proof header start -->
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;border-bottom:1px solid #E1E8ED;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td height=3D"12" style=3D"height:12px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td width=3D"24" class=3D"social_proof_margin_lr" style=3D"margin:0px;paddi=
+ng:0px;width:24px;"></td>
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td class=3D"social_proof_title" style=3D"margin:0px;padding:0px;font-famil=
+y:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:bold;font-size=
+:12px;line-height:16px;color:#292F33;letter-spacing:0.5px;text-transform:up=
+percase;"> Shared by </td>
+</tr>
+<tr>
+<td class=3D"social_proof_detail" style=3D"margin:0px;padding:0px;font-fami=
+ly:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;line-heigh=
+t:16px;color:#8899A6;"> India Today </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+<td width=3D"24" class=3D"social_proof_margin_lr" style=3D"margin:0px;paddi=
+ng:0px;width:24px;"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td height=3D"12" style=3D"height:12px;margin:0px;padding:0px;"></td>
+</tr>
+</tbody>
+</table>
+<!-- social proof header end --> </a></td>
+</tr>
+<tr>
+<td height=3D"24" class=3D"module_margin_tb" style=3D"margin:0px;padding:0p=
+x;height:24px;"></td>
+</tr>
+<!-- top margin -->
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td width=3D"24" class=3D"module_margin_lr" style=3D"margin:0px;padding:0px=
+;width:24px;"></td>
+<!-- left margin -->
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<!--[if mso]> <a href=3D"https://t.co/redirect?url=3Dhttp%3A%2F%2Findiatoda=
+y.intoday.in%2Fipl2017%2Fstory%2Fipl-2017-live-cricket-scores-kkr-vs-mi-gau=
+tam-gambhir-rohit-sharma%2F1%2F953128.html&amp;t=3D1&amp;cn=3DZmxleGlibGVfc=
+mVjc18y&amp;sig=3De31c4d3aa0145e9c8a419a7ff871f72831ce508c&amp;iid=3D059b15=
+38bc5d4bf683e372c757925d94&amp;uid=3D763687302631596033&amp;nid=3D244+27283=
+0464"><img width=3D"400" src=3D"https://pbs.twimg.com/news_img/863394435580=
+784640/XBIOgJNI?format=3Djpg&amp;name=3Dorig"></a> <![endif]--> <a href=3D"=
+https://t.co/redirect?url=3Dhttp%3A%2F%2Findiatoday.intoday.in%2Fipl2017%2F=
+story%2Fipl-2017-live-cricket-scores-kkr-vs-mi-gautam-gambhir-rohit-sharma%=
+2F1%2F953128.html&amp;t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp;sig=3De31c4d3=
+aa0145e9c8a419a7ff871f72831ce508c&amp;iid=3D059b1538bc5d4bf683e372c757925d9=
+4&amp;uid=3D763687302631596033&amp;nid=3D244+272830464" style=3D"mso-hide:a=
+ll;margin:0px;padding:0px;text-decoration:none;"><img style=3D"min-width:10=
+0%;width:100%;margin:0px;padding:0px;display:block;-ms-interpolation-mode:b=
+icubic;border:none;outline:none;" src=3D"https://pbs.twimg.com/news_img/863=
+394435580784640/XBIOgJNI?format=3Djpg&amp;name=3Dorig" /></a> </td>
+</tr>
+<tr>
+<td height=3D"14" style=3D"height:14px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td class=3D"link_card_title" style=3D"margin:0px;padding:0px;font-family:'=
+Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antial=
+iased;-webkit-text-size-adjust:none;font-size:14px;line-height:18px;font-we=
+ight:bold;color:#292F33;">LIVE IPL 2017, KKR vs MI: Rain threatens to ruin =
+high profile clash</td>
+</tr>
+<tr>
+<td height=3D"6" style=3D"height:6px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td class=3D"link_card_source" style=3D"margin:0px;padding:0px;font-family:=
+'Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antia=
+liased;-webkit-text-size-adjust:none;font-size:14px;line-height:18px;color:=
+#8899a6;">intoday.in</td>
+</tr>
+<tr>
+<td height=3D"6" style=3D"height:6px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td class=3D"link_card_description" style=3D"margin:0px;padding:0px;font-fa=
+mily:'Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:=
+antialiased;-webkit-text-size-adjust:none;font-size:14px;line-height:18px;c=
+olor:#292F33;">After a flying start to their respective campaigns, both the=
+ teams have started showing some wear and tear. Mumbai ha...</td>
+</tr>
+<tr>
+<td height=3D"14" style=3D"height:14px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"left" widt=
+h=3D"100%" style=3D"margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td align=3D"center" class=3D"bulletproof-btn-white-1" style=3D"margin:0px;=
+padding:0px;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:=
+4px;line-height:18px;background-color:#ffffff;"> <a href=3D"https://t.co/re=
+direct?url=3Dhttp%3A%2F%2Findiatoday.intoday.in%2Fipl2017%2Fstory%2Fipl-201=
+7-live-cricket-scores-kkr-vs-mi-gautam-gambhir-rohit-sharma%2F1%2F953128.ht=
+ml&amp;t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp;sig=3Db1d6880ed51572af903542=
+adf72b3cb0e9929fce&amp;iid=3D059b1538bc5d4bf683e372c757925d94&amp;uid=3D763=
+687302631596033&amp;nid=3D244+272830480" target=3D"_blank" class=3D"bulletp=
+roof-btn-white-2 button-width-full" style=3D"margin:0px;padding:0px;text-de=
+coration:none;width:90%;font-size:12px;font-family:'Helvetica Neue', Helvet=
+ica, Arial, sans-serif;color:#55acee;text-decoration:none;-webkit-border-ra=
+dius:4px;-moz-border-radius:4px;border-radius:4px;padding:6px 18px;border:1=
+px solid #55acee;display:inline-block;font-weight:bold;-webkit-font-smoothi=
+ng:antialiased;white-space:nowrap;">
+<!--[if gte mso 11]>&nbsp; &nbsp; &nbsp;<![endif]--> Read more at intoday.i=
+n
+<!--[if gte mso 11]>&nbsp; &nbsp; &nbsp;<![endif]--> </a> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+<td width=3D"24" class=3D"module_margin_lr" style=3D"margin:0px;padding:0px=
+;width:24px;"></td>
+<!-- right margin -->
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td height=3D"24" class=3D"news_margin_bottom" style=3D"margin:0px;padding:=
+0px;height:24px;"></td>
+</tr>
+<!-- bottom margin -->
+</tbody>
+</table> </a></td>
+</tr>
+<tr>
+<td height=3D"20" class=3D"module_space" style=3D"margin:0px;padding:0px;he=
+ight:20px;"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"margin:0px;padding:0px;">
+<!--https://twitter.com/scribe/ibis?t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp=
+;iid=3D059b1538bc5d4bf683e372c757925d94&amp;uid=3D763687302631596033&amp;ni=
+d=3D244+20-->
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td class=3D"full_tweet_box" style=3D"margin:0px;padding:0px;border:1px sol=
+id #E1E8ED;background-color:#FFFFFF;border-radius:4px;-webkit-border-radius=
+:4px;-moz-border-radius:4px;"><a href=3D"https://t.co/redirect?url=3Dhttp%3=
+A%2F%2Findiatoday.intoday.in%2Fipl2017%2Fstory%2Fipl-2017-gl-vs-srh-suresh-=
+raina-david-warner-live-cricket-scores%2F1%2F952959.html&amp;t=3D1&amp;cn=
+=3DZmxleGlibGVfcmVjc18y&amp;sig=3D2a35c52f1300247d5aad476bced548436eccdbbf&=
+amp;iid=3D059b1538bc5d4bf683e372c757925d94&amp;uid=3D763687302631596033&amp=
+;nid=3D244+277024769" style=3D"margin:0px;padding:0px;text-decoration:none;=
+">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td style=3D"margin:0px;padding:0px;"><a href=3D"https://t.co/redirect?url=
+=3Dhttp%3A%2F%2Findiatoday.intoday.in%2Fipl2017%2Fstory%2Fipl-2017-gl-vs-sr=
+h-suresh-raina-david-warner-live-cricket-scores%2F1%2F952959.html&amp;t=3D1=
+&amp;cn=3DZmxleGlibGVfcmVjc18y&amp;sig=3D6a02073ca267ebc84532b9eaeb42f72b08=
+ea1770&amp;iid=3D059b1538bc5d4bf683e372c757925d94&amp;uid=3D763687302631596=
+033&amp;nid=3D244+277024770" style=3D"margin:0px;padding:0px;text-decoratio=
+n:none;">
+<!-- social proof header start -->
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;border-bottom:1px solid #E1E8ED;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td height=3D"12" style=3D"height:12px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td width=3D"24" class=3D"social_proof_margin_lr" style=3D"margin:0px;paddi=
+ng:0px;width:24px;"></td>
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td class=3D"social_proof_title" style=3D"margin:0px;padding:0px;font-famil=
+y:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:bold;font-size=
+:12px;line-height:16px;color:#292F33;letter-spacing:0.5px;text-transform:up=
+percase;"> Shared by </td>
+</tr>
+<tr>
+<td class=3D"social_proof_detail" style=3D"margin:0px;padding:0px;font-fami=
+ly:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;line-heigh=
+t:16px;color:#8899A6;"> India Today </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+<td width=3D"24" class=3D"social_proof_margin_lr" style=3D"margin:0px;paddi=
+ng:0px;width:24px;"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td height=3D"12" style=3D"height:12px;margin:0px;padding:0px;"></td>
+</tr>
+</tbody>
+</table>
+<!-- social proof header end --> </a></td>
+</tr>
+<tr>
+<td height=3D"24" class=3D"module_margin_tb" style=3D"margin:0px;padding:0p=
+x;height:24px;"></td>
+</tr>
+<!-- top margin -->
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td width=3D"24" class=3D"module_margin_lr" style=3D"margin:0px;padding:0px=
+;width:24px;"></td>
+<!-- left margin -->
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<!--[if mso]> <a href=3D"https://t.co/redirect?url=3Dhttp%3A%2F%2Findiatoda=
+y.intoday.in%2Fipl2017%2Fstory%2Fipl-2017-gl-vs-srh-suresh-raina-david-warn=
+er-live-cricket-scores%2F1%2F952959.html&amp;t=3D1&amp;cn=3DZmxleGlibGVfcmV=
+jc18y&amp;sig=3D107db05bdf39cc76f9b2ad0c04e32e3c579c6265&amp;iid=3D059b1538=
+bc5d4bf683e372c757925d94&amp;uid=3D763687302631596033&amp;nid=3D244+2770247=
+68"><img width=3D"400" src=3D"https://pbs.twimg.com/news_img/86333353315000=
+7297/25yMmIW2?format=3Djpg&amp;name=3Dorig"></a> <![endif]--> <a href=3D"ht=
+tps://t.co/redirect?url=3Dhttp%3A%2F%2Findiatoday.intoday.in%2Fipl2017%2Fst=
+ory%2Fipl-2017-gl-vs-srh-suresh-raina-david-warner-live-cricket-scores%2F1%=
+2F952959.html&amp;t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp;sig=3D107db05bdf3=
+9cc76f9b2ad0c04e32e3c579c6265&amp;iid=3D059b1538bc5d4bf683e372c757925d94&am=
+p;uid=3D763687302631596033&amp;nid=3D244+277024768" style=3D"mso-hide:all;m=
+argin:0px;padding:0px;text-decoration:none;"><img style=3D"min-width:100%;w=
+idth:100%;margin:0px;padding:0px;display:block;-ms-interpolation-mode:bicub=
+ic;border:none;outline:none;" src=3D"https://pbs.twimg.com/news_img/8633335=
+33150007297/25yMmIW2?format=3Djpg&amp;name=3Dorig" /></a> </td>
+</tr>
+<tr>
+<td height=3D"14" style=3D"height:14px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td class=3D"link_card_title" style=3D"margin:0px;padding:0px;font-family:'=
+Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antial=
+iased;-webkit-text-size-adjust:none;font-size:14px;line-height:18px;font-we=
+ight:bold;color:#292F33;">LIVE IPL 2017, GL vs SRH: Hyderabad have one fina=
+l hurdle to deal with in Gujarat</td>
+</tr>
+<tr>
+<td height=3D"6" style=3D"height:6px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td class=3D"link_card_source" style=3D"margin:0px;padding:0px;font-family:=
+'Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antia=
+liased;-webkit-text-size-adjust:none;font-size:14px;line-height:18px;color:=
+#8899a6;">intoday.in</td>
+</tr>
+<tr>
+<td height=3D"6" style=3D"height:6px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td class=3D"link_card_description" style=3D"margin:0px;padding:0px;font-fa=
+mily:'Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:=
+antialiased;-webkit-text-size-adjust:none;font-size:14px;line-height:18px;c=
+olor:#292F33;">GL vs SRH: Placed at the fourth spot in the standings with s=
+even wins from 13 matches, Hyderabad find themselves in a...</td>
+</tr>
+<tr>
+<td height=3D"14" style=3D"height:14px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"left" widt=
+h=3D"100%" style=3D"margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td align=3D"center" class=3D"bulletproof-btn-white-1" style=3D"margin:0px;=
+padding:0px;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:=
+4px;line-height:18px;background-color:#ffffff;"> <a href=3D"https://t.co/re=
+direct?url=3Dhttp%3A%2F%2Findiatoday.intoday.in%2Fipl2017%2Fstory%2Fipl-201=
+7-gl-vs-srh-suresh-raina-david-warner-live-cricket-scores%2F1%2F952959.html=
+&amp;t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp;sig=3D4c5e06647383dbbf3eb71c65=
+4296b8b7b067586d&amp;iid=3D059b1538bc5d4bf683e372c757925d94&amp;uid=3D76368=
+7302631596033&amp;nid=3D244+277024784" target=3D"_blank" class=3D"bulletpro=
+of-btn-white-2 button-width-full" style=3D"margin:0px;padding:0px;text-deco=
+ration:none;width:90%;font-size:12px;font-family:'Helvetica Neue', Helvetic=
+a, Arial, sans-serif;color:#55acee;text-decoration:none;-webkit-border-radi=
+us:4px;-moz-border-radius:4px;border-radius:4px;padding:6px 18px;border:1px=
+ solid #55acee;display:inline-block;font-weight:bold;-webkit-font-smoothing=
+:antialiased;white-space:nowrap;">
+<!--[if gte mso 11]>&nbsp; &nbsp; &nbsp;<![endif]--> Read more at intoday.i=
+n
+<!--[if gte mso 11]>&nbsp; &nbsp; &nbsp;<![endif]--> </a> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+<td width=3D"24" class=3D"module_margin_lr" style=3D"margin:0px;padding:0px=
+;width:24px;"></td>
+<!-- right margin -->
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td height=3D"24" class=3D"news_margin_bottom" style=3D"margin:0px;padding:=
+0px;height:24px;"></td>
+</tr>
+<!-- bottom margin -->
+</tbody>
+</table> </a></td>
+</tr>
+<tr>
+<td height=3D"20" class=3D"module_space" style=3D"margin:0px;padding:0px;he=
+ight:20px;"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"margin:0px;padding:0px;">
+<!--https://twitter.com/scribe/ibis?t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp=
+;iid=3D059b1538bc5d4bf683e372c757925d94&amp;uid=3D763687302631596033&amp;ni=
+d=3D244+20-->
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td class=3D"full_tweet_box" style=3D"margin:0px;padding:0px;border:1px sol=
+id #E1E8ED;background-color:#FFFFFF;border-radius:4px;-webkit-border-radius=
+:4px;-moz-border-radius:4px;"><a href=3D"https://t.co/redirect?url=3Dhttp%3=
+A%2F%2Findiatoday.intoday.in%2Fvideos%3Fsource%3DITVIDDEC2016&amp;t=3D1&amp=
+;cn=3DZmxleGlibGVfcmVjc18y&amp;sig=3Da0d5aafba99c59a4ca128e95c0635ebb9dd5c2=
+3b&amp;iid=3D059b1538bc5d4bf683e372c757925d94&amp;uid=3D763687302631596033&=
+amp;nid=3D244+281219073" style=3D"margin:0px;padding:0px;text-decoration:no=
+ne;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td style=3D"margin:0px;padding:0px;"><a href=3D"https://t.co/redirect?url=
+=3Dhttp%3A%2F%2Findiatoday.intoday.in%2Fvideos%3Fsource%3DITVIDDEC2016&amp;=
+t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp;sig=3De3940a3d5411c49c90570fd6e2b82=
+12c42c7b3a1&amp;iid=3D059b1538bc5d4bf683e372c757925d94&amp;uid=3D7636873026=
+31596033&amp;nid=3D244+281219074" style=3D"margin:0px;padding:0px;text-deco=
+ration:none;">
+<!-- social proof header start -->
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;border-bottom:1px solid #E1E8ED;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td height=3D"12" style=3D"height:12px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td width=3D"24" class=3D"social_proof_margin_lr" style=3D"margin:0px;paddi=
+ng:0px;width:24px;"></td>
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td class=3D"social_proof_title" style=3D"margin:0px;padding:0px;font-famil=
+y:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:bold;font-size=
+:12px;line-height:16px;color:#292F33;letter-spacing:0.5px;text-transform:up=
+percase;"> Shared by </td>
+</tr>
+<tr>
+<td class=3D"social_proof_detail" style=3D"margin:0px;padding:0px;font-fami=
+ly:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;line-heigh=
+t:16px;color:#8899A6;"> India Today and 2 others </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+<td width=3D"24" class=3D"social_proof_margin_lr" style=3D"margin:0px;paddi=
+ng:0px;width:24px;"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td height=3D"12" style=3D"height:12px;margin:0px;padding:0px;"></td>
+</tr>
+</tbody>
+</table>
+<!-- social proof header end --> </a></td>
+</tr>
+<tr>
+<td height=3D"24" class=3D"module_margin_tb" style=3D"margin:0px;padding:0p=
+x;height:24px;"></td>
+</tr>
+<!-- top margin -->
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td width=3D"24" class=3D"module_margin_lr" style=3D"margin:0px;padding:0px=
+;width:24px;"></td>
+<!-- left margin -->
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<!--[if mso]> <a href=3D"https://t.co/redirect?url=3Dhttp%3A%2F%2Findiatoda=
+y.intoday.in%2Fvideos%3Fsource%3DITVIDDEC2016&amp;t=3D1&amp;cn=3DZmxleGlibG=
+VfcmVjc18y&amp;sig=3Dab2ce472ad93b00eba4bedf20e798fdb3c9c5398&amp;iid=3D059=
+b1538bc5d4bf683e372c757925d94&amp;uid=3D763687302631596033&amp;nid=3D244+28=
+1219072"><img width=3D"400" src=3D"https://pbs.twimg.com/news_img/862326095=
+105761280/7kJX52Ok?format=3Djpg&amp;name=3Dorig"></a> <![endif]--> <a href=
+=3D"https://t.co/redirect?url=3Dhttp%3A%2F%2Findiatoday.intoday.in%2Fvideos=
+%3Fsource%3DITVIDDEC2016&amp;t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp;sig=3D=
+ab2ce472ad93b00eba4bedf20e798fdb3c9c5398&amp;iid=3D059b1538bc5d4bf683e372c7=
+57925d94&amp;uid=3D763687302631596033&amp;nid=3D244+281219072" style=3D"mso=
+-hide:all;margin:0px;padding:0px;text-decoration:none;"><img style=3D"min-w=
+idth:100%;width:100%;margin:0px;padding:0px;display:block;-ms-interpolation=
+-mode:bicubic;border:none;outline:none;" src=3D"https://pbs.twimg.com/news_=
+img/862326095105761280/7kJX52Ok?format=3Djpg&amp;name=3Dorig" /></a> </td>
+</tr>
+<tr>
+<td height=3D"14" style=3D"height:14px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td class=3D"link_card_title" style=3D"margin:0px;padding:0px;font-family:'=
+Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antial=
+iased;-webkit-text-size-adjust:none;font-size:14px;line-height:18px;font-we=
+ight:bold;color:#292F33;">India Today - Latest Videos - News Videos - Onlin=
+e News</td>
+</tr>
+<tr>
+<td height=3D"6" style=3D"height:6px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td class=3D"link_card_source" style=3D"margin:0px;padding:0px;font-family:=
+'Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antia=
+liased;-webkit-text-size-adjust:none;font-size:14px;line-height:18px;color:=
+#8899a6;">India Today</td>
+</tr>
+<tr>
+<td height=3D"6" style=3D"height:6px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td class=3D"link_card_description" style=3D"margin:0px;padding:0px;font-fa=
+mily:'Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:=
+antialiased;-webkit-text-size-adjust:none;font-size:14px;line-height:18px;c=
+olor:#292F33;">India Today Videos - Videos from Headlines Today covering ne=
+ws videos, breaking news, politics news videos, business ...</td>
+</tr>
+<tr>
+<td height=3D"14" style=3D"height:14px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"left" widt=
+h=3D"100%" style=3D"margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td align=3D"center" class=3D"bulletproof-btn-white-1" style=3D"margin:0px;=
+padding:0px;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:=
+4px;line-height:18px;background-color:#ffffff;"> <a href=3D"https://t.co/re=
+direct?url=3Dhttp%3A%2F%2Findiatoday.intoday.in%2Fvideos%3Fsource%3DITVIDDE=
+C2016&amp;t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp;sig=3Dc61de0a55ffd40b27ff=
+4120049abb4ce1b2e035a&amp;iid=3D059b1538bc5d4bf683e372c757925d94&amp;uid=3D=
+763687302631596033&amp;nid=3D244+281219088" target=3D"_blank" class=3D"bull=
+etproof-btn-white-2 button-width-full" style=3D"margin:0px;padding:0px;text=
+-decoration:none;width:90%;font-size:12px;font-family:'Helvetica Neue', Hel=
+vetica, Arial, sans-serif;color:#55acee;text-decoration:none;-webkit-border=
+-radius:4px;-moz-border-radius:4px;border-radius:4px;padding:6px 18px;borde=
+r:1px solid #55acee;display:inline-block;font-weight:bold;-webkit-font-smoo=
+thing:antialiased;white-space:nowrap;">
+<!--[if gte mso 11]>&nbsp; &nbsp; &nbsp;<![endif]--> Read more at India Tod=
+ay
+<!--[if gte mso 11]>&nbsp; &nbsp; &nbsp;<![endif]--> </a> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+<td width=3D"24" class=3D"module_margin_lr" style=3D"margin:0px;padding:0px=
+;width:24px;"></td>
+<!-- right margin -->
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td height=3D"24" class=3D"news_margin_bottom" style=3D"margin:0px;padding:=
+0px;height:24px;"></td>
+</tr>
+<!-- bottom margin -->
+</tbody>
+</table> </a></td>
+</tr>
+<tr>
+<td height=3D"20" class=3D"module_space" style=3D"margin:0px;padding:0px;he=
+ight:20px;"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"margin:0px;padding:0px;">
+<!--https://twitter.com/scribe/ibis?t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp=
+;iid=3D059b1538bc5d4bf683e372c757925d94&amp;uid=3D763687302631596033&amp;ni=
+d=3D244+20-->
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td class=3D"full_tweet_box" style=3D"margin:0px;padding:0px;border:1px sol=
+id #E1E8ED;background-color:#FFFFFF;border-radius:4px;-webkit-border-radius=
+:4px;-moz-border-radius:4px;"><a href=3D"https://t.co/redirect?url=3Dhttp%3=
+A%2F%2Fwww.hindustantimes.com%2Fipl-2017%2Fipl-2017-live-kkr-vs-mi-live-cri=
+cket-score-kolkata-knight-riders-vs-mumbai-indians-live-score%2Fstory-pwLiv=
+qJ782FU8cYsULHG7I.html&amp;t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp;sig=3De0=
+23ca720b2d2519a8a3ea53102bc37059dda258&amp;iid=3D059b1538bc5d4bf683e372c757=
+925d94&amp;uid=3D763687302631596033&amp;nid=3D244+285413377" style=3D"margi=
+n:0px;padding:0px;text-decoration:none;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td style=3D"margin:0px;padding:0px;"><a href=3D"https://t.co/redirect?url=
+=3Dhttp%3A%2F%2Fwww.hindustantimes.com%2Fipl-2017%2Fipl-2017-live-kkr-vs-mi=
+-live-cricket-score-kolkata-knight-riders-vs-mumbai-indians-live-score%2Fst=
+ory-pwLivqJ782FU8cYsULHG7I.html&amp;t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp=
+;sig=3D36cfa938275a44376efc0b06ed62cb84d9f40d9f&amp;iid=3D059b1538bc5d4bf68=
+3e372c757925d94&amp;uid=3D763687302631596033&amp;nid=3D244+285413378" style=
+=3D"margin:0px;padding:0px;text-decoration:none;">
+<!-- social proof header start -->
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;border-bottom:1px solid #E1E8ED;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td height=3D"12" style=3D"height:12px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td width=3D"24" class=3D"social_proof_margin_lr" style=3D"margin:0px;paddi=
+ng:0px;width:24px;"></td>
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td class=3D"social_proof_title" style=3D"margin:0px;padding:0px;font-famil=
+y:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:bold;font-size=
+:12px;line-height:16px;color:#292F33;letter-spacing:0.5px;text-transform:up=
+percase;"> Shared by </td>
+</tr>
+<tr>
+<td class=3D"social_proof_detail" style=3D"margin:0px;padding:0px;font-fami=
+ly:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;line-heigh=
+t:16px;color:#8899A6;"> Hindustan Times </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+<td width=3D"24" class=3D"social_proof_margin_lr" style=3D"margin:0px;paddi=
+ng:0px;width:24px;"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td height=3D"12" style=3D"height:12px;margin:0px;padding:0px;"></td>
+</tr>
+</tbody>
+</table>
+<!-- social proof header end --> </a></td>
+</tr>
+<tr>
+<td height=3D"24" class=3D"module_margin_tb" style=3D"margin:0px;padding:0p=
+x;height:24px;"></td>
+</tr>
+<!-- top margin -->
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td width=3D"24" class=3D"module_margin_lr" style=3D"margin:0px;padding:0px=
+;width:24px;"></td>
+<!-- left margin -->
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<!--[if mso]> <a href=3D"https://t.co/redirect?url=3Dhttp%3A%2F%2Fwww.hindu=
+stantimes.com%2Fipl-2017%2Fipl-2017-live-kkr-vs-mi-live-cricket-score-kolka=
+ta-knight-riders-vs-mumbai-indians-live-score%2Fstory-pwLivqJ782FU8cYsULHG7=
+I.html&amp;t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp;sig=3D2c24a4c7e83af56db3=
+bab73da706e499bb70f1b4&amp;iid=3D059b1538bc5d4bf683e372c757925d94&amp;uid=
+=3D763687302631596033&amp;nid=3D244+285413376"><img width=3D"400" src=3D"ht=
+tps://pbs.twimg.com/news_img/863397726863544320/CTkF4Y6J?format=3Djpg&amp;n=
+ame=3Dorig"></a> <![endif]--> <a href=3D"https://t.co/redirect?url=3Dhttp%3=
+A%2F%2Fwww.hindustantimes.com%2Fipl-2017%2Fipl-2017-live-kkr-vs-mi-live-cri=
+cket-score-kolkata-knight-riders-vs-mumbai-indians-live-score%2Fstory-pwLiv=
+qJ782FU8cYsULHG7I.html&amp;t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp;sig=3D2c=
+24a4c7e83af56db3bab73da706e499bb70f1b4&amp;iid=3D059b1538bc5d4bf683e372c757=
+925d94&amp;uid=3D763687302631596033&amp;nid=3D244+285413376" style=3D"mso-h=
+ide:all;margin:0px;padding:0px;text-decoration:none;"><img style=3D"min-wid=
+th:100%;width:100%;margin:0px;padding:0px;display:block;-ms-interpolation-m=
+ode:bicubic;border:none;outline:none;" src=3D"https://pbs.twimg.com/news_im=
+g/863397726863544320/CTkF4Y6J?format=3Djpg&amp;name=3Dorig" /></a> </td>
+</tr>
+<tr>
+<td height=3D"14" style=3D"height:14px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td class=3D"link_card_title" style=3D"margin:0px;padding:0px;font-family:'=
+Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antial=
+iased;-webkit-text-size-adjust:none;font-size:14px;line-height:18px;font-we=
+ight:bold;color:#292F33;">IPL 2017 Live, KKR vs MI, Live cricket score, Kol=
+kata Knight Riders vs Mumbai Indians live score</td>
+</tr>
+<tr>
+<td height=3D"6" style=3D"height:6px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td class=3D"link_card_source" style=3D"margin:0px;padding:0px;font-family:=
+'Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antia=
+liased;-webkit-text-size-adjust:none;font-size:14px;line-height:18px;color:=
+#8899a6;">Hindustan Times</td>
+</tr>
+<tr>
+<td height=3D"6" style=3D"height:6px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td class=3D"link_card_description" style=3D"margin:0px;padding:0px;font-fa=
+mily:'Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:=
+antialiased;-webkit-text-size-adjust:none;font-size:14px;line-height:18px;c=
+olor:#292F33;">Heavyweights Kolkata Knight Riders and Mumbai Indians face e=
+ach other in an exciting 2017 Indian Premier League (IPL)...</td>
+</tr>
+<tr>
+<td height=3D"14" style=3D"height:14px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"left" widt=
+h=3D"100%" style=3D"margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td align=3D"center" class=3D"bulletproof-btn-white-1" style=3D"margin:0px;=
+padding:0px;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:=
+4px;line-height:18px;background-color:#ffffff;"> <a href=3D"https://t.co/re=
+direct?url=3Dhttp%3A%2F%2Fwww.hindustantimes.com%2Fipl-2017%2Fipl-2017-live=
+-kkr-vs-mi-live-cricket-score-kolkata-knight-riders-vs-mumbai-indians-live-=
+score%2Fstory-pwLivqJ782FU8cYsULHG7I.html&amp;t=3D1&amp;cn=3DZmxleGlibGVfcm=
+Vjc18y&amp;sig=3Df6971bd539f7e2781e728cad81ea049047011a9d&amp;iid=3D059b153=
+8bc5d4bf683e372c757925d94&amp;uid=3D763687302631596033&amp;nid=3D244+285413=
+392" target=3D"_blank" class=3D"bulletproof-btn-white-2 button-width-full" =
+style=3D"margin:0px;padding:0px;text-decoration:none;width:90%;font-size:12=
+px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#55acee=
+;text-decoration:none;-webkit-border-radius:4px;-moz-border-radius:4px;bord=
+er-radius:4px;padding:6px 18px;border:1px solid #55acee;display:inline-bloc=
+k;font-weight:bold;-webkit-font-smoothing:antialiased;white-space:nowrap;">
+<!--[if gte mso 11]>&nbsp; &nbsp; &nbsp;<![endif]--> Read more at Hindustan=
+ Times
+<!--[if gte mso 11]>&nbsp; &nbsp; &nbsp;<![endif]--> </a> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+<td width=3D"24" class=3D"module_margin_lr" style=3D"margin:0px;padding:0px=
+;width:24px;"></td>
+<!-- right margin -->
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td height=3D"24" class=3D"news_margin_bottom" style=3D"margin:0px;padding:=
+0px;height:24px;"></td>
+</tr>
+<!-- bottom margin -->
+</tbody>
+</table> </a></td>
+</tr>
+<tr>
+<td height=3D"20" class=3D"module_space" style=3D"margin:0px;padding:0px;he=
+ight:20px;"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"margin:0px;padding:0px;">
+<!--https://twitter.com/scribe/ibis?t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp=
+;iid=3D059b1538bc5d4bf683e372c757925d94&amp;uid=3D763687302631596033&amp;ni=
+d=3D244+20-->
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td class=3D"full_tweet_box" style=3D"margin:0px;padding:0px;border:1px sol=
+id #E1E8ED;background-color:#FFFFFF;border-radius:4px;-webkit-border-radius=
+:4px;-moz-border-radius:4px;"><a href=3D"https://t.co/redirect?url=3Dhttp%3=
+A%2F%2Fwww.hindustantimes.com%2Fipl-2017%2Fipl-2017-live-rps-vs-kxip-live-c=
+ricket-score-rising-pune-supergiant-vs-kings-xi-punjab-live-score%2Fstory-c=
+xPvwGPCOLNdt5J7NR3lLJ.html&amp;t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp;sig=
+=3D21bdd74dc2bcac1ca83fc09c6b9a29203c6c8cdd&amp;iid=3D059b1538bc5d4bf683e37=
+2c757925d94&amp;uid=3D763687302631596033&amp;nid=3D244+289607681" style=3D"=
+margin:0px;padding:0px;text-decoration:none;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td style=3D"margin:0px;padding:0px;"><a href=3D"https://t.co/redirect?url=
+=3Dhttp%3A%2F%2Fwww.hindustantimes.com%2Fipl-2017%2Fipl-2017-live-rps-vs-kx=
+ip-live-cricket-score-rising-pune-supergiant-vs-kings-xi-punjab-live-score%=
+2Fstory-cxPvwGPCOLNdt5J7NR3lLJ.html&amp;t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y=
+&amp;sig=3Dabe5431f60a81b16b3ae0a9b575ef69153924473&amp;iid=3D059b1538bc5d4=
+bf683e372c757925d94&amp;uid=3D763687302631596033&amp;nid=3D244+289607682" s=
+tyle=3D"margin:0px;padding:0px;text-decoration:none;">
+<!-- social proof header start -->
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;border-bottom:1px solid #E1E8ED;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td height=3D"12" style=3D"height:12px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td width=3D"24" class=3D"social_proof_margin_lr" style=3D"margin:0px;paddi=
+ng:0px;width:24px;"></td>
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td class=3D"social_proof_title" style=3D"margin:0px;padding:0px;font-famil=
+y:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:bold;font-size=
+:12px;line-height:16px;color:#292F33;letter-spacing:0.5px;text-transform:up=
+percase;"> Shared by </td>
+</tr>
+<tr>
+<td class=3D"social_proof_detail" style=3D"margin:0px;padding:0px;font-fami=
+ly:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;line-heigh=
+t:16px;color:#8899A6;"> Hindustan Times </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+<td width=3D"24" class=3D"social_proof_margin_lr" style=3D"margin:0px;paddi=
+ng:0px;width:24px;"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td height=3D"12" style=3D"height:12px;margin:0px;padding:0px;"></td>
+</tr>
+</tbody>
+</table>
+<!-- social proof header end --> </a></td>
+</tr>
+<tr>
+<td height=3D"24" class=3D"module_margin_tb" style=3D"margin:0px;padding:0p=
+x;height:24px;"></td>
+</tr>
+<!-- top margin -->
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td width=3D"24" class=3D"module_margin_lr" style=3D"margin:0px;padding:0px=
+;width:24px;"></td>
+<!-- left margin -->
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<!--[if mso]> <a href=3D"https://t.co/redirect?url=3Dhttp%3A%2F%2Fwww.hindu=
+stantimes.com%2Fipl-2017%2Fipl-2017-live-rps-vs-kxip-live-cricket-score-ris=
+ing-pune-supergiant-vs-kings-xi-punjab-live-score%2Fstory-cxPvwGPCOLNdt5J7N=
+R3lLJ.html&amp;t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp;sig=3D9f89343dd59232=
+201df137702b0bd1636ca9f7b6&amp;iid=3D059b1538bc5d4bf683e372c757925d94&amp;u=
+id=3D763687302631596033&amp;nid=3D244+289607680"><img width=3D"400" src=3D"=
+https://pbs.twimg.com/news_img/863696321756004353/lzDL_Wuv?format=3Djpg&amp=
+;name=3Dorig"></a> <![endif]--> <a href=3D"https://t.co/redirect?url=3Dhttp=
+%3A%2F%2Fwww.hindustantimes.com%2Fipl-2017%2Fipl-2017-live-rps-vs-kxip-live=
+-cricket-score-rising-pune-supergiant-vs-kings-xi-punjab-live-score%2Fstory=
+-cxPvwGPCOLNdt5J7NR3lLJ.html&amp;t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp;si=
+g=3D9f89343dd59232201df137702b0bd1636ca9f7b6&amp;iid=3D059b1538bc5d4bf683e3=
+72c757925d94&amp;uid=3D763687302631596033&amp;nid=3D244+289607680" style=3D=
+"mso-hide:all;margin:0px;padding:0px;text-decoration:none;"><img style=3D"m=
+in-width:100%;width:100%;margin:0px;padding:0px;display:block;-ms-interpola=
+tion-mode:bicubic;border:none;outline:none;" src=3D"https://pbs.twimg.com/n=
+ews_img/863696321756004353/lzDL_Wuv?format=3Djpg&amp;name=3Dorig" /></a> </=
+td>
+</tr>
+<tr>
+<td height=3D"14" style=3D"height:14px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td class=3D"link_card_title" style=3D"margin:0px;padding:0px;font-family:'=
+Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antial=
+iased;-webkit-text-size-adjust:none;font-size:14px;line-height:18px;font-we=
+ight:bold;color:#292F33;">Live cricket score, Rising Pune Supergiant vs Kin=
+gs XI Punjab, IPL 2017, Live</td>
+</tr>
+<tr>
+<td height=3D"6" style=3D"height:6px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td class=3D"link_card_source" style=3D"margin:0px;padding:0px;font-family:=
+'Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antia=
+liased;-webkit-text-size-adjust:none;font-size:14px;line-height:18px;color:=
+#8899a6;">Hindustan Times</td>
+</tr>
+<tr>
+<td height=3D"6" style=3D"height:6px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td class=3D"link_card_description" style=3D"margin:0px;padding:0px;font-fa=
+mily:'Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:=
+antialiased;-webkit-text-size-adjust:none;font-size:14px;line-height:18px;c=
+olor:#292F33;">Rising Pune Supergiant=E2=80=99s match against Kings XI Punj=
+ab is a virtual shoot-off for the IPL 2017 playoffs, with the win...</td>
+</tr>
+<tr>
+<td height=3D"14" style=3D"height:14px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"left" widt=
+h=3D"100%" style=3D"margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td align=3D"center" class=3D"bulletproof-btn-white-1" style=3D"margin:0px;=
+padding:0px;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:=
+4px;line-height:18px;background-color:#ffffff;"> <a href=3D"https://t.co/re=
+direct?url=3Dhttp%3A%2F%2Fwww.hindustantimes.com%2Fipl-2017%2Fipl-2017-live=
+-rps-vs-kxip-live-cricket-score-rising-pune-supergiant-vs-kings-xi-punjab-l=
+ive-score%2Fstory-cxPvwGPCOLNdt5J7NR3lLJ.html&amp;t=3D1&amp;cn=3DZmxleGlibG=
+VfcmVjc18y&amp;sig=3D6cadb9284ddce52062afff842b0234a3b848ff45&amp;iid=3D059=
+b1538bc5d4bf683e372c757925d94&amp;uid=3D763687302631596033&amp;nid=3D244+28=
+9607696" target=3D"_blank" class=3D"bulletproof-btn-white-2 button-width-fu=
+ll" style=3D"margin:0px;padding:0px;text-decoration:none;width:90%;font-siz=
+e:12px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#55=
+acee;text-decoration:none;-webkit-border-radius:4px;-moz-border-radius:4px;=
+border-radius:4px;padding:6px 18px;border:1px solid #55acee;display:inline-=
+block;font-weight:bold;-webkit-font-smoothing:antialiased;white-space:nowra=
+p;">
+<!--[if gte mso 11]>&nbsp; &nbsp; &nbsp;<![endif]--> Read more at Hindustan=
+ Times
+<!--[if gte mso 11]>&nbsp; &nbsp; &nbsp;<![endif]--> </a> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+<td width=3D"24" class=3D"module_margin_lr" style=3D"margin:0px;padding:0px=
+;width:24px;"></td>
+<!-- right margin -->
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td height=3D"24" class=3D"news_margin_bottom" style=3D"margin:0px;padding:=
+0px;height:24px;"></td>
+</tr>
+<!-- bottom margin -->
+</tbody>
+</table> </a></td>
+</tr>
+<tr>
+<td height=3D"20" class=3D"module_space" style=3D"margin:0px;padding:0px;he=
+ight:20px;"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"margin:0px;padding:0px;">
+<!--https://twitter.com/scribe/ibis?t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp=
+;iid=3D059b1538bc5d4bf683e372c757925d94&amp;uid=3D763687302631596033&amp;ni=
+d=3D244+20-->
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td class=3D"full_tweet_box" style=3D"margin:0px;padding:0px;border:1px sol=
+id #E1E8ED;background-color:#FFFFFF;border-radius:4px;-webkit-border-radius=
+:4px;-moz-border-radius:4px;"><a href=3D"https://t.co/redirect?url=3Dhttp%3=
+A%2F%2Fwww.ndtv.com%2F&amp;t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp;sig=3D15=
+59555aa65e06ae99c245406a227691bee111ac&amp;iid=3D059b1538bc5d4bf683e372c757=
+925d94&amp;uid=3D763687302631596033&amp;nid=3D244+293801985" style=3D"margi=
+n:0px;padding:0px;text-decoration:none;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td style=3D"margin:0px;padding:0px;"><a href=3D"https://t.co/redirect?url=
+=3Dhttp%3A%2F%2Fwww.ndtv.com%2F&amp;t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp=
+;sig=3D217694603b4147876957b6da00171a06aff4c058&amp;iid=3D059b1538bc5d4bf68=
+3e372c757925d94&amp;uid=3D763687302631596033&amp;nid=3D244+293801986" style=
+=3D"margin:0px;padding:0px;text-decoration:none;">
+<!-- social proof header start -->
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;border-bottom:1px solid #E1E8ED;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td height=3D"12" style=3D"height:12px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td width=3D"24" class=3D"social_proof_margin_lr" style=3D"margin:0px;paddi=
+ng:0px;width:24px;"></td>
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td class=3D"social_proof_title" style=3D"margin:0px;padding:0px;font-famil=
+y:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:bold;font-size=
+:12px;line-height:16px;color:#292F33;letter-spacing:0.5px;text-transform:up=
+percase;"> Shared by </td>
+</tr>
+<tr>
+<td class=3D"social_proof_detail" style=3D"margin:0px;padding:0px;font-fami=
+ly:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;line-heigh=
+t:16px;color:#8899A6;"> NDTV </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+<td width=3D"24" class=3D"social_proof_margin_lr" style=3D"margin:0px;paddi=
+ng:0px;width:24px;"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td height=3D"12" style=3D"height:12px;margin:0px;padding:0px;"></td>
+</tr>
+</tbody>
+</table>
+<!-- social proof header end --> </a></td>
+</tr>
+<tr>
+<td height=3D"24" class=3D"module_margin_tb" style=3D"margin:0px;padding:0p=
+x;height:24px;"></td>
+</tr>
+<!-- top margin -->
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td width=3D"24" class=3D"module_margin_lr" style=3D"margin:0px;padding:0px=
+;width:24px;"></td>
+<!-- left margin -->
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"min-width:=
+100%;width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<!--[if mso]> <a href=3D"https://t.co/redirect?url=3Dhttp%3A%2F%2Fwww.ndtv.=
+com%2F&amp;t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp;sig=3D8f18b7f811de85f3a7=
+8492b443c064bace8de40d&amp;iid=3D059b1538bc5d4bf683e372c757925d94&amp;uid=
+=3D763687302631596033&amp;nid=3D244+293801984"><img width=3D"400" src=3D"ht=
+tps://pbs.twimg.com/news_img/862857019224506368/Gk0ITZyo?format=3Dpng&amp;n=
+ame=3Dorig"></a> <![endif]--> <a href=3D"https://t.co/redirect?url=3Dhttp%3=
+A%2F%2Fwww.ndtv.com%2F&amp;t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp;sig=3D8f=
+18b7f811de85f3a78492b443c064bace8de40d&amp;iid=3D059b1538bc5d4bf683e372c757=
+925d94&amp;uid=3D763687302631596033&amp;nid=3D244+293801984" style=3D"mso-h=
+ide:all;margin:0px;padding:0px;text-decoration:none;"><img style=3D"min-wid=
+th:100%;width:100%;margin:0px;padding:0px;display:block;-ms-interpolation-m=
+ode:bicubic;border:none;outline:none;" src=3D"https://pbs.twimg.com/news_im=
+g/862857019224506368/Gk0ITZyo?format=3Dpng&amp;name=3Dorig" /></a> </td>
+</tr>
+<tr>
+<td height=3D"14" style=3D"height:14px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td class=3D"link_card_title" style=3D"margin:0px;padding:0px;font-family:'=
+Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antial=
+iased;-webkit-text-size-adjust:none;font-size:14px;line-height:18px;font-we=
+ight:bold;color:#292F33;">NDTV.com: Latest News, India News, Business, Cric=
+ket, Bollywood, Video &amp; Breaking News</td>
+</tr>
+<tr>
+<td height=3D"6" style=3D"height:6px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td class=3D"link_card_source" style=3D"margin:0px;padding:0px;font-family:=
+'Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antia=
+liased;-webkit-text-size-adjust:none;font-size:14px;line-height:18px;color:=
+#8899a6;">www.ndtv.com</td>
+</tr>
+<tr>
+<td height=3D"6" style=3D"height:6px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td class=3D"link_card_description" style=3D"margin:0px;padding:0px;font-fa=
+mily:'Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing:=
+antialiased;-webkit-text-size-adjust:none;font-size:14px;line-height:18px;c=
+olor:#292F33;">NDTV.com provides latest news, videos from India and the wor=
+ld. Get today=E2=80=99s news headlines from Business, Technology,...</td>
+</tr>
+<tr>
+<td height=3D"14" style=3D"height:14px;margin:0px;padding:0px;"></td>
+</tr>
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"left" widt=
+h=3D"100%" style=3D"margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td align=3D"center" class=3D"bulletproof-btn-white-1" style=3D"margin:0px;=
+padding:0px;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:=
+4px;line-height:18px;background-color:#ffffff;"> <a href=3D"https://t.co/re=
+direct?url=3Dhttp%3A%2F%2Fwww.ndtv.com%2F&amp;t=3D1&amp;cn=3DZmxleGlibGVfcm=
+Vjc18y&amp;sig=3D70cbf2e22226bb8ff6bbc74561da25a9f921bbf9&amp;iid=3D059b153=
+8bc5d4bf683e372c757925d94&amp;uid=3D763687302631596033&amp;nid=3D244+293802=
+000" target=3D"_blank" class=3D"bulletproof-btn-white-2 button-width-full" =
+style=3D"margin:0px;padding:0px;text-decoration:none;width:90%;font-size:12=
+px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#55acee=
+;text-decoration:none;-webkit-border-radius:4px;-moz-border-radius:4px;bord=
+er-radius:4px;padding:6px 18px;border:1px solid #55acee;display:inline-bloc=
+k;font-weight:bold;-webkit-font-smoothing:antialiased;white-space:nowrap;">
+<!--[if gte mso 11]>&nbsp; &nbsp; &nbsp;<![endif]--> Read more at www.ndtv.=
+com
+<!--[if gte mso 11]>&nbsp; &nbsp; &nbsp;<![endif]--> </a> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+<td width=3D"24" class=3D"module_margin_lr" style=3D"margin:0px;padding:0px=
+;width:24px;"></td>
+<!-- right margin -->
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td height=3D"24" class=3D"news_margin_bottom" style=3D"margin:0px;padding:=
+0px;height:24px;"></td>
+</tr>
+<!-- bottom margin -->
+</tbody>
+</table> </a></td>
+</tr>
+<tr>
+<td height=3D"20" class=3D"module_space" style=3D"margin:0px;padding:0px;he=
+ight:20px;"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<!-- content end -->
+<!-- footer start -->
+<tr>
+<td style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" st=
+yle=3D"width:100%;margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td height=3D"20" style=3D"height:20px;margin:0px;padding:0px;"> </td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"margin:0px;padding:0px;"> <span class=3D"foot=
+er_type" style=3D"padding:0px;margin:0px;font-family:'Helvetica Neue Light'=
+, Helvetica, Arial, sans-serif;-webkit-font-smoothing:antialiased;color:#88=
+99a6;font-size:12px;padding:0px;margin:0px;font-weight:normal;line-height:1=
+2px;"> <a href=3D"https://twitter.com/i/redirect?url=3Dhttps%3A%2F%2Ftwitte=
+r.com%2Fsettings%2Fnotifications&amp;t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&am=
+p;sig=3Dca09dd6ef8c257a09bc3571a00788d5465947f81&amp;iid=3D059b1538bc5d4bf6=
+83e372c757925d94&amp;uid=3D763687302631596033&amp;nid=3D244+1560" class=3D"=
+footer_link" style=3D"margin:0px;padding:0px;text-decoration:none;font-fami=
+ly:'Helvetica Neue Light', Helvetica, Arial, sans-serif;-webkit-font-smooth=
+ing:antialiased;-webkit-text-size-adjust:none;color:#55acee;font-size:12px;=
+padding:0px;margin:0px;font-weight:600;line-height:12px;"> Settings </a> &n=
+bsp;|&nbsp; <a href=3D"https://twitter.com/i/redirect?url=3Dhttps%3A%2F%2Fs=
+upport.twitter.com%2F&amp;t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp;sig=3D9e7=
+6603dbd7474d7fb476295e62927c5ab1f9460&amp;iid=3D059b1538bc5d4bf683e372c7579=
+25d94&amp;uid=3D763687302631596033&amp;nid=3D244+1561" class=3D"footer_link=
+" style=3D"margin:0px;padding:0px;text-decoration:none;font-family:'Helveti=
+ca Neue Light', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antiali=
+ased;-webkit-text-size-adjust:none;color:#55acee;font-size:12px;padding:0px=
+;margin:0px;font-weight:600;line-height:12px;"> Help </a> &nbsp;|&nbsp; <a =
+href=3D"https://twitter.com/i/u?t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp;sig=
+=3D1e2d84cd52370ebeba10fa09215158bba9588afa&amp;iid=3D059b1538bc5d4bf683e37=
+2c757925d94&amp;uid=3D763687302631596033&amp;nid=3D244+26&amp;usbid=3D9" cl=
+ass=3D"footer_link" style=3D"margin:0px;padding:0px;text-decoration:none;fo=
+nt-family:'Helvetica Neue Light', Helvetica, Arial, sans-serif;-webkit-font=
+-smoothing:antialiased;-webkit-text-size-adjust:none;color:#55acee;font-siz=
+e:12px;padding:0px;margin:0px;font-weight:600;line-height:12px;"> Unsubscri=
+be </a> </span> </td>
+</tr>
+<tr>
+<td height=3D"10" style=3D"height:10px;margin:0px;padding:0px;"> </td>
+</tr>
+<tr>
+<td align=3D"center" class=3D"footer_type" style=3D"margin:0px;padding:0px;=
+font-family:'Helvetica Neue Light', Helvetica, Arial, sans-serif;-webkit-fo=
+nt-smoothing:antialiased;color:#8899a6;font-size:12px;padding:0px;margin:0p=
+x;font-weight:normal;line-height:12px;">We sent this email to @social_simpl=
+ify </td>
+</tr>
+<tr>
+<td height=3D"7" style=3D"height:7px;margin:0px;padding:0px;"> </td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"margin:0px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" wi=
+dth=3D"100%" style=3D"margin:0px;padding:0px;">
+<tbody>
+<tr>
+<td class=3D"empty" width=3D"48" style=3D"margin:0px;padding:0px;font-size:=
+0px;line-height:1px;padding:0px;">&nbsp; </td>
+<td align=3D"center" style=3D"margin:0px;padding:0px;"> <span class=3D"addr=
+essLink" style=3D"font-family: 'Helvetica Neue Light', Helvetica, Arial, sa=
+ns-serif; -webkit-font-smoothing: antialiased; -webkit-text-size-adjust:non=
+e; font-size: 12px; padding: 0px; margin: 0px; font-weight: normal; line-he=
+ight: 16px; color: #8899A6;padding:0px;margin:0px;"> Twitter =EF=BB=BFInter=
+national =EF=BB=BFCompany<br />One&nbsp;Cumberland&nbsp;Place,&nbsp;Fenian&=
+nbsp;Street<br />Dublin&nbsp;2,&nbsp;D02&nbsp;AX07&nbsp;&nbsp;IRELAND
+<!--https://twitter.com/scribe/ibis?t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp=
+;iid=3D059b1538bc5d4bf683e372c757925d94&amp;uid=3D763687302631596033&amp;ni=
+d=3D244+20--> </span> </td>
+<td class=3D"empty" width=3D"48" style=3D"margin:0px;padding:0px;font-size:=
+0px;line-height:1px;padding:0px;">&nbsp; </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td height=3D"26" style=3D"height:26px;margin:0px;padding:0px;"> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<!-- footer end -->
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<div style=3D"white-space:nowrap; font:15px courier; color: #ffffff;" class=
+=3D"dashline" align=3D"center">
+------------------------------------------------
+</div>
+<!--https://twitter.com/scribe/ibis?t=3D1&amp;cn=3DZmxleGlibGVfcmVjc18y&amp=
+;iid=3D059b1538bc5d4bf683e372c757925d94&amp;uid=3D763687302631596033&amp;ni=
+d=3D244+20-->
+</body>
+</html>
+
+------=_Part_8620075_2056139745.1494766812182--

@@ -1,0 +1,132 @@
+Return-Path: <saransh808@gmail.com>
+Delivered-To: hr@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id +TYCKRqFEVnCNgcAwZeyeg
+	for <hr@simplifytrips.com>; Tue, 09 May 2017 02:00:10 -0700
+Return-path: <saransh808@gmail.com>
+Envelope-to: hr@simplifytrips.com
+Delivery-date: Tue, 09 May 2017 02:00:10 -0700
+Received: from mail-pf0-f170.google.com ([209.85.192.170]:35794)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.88)
+	(envelope-from <saransh808@gmail.com>)
+	id 1d8106-001ywa-KF
+	for hr@simplifytrips.com; Tue, 09 May 2017 02:00:10 -0700
+Received: by mail-pf0-f170.google.com with SMTP id v14so46203862pfd.2
+        for <hr@simplifytrips.com>; Tue, 09 May 2017 01:59:50 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=Kj8or0WKHVahmbcu/hf5RFsXjDxOOFnfhSgxN4rDCGU=;
+        b=oT1HX6Ru2OAnpIKWVAqZszgvL66dSQ+EbRoSnuzuiyAzq0TzfmYKKV8w0/Mq8OpmWz
+         hMx3rvQW+VZbsbwxqriN08gaQ8h82zuk1PfCUmEQ5vH7/BKuIKAY1aS3/vhS/ZrcMudR
+         Z0VfvtdxAjiwpWXadH3ujZgnyCdZwr4Xjfg7oOU//g8VC2AFrERVgphgan/brT3ylYCY
+         1YREqH1PlmMl/ofMBm0eiFfH9TCOWsw3E8XLUHoSxOMewd/PkTektH4E+JsrS0mcM64Q
+         MOe/hPrxxL1vJ52Zi+paoEbs55mGn7kPxnu7zMEOcRBCMKNEcv/cNsSHl43cuMxxkQkZ
+         8oOA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=Kj8or0WKHVahmbcu/hf5RFsXjDxOOFnfhSgxN4rDCGU=;
+        b=aECpThqq9y3gNUTsZeoiKB4xkLX/xu27Ah6ewvUwqsTbB0SvQCimEuYgDrFDoEdHp4
+         4ll03/hDvdI05r+sAceS6cmllXfaEt94WaZCn2nRqt9MwMxWpmUWQ4xxYgmLYLsGigGy
+         QRiP/LSZHih22tEmVs2F2xiykiNnqyV7hxJ0AgvmmXnynz3q9EDWbBQehOZHUsSLr2+i
+         W4XCCiaRpXaudQtHH/vMPXMTJu+5e9+qis/OUqUVNb85XMjbIkx+RZ65Nn81PFR19NeF
+         EhbSjvYtFBsbe+OftbDxtN/Jm97swTqaHLXrPxAFNFaXLSws1juRTPI6qpufA7yFTc2W
+         iLaQ==
+X-Gm-Message-State: AN3rC/7m5WtS1irMiS90fK/hfTFvS/oDa0s+7/FnFfwQCbMO9Q0X3PMk
+	sY0FzSeIio5kyqfNXaH/L/pbBwW8f/MIVnw=
+X-Received: by 10.84.239.8 with SMTP id w8mr89973347plk.73.1494320368291; Tue,
+ 09 May 2017 01:59:28 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.100.187.75 with HTTP; Tue, 9 May 2017 01:59:27 -0700 (PDT)
+In-Reply-To: <bb0f21bed6562fb30605a65472f4ce0c@simplifytrips.com>
+References: <bb0f21bed6562fb30605a65472f4ce0c@simplifytrips.com>
+From: Saransh Agarwal <saransh808@gmail.com>
+Date: Tue, 9 May 2017 14:29:27 +0530
+Message-ID: <CAH24YB_kbynZshhDpXH9afzAUAseuBQWFi73j2fwnxng5Ws1rA@mail.gmail.com>
+Subject: Re: Internship Acceptance Letter
+To: hr@simplifytrips.com
+Content-Type: multipart/alternative; boundary=f40304360492bb9764054f139296
+
+--f40304360492bb9764054f139296
+Content-Type: text/plain; charset=UTF-8
+
+Sir, I have received the e-mail stating that I have been shortlisted for
+the Internship at simplifytrips.com. I was so pleased to hear from you and
+would like to express my interest in the same.
+
+As per the Acceptance letter that I have received, I express my
+confirmation for joining from 5th June, 2017 at 10:30 hrs.
+
+I would like to request you that please assign me a role related to
+Computer Science Field as I belong to Computer Science and Engineering
+Department. Also, since my summer vacations are from 4th June, 2017 to 8th
+July, 2107. I would be able to work in the specified time period only.
+
+Looking forward to hear from you
+Saransh Agarwal
+
+
+On Fri, Apr 28, 2017 at 3:10 PM, <hr@simplifytrips.com> wrote:
+
+> Dear Saransh,
+>
+> As per the application received from your end and further telephonic
+> discussion held with you, we are pleased to inform you that you have been
+> shortlisted for internship program with us. Kindly find attached copy for
+> your reference.
+>
+> We would appreciate that you send your consent in joining with us on 05th
+> June 2017 at 10:30 hrs. You should reply to this mail mentioning the
+> receipt of this mail and your consent by 05th May 2017.
+>
+> For any other clarifications/queries you can revert.
+>
+>
+> WBR
+>
+> HR,
+> www.simplifytrips.com
+
+--f40304360492bb9764054f139296
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Sir, I have received the e-mail stating that I have been s=
+hortlisted for the Internship at <a href=3D"http://simplifytrips.com">simpl=
+ifytrips.com</a>. I was so pleased to hear from you and would like to expre=
+ss my interest in the same.<div><br></div><div>As per the Acceptance letter=
+ that I have received, I express my confirmation for joining from 5th June,=
+ 2017 at 10:30 hrs.</div><div><br></div><div>I would like to request you th=
+at please assign me a role related to Computer Science Field as I belong to=
+ Computer Science and Engineering Department. Also, since my summer vacatio=
+ns are from 4th June, 2017 to 8th July, 2107. I would be able to work in th=
+e specified time period only.</div><div><br></div><div>Looking forward to h=
+ear from you</div><div>Saransh Agarwal</div><div><br></div><div class=3D"gm=
+ail_extra"><br><div class=3D"gmail_quote">On Fri, Apr 28, 2017 at 3:10 PM, =
+ <span dir=3D"ltr">&lt;<a href=3D"mailto:hr@simplifytrips.com" target=3D"_b=
+lank">hr@simplifytrips.com</a>&gt;</span> wrote:<br><blockquote class=3D"gm=
+ail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-le=
+ft:1ex">Dear Saransh,<br>
+<br>
+As per the application received from your end and further telephonic discus=
+sion held with you, we are pleased to inform you that you have been shortli=
+sted for internship program with us. Kindly find attached copy for your ref=
+erence.<br>
+<br>
+We would appreciate that you send your consent in joining with us on 05th J=
+une 2017 at 10:30 hrs. You should reply to this mail mentioning the receipt=
+ of this mail and your consent by 05th May 2017.<br>
+<br>
+For any other clarifications/queries you can revert.<br>
+<br>
+<br>
+WBR<br>
+<br>
+HR,<br>
+<a href=3D"http://www.simplifytrips.com" rel=3D"noreferrer" target=3D"_blan=
+k">www.simplifytrips.com</a></blockquote></div><br></div></div>
+
+--f40304360492bb9764054f139296--

@@ -1,0 +1,51 @@
+Return-Path: <no-reply@getclicky.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id 2fqsDBY5+1jNdwMAwZeyeg
+	for <tushar@simplifytrips.com>; Sat, 22 Apr 2017 04:05:58 -0700
+Return-path: <no-reply@getclicky.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Sat, 22 Apr 2017 04:05:58 -0700
+Received: from helo.getclicky.com ([198.145.13.4]:37676)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <no-reply@getclicky.com>)
+	id 1d1srV-000xSu-Uh
+	for tushar@simplifytrips.com; Sat, 22 Apr 2017 04:05:58 -0700
+Received: from getclicky.com (unknown [10.0.0.2])
+	by helo.getclicky.com (Postfix) with ESMTP id 2840AB8FD
+	for <tushar@simplifytrips.com>; Sat, 22 Apr 2017 04:05:15 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=getclicky.com;
+	s=default.private; t=1492859115;
+	bh=UmLbbMlniLxRb/R7bPB2J3dxFTyFQXw6oiIXs+9+J/c=;
+	h=To:Subject:From:Reply-To:Date;
+	b=Nc932jUQ3iGqA1mkS62aKovFdV2oQqVZNSRojdCUWuACnoN8QvUpAlJm2Ki2bObYL
+	 WT7okZrEfbvhL3KF0D1znJr4QYuEsMRfxbK2IUQgrF2kSXfdGNiEKGhDjXDJ7UqyZY
+	 L401L7d8pESlpxdlGvLIbXOelZ661UFTIOjkjRrs=
+Received: by getclicky.com (Postfix, from userid 1000)
+	id 2530C101D4; Sat, 22 Apr 2017 04:05:15 -0700 (PDT)
+To: Tushar Choudhary <tushar@simplifytrips.com>
+Subject: Please verify your tracking code
+X-PHP-Originating-Script: 1000:functions.php
+From: Clicky <no-reply@getclicky.com>
+Reply-To: Clicky <no-reply@getclicky.com>
+Message-Id: <20170422110515.2530C101D4@getclicky.com>
+Date: Sat, 22 Apr 2017 04:05:15 -0700 (PDT)
+
+Hi Tushar,
+
+You are receiving this email because Clicky hasn't recorded any traffic since you registered your site 5 days ago. It appears that your tracking code is not installed correctly.
+
+We can help. Please visit the 'Tracking Code' page in your site preferences to ensure that you have correctly installed the code: http://clicky.com/stats/prefs-tracking-code?site_id=101039917&utm_campaign=email&utm_content=tracking+code+verify
+
+Once you have gone back through the instructions listed there, you may use our new 'Tracking Code Verification' tool as many times as you need to verify in real-time that your code is properly installed: http://clicky.com/stats/prefs-tracking-code-verify?site_id=101039917&utm_campaign=email&utm_content=tracking+code+verify
+
+If you are still experiencing problems with your tracking code, please get in touch: http://clicky.com/contact
+
+(In case you have multiple accounts, this message is in regards to username "Simplifytrips").
+
+
+-- Your friends at Clicky :)
+http://clicky.com
+
+Note: This is an automated message. Please do not reply, as this email address is not monitored. If you wish to contact us, please go to our contact page via the link above.

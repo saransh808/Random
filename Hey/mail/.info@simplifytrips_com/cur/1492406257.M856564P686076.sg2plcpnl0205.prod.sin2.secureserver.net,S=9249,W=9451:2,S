@@ -1,0 +1,202 @@
+Return-Path: <info@naukri.com>
+Delivered-To: info@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id MCnbL/FP9Fj8dwoAwZeyeg
+	for <info@simplifytrips.com>; Sun, 16 Apr 2017 22:17:37 -0700
+Return-path: <info@naukri.com>
+Envelope-to: info@simplifytrips.com
+Delivery-date: Sun, 16 Apr 2017 22:17:37 -0700
+Received: from nmail188.naukri.com ([180.179.180.188]:53979)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <info@naukri.com>)
+	id 1czz2f-002s6Q-MB
+	for info@simplifytrips.com; Sun, 16 Apr 2017 22:17:37 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=naukri.com; s=2015;
+	t=1492406216; bh=fi7IuC4fgkD/4EGFDcANmRUk3WZrIaaWgGQycVXaXiI=;
+	h=Date:Subject:From:Reply-To:To;
+	b=Xe+AXePHt3URjRaz5JINS9oPHice6lCFUa+bQF1UcCOFuP/shuSc6CEkclglkxlnd
+	 7g6jgQoeB//A+JmWNrZHTmiMZ6lTxJ5sv0n70NOuoZhoRs8zgXdPnW+whJM78QVCY5
+	 WrFHEynL1o57OQuSqjmHvVVVz5q5aGvOqSpKH0lw=
+Received: from [172.10.122.51] ([172.10.122.51:22703] helo=naukri.com)
+	by nplimla13.ieil.net (envelope-from <info@naukri.com>)
+	(ecelerity 3.6.13.50539 r(Core:3.6.13.0)) with ESMTP
+	id 5E/01-35677-8CF44F85; Mon, 17 Apr 2017 10:46:56 +0530
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=naukri.com; s=2015;
+	t=1492406215; bh=fi7IuC4fgkD/4EGFDcANmRUk3WZrIaaWgGQycVXaXiI=;
+	h=Date:Subject:From:Reply-To:To;
+	b=fQ5rsZlk/tzh+GEZTJco6J5pYTi91qjXtJ3NaTKUg6DiIj7ELoC5nnnVz+Lh9e3Vf
+	 Gt+9qVqxNl67xdnBMqOV/Hze61EgKS0iLq3JojWpTQepHwf3sEKY+H1PDgR4sUugO5
+	 +C06XGuPLB1ZGvwoICeOKHR3hzOLIXT2BWnLvGOI=
+Received: from [172.10.113.106] ([172.10.113.106:60692] helo=recruit.naukri.com)
+	by n5plimla01.ieil.net (envelope-from <info@naukri.com>)
+	(ecelerity 3.6.13.50539 r(Core:3.6.13.0)) with ESMTP
+	id B2/16-45714-7CF44F85; Mon, 17 Apr 2017 10:46:55 +0530
+Message-ID: <de83e77b9d9f1a2112b5e0c3de90d892@recruit.naukri.com>
+Date: Mon, 17 Apr 2017 10:46:55 +0530
+Subject: Sub-User Password Change Alert
+From: "Naukri.com" <info@naukri.com>
+Reply-To: modify@naukri.com
+To: info@simplifytrips.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1" />
+<title>Sub-User Password Change Alert</title>
+</head>
+<body>
+
+
+<!-- NEW CODE -->
+
+<!-- LATEST CODE -->
+<table width=3D"600" border=3D"0" align=3D"center" cellpadding=3D"0" cellsp=
+acing=3D"0" style=3D"text-align:left;">
+<tr>
+<td height=3D"74" valign=3D"bottom" bgcolor=3D"#065688"><table width=3D"592=
+" border=3D"0" align=3D"left" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td width=3D"375" height=3D"61"><table width=3D"350" border=3D"0" align=3D"=
+center" cellpadding=3D"0" cellspacing=3D"0" style=3D"text-align:left;">
+<tr>
+<td><font face=3D"Verdana, Arial, Helvetica" color=3D"#FFFFFF" size=3D"2"><=
+strong>Sub-User Password Change Alert</strong></font></td>
+</tr>
+</table></td>
+<td width=3D"217" align=3D"center" valign=3D"middle" bgcolor=3D"#FDFDFD"><t=
+able width=3D"175" border=3D"0" align=3D"center" cellpadding=3D"0" cellspac=
+ing=3D"0">
+<tr>
+<td width=3D"24"><a href=3D"http://www.naukri.com/" target=3D"_blank"><img =
+src=3D"https://static.naukimg.com/rstatic/images/logo_curve_new.gif" alt=3D=
+"Naukri.com" width=3D"22" height=3D"27" border=3D"0"></a></td>
+<td width=3D"167" align=3D"center" valign=3D"top" style=3D"line-height:19px=
+; padding-top:8px;"><a href=3D"http://www.naukri.com/" target=3D"_blank" st=
+yle=3D"text-decoration:none; font-family:Verdana, Arial;"><strong><span sty=
+le=3D"font-size:24px; color:#01abef;">naukri<span style=3D"color:#ec1822;">=
+.</span><span style=3D"color:#006cb7;">com</span></span></strong></a><br>
+<a href=3D"http://www.naukri.com/" target=3D"_blank" style=3D"text-decorati=
+on:none;"><span style=3D"font-family:Verdana, Arial, sans-serif; font-size:=
+9px; color:#3d3d3d; text-align:right;"> &nbsp; &nbsp; &nbsp; &nbsp; India's=
+ No.1 Job Site </span></a></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+<tr><td height=3D"22"></td></tr>
+<tr>
+<td><table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td width=3D"14"></td>
+<td style=3D"font-size:11px; text-align:justify; line-height:17px;"><font f=
+ace=3D"Verdana, Arial, Helvetica" color=3D"#262626"><strong>Dear User,</str=
+ong><br>
+<br>
+Please note that the sub-user registered with Email ID hr@simplifytrips.com=
+ &amp; Username hr@simplifytrips.com has either changed or retrieved the pa=
+ssword from IP 2405:204:1208:ecef:199d:ee31:ead:b891
+.<br>
+<br>
+As the Super-user for this account, please ensure that only an authorized p=
+erson has accessed the account and made the changes. If you or your Sub-use=
+r did not authorize this change, please immediately notify our customer sup=
+port or call us at our Recruiter Helpline number given below.<br>
+<br>
+To change the Email ID and rights of this Sub-user, <a href=3D"https://recr=
+uit.naukri.com/company/subuser" target=3D"_blank" style=3D"color:#006eb3;">=
+Click Here</a>.<br>
+<br>
+If you do not wish to receive this Email Alert, please deactivate the Email=
+ Alert option under the 'Administration' section of your account.</font></t=
+d>
+<td width=3D"14"></td>
+</tr>
+<tr><td></td><td height=3D"22"></td><td></td></tr>
+                                                                           =
+                                                                           =
+                                                                           =
+                                             <tr>
+<td></td>
+<td valign=3D"top" style=3D"font-size:11px; line-height:17px;"><font face=
+=3D"Verdana, Arial, Helvetica" color=3D"#262626">Regards<br>
+<strong><span style=3D"color:#189BD6;">Naukri</span><span style=3D"color:#D=
+F292A;">.</span><span style=3D"color:#1169AC;">com</span></strong> Team</fo=
+nt></td>
+<td></td>
+</tr>
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                          </table></td>
+</tr>
+<tr><td height=3D"22"></td></tr>
+<tr>
+<td><table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td height=3D"40" bgcolor=3D"#F8F7F7"><table width=3D"179" border=3D"0" ali=
+gn=3D"center" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td height=3D"34" align=3D"center" bgcolor=3D"#FFFFFF"><font face=3D"Verdan=
+a, Arial" color=3D"#4f6c80" size=3D"2"><strong>You can reach us at</strong>=
+</font></td>
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                     </tr>
+</table></td>
+<tr>
+<td bgcolor=3D"#f8f8f8" style=3D"border-bottom:solid 4px #ebeaea;"><table w=
+idth=3D"500" border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D=
+"0">
+<tr><td></td><td></td><td height=3D"10"></td></tr>
+<tr>
+<td align=3D"center"><img src=3D"https://static.naukimg.com/rstatic/images/=
+call_icon.gif" width=3D"54" height=3D"54"></td>
+<td align=3D"center"><a href=3D"mailto:support@naukri.com"><img src=3D"http=
+s://static.naukimg.com/rstatic/images/mail_icom.gif" width=3D"54" height=3D=
+"54" border=3D"0"></a></td>
+<td align=3D"center"><a href=3D"http://www.naukri.com/mynaukri/mn_contactus=
+.php"><img src=3D"https://static.naukimg.com/rstatic/images/branch_icon.gif=
+" alt=3D"Our Branches" width=3D"54" height=3D"54" border=3D"0"></a></td>
+</tr>
+<tr><td height=3D"10" colspan=3D"3"></td></tr>
+<tr>
+<td align=3D"center" style=3D"font-size:10px;"><font face=3D"Verdana, Arial=
+" color=3D"#373737"><strong>1800-102-5558</strong></font></td>
+<td align=3D"center" style=3D"font-size:10px;"><font face=3D"Verdana, Arial=
+" color=3D"#373737"><strong><a href=3D"mailto:support@naukri.com" style=3D"=
+color:#373737; text-decoration:none;">support@naukri.com</a></strong></font=
+></td>
+<td align=3D"center" style=3D"font-size:10px;"><font face=3D"Verdana, Arial=
+" color=3D"#373737"><strong>Our Branches</strong></font></td>
+</tr>
+<tr><td></td><td></td><td height=3D"10"></td></tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+<tr><td height=3D"15"></td></tr>
+<tr>
+<td height=3D"30" align=3D"center"><a href=3D"http://w5.naukri.com/fdbck/ma=
+in/feedback.php?app_id=3D18" target=3D"_blank" style=3D"color:#006eb3; font=
+-size:10px; font-family:Verdana, Arial;">Report a problem</a></td>
+</tr>
+<tr>
+<td height=3D"30" align=3D"center"><font face=3D"Verdana, Arial" color=3D"#=
+888888" size=3D"1">This is a Computer-generated email, please do not reply =
+to this message.</font></td>
+</tr>
+<tr><td height=3D"16"></td></tr>
+</table>
+</body>
+</html>

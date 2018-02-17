@@ -1,0 +1,658 @@
+Return-Path: <bounce-mc.us10_40983869.1127741-tushar=simplifytrips.com@mail150.suw14.mcdlv.net>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id iT0PJuxaJVn4lQYAwZeyeg
+	for <tushar@simplifytrips.com>; Wed, 24 May 2017 03:05:32 -0700
+Return-path: <bounce-mc.us10_40983869.1127741-tushar=simplifytrips.com@mail150.suw14.mcdlv.net>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Wed, 24 May 2017 03:05:32 -0700
+Received: from mail150.suw14.mcdlv.net ([198.2.183.150]:19468)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtp (Exim 4.88)
+	(envelope-from <bounce-mc.us10_40983869.1127741-tushar=simplifytrips.com@mail150.suw14.mcdlv.net>)
+	id 1dDTAa-001sBT-2Z
+	for tushar@simplifytrips.com; Wed, 24 May 2017 03:05:32 -0700
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail150.suw14.mcdlv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:Sender:
+ Content-Type:MIME-Version; i=stun=3Dvihara.asia@mail150.suw14.mcdlv.net;
+ bh=HCvAystyioNWoRLUpxd2PKvBnBw=;
+ b=KQtWzuzOW/CS4EEK/803QcHD7ZV7+bTK3McDQ0s/TSu+6sl71L/mhAKFHYuK9+WvdBhlEG8el2bU
+   wjbz0EStVpQwXVyyowHehkEJaXCnoKVjX+TgLbLzCZjezED3RL3Z0ZMA9Pqgkbki1A8etXagNkTd
+   NoeJgfwK3qgQANv+SPc=
+Received: from (127.0.0.1) by mail150.suw14.mcdlv.net id h4ldeo2akec5 for <tushar@simplifytrips.com>; Wed, 24 May 2017 10:04:50 +0000 (envelope-from <bounce-mc.us10_40983869.1127741-tushar=simplifytrips.com@mail150.suw14.mcdlv.net>)
+Subject: =?utf-8?Q?Participate=20in=2072=20hour=20Online=20UX=20hack=2Da=2Dthon?=
+From: =?utf-8?Q?Startup=20Tunnel?= <stun@vihara.asia>
+Reply-To: =?utf-8?Q?Startup=20Tunnel?= <stun@vihara.asia>
+To: <tushar@simplifytrips.com>
+Date: Wed, 24 May 2017 10:04:50 +0000
+Message-ID: <0e9f85c730c897ce28226f029.65b5b657ca.20170524100431.4d04676055.0a264bdb@mail150.suw14.mcdlv.net>
+X-Mailer: MailChimp Mailer - **CID4d0467605565b5b657ca**
+X-Campaign: mailchimp0e9f85c730c897ce28226f029.4d04676055
+X-campaignid: mailchimp0e9f85c730c897ce28226f029.4d04676055
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=0e9f85c730c897ce28226f029&id=4d04676055&e=65b5b657ca
+X-MC-User: 0e9f85c730c897ce28226f029
+Feedback-ID: 40983869:40983869.1127741:us10:mc
+List-ID: 0e9f85c730c897ce28226f029mc list <0e9f85c730c897ce28226f029.296525.list-id.mcsv.net>
+X-Accounttype: ff
+List-Unsubscribe: <http://adianta.us10.list-manage.com/unsubscribe?u=0e9f85c730c897ce28226f029&id=09a28b6c0e&e=65b5b657ca&c=4d04676055>, <mailto:unsubscribe-mc.us10_0e9f85c730c897ce28226f029.4d04676055-65b5b657ca@mailin1.us2.mcsv.net?subject=unsubscribe>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Sender: "Startup Tunnel" <stun=vihara.asia@mail150.suw14.mcdlv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_1205333373"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_1205333373
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+http://adianta.us10.list-manage1.com/track/click?u=3D0e9f85c730c897ce28226=
+f029&id=3D9d546ac966&e=3D65b5b657ca http://adianta.us10.list-manage.=
+com/track/click?u=3D0e9f85c730c897ce28226f029&id=3D4136ad513f&e=3D=
+65b5b657ca
+
+
+** presents
+
+72 Hours Online UX Hack-a-Thon
+9 June' 2017 - 11 June' 2017
+
+------------------------------------------------------------
+UX (User Experience design) is fundamental to everything that we build tod=
+ay including successful websites. 72 Hour online UX hack-a-thon is a one o=
+f its kind event=2C to bring forth the top notch ideas and talent in this=
+ industry.
+
+The Online hack-a-thon will bring together startups and participants on a=
+ single platform.
+
+As a startup -
+* Post your request and get up-to 10 best solutions for your evaluation.
+* Get visibility in the ecosystem including an opportunity to get your nam=
+e in BW Disrupt as part of post event coverage.
+* Get potential talent
+
+As a participant -
+* Showcase your product management and UX skills by providing quick soluti=
+ons.
+* Get opportunity to interview with startups for any open roles.
+* We have also bundled rewards from our partners like Upgrad=2C Unboxed Co=
+working and also get shoutout by our Media and Ecosystem partners.
+
+View details & Register (http://adianta.us10.list-manage.com/track/click?u=
+=3D0e9f85c730c897ce28226f029&id=3D84599c5721&e=3D65b5b657ca)
+
+------------------------------------------------------------
+
+Event Partners
+
+http://adianta.us10.list-manage.com/track/click?u=3D0e9f85c730c897ce28226f=
+029&id=3D372d8ffbdb&e=3D65b5b657ca http://adianta.us10.list-manage2.=
+com/track/click?u=3D0e9f85c730c897ce28226f029&id=3D8d9d224699&e=3D=
+65b5b657ca http://adianta.us10.list-manage.com/track/click?u=3D0e9f85c730c89=
+7ce28226f029&id=3D5141ebccc5&e=3D65b5b657ca http://adianta.us10.list=
+-manage2.com/track/click?u=3D0e9f85c730c897ce28226f029&id=3D243408b397&e=
+=3D65b5b657ca http://adianta.us10.list-manage.com/track/click?u=3D0e=
+9f85c730c897ce28226f029&id=3Db84254abbc&e=3D65b5b657ca
+
+This email was sent to tushar@simplifytrips.com (mailto:tushar@simplifytrips.com)
+why did I get this? (http://adianta.us10.list-manage.com/about?u=3D0e9f85c=
+730c897ce28226f029&id=3D09a28b6c0e&e=3D65b5b657ca&c=3D4d04676055)     unsubs=
+cribe from this list (http://adianta.us10.list-manage.com/unsubscribe?u=3D=
+0e9f85c730c897ce28226f029&id=3D09a28b6c0e&e=3D65b5b657ca&c=3D4d04676055)   =
+  update subscription preferences (http://adianta.us10.list-manage.com/pro=
+file?u=3D0e9f85c730c897ce28226f029&id=3D09a28b6c0e&e=3D65b5b657ca)
+Startup Tunnel . D-57=2C 100 foot road . Chattarpur enclave . Delhi 110074=
+ . India
+
+Email Marketing Powered by MailChimp
+http://www.mailchimp.com/monkey-rewards/?utm_source=3Dfreemium_newsletter&=
+utm_medium=3Demail&utm_campaign=3Dmonkey_rewards&aid=3D0e9f85c730c897ce282=
+26f029&afl=3D1
+--_----------=_MCPart_1205333373
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<!-- If you delete this meta tag=2C Half Life 3 will never be released. --=
+>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width">
+
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+<title>UX Hack-a-thon </title>
+
+<style type=3D"text/css">
+
+/* -------------------------------------
+      GLOBAL
+------------------------------------- */
+* {
+  margin:0;
+  padding:0;
+}
+* { font-family: "proxima-nova" "Helvetica Neue"=2C "Helvetica"=2C Helveti=
+ca=2C Arial=2C sans-serif; }
+
+img {
+  max-width: 100%;
+}
+=2Ecollapse {
+  margin:0;
+  padding:0;
+}
+body {
+  -webkit-font-smoothing:antialiased;
+  -webkit-text-size-adjust:none;
+  width: 100%!important;
+  height: 100%;
+  font-size:18px;
+  line-height:1.6;
+  color: black;
+  background-color: #fff;
+}
+
+
+/* -------------------------------------
+    ELEMENTS
+------------------------------------- */
+a { color: #29B2E6;}
+
+=2Ebtn {
+  text-decoration:none;
+  color: #FFF;
+  background-color: #29B2E6;
+  padding:10px 16px;
+  font-weight:bold;
+  margin-right:10px;
+  text-align:center;
+  cursor:pointer;
+  display: inline-block;
+}
+
+p.callout {
+  padding:15px;
+  background-color:#DEDFE1;
+  margin-bottom: 25px;
+  color: #8C8D8F;
+  text-align: center;
+}
+
+p.caption {
+  color: #979797;
+  font-size: 13px;
+  margin-top: 10px;
+}
+
+p.footer {
+  color: #979797;
+  font-size: 13px;
+  text-align: left;
+}
+
+hr.footer {
+  border: 0;
+  color: #D1D1D1;
+  background-color: #D1D1D1;
+  height: 3px;
+  margin-bottom: 10px;
+}
+
+=2Ebutton {
+  background: #29B2E6;
+  padding-top: 6px;
+  padding-right: 40px;
+  padding-bottom: 6px;
+  padding-left: 40px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+  font-family: Helvetica=2C Arial=2C sans-serif;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+/*table.social {*/
+/*  padding:15px; */
+
+
+/*}*/
+=2Esocial .soc-btn {
+  padding: 3px 7px;
+  font-size:12px;
+  margin-bottom:10px;
+  text-decoration:none;
+  color: #FFF;font-weight:bold;
+  display:block;
+  text-align:center;
+}
+a.fb { background-color: #3B5998!important; }
+a.tw { background-color: #1daced!important; }
+a.gp { background-color: #DB4A39!important; }
+a.ms { background-color: #000!important; }
+
+=2Esidebar .soc-btn {
+  display:block;
+  width:100%;
+}
+
+a.social-icon {
+=09width: 28px;
+=09height: 28px;
+=09display: block;
+=09background-position: 0 0;
+=09background-repeat: no-repeat;
+=09transition: all 0.3s ease-in-out;
+}
+
+=2Erounded-x{
+    border-radius: 50% !important;
+}
+
+=2Esocial_facebook {background: url(https://s3-us-west-2.amazonaws.com/uxhac=
+kuser/Video/facebook.png) no-repeat;}
+/* -------------------------------------
+    HEADER
+------------------------------------- */
+table.head-wrap { width: 100%;}
+
+=2Eheader.container table td.logo { padding: 15px; }
+=2Eheader.container table td.label { padding: 15px; padding-left:0px;}
+
+
+/* -------------------------------------
+    BODY
+------------------------------------- */
+table.body-wrap { width: 100%;}
+
+
+/* -------------------------------------
+    FOOTER
+------------------------------------- */
+table.footer-wrap { width: 100%;  clear:both!important;
+}
+=2Efooter-wrap .container td.content  p { border-top: 1px solid rgb(215=2C21=
+5=2C215); padding-top:15px;}
+=2Efooter-wrap .container td.content p {
+  font-size:10px;
+  font-weight: bold;
+
+}
+
+
+/* -------------------------------------
+    TYPOGRAPHY
+------------------------------------- */
+h1=2Ch2=2Ch3=2Ch4=2Ch5=2Ch6 {
+font-family: "proxima-nova"=2C "HelveticaNeue-Light"=2C "Helvetica Neue Li=
+ght"=2C "Helvetica Neue"=2C Helvetica=2C Arial=2C "Lucida Grande"=2C sans-=
+serif; line-height: 1.4; margin-bottom:25px; color:#30373D;
+}
+h1 small=2C h2 small=2C h3 small=2C h4 small=2C h5 small=2C h6 small { fon=
+t-size: 60%; color: #6f6f6f; line-height: 0; text-transform: none; }
+
+h1 { font-weight:500; font-size: 44px;}
+h2 { font-weight:500; font-size: 30px;}
+h3 { font-weight:500; font-size: 27px;}
+h4 { font-weight:500; font-size: 23px;}
+h5 { font-weight:900; font-size: 17px;}
+h6 { font-weight:900; font-size: 14px; text-transform: uppercase; color:#4=
+44;}
+
+=2Ecollapse { margin:0!important;}
+
+p=2C ul=2C ol {
+  margin-bottom: 30px;
+  font-weight: normal;
+  color: #30373D;
+  font-size:18px;
+  line-height:1.6;
+}
+p.lead { font-size:22px; }
+p.last { margin-bottom:0px;}
+
+ul li {
+  margin-left:24px;
+  list-style-position: inside;
+  margin-bottom: 14px;
+}
+
+ol li {
+  margin-left:32px;
+  list-style-position: outside;
+  margin-bottom: 14px;
+}
+
+blockquote {
+  margin: 30px 0;
+  border: 4px solid #F6F6F6;
+  padding: 10px;
+}
+
+blockquote p{
+  color: #33373b;
+  font-weight: 200;
+  line-height: 26px;
+  font-size: 18px;
+  margin: 0;
+}
+
+cite {
+  display: block;
+}
+
+=2Esmall { font-size: 12px; }
+=2Egrey { color: #8C8D8F;}
+
+
+/* ---------------------------------------------------
+    RESPONSIVENESS
+    Nuke it from orbit. It's the only way to be sure.
+------------------------------------------------------ */
+
+/* Set a max-width=2C and make it display as block so it will automaticall=
+y stretch to that width=2C but will also shrink down on a phone or somethi=
+ng */
+=2Econtainer {
+  display:block!important;
+  max-width:600px!important;
+  margin:0 auto!important; /* makes it centered */
+  clear:both!important;
+}
+
+/* This should also be a block element=2C so that it will fill 100% of the=
+ .container */
+=2Econtent {
+  padding:15px;
+  max-width:600px;
+  margin:0 auto;
+  display:block;
+}
+
+/* Let's make sure tables in the content area are 100% wide */
+=2Econtent table { width: 100%; }
+
+
+/* Odds and ends */
+=2Ecolumn {
+  width: 300px;
+  float:left;
+}
+=2Ecolumn tr td { padding: 15px; }
+=2Ecolumn-wrap {
+  padding:0!important;
+  margin:0 auto;
+  max-width:600px!important;
+}
+=2Ecolumn table { width:100%;}
+=2Esocial .column {
+  width: 280px;
+  min-width: 279px;
+  float:left;
+}
+
+/* Be sure to place a .clear element after each set of columns=2C just to=
+ be safe */
+=2Eclear { display: block; clear: both; }
+
+
+/* -------------------------------------------
+    PHONE
+    For clients that support media queries.
+    Nothing fancy.
+-------------------------------------------- */
+@media only screen and (max-width: 600px) {
+
+  a[class=3D"btn"] { display:block!important; margin-bottom:10px!importan=
+t; background-image:none!important; margin-right:0!important;}
+
+  div[class=3D"column"] { width: auto!important; float:none!important;}
+
+  table.social div[class=3D"column"] {
+    width:auto!important;
+  }
+}
+
+    @media (max-width: 800px){
+        .image {
+            display: none;
+        }
+
+        .image1 {
+            display: block;
+        }
+    }
+
+    @media (min-width: 801px){
+        .image {
+            display: block;
+        }
+
+        .image1 {
+            display: none;
+        }
+    }
+</style>
+
+
+<link rel=3D"stylesheet" href=3D"https://maxcdn.bootstrapcdn.com/font-awes=
+ome/4.4.0/css/font-awesome.min.css"> <!-- Font-Awesome. Version: 4.4.0 -->
+</head>
+
+<body>
+
+<!-- HEADER -->
+<table class=3D"head-wrap">
+  <tr>
+    <td></td>
+    <td class=3D"header container">
+
+        <div class=3D"content">
+        <table style=3D"padding:16px">
+          <tr>
+            <td style=3D"text-align:center"><a href=3D"http://adianta.us10=
+=2Elist-manage.com/track/click?u=3D0e9f85c730c897ce28226f029&id=3D108245d873=
+&e=3D65b5b657ca" target=3D"_blank"><img src=3D"http://uxhack.co/static/Ha=
+cks/images/UX%20Hack-logo-bold-v2.png" height=3D"50px" width=3D"150px" sty=
+le=3D"text-align:center" alt=3D"UX Hack"></a></td>
+            <td style=3D"text-align:center"><a href=3D"http://adianta.us10=
+=2Elist-manage1.com/track/click?u=3D0e9f85c730c897ce28226f029&id=3Dae028039a=
+6&e=3D65b5b657ca" target=3D"_blank"><img src=3D"https://static1.squarespa=
+ce.com/static/55c8a75ae4b0ea0e04225563/t/5899bf1d725e25f6562e8dfa/14864709=
+42413/Logo-+Unboxed.jpg?format=3D750w" height=3D"50px" width=3D"150px" sty=
+le=3D"text-align:center" alt=3D"Unboxed coworking"></a></td>
+          </tr>
+
+        </table>
+        </div>
+
+    </td>
+    <td></td>
+  </tr>
+</table><!-- /HEADER -->
+
+
+<!-- BODY -->
+<table class=3D"body-wrap">
+  <tr>
+    <td></td>
+    <td class=3D"container">
+
+      <div class=3D"content">
+      <table bgcolor=3D"#FFFFFF" style=3D"margin: 20px 20px 20px 20px">
+        <tr>
+          <td>
+             <h2 style=3D"text-align:center">
+presents<br><br>
+<b>72 Hours Online UX Hack-a-Thon</b><br>9 June' 2017 - 11 June' 2017<img=
+ alt=3D""><img alt=3D"" src=3D"http://userimg.customeriomail.com/uLPg4untT=
+neMGLtEhJen_idea-BJ_EMvtl-.png" title=3D"Image: http://userimg.customeriom=
+ail.com/uLPg4untTneMGLtEhJen_idea-BJ_EMvtl-.png"><br>
+</h2>
+
+<div style=3D"text-align:left;font-size: 18px">
+UX (User Experience design) is fundamental to everything that we build tod=
+ay including successful websites. 72 Hour online UX hack-a-thon is a one o=
+f its kind event=2C to bring forth the top notch ideas and talent in this=
+ industry. <br><br>
+
+The Online hack-a-thon will bring together startups and participants on a=
+ single platform.&nbsp;<br><br>As a startup -<br><ul><li>Post your request=
+ and get up-to 10 best solutions for your evaluation.</li><li>Get visibili=
+ty in the ecosystem including an opportunity to get your name in BW Disrup=
+t as part of post event coverage.</li><li>Get potential talent</li></ul>As=
+ a participant -<br><ul><li>Showcase your product management and UX skills=
+ by providing quick solutions.</li><li>Get opportunity to interview with s=
+tartups for any open roles.</li><li>We have also bundled rewards from our=
+ partners like Upgrad=2C Unboxed Coworking and also get shoutout by our Me=
+dia and Ecosystem partners.</li></ul><br><br></div>
+
+
+          </td>
+        </tr>
+         <tr style=3D"text-align:center">
+          <td>
+             <a href=3D"http://adianta.us10.list-manage.com/track/click?u=
+=3D0e9f85c730c897ce28226f029&id=3D2f03c8e0ef&e=3D65b5b657ca" target=3D"_b=
+lank" class=3D"button" style=3D"color:#fff;background-color: black">View d=
+etails & Register</a>
+          </td>
+        </tr>
+      </table>
+      </div><!-- /content -->
+
+    </td>
+    <td></td>
+  </tr>
+</table><!-- /BODY -->
+<hr>
+<!-- FOOTER -->
+<table class=3D"footer-wrap">
+  <tr>
+    <td></td>
+    <td class=3D"container">
+
+        <!-- content -->
+         <div class=3D"content">
+        <table class=3D"social">
+
+        <tr>
+
+          <td style=3D"text-align:center">
+              <span style=3D"text-align:center"><strong><em>Event Partners=
+</em></strong></span><br><br>
+             <a href=3D"http://adianta.us10.list-manage.com/track/click?u=
+=3D0e9f85c730c897ce28226f029&id=3D56fbbbff92&e=3D65b5b657ca" target=3D"_b=
+lank"><img src=3D"https://d4nkomjewj4zw.cloudfront.net/Events/BW+Disrupt+L=
+ogo+2017-01.jpg" width=3D"auto" height=3D"50px" alt=3D"BW Disrupt"></a>
+             <a href=3D"http://adianta.us10.list-manage2.com/track/click?u=
+=3D0e9f85c730c897ce28226f029&id=3D65bfd23b57&e=3D65b5b657ca" target=3D"_b=
+lank"><img src=3D"https://d4nkomjewj4zw.cloudfront.net/Events/startupindia=
+=2Epng" width=3D"auto" height=3D"50px" alt=3D"Startup Delhi"></a>
+             <a href=3D"http://adianta.us10.list-manage.com/track/click?u=
+=3D0e9f85c730c897ce28226f029&id=3D0ba5525a8a&e=3D65b5b657ca" target=3D"_b=
+lank"><img src=3D"https://d4nkomjewj4zw.cloudfront.net/Events/UpGrad Logo=
+ PNG-01.png" width=3D"auto" height=3D"50px" alt=3D"UpGrad"></a>
+             <a href=3D"http://adianta.us10.list-manage.com/track/click?u=
+=3D0e9f85c730c897ce28226f029&id=3D9aa08d06a0&e=3D65b5b657ca" target=3D"_b=
+lank"><img src=3D"https://d4nkomjewj4zw.cloudfront.net/Events/Noida_Logo_S=
+quare_white.png" width=3D"auto" height=3D"50px" alt=3D"Startup Grind Noida=
+"></a>
+             <a href=3D"http://adianta.us10.list-manage.com/track/click?u=
+=3D0e9f85c730c897ce28226f029&id=3D9baaafd1e5&e=3D65b5b657ca" target=3D"_b=
+lank"><img src=3D"https://d4nkomjewj4zw.cloudfront.net/Events/startuptunne=
+l.png" width=3D"auto" height=3D"50px" alt=3D"Startup Tunnel"></a>
+
+          </td>
+        </tr>
+      </table>
+        </div><!-- /content
+        <div class=3D"content">
+        <table>
+        <tr>
+          <td>
+             <span style=3D"text-align:center"> &copy; 2017 UX Hack. All r=
+ights reserved.</span>
+            <p class=3D"footer">
+              Don't want to receive emails from us? <a class=3D"untracked"=
+ href=3D"{% unsubscribe_url %}"><unsubscribe>Unsubscribe</unsubscribe></a>
+            </p>
+          </td>
+        </tr>
+      </table>
+        </div><!-- /content -->
+
+    </td>
+
+  </tr>
+</table><!-- /FOOTER -->
+
+            <center>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" id=3D"canspamBarWrapper" style=3D"background-color:#FFFFFF; b=
+order-top:1px solid #E5E5E5;">
+                    <tr>
+                        <td align=3D"center" valign=3D"top" style=3D"paddi=
+ng-top:20px; padding-bottom:20px;">
+                            <table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" id=3D"canspamBar">
+                                <tr>
+                                    <td align=3D"center" valign=3D"top" st=
+yle=3D"color:#606060; font-family:Helvetica=2C Arial=2C sans-serif; font-s=
+ize:11px; line-height:150%; padding-right:20px; padding-bottom:5px; paddin=
+g-left:20px; text-align:center;">
+                                        This email was sent to <a href=3D"=
+mailto:tushar@simplifytrips.com" target=3D"_blank" style=3D"color:#404040 !importa=
+nt;">tushar@simplifytrips.com</a>
+                                        <br>
+                                        <a href=3D"http://adianta.us10.lis=
+t-manage.com/about?u=3D0e9f85c730c897ce28226f029&id=3D09a28b6c0e&e=3D=
+65b5b657ca&c=3D4d04676055" target=3D"_blank" style=3D"color:#404040 !important;">=
+<em>why did I get this?</em></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D"http://=
+adianta.us10.list-manage.com/unsubscribe?u=3D0e9f85c730c897ce28226f029&id=
+=3D09a28b6c0e&e=3D65b5b657ca&c=3D4d04676055" style=3D"color:#404040 !importa=
+nt;">unsubscribe from this list</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=3D"http=
+://adianta.us10.list-manage.com/profile?u=3D0e9f85c730c897ce28226f029&id=
+=3D09a28b6c0e&e=3D65b5b657ca" style=3D"color:#404040 !important;">update sub=
+scription preferences</a>
+                                        <br>
+                                        Startup Tunnel &middot; D-57=2C 10=
+0 foot road &middot; Chattarpur enclave &middot; Delhi 110074 &middot; Ind=
+ia
+                                        <br>
+                                        <br>
+                                        <a href=3D"http://www.mailchimp.co=
+m/monkey-rewards/?utm_source=3Dfreemium_newsletter&utm_medium=3Demail&utm_=
+campaign=3Dmonkey_rewards&aid=3D0e9f85c730c897ce28226f029&afl=3D1"><img sr=
+c=3D"https://cdn-images.mailchimp.com/monkey_rewards/MC_MonkeyReward_15.pn=
+g" border=3D"0" alt=3D"Email Marketing Powered by MailChimp" title=3D"Mail=
+Chimp Email Marketing" width=3D"139" height=3D"54"></a>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <style type=3D"text/css">
+                    @media only screen and (max-width: 480px){
+                        table#canspamBar td{font-size:14px !important;}
+                        table#canspamBar td a{display:block !important; ma=
+rgin-top:10px !important;}
+                    }
+                </style>
+            </center><img src=3D"http://adianta.us10.list-manage.com/track=
+/open.php?u=3D0e9f85c730c897ce28226f029&id=3D4d04676055&e=3D65b5b657ca" h=
+eight=3D"1" width=3D"1"></body>
+</html>
+--_----------=_MCPart_1205333373--

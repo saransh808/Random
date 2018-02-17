@@ -1,0 +1,420 @@
+Return-Path: <s-2rhb9w09yrd2xnkf9k4elu5ltx58hdmuv22opxo1z32v70qkq0nmfwoh@bounce.linkedin.com>
+Delivered-To: social@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id z6mwEgrVEVm92g0AwZeyeg
+	for <social@simplifytrips.com>; Tue, 09 May 2017 07:41:14 -0700
+Return-path: <s-2rhb9w09yrd2xnkf9k4elu5ltx58hdmuv22opxo1z32v70qkq0nmfwoh@bounce.linkedin.com>
+Envelope-to: social@simplifytrips.com
+Delivery-date: Tue, 09 May 2017 07:41:14 -0700
+Received: from mailf-cc.linkedin.com ([108.174.6.227]:35129)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <s-2rhb9w09yrd2xnkf9k4elu5ltx58hdmuv22opxo1z32v70qkq0nmfwoh@bounce.linkedin.com>)
+	id 1d86K9-003o0r-Ne
+	for social@simplifytrips.com; Tue, 09 May 2017 07:41:14 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=linkedin.com;
+	s=proddkim1024; t=1494340831;
+	bh=fQ1YHbsMVrAxKbtOJRxVbsPt/m4F0jgQ4yv9C/87C+g=;
+	h=From:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:
+	 X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=NwB6TJyGrUVr/r4Iyq05GIBETrk49khLkImryXWSwBICPL/eJvHX9yIekAyPPoqEe
+	 8MigazwT9ZqI6dBs8+drSemCq2V2MtCel3ofJilxB4Yo8cqH36RDfAx1jBGy+fLGMh
+	 hXihBGQiU+IO/N604gT+BwhzoMyHxpgOku8fRaxY=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mailf.linkedin.com;
+	s=proddkim1024; t=1494340831;
+	bh=fQ1YHbsMVrAxKbtOJRxVbsPt/m4F0jgQ4yv9C/87C+g=;
+	h=From:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:
+	 X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=E2/hQUfYZYCKiQ786z4r/d96P+FaaTF6mAFmxV3KKRcJAaVUxPtABVMj0Mtf6UcZH
+	 odBtgN6mz1O4yDp2JRFIL103JMT6tJb9K5JZ/n2OZudcpoae5UQ2JhqMVrR8YO7PZ0
+	 cuiSO7NLmpY2V9baMUTj4F0jf089qXZnkUC0njQg=
+From: LinkedIn <messages-noreply@linkedin.com>
+Message-ID: <1348135701.3477274.1494340831139.JavaMail.app@lva1-app7930.prod.linkedin.com>
+Subject: We're updating our Terms of Service
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_3477272_1606613708.1494340831136"
+To: Simplify trips <social@simplifytrips.com>
+Date: Tue, 9 May 2017 14:40:31 +0000 (UTC)
+X-LinkedIn-Class: SVCANNOUNCE
+X-LinkedIn-Template: email_tos_notification_01
+X-LinkedIn-fbl: m2-aszvaq7nxr97r1wl70xgsnc5lek0nlhboo5gbtbgalmo3q91a10kdrhht1g228gcwyuhzt8dt0i3s7uabksqfdaomuzanivjbdy2xy
+X-LinkedIn-Id: 8p8xp2-j2hmxrcu-1f
+Require-Recipient-Valid-Since: social@simplifytrips.com; Mon, 29 Aug 2016 11:34:29 +0000
+
+------=_Part_3477272_1606613708.1494340831136
+Content-Type: text/plain;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: text-body
+
+Hi Simplify,
+
+On June 7, 2017, we are updating LinkedIn's Terms of Service - our Privacy =
+Policy and User Agreement. These updates to our terms will let us introduce=
+ new features, while continuing to give you control over how your informati=
+on is used.
+
+While I encourage you to read the full terms and my blog post about the cha=
+nges, below is a quick glance at what's new.  Our goal is to increase the v=
+alue you get out of LinkedIn, but you can also opt-out of these new feature=
+s, if you'd like.
+
+Increased visibility of your LinkedIn Profile - Service partners will show =
+your profile to their users, similar to the way your profile shows up in se=
+arch engines, so you can be more easily found for opportunities.
+
+Easier to share your achievements with your network - We'll suggest positiv=
+e and public professional accomplishments, like new patents or publications=
+, to add to your profile so others can see.
+
+In addition, here's two more new features you can choose to opt-in to:
+
+Productivity bots to improve communication with your network - New automate=
+d systems will use information in your messages to suggest responses, meeti=
+ngs, ice breakers, or insights to help you have important conversations mor=
+e easily.
+
+Easily meet up with other members - You'll have the ability to see members =
+nearby who have also opted-in, so it's easier to meet up when you're at a c=
+onference or out for lunch.
+
+If you've not already heard, we are now a part of Microsoft, but our servic=
+es are still provided under a separate Terms of Service. We hope you find v=
+alue in the updates we've made. If for any reason you don't agree to the ne=
+w terms and would rather close your account than opt out of specific new fe=
+atures, you can do so.
+
+Thanks for being a member,
+
+Sara Harrington,
+Vice President of Legal at LinkedIn
+
+.....................................
+
+Privacy Policy:
+https://www.linkedin.com/e/v2?e=3D8p8xp2-j2hmxrcu-1f&amp;lipi=3Durn%3Ali%3A=
+page%3Aemail_email_tos_notification_01%3BPItNRSR8RQ%2BeaP1B5NS2ZQ%3D%3D&amp=
+;a=3Dmicrosites-urls&amp;midToken=3DAQH9-RSXDd62tg&amp;ek=3Demail_tos_notif=
+ication_01&amp;li=3D0&amp;m=3Dhero&amp;ts=3Dprivacy_policy_preview&amp;key=
+=3Dlegal%2Fpreview%2Fprivacy-policy
+
+User Agreement:
+https://www.linkedin.com/e/v2?e=3D8p8xp2-j2hmxrcu-1f&amp;lipi=3Durn%3Ali%3A=
+page%3Aemail_email_tos_notification_01%3BPItNRSR8RQ%2BeaP1B5NS2ZQ%3D%3D&amp=
+;a=3Dmicrosites-urls&amp;midToken=3DAQH9-RSXDd62tg&amp;ek=3Demail_tos_notif=
+ication_01&amp;li=3D1&amp;m=3Dhero&amp;ts=3Duser_agreement_preview&amp;key=
+=3Dlegal%2Fpreview%2Fuser-agreement
+
+My blog post about changes:
+https://www.linkedin.com/e/v2?e=3D8p8xp2-j2hmxrcu-1f&amp;lipi=3Durn%3Ali%3A=
+page%3Aemail_email_tos_notification_01%3BPItNRSR8RQ%2BeaP1B5NS2ZQ%3D%3D&amp=
+;t=3Dplh&amp;midToken=3DAQH9-RSXDd62tg&amp;ek=3Demail_tos_notification_01&a=
+mp;li=3D7&amp;m=3Dhero&amp;ts=3Dtos_blog_post&amp;urlhash=3DtlMC&amp;url=3D=
+https%3A%2F%2Fblog%2Elinkedin%2Ecom%2Ftopic%2Fcustomer-service%2Fprivacy
+
+Off-LinkedIn Visibility:
+https://www.linkedin.com/e/v2?e=3D8p8xp2-j2hmxrcu-1f&amp;lipi=3Durn%3Ali%3A=
+page%3Aemail_email_tos_notification_01%3BPItNRSR8RQ%2BeaP1B5NS2ZQ%3D%3D&amp=
+;a=3DcustomerServiceUrl&amp;midToken=3DAQH9-RSXDd62tg&amp;ek=3Demail_tos_no=
+tification_01&amp;li=3D2&amp;m=3Dhero&amp;ts=3Dprofile_visibility&amp;artic=
+leId=3D79854
+
+LinkedIn's Profile Suggestions:
+https://www.linkedin.com/e/v2?e=3D8p8xp2-j2hmxrcu-1f&amp;lipi=3Durn%3Ali%3A=
+page%3Aemail_email_tos_notification_01%3BPItNRSR8RQ%2BeaP1B5NS2ZQ%3D%3D&amp=
+;a=3DcustomerServiceUrl&amp;midToken=3DAQH9-RSXDd62tg&amp;ek=3Demail_tos_no=
+tification_01&amp;li=3D3&amp;m=3Dhero&amp;ts=3Dshare_achievements&amp;artic=
+leId=3D56597
+
+Message Content and Bots:
+https://www.linkedin.com/e/v2?e=3D8p8xp2-j2hmxrcu-1f&amp;lipi=3Durn%3Ali%3A=
+page%3Aemail_email_tos_notification_01%3BPItNRSR8RQ%2BeaP1B5NS2ZQ%3D%3D&amp=
+;a=3DcustomerServiceUrl&amp;midToken=3DAQH9-RSXDd62tg&amp;ek=3Demail_tos_no=
+tification_01&amp;li=3D4&amp;m=3Dhero&amp;ts=3Dproductivity_messages&amp;ar=
+ticleId=3D79855
+
+Using the Find Nearby Feature on the LinkedIn Mobile App:
+https://www.linkedin.com/e/v2?e=3D8p8xp2-j2hmxrcu-1f&amp;lipi=3Durn%3Ali%3A=
+page%3Aemail_email_tos_notification_01%3BPItNRSR8RQ%2BeaP1B5NS2ZQ%3D%3D&amp=
+;a=3DcustomerServiceUrl&amp;midToken=3DAQH9-RSXDd62tg&amp;ek=3Demail_tos_no=
+tification_01&amp;li=3D6&amp;m=3Dhero&amp;ts=3Dnearby_members&amp;articleId=
+=3D75689
+
+We are now part of Microsoft:
+https://www.linkedin.com/e/v2?e=3D8p8xp2-j2hmxrcu-1f&amp;lipi=3Durn%3Ali%3A=
+page%3Aemail_email_tos_notification_01%3BPItNRSR8RQ%2BeaP1B5NS2ZQ%3D%3D&amp=
+;t=3Dplh&amp;midToken=3DAQH9-RSXDd62tg&amp;ek=3Demail_tos_notification_01&a=
+mp;li=3D8&amp;m=3Dhero&amp;ts=3Dacquisition_article&amp;urlhash=3DIPu4&amp;=
+url=3Dhttps%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fpulse%2Flinkedin-microsoft-chang=
+ing-way-world-works-jeff-weiner
+
+.....................................
+
+
+
+This email was intended for Simplify trips (Self Employed at Simplify trips=
+).
+Learn why we included this: https://www.linkedin.com/e/v2?e=3D8p8xp2-j2hmxr=
+cu-1f&lipi=3Durn%3Ali%3Apage%3Aemail_email_tos_notification_01%3BPItNRSR8RQ=
+%2BeaP1B5NS2ZQ%3D%3D&a=3DcustomerServiceUrl&midToken=3DAQH9-RSXDd62tg&ek=3D=
+email_tos_notification_01&articleId=3D4788
+
+=C2=A9 2017 LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place,=
+ Dublin 2. LinkedIn is a registered business name of LinkedIn Ireland Unlim=
+ited Company. LinkedIn and the LinkedIn logo are registered trademarks of L=
+inkedIn.
+------=_Part_3477272_1606613708.1494340831136
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: html-body
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns=3D"http://www.w3=
+.org/1999/xhtml" lang=3D"en" xml:lang=3D"en"> <head> <meta http-equiv=3D"Co=
+ntent-Type" content=3D"text/html;charset=3Dutf-8"> <meta name=3D"HandheldFr=
+iendly" content=3D"true"> <meta name=3D"viewport" content=3D"width=3Ddevice=
+-width; initial-scale=3D0.666667; maximum-scale=3D0.666667; user-scalable=
+=3D0"> <meta name=3D"viewport" content=3D"width=3Ddevice-width"> <title></t=
+itle> <!--[if mso]><style type=3D"text/css">body {font-family: 'Helvetica N=
+eue', Helvetica, Arial, sans-serif;}.phoenix-email-container {width: 512px =
+!important;}</style><![endif]--> <!--[if IE]><style type=3D"text/css">.phoe=
+nix-email-container {width: 512px !important;}</style><![endif]--> <style t=
+ype=3D"text/css">@media only screen and (max-width:32em) { .phoenix-email-c=
+ontainer { width:100% !important; } } @media only screen and (max-width:20e=
+m) {} @media only screen and (max-device-width:30em) {} @media screen and (=
+device-width:30em) and (device-height:22.5em), screen and (device-width:22.=
+5em) and (device-height:30em), screen and (device-width:20em) and (device-h=
+eight:15em) {} @media screen and (-webkit-min-device-pixel-ratio:0) {} @med=
+ia screen and (max-device-width:25.88em) and (max-device-height:48.5em) {} =
+</style> </head> <body style=3D"padding:0;margin:0 auto;-webkit-text-size-a=
+djust:100%;width:100% !important;-ms-text-size-adjust:100%;font-family:'Hel=
+vetica Neue',Helvetica,Arial,sans-serif;"> <div style=3D"overflow:hidden;co=
+lor:transparent;visibility:hidden;mso-hide:all;width:0;font-size:0;opacity:=
+0;height:0;"> We wanted to let you know that we're updating our Privacy Pol=
+icy and User Agreement. </div> <table align=3D"center" border=3D"0" cellspa=
+cing=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#EDF0F3" style=3D"ba=
+ckground-color:#EDF0F3;table-layout:fixed;-webkit-text-size-adjust:100%;mso=
+-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody>=
+ <tr> <td align=3D"center" style=3D"-webkit-text-size-adjust:100%;mso-table=
+-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <center style=
+=3D"width:100%;"> <table border=3D"0" class=3D"phoenix-email-container" cel=
+lspacing=3D"0" cellpadding=3D"0" width=3D"512" bgcolor=3D"#FFFFFF" style=3D=
+"background-color:#FFFFFF;margin:0 auto;max-width:512px;-webkit-text-size-a=
+djust:100%;mso-table-rspace:0pt;width:inherit;mso-table-lspace:0pt;-ms-text=
+-size-adjust:100%;"> <tbody> <tr> <td bgcolor=3D"#F6F8FA" style=3D"backgrou=
+nd-color:#F6F8FA;padding:12px;-webkit-text-size-adjust:100%;mso-table-rspac=
+e:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;border-bottom:1px soli=
+d #ECECEC;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=
+=3D"100%" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;width=
+:100% !important;mso-table-lspace:0pt;-ms-text-size-adjust:100%;min-width:1=
+00% !important;"> <tbody> <tr> <td align=3D"left" valign=3D"middle" style=
+=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt=
+;-ms-text-size-adjust:100%;"><a href=3D"https://www.linkedin.com/comm/feed/=
+?midToken=3DAQH9-RSXDd62tg&amp;trk=3Deml-email_tos_notification_01-header-9=
+-home&amp;trkEmail=3Deml-email_tos_notification_01-header-9-home-null-8p8xp=
+2%7Ej2hmxrcu%7E1f-null-neptune%2Ffeed&amp;lipi=3Durn%3Ali%3Apage%3Aemail_em=
+ail_tos_notification_01%3BPItNRSR8RQ%2BeaP1B5NS2ZQ%3D%3D" style=3D"cursor:p=
+ointer;color:#008CC9;-webkit-text-size-adjust:100%;display:inline-block;tex=
+t-decoration:none;-ms-text-size-adjust:100%;"> <img alt=3D"LinkedIn" border=
+=3D"0" src=3D"https://static.licdn.com/scds/common/u/images/email/phoenix/l=
+ogos/logo_phoenix_header_blue_78x66_v1.png" height=3D"34" width=3D"40" styl=
+e=3D"outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-decorat=
+ion:none;"></a></td> <td valign=3D"middle" width=3D"100%" align=3D"right" s=
+tyle=3D"padding:0 0 0 10px;-webkit-text-size-adjust:100%;mso-table-rspace:0=
+pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"><a href=3D"https://www.=
+linkedin.com/comm/in/simplify-trips-332251128?midToken=3DAQH9-RSXDd62tg&amp=
+;trk=3Deml-email_tos_notification_01-header-13-profile&amp;trkEmail=3Deml-e=
+mail_tos_notification_01-header-13-profile-null-8p8xp2%7Ej2hmxrcu%7E1f-null=
+-neptune%2Fprofile%7Evanity%2Eview&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email=
+_tos_notification_01%3BPItNRSR8RQ%2BeaP1B5NS2ZQ%3D%3D" style=3D"cursor:poin=
+ter;margin:0;color:#008CC9;-webkit-text-size-adjust:100%;display:inline-blo=
+ck;text-decoration:none;-ms-text-size-adjust:100%;"> <span style=3D"word-wr=
+ap:break-word;color:#4C4C4C;word-break:break-word;font-weight:400;-ms-word-=
+break:break-all;font-size:14px;line-height:1.429;overflow-wrap:break-word;"=
+>Simplify trips</span></a></td> <td width=3D"1" style=3D"-webkit-text-size-=
+adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:=
+100%;">&nbsp;</td> </tr> </tbody> </table></td> </tr> <tr> <td style=3D"-we=
+bkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-te=
+xt-size-adjust:100%;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" width=3D"100%" style=3D"-webkit-text-size-adjust:100%;mso-table-rspace:=
+0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> <td styl=
+e=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0p=
+t;-ms-text-size-adjust:100%;"> <table border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" width=3D"100%" style=3D"-webkit-text-size-adjust:100%;mso-table=
+-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <tbody> <tr> =
+<td align=3D"left" style=3D"padding:0 20px 20px 20px;padding-top:20px;-webk=
+it-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text=
+-size-adjust:100%;text-align:left;"> <p style=3D"margin:0;color:#4C4C4C;fon=
+t-weight:400;font-size:14px;line-height:1.429;">Hi Simplify,</p></td> </tr>=
+ <tr> <td align=3D"left" style=3D"padding:0 20px 20px 20px;-webkit-text-siz=
+e-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjus=
+t:100%;text-align:left;"> <p style=3D"margin:0;color:#4C4C4C;font-weight:40=
+0;font-size:14px;line-height:1.429;">On June 7, 2017, we are updating Linke=
+dIn=E2=80=99s Terms of Service - our <a href=3D"https://www.linkedin.com/e/=
+v2?e=3D8p8xp2-j2hmxrcu-1f&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_tos_noti=
+fication_01%3BPItNRSR8RQ%2BeaP1B5NS2ZQ%3D%3D&amp;a=3Dmicrosites-urls&amp;mi=
+dToken=3DAQH9-RSXDd62tg&amp;ek=3Demail_tos_notification_01&amp;li=3D0&amp;m=
+=3Dhero&amp;ts=3Dprivacy_policy_preview&amp;key=3Dlegal%2Fpreview%2Fprivacy=
+-policy" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100=
+%;display:inline-block;text-decoration:none;-ms-text-size-adjust:100%;">Pri=
+vacy Policy</a> and <a href=3D"https://www.linkedin.com/e/v2?e=3D8p8xp2-j2h=
+mxrcu-1f&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_tos_notification_01%3BPIt=
+NRSR8RQ%2BeaP1B5NS2ZQ%3D%3D&amp;a=3Dmicrosites-urls&amp;midToken=3DAQH9-RSX=
+Dd62tg&amp;ek=3Demail_tos_notification_01&amp;li=3D1&amp;m=3Dhero&amp;ts=3D=
+user_agreement_preview&amp;key=3Dlegal%2Fpreview%2Fuser-agreement" style=3D=
+"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;display:inline-=
+block;text-decoration:none;-ms-text-size-adjust:100%;">User Agreement</a>. =
+These updates to our terms will let us introduce new features, while contin=
+uing to give you control over how your information is used.</p></td> </tr> =
+<tr> <td align=3D"left" style=3D"padding:0 20px 20px 20px;-webkit-text-size=
+-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust=
+:100%;text-align:left;"> <p style=3D"margin:0;color:#4C4C4C;font-weight:400=
+;font-size:14px;line-height:1.429;">While I encourage you to read the full =
+terms and my <a href=3D"https://www.linkedin.com/e/v2?e=3D8p8xp2-j2hmxrcu-1=
+f&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_tos_notification_01%3BPItNRSR8RQ=
+%2BeaP1B5NS2ZQ%3D%3D&amp;t=3Dplh&amp;midToken=3DAQH9-RSXDd62tg&amp;ek=3Dema=
+il_tos_notification_01&amp;li=3D7&amp;m=3Dhero&amp;ts=3Dtos_blog_post&amp;u=
+rlhash=3DtlMC&amp;url=3Dhttps%3A%2F%2Fblog%2Elinkedin%2Ecom%2Ftopic%2Fcusto=
+mer-service%2Fprivacy" style=3D"cursor:pointer;color:#008CC9;-webkit-text-s=
+ize-adjust:100%;display:inline-block;text-decoration:none;-ms-text-size-adj=
+ust:100%;">blog post</a> about the changes, below is a quick glance at what=
+=E2=80=99s new. Our goal is to increase the value you get out of LinkedIn, =
+but you can also opt-out of these new features, if you=E2=80=99d like.</p><=
+/td> </tr> <tr> <td align=3D"left" style=3D"padding:0 20px 20px 20px;-webki=
+t-text-size-adjust:100%;mso-table-rspace:0pt;padding-left:60px;mso-table-ls=
+pace:0pt;-ms-text-size-adjust:100%;text-align:left;"> <ul style=3D"padding:=
+0;margin:0;"> <li style=3D"padding:0;padding-bottom:20px;text-align:left;">=
+ <p style=3D"margin:0;color:#4C4C4C;font-weight:400;font-size:14px;line-hei=
+ght:1.429;"><strong>Increased <a href=3D"https://www.linkedin.com/e/v2?e=3D=
+8p8xp2-j2hmxrcu-1f&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_tos_notificatio=
+n_01%3BPItNRSR8RQ%2BeaP1B5NS2ZQ%3D%3D&amp;a=3DcustomerServiceUrl&amp;midTok=
+en=3DAQH9-RSXDd62tg&amp;ek=3Demail_tos_notification_01&amp;li=3D2&amp;m=3Dh=
+ero&amp;ts=3Dprofile_visibility&amp;articleId=3D79854" style=3D"cursor:poin=
+ter;color:#008CC9;-webkit-text-size-adjust:100%;display:inline-block;text-d=
+ecoration:none;-ms-text-size-adjust:100%;">visibility</a> of your LinkedIn =
+Profile</strong> - Service partners will show your profile to their users, =
+similar to the way your profile shows up in search engines, so you can be m=
+ore easily found for opportunities.</p></li> <li style=3D"padding:0;padding=
+-bottom:0;text-align:left;"> <p style=3D"margin:0;color:#4C4C4C;font-weight=
+:400;font-size:14px;line-height:1.429;"><strong>Easier to share your achiev=
+ements with your network</strong> - We=E2=80=99ll <a href=3D"https://www.li=
+nkedin.com/e/v2?e=3D8p8xp2-j2hmxrcu-1f&amp;lipi=3Durn%3Ali%3Apage%3Aemail_e=
+mail_tos_notification_01%3BPItNRSR8RQ%2BeaP1B5NS2ZQ%3D%3D&amp;a=3DcustomerS=
+erviceUrl&amp;midToken=3DAQH9-RSXDd62tg&amp;ek=3Demail_tos_notification_01&=
+amp;li=3D3&amp;m=3Dhero&amp;ts=3Dshare_achievements&amp;articleId=3D56597" =
+style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;display=
+:inline-block;text-decoration:none;-ms-text-size-adjust:100%;">suggest</a> =
+positive and public professional accomplishments, like new patents or publi=
+cations, to add to your profile so others can see.</p></li> </ul></td> </tr=
+> <tr> <td align=3D"left" style=3D"padding:0 20px 20px 20px;-webkit-text-si=
+ze-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adju=
+st:100%;text-align:left;"> <p style=3D"margin:0;color:#4C4C4C;font-weight:4=
+00;font-size:14px;line-height:1.429;">In addition, here=E2=80=99s two more =
+new features you can choose to opt-in to:</p></td> </tr> <tr> <td align=3D"=
+left" style=3D"padding:0 20px 20px 20px;-webkit-text-size-adjust:100%;mso-t=
+able-rspace:0pt;padding-left:60px;mso-table-lspace:0pt;-ms-text-size-adjust=
+:100%;text-align:left;"> <ul style=3D"padding:0;margin:0;"> <li style=3D"pa=
+dding:0;padding-bottom:20px;text-align:left;"> <p style=3D"margin:0;color:#=
+4C4C4C;font-weight:400;font-size:14px;line-height:1.429;"><strong>Productiv=
+ity bots to improve communication with your network</strong> - New automate=
+d systems will use information in your <a href=3D"https://www.linkedin.com/=
+e/v2?e=3D8p8xp2-j2hmxrcu-1f&amp;lipi=3Durn%3Ali%3Apage%3Aemail_email_tos_no=
+tification_01%3BPItNRSR8RQ%2BeaP1B5NS2ZQ%3D%3D&amp;a=3DcustomerServiceUrl&a=
+mp;midToken=3DAQH9-RSXDd62tg&amp;ek=3Demail_tos_notification_01&amp;li=3D4&=
+amp;m=3Dhero&amp;ts=3Dproductivity_messages&amp;articleId=3D79855" style=3D=
+"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;display:inline-=
+block;text-decoration:none;-ms-text-size-adjust:100%;">messages</a> to sugg=
+est responses, meetings, ice breakers, or insights to help you have importa=
+nt conversations more easily.</p></li> <li style=3D"padding:0;padding-botto=
+m:0;text-align:left;"> <p style=3D"margin:0;color:#4C4C4C;font-weight:400;f=
+ont-size:14px;line-height:1.429;"><strong>Easily meet up with other members=
+</strong> - You=E2=80=99ll have the ability to see members <a href=3D"https=
+://www.linkedin.com/e/v2?e=3D8p8xp2-j2hmxrcu-1f&amp;lipi=3Durn%3Ali%3Apage%=
+3Aemail_email_tos_notification_01%3BPItNRSR8RQ%2BeaP1B5NS2ZQ%3D%3D&amp;a=3D=
+customerServiceUrl&amp;midToken=3DAQH9-RSXDd62tg&amp;ek=3Demail_tos_notific=
+ation_01&amp;li=3D6&amp;m=3Dhero&amp;ts=3Dnearby_members&amp;articleId=3D75=
+689" style=3D"cursor:pointer;color:#008CC9;-webkit-text-size-adjust:100%;di=
+splay:inline-block;text-decoration:none;-ms-text-size-adjust:100%;">nearby<=
+/a> who have also opted-in, so it=E2=80=99s easier to meet up when you=E2=
+=80=99re at a conference or out for lunch.</p></li> </ul></td> </tr> <tr> <=
+td align=3D"left" style=3D"padding:0 20px 20px 20px;-webkit-text-size-adjus=
+t:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;=
+text-align:left;"> <p style=3D"margin:0;color:#4C4C4C;font-weight:400;font-=
+size:14px;line-height:1.429;">If you=E2=80=99ve not already heard, we are n=
+ow a <a href=3D"https://www.linkedin.com/e/v2?e=3D8p8xp2-j2hmxrcu-1f&amp;li=
+pi=3Durn%3Ali%3Apage%3Aemail_email_tos_notification_01%3BPItNRSR8RQ%2BeaP1B=
+5NS2ZQ%3D%3D&amp;t=3Dplh&amp;midToken=3DAQH9-RSXDd62tg&amp;ek=3Demail_tos_n=
+otification_01&amp;li=3D8&amp;m=3Dhero&amp;ts=3Dacquisition_article&amp;url=
+hash=3DIPu4&amp;url=3Dhttps%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fpulse%2Flinkedin=
+-microsoft-changing-way-world-works-jeff-weiner" style=3D"cursor:pointer;co=
+lor:#008CC9;-webkit-text-size-adjust:100%;display:inline-block;text-decorat=
+ion:none;-ms-text-size-adjust:100%;">part of Microsoft</a>, but our service=
+s are still provided under a separate Terms of Service. We hope you find va=
+lue in the updates we=E2=80=99ve made. If for any reason you don=E2=80=99t =
+agree to the new terms and would rather close your account than opt out of =
+specific new features, you can do so.</p></td> </tr> <tr> <td align=3D"left=
+" style=3D"padding:0 20px 20px 20px;-webkit-text-size-adjust:100%;mso-table=
+-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:left;=
+"> <p style=3D"margin:0;color:#4C4C4C;font-weight:400;font-size:14px;line-h=
+eight:1.429;">Thanks for being a member,</p></td> </tr> <tr> <td align=3D"l=
+eft" style=3D"padding:0 20px 20px 20px;-webkit-text-size-adjust:100%;mso-ta=
+ble-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;padding-botto=
+m:30px;text-align:left;"> <p style=3D"margin:0;color:#4C4C4C;font-weight:40=
+0;font-size:14px;line-height:1.429;">Sara Harrington,</p> <p style=3D"margi=
+n:0;color:#4C4C4C;font-weight:400;font-size:14px;line-height:1.429;">Vice P=
+resident of Legal at LinkedIn</p></td> </tr> </tbody> </table></td> </tr> <=
+/tbody> </table></td> </tr> <tr> <td style=3D"-webkit-text-size-adjust:100%=
+;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <ta=
+ble border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=
+=3D"#EDF0F3" align=3D"center" style=3D"background-color:#EDF0F3;padding:0 2=
+4px;color:#999999;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-ta=
+ble-lspace:0pt;-ms-text-size-adjust:100%;text-align:center;"> <tbody> <tr> =
+<td align=3D"center" style=3D"padding:16px 0 0 0;-webkit-text-size-adjust:1=
+00%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;tex=
+t-align:center;"></td> </tr> <tr> <td style=3D"-webkit-text-size-adjust:100=
+%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust:100%;"> <t=
+able border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=
+=3D"-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt=
+;-ms-text-size-adjust:100%;"> <tbody> <tr> <td align=3D"center" style=3D"pa=
+dding:0 0 12px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;mso-tab=
+le-lspace:0pt;-ms-text-size-adjust:100%;text-align:center;"> <p style=3D"ma=
+rgin:0;color:#737373;font-weight:400;font-size:12px;line-height:1.333;"></p=
+></td> </tr> <tr> <td align=3D"center" style=3D"padding:0 0 12px 0;-webkit-=
+text-size-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-si=
+ze-adjust:100%;text-align:center;"> <p style=3D"margin:0;word-wrap:break-wo=
+rd;color:#737373;word-break:break-word;font-weight:400;-ms-word-break:break=
+-all;font-size:12px;line-height:1.333;overflow-wrap:break-word;">This email=
+ was intended for Simplify trips (Self Employed at Simplify trips). <a href=
+=3D"https://www.linkedin.com/e/v2?e=3D8p8xp2-j2hmxrcu-1f&amp;lipi=3Durn%3Al=
+i%3Apage%3Aemail_email_tos_notification_01%3BPItNRSR8RQ%2BeaP1B5NS2ZQ%3D%3D=
+&amp;a=3DcustomerServiceUrl&amp;midToken=3DAQH9-RSXDd62tg&amp;ek=3Demail_to=
+s_notification_01&amp;articleId=3D4788" style=3D"cursor:pointer;color:#7373=
+73;-webkit-text-size-adjust:100%;text-decoration:underline;display:inline-b=
+lock;-ms-text-size-adjust:100%;">Learn why we included this.</a></p></td> <=
+/tr> <tr> <td align=3D"center" style=3D"padding:0 0 8px 0;-webkit-text-size=
+-adjust:100%;mso-table-rspace:0pt;mso-table-lspace:0pt;-ms-text-size-adjust=
+:100%;text-align:center;"><a href=3D"https://www.linkedin.com/comm/feed/?mi=
+dToken=3DAQH9-RSXDd62tg&amp;trk=3Deml-email_tos_notification_01-footer-11-h=
+ome&amp;trkEmail=3Deml-email_tos_notification_01-footer-11-home-null-8p8xp2=
+%7Ej2hmxrcu%7E1f-null-neptune%2Ffeed&amp;lipi=3Durn%3Ali%3Apage%3Aemail_ema=
+il_tos_notification_01%3BPItNRSR8RQ%2BeaP1B5NS2ZQ%3D%3D" style=3D"cursor:po=
+inter;color:#737373;-webkit-text-size-adjust:100%;text-decoration:underline=
+;display:inline-block;-ms-text-size-adjust:100%;"><img alt=3D"LinkedIn" bor=
+der=3D"0" height=3D"14" src=3D"https://static.licdn.com/scds/common/u/image=
+s/email/phoenix/logos/logo_phoenix_footer_gray_197x48_v1.png" width=3D"58" =
+style=3D"outline:none;-ms-interpolation-mode:bicubic;color:#FFFFFF;display:=
+block;text-decoration:none;"></a></td> </tr> <tr> <td align=3D"center" styl=
+e=3D"padding:0 0 12px 0;-webkit-text-size-adjust:100%;mso-table-rspace:0pt;=
+mso-table-lspace:0pt;-ms-text-size-adjust:100%;text-align:center;"> <p styl=
+e=3D"margin:0;color:#737373;font-weight:400;font-size:12px;line-height:1.33=
+3;">=C2=A9 2017 LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Pl=
+ace, Dublin 2. LinkedIn is a registered business name of LinkedIn Ireland U=
+nlimited Company. LinkedIn and the LinkedIn logo are registered trademarks =
+of LinkedIn.</p></td> </tr> </tbody> </table></td> </tr> </tbody> </table><=
+/td> </tr> </tbody> </table> </center></td> </tr> </tbody> </table> <img sr=
+c=3D"http://www.linkedin.com/emimp/ip_T0hBNGVIQXlMV295YUcxNGNtTjFMVEZtOlpXM=
+WhhV3hmZEc5elgyNXZkR2xtYVdOaGRHbHZibDh3TVE9PTo=3D.gif" style=3D"outline:non=
+e;-ms-interpolation-mode:bicubic;color:#FFFFFF;text-decoration:none;width:1=
+px;height:1px;"> </body> </html>
+------=_Part_3477272_1606613708.1494340831136--
+

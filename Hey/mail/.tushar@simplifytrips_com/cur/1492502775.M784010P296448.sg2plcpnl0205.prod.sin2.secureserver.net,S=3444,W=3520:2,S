@@ -1,0 +1,76 @@
+Return-Path: <0102015b80185cd3-9039a994-c198-4802-ad66-b7d45380f1ea-000000@eu-west-1.amazonses.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id +VGbLvfI9VgAhgQAwZeyeg
+	for <tushar@simplifytrips.com>; Tue, 18 Apr 2017 01:06:15 -0700
+Return-path: <0102015b80185cd3-9039a994-c198-4802-ad66-b7d45380f1ea-000000@eu-west-1.amazonses.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Tue, 18 Apr 2017 01:06:15 -0700
+Received: from a3-2.smtp-out.eu-west-1.amazonses.com ([54.240.3.2]:56278)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1:ECDHE-RSA-AES128-SHA:128)
+	(Exim 4.87)
+	(envelope-from <0102015b80185cd3-9039a994-c198-4802-ad66-b7d45380f1ea-000000@eu-west-1.amazonses.com>)
+	id 1d0O9P-001FMf-HK
+	for tushar@simplifytrips.com; Tue, 18 Apr 2017 01:06:15 -0700
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=shh3fegwg5fppqsuzphvschd53n6ihuv; d=amazonses.com; t=1492502732;
+	h=Date:To:From:Subject:Reply-To:Message-ID:Mime-Version:Content-Type:Feedback-ID;
+	bh=JAiOx7ZOLo70agK0AUGMboZEgry7M0JU0s/wDU3+ZfY=;
+	b=VCiBzX+hiSI9ZMFg/wxtOb/SbJH46aRCensMRNOIEXiXwgNBByDEmEA8/Ho+HJIv
+	9ODRXb2AfnqPVObedH8GnsNSXX4hZUPwF/pqez4CtklXapmFes9NhhT8W/8J9EZunrq
+	qE/Kb/tjbg8ydrhcaftppgmQor12wuX1smV/zdwM=
+User-Agent: CodeIgniter
+Date: Tue, 18 Apr 2017 08:05:32 +0000
+To: tushar@simplifytrips.com
+From: "vCommission" <support@vcommission.com>
+Subject: =?utf-8?Q?Tushar,_Your_vCommission_publisher_application_is_being_review?=
+ =?utf-8?Q?ed.?=
+Reply-To: "support@vcommission.com" <support@vcommission.com>
+X-Sender: support@vcommission.com
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <0102015b80185cd3-9039a994-c198-4802-ad66-b7d45380f1ea-000000@eu-west-1.amazonses.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_58f5c8c9f2e3c"
+X-SES-Outgoing: 2017.04.18-54.240.3.2
+Feedback-ID: 1.eu-west-1.TFO10dZ+1clW2oJs+xWQ3zf0JaGZHc2qz1d+E2q1T74=:AmazonSES
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_58f5c8c9f2e3c
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+Hi Tushar, 
+ Thank you for signing up @ vCommission. Your application is currently being
+reviewed. An account manager will contact you shortly.
+ Please note that we do visit and evaluate every site prior to acceptance.
+Approval time is usually 2-3 business days.
+ 
+Our team will try to call you during this time to verify details entered. To
+expedite the process, you may please call +91-124-4700400 between 10 AM to 5
+PM Indian Time (GMT + 0530 hours) or email approvals@vcommission.com
+ 
+Sincerely, 
+vCommission
+
+
+--B_ALT_58f5c8c9f2e3c
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi Tushar,<br/> <br/>=20
+ Thank you for signing up @ vCommission. Your application is currently bein=
+g reviewed. An account manager will contact you shortly.
+<br/><br/> Please note that we do visit and evaluate every site prior to ac=
+ceptance. Approval time is usually 2-3 business days.
+<br/><br/>=20
+Our team will try to call you during this time to verify details entered. T=
+o expedite the process, you may please call +91-124-4700400 between 10 AM t=
+o 5 PM Indian Time (GMT + 0530 hours) or email approvals@vcommission.com
+ <br/><br/>=20
+Sincerely, <br/>
+vCommission
+
+--B_ALT_58f5c8c9f2e3c--

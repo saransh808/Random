@@ -1,0 +1,122 @@
+Return-Path: <>
+Delivered-To: info@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id GZidIMwGB1kOvQEAwZeyeg
+	for <info@simplifytrips.com>; Mon, 01 May 2017 02:58:36 -0700
+Return-path: <>
+Envelope-to: info@simplifytrips.com
+Delivery-date: Mon, 01 May 2017 02:58:36 -0700
+Received: from mail-pf0-f169.google.com ([209.85.192.169]:32979)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.88)
+	id 1d586G-000VUd-FQ
+	for info@simplifytrips.com; Mon, 01 May 2017 02:58:36 -0700
+Received: by mail-pf0-f169.google.com with SMTP id q20so19559256pfg.0
+        for <info@simplifytrips.com>; Mon, 01 May 2017 02:58:16 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=adventureworldindia-com.20150623.gappssmtp.com; s=20150623;
+        h=from:to:in-reply-to:subject:date:message-id:mime-version
+         :thread-index;
+        bh=A7Qt3NH5P/WHbfMNGNwMV1L1C93QndiASHuX51Kl2ZQ=;
+        b=hfZoVOnEas897kNQLkZSy9bycIzL6hnuzfZBBNpXcxRlq0LPRncWpqbDfH5xR1tIZ8
+         BJlmTxqOceHNdVV1U0Bf24bZdPtzncXkdPec+L/HWfdmAxOzAr3j6JVdPveoheGlKJ6E
+         gEuLm+N4JynupKmZTiTL3RvUyWK6asOFS/JLPf5ycrPjQDdV65beI0DR2q3sLNVJAKBT
+         qMGesx49cMV3boNhdpP4UjIuzk4u2BFJIFluoNVNQT+7aQlW9y0c+ukXCEOPs8jZn+bj
+         ec0a7OMxBzHkFNE904bcyFnZNeztXczkIzc2UPrzOiwn2Sgw6Bpx8UWbGSTsPYu3Iyh2
+         ISzg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:to:in-reply-to:subject:date:message-id
+         :mime-version:thread-index;
+        bh=A7Qt3NH5P/WHbfMNGNwMV1L1C93QndiASHuX51Kl2ZQ=;
+        b=LIsHUbPZh4K3s+QDFKAAfsHib5WNxVFumweXsjIDQW7Bryw+YlRTzKqdV40waRzm4X
+         B/UJKvjjLso74Z/4zX0DbaV2JbkadaEGDbjBlSnISMDAAZOcfI6UMzVTmwayNzYGWBo/
+         DUj+SthUKJ6+L0IprF9e2/+JjPAmtkxj70fhtsh3ZIdG/ehSF5QIp/dJSKOdgxe/HJl9
+         AxF3yxTyScPU0Yngu1kD8xvZd6fy4gxMjeOm0wGPjD6iKBtskwCEL7Sad/1D90IakkRp
+         j5lo6jDDZ5okLf6odn78Mexk1rotAv+MBu0QzGqlBpzacOgWnd4f+3DUJG8z5qyFqPCN
+         r0Zg==
+X-Gm-Message-State: AN3rC/5ZL4NpXeS7kSFCDmA6GQP8Omg3dZKlgj96zuGvqae760/5ReUP
+	kS9hW8LsCDDV35w5
+X-Received: by 10.98.214.6 with SMTP id r6mr25032023pfg.181.1493632674650;
+        Mon, 01 May 2017 02:57:54 -0700 (PDT)
+Received: from RajBajajHP ([122.161.197.84])
+        by smtp.gmail.com with ESMTPSA id 20sm31783434pfq.42.2017.05.01.02.57.53
+        for <info@simplifytrips.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 01 May 2017 02:57:54 -0700 (PDT)
+From: "Raj Bajaj" <bajaj@adventureworldindia.com>
+To: <info@simplifytrips.com>
+In-Reply-To: <8f6c6d04c67e0baaba35fa1a1282be99@simplifytrips.com>
+Subject: Read: Activate your Simplifytrips account
+Date: Mon, 1 May 2017 15:27:50 +0530
+Message-ID: <069401d2c261$668145d0$3383d170$@adventureworldindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/report;
+	report-type=disposition-notification;
+	boundary="----=_NextPart_000_0695_01D2C28F.803CB620"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: AQHDrYmfoQ/EbnI+Ehmf3oKkVHQBbAGK6tz5AgBqbvCh4Q0KgA==
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0695_01D2C28F.803CB620
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_0696_01D2C28F.803CB620"
+
+
+------=_NextPart_001_0696_01D2C28F.803CB620
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your message
+
+    To:  Bajaj; Preeti Mahajan; Shibani; Singla; Sonisarbjit; Vikas Bhasin
+    Subject:  Activate your Simplifytrips account
+    Sent:  01/05/2017 3:25 PM
+
+was read on 01/05/2017 3:27 PM.
+
+------=_NextPart_001_0696_01D2C28F.803CB620
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dutf-8">
+<META NAME=3D"Generator" CONTENT=3D"MS Exchange Server version =
+rmj.rmm.rup.rpr">
+<TITLE>Read: Activate your Simplifytrips account</TITLE>
+</HEAD>
+<BODY>
+<!-- Converted from text/plain format -->
+
+<P><FONT SIZE=3D2>Your message<BR>
+<BR>
+&nbsp;&nbsp;&nbsp; To:&nbsp; Bajaj; Preeti Mahajan; Shibani; Singla; =
+Sonisarbjit; Vikas Bhasin<BR>
+&nbsp;&nbsp;&nbsp; Subject:&nbsp; Activate your Simplifytrips =
+account<BR>
+&nbsp;&nbsp;&nbsp; Sent:&nbsp; 01/05/2017 3:25 PM<BR>
+<BR>
+was read on 01/05/2017 3:27 PM.</FONT>
+</P>
+
+</BODY>
+</HTML>
+------=_NextPart_001_0696_01D2C28F.803CB620--
+
+------=_NextPart_000_0695_01D2C28F.803CB620
+Content-Type: message/disposition-notification
+Content-Transfer-Encoding: 7bit
+
+Reporting-UA: adventureworldindia.com; Microsoft Outlook 16.0
+Final-Recipient: rfc822;bajaj@adventureworldindia.com
+Original-Message-ID: <8f6c6d04c67e0baaba35fa1a1282be99@simplifytrips.com>
+Disposition: manual-action/MDN-sent-automatically; displayed
+
+------=_NextPart_000_0695_01D2C28F.803CB620--
+

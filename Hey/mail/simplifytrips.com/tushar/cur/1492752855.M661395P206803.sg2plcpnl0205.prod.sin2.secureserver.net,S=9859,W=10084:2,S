@@ -1,0 +1,225 @@
+Return-Path: <ravishankars@nativebag.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id AXpPJ9eZ+VjTJwMAwZeyeg
+	for <tushar@simplifytrips.com>; Thu, 20 Apr 2017 22:34:15 -0700
+Return-path: <ravishankars@nativebag.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Thu, 20 Apr 2017 22:34:15 -0700
+Received: from [103.8.124.4] (port=58624 helo=server15.hostingraja.in)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <ravishankars@nativebag.com>)
+	id 1d1RCx-000s9S-Eo
+	for tushar@simplifytrips.com; Thu, 20 Apr 2017 22:34:15 -0700
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=nativebag.com; s=default; h=Content-Type:In-Reply-To:MIME-Version:Date:
+	Message-ID:From:References:To:Subject;
+	bh=LtkhkQ/NpByka7sX2mC5tIh5o2jKpo5auoB00Vw3V0M=; b=rHAIzhLIGlWn3rllem5km8cIRL
+	yw/GUw4VPhwwbBNuwl/cEm0M/ogkbi8+5gj4WbdgmW9wV5voEE5Gs462+baXT17tvfA6fJ/kh9QID
+	XwhFuuvSz3uCt/57Eby1f2XnC7gZKBK1Yq+nsKg5FcVvz9cAGbAn+oQqiDsgxpalFYs27/ROFBwK1
+	SAsDq+d2wAu4wGXDl/qduqoO9sQ8/HDzCOD5gTLqVyYU4nDdfxOLeJSpnfsCZt7nXeWOkz+VlS918
+	45O28xeiH3ZDx0//2UwBAslQYBkybu7fJLG5NXQ0AYjax2Yui0bV4aoDqpCgven41ibtNHuqXAk1N
+	Y9ArqHiA==;
+Received: from [103.227.97.54] (port=21004 helo=ravishankar.com)
+	by server15.hostingraja.in with esmtpa (Exim 4.86_1)
+	(envelope-from <ravishankars@nativebag.com>)
+	id 1d1RCH-004NYK-2T
+	for tushar@simplifytrips.com; Fri, 21 Apr 2017 11:03:33 +0530
+Subject: Re: Strategic Partnership - Nativebag.in
+To: tushar@simplifytrips.com
+References: <b61fdff2-860f-0669-bd6d-21d31169f138@nativebag.com>
+ <0e62a347-355c-1976-8369-7df17bedce82@nativebag.com>
+ <2a526611-497a-667d-6f93-972b00b39c0b@nativebag.com>
+ <9eb421ddd1c7d5517345d8475670fe7d@simplifytrips.com>
+From: Ravishankar <ravishankars@nativebag.com>
+Message-ID: <bb31b763-4d28-2b1f-d0c3-47074710a7f5@nativebag.com>
+Date: Fri, 21 Apr 2017 11:03:33 +0530
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101
+ Thunderbird/45.4.0
+MIME-Version: 1.0
+In-Reply-To: <9eb421ddd1c7d5517345d8475670fe7d@simplifytrips.com>
+Content-Type: multipart/alternative;
+ boundary="------------D955BBDDE3F21EB5640EBDA0"
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server15.hostingraja.in
+X-AntiAbuse: Original Domain - simplifytrips.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - nativebag.com
+X-Get-Message-Sender-Via: server15.hostingraja.in: authenticated_id: ravishankars@nativebag.com
+X-Authenticated-Sender: server15.hostingraja.in: ravishankars@nativebag.com
+
+This is a multi-part message in MIME format.
+--------------D955BBDDE3F21EB5640EBDA0
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Thanks Tusharfor the response. Please don't hesitate to check back on 
+any queries.
+
+Regards,
+Ravi
+------------------------------------------------------------------------
+
+*From:* Tushar
+*Sent:* Friday, April 21, 2017 10:53AM
+*To:* Ravishankar
+*Subject:* Re: Strategic Partnership - Nativebag.in
+
+On 2017-04-20 06:24, Ravishankar wrote:
+
+>
+> hi Tushar,
+>
+> I am co-founder of Nativebag.in, with rich prior experience in Amadeus 
+> Software Labs and have keen interest in Travel & related businesses.
+> I would like to present you with a partnership proposal for 
+> Nativebag.in with SimplifyTrips.com.
+> Nativebag specializes in specialties (food/gourmet/arts/handicrafts 
+> etc) of every place in India.
+> We also supply GI Tagged products (like a patent to certain section of 
+> manufacturers/sellers) of India.
+> We are also affiliated with _**Textiles-Ministry of India through 
+> IHB**__*(Indian Handloom Brand)*_ and their authorized e-commerce 
+> partner channel.
+>
+> _*Proposal:*_
+> Based on the travel location searched/booked by your customers, we 
+> could offer specific specialty products of the location as content in 
+> your website.
+> We could offer our products either as a separately bookable content 
+> like 'Local Specialties' (or) along with any bookable content on your 
+> site.
+> Technically we can work it out based on the scenario._
+> _*_
+> Whats in it forSimplifyTrips.com?_*
+> a) Customer satisfaction as they would get access to specific 
+> products/specialties where they travel.
+> b) Souvenir is a very unorganized sector with lots of adulteration and 
+> duplicate issues. With GI and select authorized sellers from our side, 
+> this can be averted. This gives an edge over other players in the OTA 
+> industry.
+> c) Completes the trip from a nativity experience perspective.
+> d) Additional review channel.
+>
+> Please let me know your thoughts.
+> Looking forward for a positive response and hence with a mutually 
+> beneficial partnership.
+>
+> Regards,
+> Ravi
+> Co-founder, Nativebag.in
+> https://www.linkedin.com/in/ravisingaram/
+> 9632559988/9663381003
+
+Hi Ravi,
+
+I have read your proposal and would like to appreciate your interest for 
+a mutually beneficial collaboration. Let me discuss the idea with my 
+team & will revert for any queries or clarification on the same.
+
+
+WBR
+
+Tushar Choudhary
+
+Founder, simplifytrips.com
+
++91-7567949606, +91-8890780236
+
+
+
+--------------D955BBDDE3F21EB5640EBDA0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+  </head>
+  <body smarttemplateinserted="true" bgcolor="#FFFFFF" text="#000000">
+    <div id="smartTemplate4-template">
+      <p><font face="Courier New, Courier, monospace" size="+1">Thanks </font><font
+          face="Courier New, Courier, monospace" size="+1"><font
+            face="Courier New, Courier, monospace" size="+1">Tushar</font></font><font
+          face="Courier New, Courier, monospace" size="+1"> for the
+          response. Please don't hesitate to check back on any queries.<br>
+        </font></p>
+    </div>
+    <div id="smartTemplate4-quoteHeader">Regards,<br>
+      Ravi<br>
+      <hr><br>
+      <b>From:</b> Tushar<br>
+      <b>Sent:</b> Friday, April 21, 2017 10:53AM<br>
+      <b>To:</b> Ravishankar<br>
+      <b>Subject:</b> Re: Strategic Partnership - Nativebag.in<br>
+      <br>
+    </div>
+    <meta http-equiv="Context-Type" content="text/html; charset=UTF-8">
+    <p>On 2017-04-20 06:24, Ravishankar wrote:</p>
+    <blockquote type="cite">
+      <p><br>
+      </p>
+      <p><span><tt>hi Tushar,</tt></span></p>
+      <span> <tt>I am co-founder of Nativebag.in, with rich prior
+          experience in Amadeus Software Labs and have keen interest in
+          Travel &amp; related businesses.</tt><tt><br>
+        </tt><tt>I </tt><tt>would like to present you with a
+          partnership proposal for Nativebag.in with SimplifyTrips.com.
+        </tt><tt><br>
+        </tt><tt>Nativebag specializes in specialties
+          (food/gourmet/arts/handicrafts etc) of every place in India. </tt><tt><br>
+        </tt><tt>We also supply GI Tagged products (like a patent to
+          certain section of manufacturers/sellers) of India. <br>
+          We are also affiliated with <u><strong><cite><strong>Textiles-Ministry
+                  of India through IHB</strong></cite></strong></u><u><strong><cite>
+                (Indian Handloom Brand)</cite></strong></u> and their
+          authorized e-commerce partner channel.</tt><tt><span><span><span><br>
+                <br>
+              </span></span></span></tt><u><strong>Proposal:</strong></u><tt><br>
+          Based on the travel location searched/booked by your
+          customers, we could offer specific specialty products of the
+          location as content in your website.</tt><tt><br>
+        </tt><tt>We could offer our products either as a separately
+          bookable content like 'Local Specialties' (or) along with any
+          bookable content on your site.<br>
+          Technically we can work it out based on the scenario</tt></span><tt><span>.</span></tt><span><u><br>
+        </u><strong><u><br>
+            Whats in it for<span> </span>SimplifyTrips.com?</u></strong><tt><br>
+        </tt><tt>a) Customer satisfaction as they would get access to
+          specific products/specialties where they travel. </tt><br>
+        <tt>b) Souvenir is a very unorganized sector with lots of
+          adulteration and duplicate issues. With GI and select
+          authorized sellers from our side, this can be averted. This
+          gives an edge over other players in the OTA industry.</tt><br>
+        <tt>c) Completes the trip from a nativity experience
+          perspective.</tt><br>
+        <tt>d) Additional review channel.<br>
+          <br>
+          Please let me know your thoughts.<br>
+          Looking forward for a positive response and hence with a
+          mutually beneficial partnership.<br>
+          <span><br>
+            Regards,<br>
+            Ravi</span></tt><span><span> <br>
+            <tt>Co-founder, Nativebag.in</tt><tt><br>
+            </tt><tt><a moz-do-not-send="true"
+                class="moz-txt-link-freetext"
+                href="https://www.linkedin.com/in/ravisingaram/">https://www.linkedin.com/in/ravisingaram/</a></tt><tt><br>
+            </tt><tt>9632559988/9663381003</tt></span></span></span></blockquote>
+    <p>Hi Ravi,</p>
+    <p>I have read your proposal and would like to appreciate your
+      interest for a mutually beneficial collaboration. Let me discuss
+      the idea with my team &amp; will revert for any queries or
+      clarification on the same.<br>
+      <br>
+      <br>
+      WBR</p>
+    <p>Tushar Choudhary</p>
+    <p>Founder, simplifytrips.com</p>
+    <p>+91-7567949606, +91-8890780236</p>
+    <br>
+  </body>
+</html>
+
+--------------D955BBDDE3F21EB5640EBDA0--

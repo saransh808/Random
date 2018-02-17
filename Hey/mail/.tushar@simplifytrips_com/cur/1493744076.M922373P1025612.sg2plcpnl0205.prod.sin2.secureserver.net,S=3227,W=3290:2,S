@@ -1,0 +1,63 @@
+Return-Path: <0102015bca151d88-e2b2bb37-0c72-4ff2-b7c2-8fe48ee78c31-000000@eu-west-1.amazonses.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id 3FDZNsy5CFlMpg8AwZeyeg
+	for <tushar@simplifytrips.com>; Tue, 02 May 2017 09:54:36 -0700
+Return-path: <0102015bca151d88-e2b2bb37-0c72-4ff2-b7c2-8fe48ee78c31-000000@eu-west-1.amazonses.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Tue, 02 May 2017 09:54:36 -0700
+Received: from a7-11.smtp-out.eu-west-1.amazonses.com ([54.240.7.11]:58812)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1:ECDHE-RSA-AES128-SHA:128)
+	(Exim 4.88)
+	(envelope-from <0102015bca151d88-e2b2bb37-0c72-4ff2-b7c2-8fe48ee78c31-000000@eu-west-1.amazonses.com>)
+	id 1d5b4O-004IcG-Ij
+	for tushar@simplifytrips.com; Tue, 02 May 2017 09:54:36 -0700
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=shh3fegwg5fppqsuzphvschd53n6ihuv; d=amazonses.com; t=1493744033;
+	h=MIME-Version:Content-Type:Content-Transfer-Encoding:Subject:From:To:Date:Message-ID:Feedback-ID;
+	bh=kkkDtN5SXGilLEc9OOwRUsy/kzwUhq+guox1i77cETo=;
+	b=MvbxPMdA2gBJ3pKpoWanADsHKMpXeDvnXjylc4uAsTy/cXTY3XgBj5mg0np+F1tJ
+	5w//Krb4xJyDg8tVTGDYKt6qLWU9CO2HrhRcWe4dyviyqFno3hACNzY/KXui7sPn6jH
+	KeBXtNfBu5G2Vgu4EA59rxPMoziV2PoSumRRTjbo=
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+Subject: Investment Decision 
+From: INDIAN ANGEL NETWORK <noreply@indianangelnetwork.com>
+To: tushar@simplifytrips.com
+Date: Tue, 2 May 2017 16:53:53 +0000
+Message-ID: <0102015bca151d88-e2b2bb37-0c72-4ff2-b7c2-8fe48ee78c31-000000@eu-west-1.amazonses.com>
+X-SES-Outgoing: 2017.05.02-54.240.7.11
+Feedback-ID: 1.eu-west-1.MSoHkEq6FHwLMcSaHzxLNbFLvqHojaPX1lVlpxeVwNA=:AmazonSES
+
+
+
+
+
+<p><font face="verdana, geneva, sans-serif"><span style="font-size:12px">Dear Tushar,</span></font><br />
+&nbsp;</p>
+
+<p>We shared the proposition with IAN investor members and the review panel; unfortunately, we were unable to evince interest from the network.&nbsp;</p>
+
+<p>They had the following feedback to share:</p>
+
+<ol>
+	<li>Need to strengthen differentiators.</li>
+	<li>Value proposition needs to be strengthened.</li>
+	<li>The Venture is targeting a very competitive market that has established players with deep pockets.</li>
+	<li>Financial exit possibilities concerns persist.</li>
+</ol>
+
+<p>Based on the feedback, we will be unable to process this any further as an investment opportunity.&nbsp;</p>
+
+<p>Here&#39;s wishing you the very best in your entrepreneurial journey.</p>
+
+<p><span style="font-size:12px"><span style="font-family:verdana,geneva,sans-serif">Best Regards</span></span></p>
+
+<p><span style="font-size:12px"><span style="font-family:verdana,geneva,sans-serif">Team IAN</span></span></p>
+
+<p><a href="https://www.indianangelnetwork.com"><img src="https://d2n91hbqyoc1c7.cloudfront.net/img/logo.png" style="width:200px" /></a></p>
+
+<hr />
+<p><span style="font-size:11px"><span style="font-family:verdana,geneva,sans-serif">Please do not reply to this message. This email was sent from a notification-only address which is unmonitored mailbox.</span></span></p>
+

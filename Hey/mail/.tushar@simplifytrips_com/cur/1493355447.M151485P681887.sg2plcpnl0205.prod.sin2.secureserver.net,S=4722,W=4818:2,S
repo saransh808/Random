@@ -1,0 +1,96 @@
+Return-Path: <0100015bb2eb1721-345759d3-d7fe-4537-b7b5-aeb1f6f88283-000000@amazonses.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id EU/tCLfLAlmfZwoAwZeyeg
+	for <tushar@simplifytrips.com>; Thu, 27 Apr 2017 21:57:27 -0700
+Return-path: <0100015bb2eb1721-345759d3-d7fe-4537-b7b5-aeb1f6f88283-000000@amazonses.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Thu, 27 Apr 2017 21:57:27 -0700
+Received: from a10-172.smtp-out.amazonses.com ([54.240.10.172]:49344)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1:ECDHE-RSA-AES128-SHA:128)
+	(Exim 4.88)
+	(envelope-from <0100015bb2eb1721-345759d3-d7fe-4537-b7b5-aeb1f6f88283-000000@amazonses.com>)
+	id 1d3xyA-002rpW-Qj
+	for tushar@simplifytrips.com; Thu, 27 Apr 2017 21:57:27 -0700
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=sagm3s5v2bkj5ajhhso3p5qk6rxw6hya; d=internshala.com;
+	t=1493355403;
+	h=Date:From:Reply-To:To:Subject:Message-ID:Mime-Version:Content-Type;
+	bh=sx9NlVe/uOR+EZKvEkVrGf/lVVdmNP6fww2UrJrnMcI=;
+	b=gRksQqeJWsul6MD3t1HbwjS+Jk+/imAnwnDSlN2ha+0YyqYSJFJHHdRDElNEvfLF
+	Ig2EAp00B3E110XgEbVoFhRy2gMEAeiOiKiMtdoNw3a377ARiESOaMPYvNwtB8zg2iV
+	8vODt4zGSy0jxdHMooNVnDOZSsVTiUzTmsNephW4=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=224i4yxa5dv7c2xz3womw6peuasteono; d=amazonses.com; t=1493355403;
+	h=Date:From:Reply-To:To:Subject:Message-ID:Mime-Version:Content-Type:Feedback-ID;
+	bh=sx9NlVe/uOR+EZKvEkVrGf/lVVdmNP6fww2UrJrnMcI=;
+	b=WVpf6LTR/gb/Hkb5xec36ZsFszI//JaKeKLDX8YrS2MQdd54zhGzrQ2Wq+DWnXSj
+	coq7UlyagLKScvGWu4xnoBu3xrcOkSqFTZ475dcAcDLceFB8GpRv32i+Q4vfl9KpTMb
+	jyPlWx6LTfpbYQcKqCgh/Mtt6m5Bf4Y3fGPwU66g=
+User-Agent: internshala.com
+Date: Fri, 28 Apr 2017 04:56:43 +0000
+From: "Internshala" <employer@internshala.com>
+Reply-To: "Internshala" <employer@internshala.com>
+To: tushar@simplifytrips.com
+Subject: =?UTF-8?Q?Verification=20link=20fo?==?UTF-8?Q?r=20your=20I?= =?UTF-8?Q?nternshala=20registrati?==?UTF-8?Q?on?=
+X-Sender: employer@internshala.com
+X-Mailer: internshala.com
+X-Priority: 3 (Normal)
+Message-ID: <0100015bb2eb1721-345759d3-d7fe-4537-b7b5-aeb1f6f88283-000000@email.amazonses.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_5902cb88a8293"
+X-SES-Outgoing: 2017.04.28-54.240.10.172
+Feedback-ID: 1.us-east-1.zxtucPVubGftJWR49L2EMyyk1hBPV57S2rBAeFj2vQs=:AmazonSES
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_5902cb88a8293
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Dear Tushar,
+
+Thank you for registering on Internshala. As next step, please click
+https://internshala.com/registration/activate/233B2F28-8EDE-78A4-34E4-9C3E5F761C80/profile/user/2299511
+(or copy the link in the browser's address bar) to verify your email address
+to start posting your internship on Internshala.
+
+Please let us know if you face any problem in verifying your account or have
+any questions.
+
+Thank you for choosing Internshala. We look forward to helping you with your
+interns requirement.
+
+PS - if you did not register on internshala and believe this has been sent
+to you in error, please let us know - we will have it corrected.
+ Many thanks,
+ Nitin Malik
+ Manager - Employer Relations
+ Internshala
+ Phone - +91 - 83758 36427
+ LinkedIn | Facebook
+
+
+--B_ALT_5902cb88a8293
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Tushar,=0A<br/><br/>=0AThank you for registering on Internshala. As ne=
+xt step, please click https://internshala.com/registration/activate/233B2F2=
+8-8EDE-78A4-34E4-9C3E5F761C80/profile/user/2299511 (or copy the link in the=
+ browser's address bar) to verify your email address to start posting your =
+internship on Internshala.=0A<br/><br/>=0APlease let us know if you face an=
+y problem in verifying your account or have any questions.=0A<br/><br/>=0AT=
+hank you for choosing Internshala. We look forward to helping you with your=
+ interns requirement.=0A<br/><br/>=0APS - if you did not register on intern=
+shala and believe this has been sent to you in error, please let us know - =
+we will have it corrected.<br/><br/>=0A                        Many thanks,=
+=0A                        <br/>Nitin Malik=0A                        <br/>=
+Manager - Employer Relations=0A                        <br/><a href=3D'http=
+s://internshala.com'>Internshala<a>=0A                        <br/>Phone - =
++91 - 83758 36427=0A                        <br/><a href=3D'http://www.link=
+edin.com/company/1706756'>LinkedIn</a> | <a href=3D'https://www.facebook.co=
+m/Internshala/'>Facebook</a>
+
+--B_ALT_5902cb88a8293--

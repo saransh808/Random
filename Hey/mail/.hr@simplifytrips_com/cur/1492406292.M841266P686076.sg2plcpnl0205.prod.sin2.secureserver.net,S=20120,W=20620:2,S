@@ -1,0 +1,500 @@
+Return-Path: <info@naukri.com>
+Delivered-To: hr@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id Ibo/MRRQ9Fj8dwoAwZeyeg
+	for <hr@simplifytrips.com>; Sun, 16 Apr 2017 22:18:12 -0700
+Return-path: <info@naukri.com>
+Envelope-to: hr@simplifytrips.com
+Delivery-date: Sun, 16 Apr 2017 22:18:12 -0700
+Received: from nmail185.naukri.com ([180.179.180.185]:60740)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <info@naukri.com>)
+	id 1czz3E-002sIc-LO
+	for hr@simplifytrips.com; Sun, 16 Apr 2017 22:18:12 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=naukri.com; s=2015;
+	t=1492406216; bh=aGPBIDsyMCS/LMKqDHL0YSjONnsZgNwIHN68vthusyI=;
+	h=Date:Subject:From:Reply-To:To;
+	b=ryQBYkv0A2qo+INcXgDJoofiPWnhyDPUIHW8uNxr3Pk7XxBRynO8X3c56xca23ttZ
+	 y/JJWPxVDZsLwGQiTzermOpT+YVULQXKD8bSxQufgO6m5v8tgkjlq6tkeVj1MaUcHD
+	 GdXG/EjMevvIcpnwhUonWJwbSMLgf3Mqase5Cu6Y=
+Received: from [172.10.122.51] ([172.10.122.51:22703] helo=naukri.com)
+	by nplimla13.ieil.net (envelope-from <info@naukri.com>)
+	(ecelerity 3.6.13.50539 r(Core:3.6.13.0)) with ESMTP
+	id 13/01-35677-7CF44F85; Mon, 17 Apr 2017 10:46:56 +0530
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=naukri.com; s=2015;
+	t=1492406215; bh=aGPBIDsyMCS/LMKqDHL0YSjONnsZgNwIHN68vthusyI=;
+	h=Date:Subject:From:Reply-To:To;
+	b=rsswzB+Epi2Kb2vSeFqZbtXyWJGlO0KLwYl53T/4TYPfZEaOhQAqJEktu8baospWH
+	 bY54BcE8mryTv1lownsNJVpgu4XLLi3fAt4rCYu8jHeMszyRo8Onpm7T9A6s9osL9q
+	 CAu4PO+enSOJSEbCN/oIW0jVcyQq2hvzkt0c1ykQ=
+Received: from [172.10.113.106] ([172.10.113.106:60692] helo=recruit.naukri.com)
+	by n5plimla01.ieil.net (envelope-from <info@naukri.com>)
+	(ecelerity 3.6.13.50539 r(Core:3.6.13.0)) with ESMTP
+	id 91/16-45714-7CF44F85; Mon, 17 Apr 2017 10:46:55 +0530
+Message-ID: <b82f5c0dfda2a83ec7a02d8023f7f16c@recruit.naukri.com>
+Date: Mon, 17 Apr 2017 10:46:55 +0530
+Subject: Changes in your account password
+From: "Naukri.com" <info@naukri.com>
+Reply-To: modify@naukri.com
+To: hr@simplifytrips.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1" />
+<title>Application to your Job</title>
+</head>
+<style>
+.lf{ float:left;}
+.cls{ clear:both;}
+.style1 {color: #000000}
+</style>
+<body>
+<!-- =20
+<div style=3D"border: 1px solid #A2A2A2;  float:left; display: block; width=
+: 600px;">
+     <table width=3D"600" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+        =20
+            <tr>
+              <td width=3D"600" height=3D"148" colspan=3D"6" valign=3D"top"=
+>
+=09=09=09<div align=3D"right" style=3D" float:right; padding-top:10px; padd=
+ing-left:15px;"> <img src=3D"https://static.naukimg.com/rstatic/images/jobs=
+-india.gif" /> </div>
+<div style=3D" float: left; color:#000000; padding:5px; font-size: 12px; te=
+xt-align:justify; padding-left:15px; padding-top:15px; font-family:Arial, H=
+elvetica, sans-serif;">
+=09                <br />
+=09                <br />
+=09=09=09
+=09=09 =09 Dear <strong>User,</strong><br />
+=09                <br />
+=09=09=09=09=09<p>This is to inform you that password for your account at N=
+aukri.com has been changed successfully.</p>
+=09=09</div>
+<div style=3D"clear:both;">
+<span style=3D" float: left; color:#000000;   padding-right:15px; padding-b=
+ottom:5px;  padding-top:2px; font-size: 12px; text-align:justify; padding-l=
+eft:15px;  font-family:Arial, Helvetica, sans-serif;  ">=20
+=20
+ This is to ensure that your account security is not  compromised and only =
+an authenticated person has access to the account.  <br/><br/>
+ <span style=3D"font-size:13px;"><strong>The following are your login detai=
+ls: </strong></span>   </span>   </div>=09=09=09=09 </td>
+            </tr>
+           =20
+             =20
+              <tr>
+                <td height=3D"71" valign=3D"top">&nbsp;</td>
+                <td colspan=3D"5" valign=3D"top"><table width=3D"82%" borde=
+r=3D"0" align=3D"left" cellpadding=3D"0" cellspacing=3D"0">
+                  <tr>
+                    <td><span class=3D"lf"><img src=3D"https://static.nauki=
+mg.com/rstatic/images/chatSel_Le.jpg" width=3D"8" height=3D"28" /></span></=
+td>
+                    <td><img src=3D"https://static.naukimg.com/rstatic/imag=
+es/chatSel_FT.jpg" width=3D"574" height=3D"28" /></td>
+                    <td width=3D"2%"><span class=3D"lf"><img src=3D"https:/=
+/static.naukimg.com/rstatic/images/chatSel_R.jpg" width=3D"8" height=3D"28"=
+ /></span></td>
+                  </tr>
+                  <tr>
+                    <td width=3D"2%" height=3D"32"><img src=3D"https://stat=
+ic.naukimg.com/rstatic/images/leftflow.jpg" width=3D"8" height=3D"40" /></t=
+d>
+                    <td width=3D"96%" valign=3D"top"><table width=3D"100%" =
+height=3D"35" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+                     =20
+                      <tr>
+                        <td width=3D"20%"><div >
+                          <div align=3D"right"><span style=3D"color:#000000=
+; font-size: 12px;  font-family:Arial, Helvetica, sans-serif;"><strong>User=
+ Name:</strong></span></div>
+                        </div></td>
+                        <td width=3D"75%"><div style=3D"text-indent: 15px; =
+"><span style=3D"color:#000000; font-size: 13px;  font-family:Arial, Helvet=
+ica, sans-serif;"><span class=3D"style1"><span>hr@simplifytrips.com</span><=
+/span></span></div></td>
+                      </tr>
+                    </table></td>
+                    <td><img src=3D"https://static.naukimg.com/rstatic/imag=
+es/rightflow.jpg" width=3D"8" height=3D"40" /></td>
+                  </tr>
+                 =20
+                  </table>=09=09=09=09</td>
+              </tr>
+             =20
+
+            <tr>
+              <td colspan=3D"6" valign=3D"top">&nbsp;</td>
+            </tr>
+       =20
+=09=09<tr>
+=09=09=09<td colspan=3D"6">=20
+=09=09=09<div style=3D"color:#000000; font-size: 12px; padding-bottom:10px;=
+ font-family:Arial, Helvetica, sans-serif; padding-left: 15px;">
+        <span>
+For any further queries regarding your account, please write to us by reply=
+ing to this mail.
+        </span>
+=09=09=09<br />
+=09=09=09<br />
+=09=09=09<strong>Regards,<br/>
+            <strong style=3D"color:#0096EA; font-size:13px;">Naukri</strong=
+><strong style=3D"color:red; font-size:13px;">.</strong><strong style=3D"co=
+lor:#1751C0; font-size:13px;">com</strong> Team</strong>
+=09=09=09</div></td>
+=09=09</tr>
+</table>      =20
+</div>
+-->
+
+<!-- ARK LAST MODIFY-->
+<!--
+
+
+<table width=3D"600" border=3D"0" align=3D"center" cellpadding=3D"0" cellsp=
+acing=3D"0" style=3D"text-align:left;">
+  <tr>
+    <td height=3D"74" valign=3D"bottom" bgcolor=3D"#065688">
+      <table width=3D"592" border=3D"0" align=3D"left" cellpadding=3D"0" ce=
+llspacing=3D"0">
+        <tr>
+          <td width=3D"375" height=3D"61">
+            <table width=3D"350" border=3D"0" align=3D"center" cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"text-align:left;">
+              <tr>
+                <td><font face=3D"Verdana, Arial" color=3D"#FFFFFF" size=3D=
+"2"><strong>Password Change Notification</strong></font></td>
+              </tr>
+            </table>
+          </td>
+          <td width=3D"217" align=3D"center" valign=3D"middle" bgcolor=3D"#=
+FDFDFD">
+            <table width=3D"175" border=3D"0" align=3D"center" cellpadding=
+=3D"0" cellspacing=3D"0">
+              <tr>
+                <td width=3D"24"><a href=3D"http://www.naukri.com/" target=
+=3D"_blank"><img src=3D"https://static.naukimg.com/rstatic/images/logo_curv=
+e_new.gif" alt=3D"Naukri.com" width=3D"22" height=3D"27" border=3D"0"></a><=
+/td>
+                <td width=3D"167" align=3D"center" valign=3D"top" style=3D"=
+line-height:19px; padding-top:8px;"><a href=3D"http://www.naukri.com/" targ=
+et=3D"_blank" style=3D"text-decoration:none; font-family:Verdana, Arial;"><=
+strong><span style=3D"font-size:24px; color:#01abef;">naukri<span style=3D"=
+color:#ec1822;">.</span><span style=3D"color:#006cb7;">com</span></span></s=
+trong></a><br>
+<a href=3D"http://www.naukri.com/" target=3D"_blank" style=3D"text-decorati=
+on:none;"><span style=3D"font-family:Verdana, Arial, sans-serif; font-size:=
+9px; color:#3d3d3d; text-align:right;"> &nbsp; &nbsp; &nbsp; &nbsp; India's=
+ No.1 Job Site </span></a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+>
+        <tr>
+          <td width=3D"14"></td>
+          <td style=3D"font-size:11px; text-align:justify; line-height:17px=
+;"><font face=3D"Verdana, Arial" color=3D"#727171"><strong>Dear Recruiter,<=
+/strong><br><br>
+              This is to inform you that the password for your account at N=
+aukri.com has been changed successfully. Please ensure that only an authori=
+zed person has accessed the account and made the changes.</font></td>
+          <td width=3D"14"></td>
+        </tr>
+        <tr><td></td><td bgcolor=3D"#FDFEFF" height=3D"20"></td><td></td></=
+tr>
+        <tr>
+          <td></td>
+          <td>
+            <table width=3D"570" border=3D"0" cellpadding=3D"2" cellspacing=
+=3D"0" style=3D"border:1px solid #E8F0FE;">
+              <tr>
+                <td bgcolor=3D"#f2f6fd"></td>
+                <td height=3D"25" bgcolor=3D"#f2f6fd" colspan=3D"2" style=
+=3D"font-size:11px;"><font face=3D"Verdana, Arial" color=3D"#000000"><stron=
+g>The following are your login details:</strong></font></td>
+              </tr>
+              <tr>
+                <td width=3D"5"></td>
+                <td width=3D"120" height=3D"30" style=3D"font-size:11px;"><=
+font face=3D"Verdana, Arial" color=3D"#4f4e4e">User Name:</font></td>
+                <td style=3D"font-size:11px;"><font face=3D"Verdana, Arial"=
+ color=3D"#4f4e4e"><strong>hr@simplifytrips.com</strong></font></td>
+              </tr>
+            </table>
+          </td>
+          <td></td>
+        </tr>
+        <tr><td></td><td height=3D"22"></td><td></td></tr>
+        <tr>
+          <td></td>
+          <td height=3D"22" style=3D"font-size:11px; line-height:17px;"><fo=
+nt face=3D"Verdana, Arial" color=3D"#727171">If you did not authorize this =
+change, please immediately notify our customer support or call us at our Re=
+cruiter Helpline given below.</font></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td></td>
+          <td height=3D"22" style=3D"font-size:11px; line-height:17px;">&nb=
+sp;</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td></td>
+          <td height=3D"22" style=3D"font-size:11px;"><font face=3D"Verdana=
+, Arial, Helvetica" color=3D"#727171">Regards<br><strong><span style=3D"col=
+or:#189BD6;">Naukri</span><span style=3D"color:#DF292A;">.</span><span styl=
+e=3D"color:#1169AC;">com</span></strong> Team</font>
+          </td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr><td height=3D"22"></td></tr>
+  <tr>
+    <td>
+      <table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+>
+        <tr>
+          <td height=3D"40" bgcolor=3D"#F8F7F7">
+            <table width=3D"179" border=3D"0" align=3D"center" cellpadding=
+=3D"0" cellspacing=3D"0">
+              <tr>
+                <td height=3D"34" align=3D"center" bgcolor=3D"#FFFFFF"><fon=
+t face=3D"Verdana, Arial" color=3D"#4f6c80" size=3D"2"><strong>You can reac=
+h us at</strong></font></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor=3D"#f8f8f8" style=3D"border-bottom:solid 4px #ebeaea;=
+">
+            <table width=3D"500" border=3D"0" align=3D"center" cellpadding=
+=3D"0" cellspacing=3D"0">
+              <tr><td></td><td></td><td height=3D"10"></td></tr>
+              <tr>
+                <td align=3D"center"><img src=3D"https://static.naukimg.com=
+/rstatic/images/call_icon.gif" width=3D"54" height=3D"54"></td>
+                <td align=3D"center"><a href=3D"mailto:support@naukri.com">=
+<img src=3D"https://static.naukimg.com/rstatic/images/mail_icom.gif" width=
+=3D"54" height=3D"54" border=3D"0"></a></td>
+                <td align=3D"center"><a href=3D"http://www.naukri.com/mynau=
+kri/mn_contactus.php"><img src=3D"https://static.naukimg.com/rstatic/images=
+/branch_icon.gif" alt=3D"Our Branches" width=3D"54" height=3D"54" border=3D=
+"0"></a></td>
+              </tr>
+              <tr><td height=3D"10" colspan=3D"3"></td></tr>
+              <tr>
+                <td align=3D"center" style=3D"font-size:10px;"><font face=
+=3D"Verdana, Arial" color=3D"#373737"><strong>1800-102-5558</strong></font>=
+</td>
+                <td align=3D"center" style=3D"font-size:10px;"><font face=
+=3D"Verdana, Arial" color=3D"#373737"><strong><a href=3D"mailto:support@nau=
+kri.com" style=3D"color:#373737; text-decoration:none;">support@naukri.com<=
+/a></strong></font></td>
+                <td align=3D"center" style=3D"font-size:10px;"><font face=
+=3D"Verdana, Arial" color=3D"#373737"><strong>Our Branches</strong></font><=
+/td>
+              </tr>
+              <tr><td></td><td></td><td height=3D"10"></td></tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr><td height=3D"15"></td></tr>
+  <tr>
+    <td height=3D"30" align=3D"center"><a href=3D"http://w5.naukri.com/fdbc=
+k/main/feedback.php?app_id=3D18" target=3D"_blank" style=3D"color:#006eb3; =
+font-size:10px; font-family:Verdana, Arial;">Report a problem</a></td>
+  </tr>
+  <tr>
+    <td height=3D"30" align=3D"center"><font face=3D"Verdana, Arial" color=
+=3D"#888888" size=3D"1">This is a Computer-generated email, please do not r=
+eply to this message.</font>
+    </td>
+  </tr>
+  <tr><td height=3D"16"></td></tr>
+</table>
+-->
+<!-- LATEST CODE -->
+
+
+
+<table width=3D"600" border=3D"0" align=3D"center" cellpadding=3D"0" cellsp=
+acing=3D"0" style=3D"text-align:left;">
+<tr>
+<td height=3D"74" valign=3D"bottom" bgcolor=3D"#065688"><table width=3D"592=
+" border=3D"0" align=3D"left" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td width=3D"375" height=3D"61"><table width=3D"350" border=3D"0" align=3D"=
+center" cellpadding=3D"0" cellspacing=3D"0" style=3D"text-align:left;">
+<tr>
+<td><font face=3D"Verdana, Arial" color=3D"#FFFFFF" size=3D"2"><strong>Pass=
+word Change Notification</strong></font></td>
+</tr>
+</table></td>
+<td width=3D"217" align=3D"center" valign=3D"middle" bgcolor=3D"#FDFDFD"><t=
+able width=3D"175" border=3D"0" align=3D"center" cellpadding=3D"0" cellspac=
+ing=3D"0">
+<tr>
+<td width=3D"24"><a href=3D"http://www.naukri.com/" target=3D"_blank"><img =
+src=3D"https://static.naukimg.com/rstatic/images/logo_curve_new.gif" alt=3D=
+"Naukri.com" width=3D"22" height=3D"27" border=3D"0"></a></td>
+<td width=3D"167" align=3D"center" valign=3D"top" style=3D"line-height:19px=
+; padding-top:8px;"><a href=3D"http://www.naukri.com/" target=3D"_blank" st=
+yle=3D"text-decoration:none; font-family:Verdana, Arial;"><strong><span sty=
+le=3D"font-size:24px; color:#01abef;">naukri<span style=3D"color:#ec1822;">=
+.</span><span style=3D"color:#006cb7;">com</span></span></strong></a><br>
+<a href=3D"http://www.naukri.com/" target=3D"_blank" style=3D"text-decorati=
+on:none;"><span style=3D"font-family:Verdana, Arial, sans-serif; font-size:=
+9px; color:#3d3d3d; text-align:right;"> &nbsp; &nbsp; &nbsp; &nbsp; India's=
+ No.1 Job Site </span></a></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+<tr><td height=3D"22"></td></tr>
+<tr>
+<td><table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td width=3D"14"></td>
+<td style=3D"font-size:11px; text-align:justify; line-height:17px;"><font f=
+ace=3D"Verdana, Arial" color=3D"#262626"><strong>Dear Recruiter,</strong><b=
+r><br>
+This is to inform you that the password for your account at Naukri.com has =
+been changed successfully. Please ensure that only an authorized person has=
+ accessed the account and made the changes.</font></td>
+<td width=3D"14"></td>
+</tr>
+<tr><td></td><td height=3D"20"></td><td></td></tr>
+<tr>
+<td></td>
+<td><table width=3D"570" border=3D"0" cellpadding=3D"2" cellspacing=3D"0" s=
+tyle=3D"border:1px solid #E8F0FE;">
+<tr>
+<td bgcolor=3D"#f2f6fd"></td>
+<td height=3D"25" bgcolor=3D"#f2f6fd" colspan=3D"2" style=3D"font-size:11px=
+;"><font face=3D"Verdana, Arial" color=3D"#000000"><strong>The following ar=
+e your login details:</strong></font></td>
+</tr>
+<tr>
+<td width=3D"6"></td>
+<td width=3D"88" height=3D"30" style=3D"font-size:11px;"><font face=3D"Verd=
+ana, Arial" color=3D"#4f4e4e">User Name:</font></td>
+<td width=3D"462" style=3D"font-size:11px; text-align:left;"><font face=3D"=
+Verdana, Arial" color=3D"#4f4e4e"><strong>hr@simplifytrips.com</strong></fo=
+nt></td>
+</tr>
+</table></td>
+<td></td>
+</tr>
+<tr><td></td><td height=3D"22"></td><td></td></tr>
+<tr>
+<td></td>
+<td height=3D"22" style=3D"font-size:11px; line-height:17px;"><font face=3D=
+"Verdana, Arial" color=3D"#262626">If you did not authorize this change, pl=
+ease immediately notify our customer support or call us at our Recruiter He=
+lpline given below.</font></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td height=3D"22"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td style=3D"font-size:11px;"><font face=3D"Verdana, Arial, Helvetica" colo=
+r=3D"#262626">Regards<br>
+<strong><span style=3D"color:#189BD6;">Naukri</span><span style=3D"color:#D=
+F292A;">.</span><span style=3D"color:#1169AC;">com</span></strong> Team</fo=
+nt></td>
+<td></td>
+</tr>
+</table></td>
+</tr>
+<tr><td height=3D"22"></td></tr>
+<tr>
+<td><table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td height=3D"40" bgcolor=3D"#F8F7F7"><table width=3D"179" border=3D"0" ali=
+gn=3D"center" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td height=3D"34" align=3D"center" bgcolor=3D"#FFFFFF"><font face=3D"Verdan=
+a, Arial" color=3D"#4f6c80" size=3D"2"><strong>You can reach us at</strong>=
+</font></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td bgcolor=3D"#f8f8f8" style=3D"border-bottom:solid 4px #ebeaea;"><table w=
+idth=3D"500" border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D=
+"0">
+<tr><td></td><td></td><td height=3D"10"></td></tr>
+<tr>
+<td align=3D"center"><img src=3D"https://static.naukimg.com/rstatic/images/=
+call_icon.gif" width=3D"54" height=3D"54"></td>
+<td align=3D"center"><a href=3D"mailto:support@naukri.com"><img src=3D"http=
+s://static.naukimg.com/rstatic/images/mail_icom.gif" width=3D"54" height=3D=
+"54" border=3D"0"></a></td>
+<td align=3D"center"><a href=3D"http://www.naukri.com/mynaukri/mn_contactus=
+.php"><img src=3D"https://static.naukimg.com/rstatic/images/branch_icon.gif=
+" alt=3D"Our Branches" width=3D"54" height=3D"54" border=3D"0"></a></td>
+</tr>
+<tr><td height=3D"10" colspan=3D"3"></td></tr>
+<tr>
+<td align=3D"center" style=3D"font-size:10px;"><font face=3D"Verdana, Arial=
+" color=3D"#373737"><strong>1800-102-5558</strong></font></td>
+<td align=3D"center" style=3D"font-size:10px;"><font face=3D"Verdana, Arial=
+" color=3D"#373737"><strong><a href=3D"mailto:support@naukri.com" style=3D"=
+color:#373737; text-decoration:none;">support@naukri.com</a></strong></font=
+></td>
+<td align=3D"center" style=3D"font-size:10px;"><font face=3D"Verdana, Arial=
+" color=3D"#373737"><strong>Our Branches</strong></font></td>
+</tr>
+<tr><td></td><td></td><td height=3D"10"></td></tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+<tr><td height=3D"15"></td></tr>
+<tr>
+<td height=3D"30" align=3D"center"><a href=3D"http://w5.naukri.com/fdbck/ma=
+in/feedback.php?app_id=3D18" target=3D"_blank" style=3D"color:#006eb3; font=
+-size:10px; font-family:Verdana, Arial;">Report a problem</a></td>
+</tr>
+<tr>
+<td height=3D"30" align=3D"center"><font face=3D"Verdana, Arial" color=3D"#=
+888888" size=3D"1">This is a Computer-generated email, please do not reply =
+to this message.</font></td>
+</tr>
+<tr><td height=3D"16"></td></tr>
+</table>
+
+
+
+
+
+</body>
+</html>

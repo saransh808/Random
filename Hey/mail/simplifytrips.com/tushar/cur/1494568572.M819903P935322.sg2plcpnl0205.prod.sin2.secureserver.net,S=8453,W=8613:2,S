@@ -1,0 +1,160 @@
+Return-Path: <dheeraj@senzecit.in>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id CSPHMHxOFVmaRQ4AwZeyeg
+	for <tushar@simplifytrips.com>; Thu, 11 May 2017 22:56:12 -0700
+Return-path: <dheeraj@senzecit.in>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Thu, 11 May 2017 22:56:12 -0700
+Received: from mail-yw0-f195.google.com ([209.85.161.195]:35736)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.88)
+	(envelope-from <dheeraj@senzecit.in>)
+	id 1d93Yi-003vji-Nj
+	for tushar@simplifytrips.com; Thu, 11 May 2017 22:56:12 -0700
+Received: by mail-yw0-f195.google.com with SMTP id p144so926570ywp.2
+        for <tushar@simplifytrips.com>; Thu, 11 May 2017 22:55:52 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=senzecit-in.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:sender:from:date:message-id:subject:to;
+        bh=VVHCMqnnMbYJUL4GIEIH9Rgczn1wpcyB4PAw0krJViQ=;
+        b=CpoSjgqOKrgqT2JcYQx88JyMxwcMnNirNQgrcjwAAousufwnu4WDw2TTkRq2AsmGIt
+         xvLDtFIPy6VUPo2Chf47LrlZqe6REbfG5kYziLfw+pYYTe1BvIrsOYtLsnnpc2tyEkMm
+         D1Db5v3G4fNssCTImwc6q6IYcGeFQmTWzjB7p2revfcpQLWYMjRd9AM1dB6npT6U+7uN
+         ywyRg0sxPLeGy43AbEQ9oKaCgQu7vWFapg9+GGuEX/rTtB6GGewPkUq8fmsanMqMGBTd
+         NDRNh4PlBoqck3upWWPenSafJ7faFuRc8IP3Tt0mQ+XahfMLBvMXfK/u6/rjRYyvv7SO
+         tLHg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:sender:from:date:message-id:subject
+         :to;
+        bh=VVHCMqnnMbYJUL4GIEIH9Rgczn1wpcyB4PAw0krJViQ=;
+        b=qj5ROpAFog550npj6Ts4/UUtr5EwsUflSy/W4H2QpAMHjHQJsN+c23+T44Oc1lZWb8
+         c7rkyXT8KsbZCim/Vp+YcvExCVmIoEedcvQjLaguv6qZwvmI76O4INPXqImrSVWtmmJy
+         WlUB5Fq4/+4qiqJvTN3PuS5rJc2KNzaL2ct7H4YXuD0AhihH/x2ubDlNMHSXTIhbtJgp
+         uwgqMnCNpGYssgG8XQ7tEMrU9BED2GKHFwi3N8zR5IlI2MTL0+R2sAULJFl9Xq8hWUBI
+         yPXfuHmDVBPdoae7VMdmDYH2Gm6clwHgxjysMergJB9xg7nPRXyEKQDEQ6gd93NN31xe
+         n+ig==
+X-Gm-Message-State: AODbwcB14KWpe7izyCQBh9dQ7a08+VxAX1sJKePb6flarPH/YJz/0RHv
+	CO5ovqYTo2jQg105gx7FhyQ98YKWkBtS
+X-Received: by 10.13.210.134 with SMTP id u128mr1736944ywd.211.1494568530302;
+ Thu, 11 May 2017 22:55:30 -0700 (PDT)
+Received: from 52669349336 named unknown by gmailapi.google.com with HTTPREST;
+ Fri, 12 May 2017 01:55:29 -0400
+MIME-Version: 1.0
+Sender: Dheeraj <dheeraj@senzecit.in>
+From: Dheeraj <dheeraj@senzecit.in>
+Date: Fri, 12 May 2017 01:55:29 -0400
+X-Google-Sender-Auth: T7WNNw4-udXdGxEkEySaJTroDGg
+Message-ID: <CAAia_3Cb9WheDBjpd4gnWD4z1ExwnwhnNX=mJ1WNRHPsmzceKA@mail.gmail.com>
+Subject: Senior Web Developer for Simplifykaro
+To: tushar@simplifytrips.com
+Content-Type: multipart/alternative; boundary="001a114e4e7457614c054f4d5aef"
+
+--001a114e4e7457614c054f4d5aef
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Tushar,
+
+We've never met, but your profile came up when I was browsing Angel.
+
+I learnt about your requirement for *Sr.** Web  **Developer* and thus
+thought of connecting to see if you might be interested to have a in
+discussion for hiring full-time or remote developers.
+
+We have a highly skilled team of Web and Mobile App experts who have
+developed more than 1000+ Web & Mobile Apps for various clients across the
+globe.
+
+Our Web and Mobile Portfolio @*http://www.senzecit.com/portfolio
+<https://senzecit-dot-yamm-track.appspot.com/Redirect?ukey=1TPOy6DZsjJLFu64JedyVoo8OVHoWFoYym4rLqLNsfjo-1695201588&key=YAMMID-68529569&link=http%3A%2F%2Fwww.senzecit.com%2Fportfolio>*
+
+Feel free to respond to my email, in case this is of your interest.
+
+Regards,
+
+*Dheeraj Kumra*
+*Business Development *
+M: +91-9999-44-5647, Skype: dheerajkumra
+
+
+
+
+<https://senzecit-dot-yamm-track.appspot.com/Redirect?ukey=1TPOy6DZsjJLFu64JedyVoo8OVHoWFoYym4rLqLNsfjo-1695201588&key=YAMMID-68529569&link=https%3A%2F%2Fmailtrack.io%2F>
+Sent
+with Mailtrack
+<https://mailtrack.io/install?source=signature&lang=en&referral=dheeraj@senzecit.in&idSignature=22>
+<#>
+[image: beacon]
+
+--001a114e4e7457614c054f4d5aef
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div style=3D"font-size:12.8px">Dear Tushar,</div><div sty=
+le=3D"font-size:12.8px"><br></div><div style=3D"font-size:12.8px">We&#39;ve=
+ never met, but your profile came up when I was browsing Angel.=C2=A0</div>=
+<div style=3D"font-size:12.8px"><br></div><div style=3D"font-size:12.8px"><=
+span style=3D"font-size:12.8px">I learnt about your requirement for=C2=A0</=
+span><b style=3D"font-size:12.8px">Sr.</b><b style=3D"font-size:12.8px">=C2=
+=A0Web =C2=A0</b><b style=3D"font-size:12.8px">Develo<wbr>per</b><span styl=
+e=3D"font-size:12.8px">=C2=A0and thus thought of connecting to see if you m=
+ight be interested to have a in discussion for hiring full-time or remote d=
+evelopers.=C2=A0</span></div><div style=3D"font-size:12.8px"><br></div><div=
+ style=3D"font-size:12.8px">We have a highly skilled team of Web and Mobile=
+ App experts who have developed more than 1000+ Web &amp; Mobile Apps for v=
+arious clients across the globe.</div><div style=3D"font-size:12.8px"><br><=
+/div><div style=3D"font-size:12.8px">Our Web and Mobile Portfolio @<font co=
+lor=3D"#3d85c6"><b><a href=3D"https://senzecit-dot-yamm-track.appspot.com/R=
+edirect?ukey=3D1TPOy6DZsjJLFu64JedyVoo8OVHoWFoYym4rLqLNsfjo-1695201588&amp;=
+key=3DYAMMID-68529569&amp;link=3Dhttp%3A%2F%2Fwww.senzecit.com%2Fportfolio"=
+ target=3D"_blank">http://www.senzecit.com/<wbr>portfolio</a></b></font></d=
+iv><div style=3D"font-size:12.8px">=C2=A0</div><div style=3D"font-size:12.8=
+px">Feel free to respond to my email, in case this is of your interest.</di=
+v><div style=3D"font-size:12.8px"><br></div><div style=3D"font-size:12.8px"=
+>Regards,</div><div style=3D"font-size:12.8px"><br></div><div style=3D"font=
+-size:12.8px"><div style=3D"font-size:12.8px"><div style=3D"font-size:12.8p=
+x"><span style=3D"font-size:9.5pt;line-height:13.5533px"><p class=3D"MsoNor=
+mal" style=3D"margin-bottom:12pt;font-size:12.8px;line-height:normal;backgr=
+ound-image:initial;background-position:initial;background-size:initial;back=
+ground-repeat:initial;background-origin:initial;background-clip:initial"><b=
+ style=3D"font-size:13.3333px;color:rgb(0,112,192);font-family:tahoma,sans-=
+serif">Dheeraj Kumra</b><br style=3D"font-size:12.8px"><b style=3D"font-siz=
+e:12.8px"><span style=3D"font-size:10pt;font-family:tahoma,sans-serif;color=
+:rgb(0,112,192)">Business Development=C2=A0</span></b><br style=3D"font-siz=
+e:12.8px"><span style=3D"font-size:10pt;font-family:tahoma,sans-serif;color=
+:rgb(0,112,192)">M: +91-9999-44-5647,=C2=A0</span><span style=3D"color:rgb(=
+0,112,192);font-family:tahoma,sans-serif;font-size:10pt">Skype: dheerajkumr=
+a</span></p></span></div></div></div><span class=3D"mt-tool-email-notificat=
+ion-true"></span><span class=3D"mt-tool-email-tracking-true"></span><div cl=
+ass=3D"mt-signature">
+                <br>
+                <br>
+                <br>
+                <div class=3D"mt-signature-inner">
+                    <a href=3D"https://senzecit-dot-yamm-track.appspot.com/=
+Redirect?ukey=3D1TPOy6DZsjJLFu64JedyVoo8OVHoWFoYym4rLqLNsfjo-1695201588&amp=
+;key=3DYAMMID-68529569&amp;link=3Dhttps%3A%2F%2Fmailtrack.io%2F" class=3D"m=
+t-signature-logo" style=3D"text-decoration:none">
+                        <img src=3D"https://s3-eu-west-1.amazonaws.com/mail=
+track-crx/icon-signature.png" height=3D"14">=C2=A0
+                    </a>
+                    <font color=3D"#999999" class=3D"mt-signature-text">
+                        Sent with <a href=3D"https://mailtrack.io/install?s=
+ource=3Dsignature&amp;lang=3Den&amp;referral=3Ddheeraj@senzecit.in&amp;idSi=
+gnature=3D22" class=3D"mt-install">Mailtrack</a>
+                    </font>
+                </div>
+                <div class=3D"mt-tool-tracking">
+                    <a href=3D"#" title=3D"Remove the Mailtrack signature" =
+class=3D"mt-remove">
+                        <span></span>
+                    </a>
+                </div>
+            </div></div>
+<img src=3D"https://senzecit-dot-yamm-track.appspot.com/FireBase?ukey=3D1TP=
+Oy6DZsjJLFu64JedyVoo8OVHoWFoYym4rLqLNsfjo-1695201588&amp;key=3DYAMMID-68529=
+569" width=3D"1" height=3D"1" alt=3D"beacon" style=3D"display:none; display=
+:none!important;">
+
+--001a114e4e7457614c054f4d5aef--

@@ -1,0 +1,209 @@
+Return-Path: <recruiter.profile@naukri.com>
+Delivered-To: hr@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id 8d1sBioFE1kLWgQAwZeyeg
+	for <hr@simplifytrips.com>; Wed, 10 May 2017 05:18:50 -0700
+Return-path: <recruiter.profile@naukri.com>
+Envelope-to: hr@simplifytrips.com
+Delivery-date: Wed, 10 May 2017 05:18:50 -0700
+Received: from smtp1.ieil.net ([180.179.180.123]:58124)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <recruiter.profile@naukri.com>)
+	id 1d8QZt-001Cwh-Vc
+	for hr@simplifytrips.com; Wed, 10 May 2017 05:18:50 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=naukri.com; s=2015;
+	t=1494418688; bh=/njQ/Nqubowem3rBGlCe2twa8LeSn4PbjMNqpdP+EQE=;
+	h=Date:To:From:Subject;
+	b=eNgjqDw2Z6zDgFNIogURWwIEnc0cLOqvCj3KIr2r/H33NufweQ2dvupaqRHqH+9UW
+	 V+seau43+5XFdivARbZnfrEhF5oZQUBjTqrWXvHrqYknOcItZ822r8ZQR+j1IiWjY1
+	 kFQbHq4PhRBUo65j1Um+1rt1pXfRJvm9evxdiuho=
+Received: from [172.10.122.51] ([172.10.122.51:52499] helo=naukri.com)
+	by nplimla13.ieil.net (envelope-from <recruiter.profile@naukri.com>)
+	(ecelerity 3.6.13.50539 r(Core:3.6.13.0)) with ESMTP
+	id 18/4F-02307-00503195; Wed, 10 May 2017 17:48:08 +0530
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=naukri.com; s=2015;
+	t=1494418688; bh=/njQ/Nqubowem3rBGlCe2twa8LeSn4PbjMNqpdP+EQE=;
+	h=Date:To:From:Subject;
+	b=eNgjqDw2Z6zDgFNIogURWwIEnc0cLOqvCj3KIr2r/H33NufweQ2dvupaqRHqH+9UW
+	 V+seau43+5XFdivARbZnfrEhF5oZQUBjTqrWXvHrqYknOcItZ822r8ZQR+j1IiWjY1
+	 kFQbHq4PhRBUo65j1Um+1rt1pXfRJvm9evxdiuho=
+Received: from [172.10.115.196] ([172.10.115.196:36794] helo=localhost.localdomain)
+	by n5plimla01.ieil.net (envelope-from <recruiter.profile@naukri.com>)
+	(ecelerity 3.6.13.50539 r(Core:3.6.13.0)) with ESMTP
+	id E8/08-06083-00503195; Wed, 10 May 2017 17:48:08 +0530
+Date: Wed, 10 May 2017 17:48:08 +0530
+To: "hr@simplifytrips.com" <hr@simplifytrips.com>
+From: "Naukri.com" <recruiter.profile@naukri.com>
+Subject: Your FREE NaukriRecruiter Profile is Not Visible to Jobseekers
+Message-ID: <41ca872bafa4a3f247963de2d7c8c9c1@localhost.localdomain>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset=us-ascii; charset="iso-8859-1"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Naukri</title>
+</head>
+
+<body><table width="600" border="0" cellspacing="0" cellpadding="0" align="center"> <tr><td valign="middle" align="center" height="25"><div align="center"><font color="#CC0000"></font><a href=http://company.naukri.com/mailers/naukri/332016-1.html target="_blank">Use this link, if unable to view the page</a></div></td></tr></table>
+<blockquote>&nbsp;</blockquote>
+<table border="0" align="center" cellpadding="0" cellspacing="0" style="max-width:700px; min-width:300px;">
+  <tr>
+    <td width="700" style="border:1px solid #ccc;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="left" valign="top"><img src="http://company.naukri.com/mailers/naukri/images/top.jpg" style="width:100%;" alt="" /></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top"><table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td align="left" valign="top" style="font-family:Tahoma, Geneva, sans-serif; color:#2f2f2f; font-size:18px; font-weight:bold;">Dear Recruiter</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" style="font-family:Tahoma, Geneva, sans-serif; color:#2f2f2f; font-size:14px;"><br />
+              You have already taken a great step forward by creating a FREE NaukriRecruiter profile. However, we noticed that currently, your profile is not visible to jobseekers.</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top">&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top">&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="18%" height="35" align="left" valign="top">&nbsp;</td>
+    <td align="center" valign="middle" bgcolor="#437691">
+    	<a href="https://naukrirecruiter.naukri.com/" target="_blank" style="background:#437691; color:#fff; font-size:12px; font-weight:bold; text-decoration:none; font-family:Tahoma, Geneva, sans-serif;">Please revert with a confirmation to activate your profile now!</a>
+    </td>
+    <td width="18%" align="left" valign="top">&nbsp;</td>
+  </tr>
+</table>
+</td>
+          </tr>
+          <tr>
+            <td height="25" align="left" valign="top">&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="center" valign="top" style="font-family:Tahoma, Geneva, sans-serif; color:#b8b8b8; font-size:18px;">(OR)</td>
+          </tr>
+          <tr>
+            <td height="25" align="left" valign="top">&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="35%" height="35" align="left" valign="top">&nbsp;</td>
+                <td align="center" valign="middle" bgcolor="#6baf09">
+                  <a href="https://naukrirecruiter.naukri.com/" target="_blank"  style="color:#fff; padding:10px 15px; font-size:12px; font-weight:bold; text-decoration:none; font-family:Tahoma, Geneva, sans-serif; text-transform:uppercase;">Activate Now!</a>
+                  </td>
+                <td width="35%" align="left" valign="top">&nbsp;</td>
+                </tr>
+  </table>
+  </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top">&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" style="font-family:Tahoma, Geneva, sans-serif; color:#2f2f2f; font-size:13px; font-weight:bold;">You should also add your Photo to your FREE NaukriRecruiter profile right away! Here's what it can do for you:</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top">&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" style="font-family:Tahoma, Geneva, sans-serif; color:#2f2f2f; font-size:13px; line-height:18px;"><ul>
+              <li>Naukri jobs and mails with recruiter photograph get <span style="color:#F00; font-weight:bold; font-style:italic; font-size:14px;">40%</span> more relevant responses.</li>
+              <li>Quick-Jobs with recruiter photograph get <span style="color:#F00; font-weight:bold; font-style:italic; font-size:14px;">5X</span> more applications</li>
+              <li><span style="color:#F00; font-weight:bold; font-style:italic; font-size:14px;">70,000+</span> recruiters are already benefitting from 40% more relevant responses to their Naukri jobs and Resdex mails.</li>
+              <li><span style="color:#F00; font-weight:bold; font-style:italic; font-size:14px;">43% </span>of recruiters have said that adding their photograph increases the credibility of jobs that they post on Naukri.com. </li>
+            </ul></td>
+          </tr>
+          <tr>
+            <td align="left" valign="top">&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" style="font-family:Tahoma, Geneva, sans-serif; color:#2f2f2f; font-size:13px;">It is easier now to add a photo to your profile even if you don't have one readily available. You can import your social profile photo or your Naukri jobseeker photo into your NaukriRecruiter profile in just 2 steps- Click on import Facebook photo and sign in to your Facebook account. </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top">&nbsp;</td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" bgcolor="#cfcfcf"><table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td align="center" valign="top">&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="center" valign="top"><img src="http://company.naukri.com/mailers/naukri/images/upload.jpg" style="width:100%;" alt="" /></td>
+          </tr>
+          <tr>
+            <td align="center" valign="top">&nbsp;</td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top"><table width="90%" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td colspan="2" align="left" valign="top" style="font-family:Tahoma, Geneva, sans-serif; color:#2f2f2f; font-size:17px; font-weight:bold;">So why miss out?</td>
+            </tr>
+          <tr>
+            <td colspan="2" align="left" valign="top">&nbsp;</td>
+            </tr>
+          <tr>
+            <td colspan="2" align="left" valign="top" style="font-family:Tahoma, Geneva, sans-serif; color:#2f2f2f; font-size:14px;"><a href="https://login.recruit.naukri.com/Login/rpLogout?errCode=30085&amp;msg=TO&amp;URL=" target="_blank"><img src="http://company.naukri.com/mailers/naukri/images/add.jpg" alt="" border="0" /></a></td>
+            </tr>
+          <tr>
+            <td colspan="2" align="left" valign="top">&nbsp;</td>
+            </tr>
+          <tr>
+            <td colspan="2" align="left" valign="top" style="font-family:Tahoma, Geneva, sans-serif; color:#2f2f2f; font-size:14px;">Or even simpler! Just mail us your photo at &quot;<a href="mailto:recruiter.profile@naukri.com">recruiter.profile@naukri.com</a>&quot;<br />
+              <a href="http://recruiterzone.naukri.com/why-should-you-have-your-photograph-on-naukrirecruiter/" target="_blank">Learn</a> more benefits of uploading photo in profile.</td>
+            </tr>
+          <tr>
+            <td colspan="2" align="left" valign="top">&nbsp;</td>
+            </tr>
+          <tr>
+            <td align="left" valign="top" style="font-family:Tahoma, Geneva, sans-serif; color:#2f2f2f; font-size:14px;">Regards,<br />
+NaukriRecruiter Team<br />
+0120-6128-506<br />
+
+</td>
+            <td align="right" valign="middle"><a href="https://www.facebook.com/NaukriRecruiter" target="_blank"><img src="http://company.naukri.com/mailers/naukri/images/facebook.jpg" alt="" width="132" height="51" border="0" /></a></td>
+          </tr>
+          <tr>
+            <td colspan="2" align="left" valign="top">&nbsp;</td>
+            </tr>
+          <tr>
+            <td colspan="2" align="left" valign="top"  style="font-family:Tahoma, Geneva, sans-serif; color:#2f2f2f; font-size:13px; font-weight:bold;">(For '<a href="http://recruiterzone.naukri.com/" target="_blank">Naukri.com</a>' related queries, contact - <a href="mailto:support@naukri.com">support@naukri.com</a> OR call us on Toll Free Customer Care Helpline number - 1800 102 5558) </td>
+          </tr>
+          </table></td>
+      </tr>
+      <tr>
+        <td align="left" valign="top">&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<br><br>
+<TABLE ALIGN="CENTER"><TR><TD ALIGN="CENTER"><DIV ALIGN="CENTER">We are sending this mail as you have registered with naukri.com. You can <A HREF="mailto:unsubscribe@naukri.com?subject=Unsubscribe from Naukri Newsletter" TARGET="_blank"> unsubscribe from this mailer</A> or other mails by clicking on the link provided.</DIV></TD></TR></TABLE><br><br><IMG src=http://mailtracking.naukri.com/Finale/mmm_main/mmm_record_response.php?mailer_id=206440&response_type=o width="0" height="0" border="0"><INPUT TYPE=hidden NAME=hid_email VALUE='<?=hr@simplifytrips.com?>'></BODY>
+<script language='JavaScript' type='text/JavaScript'>
+                if(navigator.appName == "Microsoft Internet Explorer")
+                {
+                        document.getElementById('id_brwsr').innerHTML="<center>"+document.getElementById('ID').innerHTML;
+                }
+                else
+                {
+                        document.getElementById('id_brwsr').innerHTML="<br><center>"+document.getElementById('ID').innerHTML;
+                }
+        </script></html>
+
+

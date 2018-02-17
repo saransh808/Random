@@ -1,0 +1,50 @@
+Return-Path: <0102015bae55bfb1-43d87799-b71c-4451-8376-1de0021c7311-000000@eu-west-1.amazonses.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id qZPqJFafAVkLwgYAwZeyeg
+	for <tushar@simplifytrips.com>; Thu, 27 Apr 2017 00:35:50 -0700
+Return-path: <0102015bae55bfb1-43d87799-b71c-4451-8376-1de0021c7311-000000@eu-west-1.amazonses.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Thu, 27 Apr 2017 00:35:50 -0700
+Received: from a7-17.smtp-out.eu-west-1.amazonses.com ([54.240.7.17]:38744)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1:ECDHE-RSA-AES128-SHA:128)
+	(Exim 4.88)
+	(envelope-from <0102015bae55bfb1-43d87799-b71c-4451-8376-1de0021c7311-000000@eu-west-1.amazonses.com>)
+	id 1d3dxu-001riw-B0
+	for tushar@simplifytrips.com; Thu, 27 Apr 2017 00:35:50 -0700
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=shh3fegwg5fppqsuzphvschd53n6ihuv; d=amazonses.com; t=1493278507;
+	h=MIME-Version:Content-Type:Content-Transfer-Encoding:Subject:From:To:Date:Message-ID:Feedback-ID;
+	bh=XAROIMc+u0IjcqYB2Rm3wa+PuSgskboi/GSbb0zmL+k=;
+	b=aVx4EAciahxSVY6ak6NjaAHHJS30uzKx5sB3zTp1M3rdHlYZMyzhL6Q08CU/F5pk
+	nPbsiBzHYgkQ6tgWIObV5To0zv9mX/EudE08+YYl2cpGv+TNvgZl6McbrvZ2sVplZLr
+	OHSQpJMQcHxuJgsmUZnS5WSDn4AJjHhMwCAvr8Rw=
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+Subject: Acknowledgement Mail: Successful submission at Indian Angel Network
+From: INDIAN ANGEL NETWORK <noreply@indianangelnetwork.com>
+To: tushar@simplifytrips.com
+Date: Thu, 27 Apr 2017 07:35:07 +0000
+Message-ID: <0102015bae55bfb1-43d87799-b71c-4451-8376-1de0021c7311-000000@eu-west-1.amazonses.com>
+X-SES-Outgoing: 2017.04.27-54.240.7.17
+Feedback-ID: 1.eu-west-1.MSoHkEq6FHwLMcSaHzxLNbFLvqHojaPX1lVlpxeVwNA=:AmazonSES
+
+
+
+
+
+<p><span style="font-size:12px"><span style="font-family:verdana,geneva,sans-serif">Hi Tushar Choudhary,</span></span></p>
+
+<p>Hi, &nbsp;</p>
+
+<p>Thank you for connecting with IAN. The proposition is in process with us and we shall get back to you with feedback/ next action in next 3 working days.</p>
+
+<p>Best regards,<br />
+Team IAN</p>
+
+<p><span style="font-size:12px"><span style="font-family:verdana,geneva,sans-serif"><a href="https://www.indianangelnetwork.com"><img src="https://d2n91hbqyoc1c7.cloudfront.net/img/logo.png" style="width:200px" /></a></span></span></p>
+
+<hr />
+<p><span style="font-size:10px"><span style="font-family:verdana,geneva,sans-serif">Please do not reply to this message. This email was sent from a notification-only address which is unmonitored mailbox.</span></span></p>
+

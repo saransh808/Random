@@ -1,0 +1,458 @@
+Return-Path: <domholidays@virtualholidays.co.in>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id YS9REKTsBlmL0w8AwZeyeg
+	for <tushar@simplifytrips.com>; Mon, 01 May 2017 01:07:00 -0700
+Return-path: <domholidays@virtualholidays.co.in>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Mon, 01 May 2017 01:07:00 -0700
+Received: from mail-io0-f179.google.com ([209.85.223.179]:35428)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.88)
+	(envelope-from <domholidays@virtualholidays.co.in>)
+	id 1d56MG-004M55-6M
+	for tushar@simplifytrips.com; Mon, 01 May 2017 01:07:00 -0700
+Received: by mail-io0-f179.google.com with SMTP id r16so110343870ioi.2
+        for <tushar@simplifytrips.com>; Mon, 01 May 2017 01:06:39 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=virtualholidays-co-in.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to:cc;
+        bh=RI6GqEL9RXdzyrT7WYdqR5v7m8L2O2AbMdPJJ5YqJh8=;
+        b=w9KJo1jqgewB5RPW4rYOGmArFGCOyuNP5xBALfD/nhsq5cp4AeTP+9g+8bbVicDfZF
+         8X4Nlz1r2a+0rCWfZSCvbfz3ZLjp26zfFN6mjPrDnbm1vJ3wgXqGZRCb4FbF1FM34ZQ0
+         fTKS1pxlC1vI3xxBn4zho6nokbB/MfZPquyLHrYj3cJKB01WpZpxSXrbgaUxU2DxQ+e/
+         G17eyNWxIKUomCkn9xvryWmjQhIzNtNyM3TN1/kegLGRJwjGyA8fUfWVhfMiDV0MLSJE
+         vm3ozN5FHuPQfucWhTPHClfS5s86XigWgufNv6eM08mj0H9O+tkRjZieC7REh4TQ06ZN
+         37Ew==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to:cc;
+        bh=RI6GqEL9RXdzyrT7WYdqR5v7m8L2O2AbMdPJJ5YqJh8=;
+        b=Djc5qaMJ9pboxf+9x8rb8k8bkTjvEecJ/6naWqIrbbA4pXJdAy4pK1AoZJoBF8TWib
+         ZH9Z3im0u2jl0Wj3eL+VqREHCSrjZ54/zXp1LbsRRSbWTwg4ARMhghBIWYfMoT1ZOlrp
+         zGfKcvnJQilCdXgbverDTolICNE2ZhljFgotSciNQ40tAOBgPxakGEU034N1JLls5AjP
+         COB/QFd7Eayc7jBsGDcIiaHB9Ex6sSkYKTQW3irlgbmPzbbyl7UK8CTRA2gd120GyYN6
+         cU4+zDt1s6as0s4ff7WMEaA6/7oR0l07nTOWNJXdQamR66Xp7E48ayJoQwaDgYWQH3w1
+         kqPA==
+X-Gm-Message-State: AN3rC/7LJ9ljvLfCSdvpj8UIKsd/LGamQTx+fLgE8zCic3i2lS1y72qX
+	zY8KM8sHyo9jqE2Cl+0pFFJd64YCHuw3
+X-Received: by 10.107.44.78 with SMTP id s75mr20447410ios.14.1493625977744;
+ Mon, 01 May 2017 01:06:17 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.107.137.96 with HTTP; Mon, 1 May 2017 01:06:17 -0700 (PDT)
+X-Originating-IP: [182.68.197.44]
+From: virtual holidays pvt ltd <domholidays@virtualholidays.co.in>
+Date: Mon, 1 May 2017 13:36:17 +0530
+Message-ID: <CAGnnn5PZYam-wW9ZKtSYFRqrZKQ52s1WpsE+_BNk9gL9pAErNA@mail.gmail.com>
+Subject: II Manali Volvo Tour Package II Mr. Amolya II B2B II
+To: tushar@simplifytrips.com
+Cc: "VIRTUAL HOLIDAYS . PVT. LTD" <vinod@virtualholidays.co.in>, 
+	Virtual Holidays Pvt Ltd <ops@virtualholidays.co.in>
+Content-Type: multipart/alternative; boundary=001a1139821ad4c60f054e71e559
+
+--001a1139821ad4c60f054e71e559
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Manali Volvo Tour Package03 Night & 04 Days
+
+*Rate Valid 10th April 2017- 15th July 2017*
+
+PACKAGE COST INCLUDES
+- Delhi =E2=80=93 Manali =E2=80=93Delhi Transfer by AC Luxury Volvo Bus wit=
+h LCD
+- 03 Nights & 04 Days Stay In Respective Room for a Couple
+- Welcome Drink (Non Alcoholic) On Arrival
+- Morning Tea
+- 03 Breakfast and 03 Dinner
+- Complimentary Use of Hotel Recreational Facility
+- One Half Day Local Manali Sightseeing by Private Car
+- One Full Day Kullu-Manikaran Sightseeing by Sharing Car
+- One Full Day Solang Valley Sightseeing by Sharing Car
+- Pick Up and Drop From Manali Volvo Bus Stand Only
+- All Applicable Taxes.
+
+ *HOTELS USED :* *BELOW RATES ARE NET & NON COMMISSIONABLE*
+
+* 3 Nights 4 Days Packages*
+Category
+
+*Hotel Name* *( Similar* )
+
+*Rate Per Couple*
+(INR)
+Budget
+
+Bhawani Cottage
+
+13,999/-
+Standard
+
+Hotel Mountain Inn
+
+14,999/-
+Standard
+
+Hotel Silvermoon / Hotel Royal
+
+15,599/-
+Deluxe
+
+Varah Manali / Mai Vrindavan / Hotel Trishul
+
+16,999/-
+Deluxe +
+
+Khushboo Resort / Kingsland / Shaina Mareema Cottage
+
+18,899/-
+Super Deluxe
+
+Holiday Home International / Hotel Snow Park / Hotel Monal / Manali Valley
+Resort
+
+19,999/-
+Super Deluxe +
+
+Utopia Resort / White stone / The Royal Regency / Manali Retreat
+
+21,599/-
+Superior
+
+Manali Heights / Shingar Regency / De Vivendi / Orchard Green
+
+23,999/-
+Superior +
+
+Sandhya Resort & Spa | Golden Tulip
+
+26,699/-
+Luxury
+
+Quality Inn River Country / Citrus Manali
+
+31,000/-
+
+Note : If you want to upgrade your vehicle to private , Supplement cost *IN=
+R
+1500/-*
+
+*Detailed Itinerary*
+
+*Day 01: Delhi - Manali *
+Arrivel in Delhi by Air or Train. After reaching in Delhi go to R.K Ashram
+Metro Station (Near New Delhi Railway Station) & Feroz Shah Kotla Stadium (
+on your own) at 5:00 PM .At sharp 5:30 Depart from Delhi to Manali. Travel
+by overnight Volvo bus from Delhi to Manali (12 - 14 Hours). (Manali is
+also famous for adventure sports like skiing, hiking, mountaineering,
+paragliding, rafting, trekking, kayaking, and mountain biking. In
+short, Manali-is the "Valley of the Gods" and an ideal place for the ones
+in search of both adventure and comfort. Reach Manali next morning at 6 - 8
+AM.
+
+*Day 02 : Manali Arrival (Local Sightseeing)*
+On arrival at Manali, our representative assists to transfer you to the
+pre-booked hotel. Check in at the hotel, freshen up and enjoy leisure time
+at the comfort of your room. After Some time enjoy the city tour visiting
+to some of the prominent spots and attractions including Hadimba Devi
+Temple also called Dhungri Temple,  ,Club House ,Tibetan Monastery and
+Vashisth Village.  Dinner and Overnight stay will be at the hotel in Manali=
+.
+
+*Day 03 : Manali (Full day Trip to Solang Valley ) *
+Enjoy the morning breakfast at the hotel and later get ready for an
+excursion to visit Solang Valley is outstandingly beautiful and is an ideal
+spot to view the majestic covered Himalayas, serene natural surrounding.
+Return back to the hotel on time for dinner and overnight stay.
+
+*Day 04 : Manali (Full Day Trip to Kullu( 45Kms) Manikaran ( 80Kms ) *
+Enjoy the morning breakfast at the hotel and later get ready for an
+excursion to visit Manikaran. Manikaran has the World=E2=80=99s hottest Sup=
+lhur
+Spring Waters ,Parvati River, and is a holy place for Hindus & Sikhs alike.
+Return back to Kullu town enroute visiting the Kasol valley, Rafting in the
+Beas River, Angora Farm ,Vaishno devi Temple & famous Kullu Shawl Industry.
+Drive back to Manali. Check in at the Hotel in Manali. Overnight stay at
+the Hotel in Manali.
+
+*Day 05 : Manali - Delhi Departure*
+Morning enjoy the breakfast and check out from the hotel at 12 noon (Luggag=
+e
+can be kept at reception or bell desk. Afternoon enjoys at leisure or can
+take stroll down the mall in Manali and enjoy shopping antiques, shawls and
+handicrafts. Evening catch the volvo from Manali at 4.00 PM to proceed
+Delhi. Overnight Journey.
+
+*Day 06: Arrival at Delhi - Tour Ends*
+Arrival at Delhi, the glorious tour to the heavenly Manali comes to an end.
+In this way your visit to one of the paradise on earth located amidst the
+lofty Himalayas ends offering your glorious memories to cherish for
+lifetime..
+
+
+Package Cost does not Includes
+
+-Personal Expenses such as Laundry,Luggage Charges, telephone calls, tips &
+gratuity, mineral water, soft & hard drinks, rafting, rock climbing,
+paragliding, joy ride (Toy Train), porterage .* Travel Insurance, Entrance
+Fees & Guide charges.
+-Lunch.
+ -Anything not specifically mentioned under the head =E2=80=9CPrices includ=
+ed=E2=80=9D.
+-Room Heater Charges
+-.Snow Vehicle Fare, If Road Is Block Due To Snow.* Luggage /baggage carry
+charges at Bus
+-Any cost arising due to natural calamities like,Vechile Restrictions at
+Snow/Rohtang,  landslides, road blockage, political disturbances (strikes),
+etc (to be borne by the client, which is directly payable on the spot).
+*- Visit to Rohtang Pass not included in the cost).(As per NGT Rule Guest
+Have to Take the Car from union on Direct Payment Basis on their id proofs)=
+*
+
+NGT RULES & REGULATIONS:
+National Green Tribunal (NGT) has implemented few restrictions &
+instructions for every traveller visiting Rohtang Pass which are as follows=
+:
+* The number of vehicles to Rohtang Pass is restricted to 1=E2=80=8B000 /- =
+per day,
+out of which only =E2=80=8B6=E2=80=8B00 petrol engine taxis and 400 diesel =
+taxis will be
+allowed. Due to this restriction customers might have to wait in standby
+slot.
+* Visit to Rohtang Pass can be on individual / sharing / by Deluxe Bus Sub
+to Availability.
+* Rohtang Sightseeing - depend on the availability of the permit and pay on
+Spot according Union Rate
+
+
+
+ Prices can be change Anytime , without prior notice
+
+
+
+
+*For any clarification, please feel free to call us.*
+
+
+
+
+*Warm Regards,Tarun SharmaManager Domestic Tour+91-8130901085  *
+
+
+*VIRTUAL HOLIDAYS PVT. LTD.*
+
+*Corporate Office:-* 211 I 2nd Floor I Ansal Vikasdeep Building I Distt.
+Center I Laxmi Nagar I Near Nirman Vihar Metro Station I Delhi - 110092
+*Land Line:-* 011-43103030/31/32/33 I *Mobile:-* +91-8130901085/9810403559
+*Email Id:-* domestic@virtualholidays.co.in
+*Website:-* www.virtualholidays.co.in
+*Rajasthan Packages:-* www.campsinrajasthan.com
+*North East Packages:- *www.northeasttourpackages.co.in
+*Ladakh Tour Pacakges:-* www.ladakh.virtualholidays.co.in
+*Kashmir Tour Packages:-* www.kashmir.virtualholidays.co.in
+*Kerala Tour Packages:-* www.kerala.virtualholidays.co.in
+*Goa Tour Packages:-* www.goa.virtualholidays.co.in
+*Amarnath Yatra Pacakges:-* www.amarnathyatrabyhelicopter.co.in
+
+--001a1139821ad4c60f054e71e559
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"font-family:verdana,=
+sans-serif"><table width=3D"715" border=3D"10" style=3D"font-family:arial,s=
+ans-serif;font-size:12.8px"><tbody><tr><td width=3D"705" bgcolor=3D"#FFCC00=
+"><h1 align=3D"center">Manali Volvo Tour Package</h1><h1 align=3D"center">0=
+3 Night &amp; 04 Days</h1><p align=3D"center"><strong>Rate Valid 10th April=
+ 2017-=C2=A0<span class=3D"gmail-aBn" tabindex=3D"0"><span class=3D"gmail-a=
+QJ">15th July 2017</span></span></strong></p></td></tr><tr><td><p>PACKAGE C=
+OST INCLUDES<br>- Delhi =E2=80=93 Manali =E2=80=93Delhi Transfer by AC Luxu=
+ry Volvo Bus with LCD<br>- 03 Nights &amp; 04 Days Stay In Respective Room =
+for a Couple<br>- Welcome Drink (Non Alcoholic) On Arrival<br>- Morning Tea=
+<br>- 03 Breakfast and 03 Dinner<br>- Complimentary Use of Hotel Recreation=
+al Facility<br>- One Half Day Local Manali Sightseeing by Private Car<br>- =
+One Full Day Kullu-Manikaran Sightseeing by Sharing Car<br>- One Full Day S=
+olang Valley Sightseeing by Sharing Car<br>- Pick Up and Drop From Manali V=
+olvo Bus Stand Only<br>- All Applicable Taxes.</p><p></p><p>=C2=A0<strong>H=
+OTELS USED :</strong>=C2=A0<strong>BELOW RATES ARE NET &amp; NON COMMISSION=
+ABLE</strong></p><table border=3D"1" cellpadding=3D"0" cellspacing=3D"1" wi=
+dth=3D"100%"><tbody><tr><td colspan=3D"3" bgcolor=3D"#FFCC00"><p><strong>=
+=C2=A03 Nights 4 Days Packages</strong></p></td></tr><tr><td bgcolor=3D"#FF=
+CC00" width=3D"17%">Category</td><td bgcolor=3D"#FFCC00" width=3D"62%"><p a=
+lign=3D"center"><strong>Hotel Name</strong>=C2=A0<strong>( Similar</strong>=
+=C2=A0)</p></td><td bgcolor=3D"#FFCC00" width=3D"21%"><p align=3D"center"><=
+strong>Rate Per Couple</strong><br>(INR)</p></td></tr><tr><td width=3D"17%"=
+>Budget</td><td width=3D"62%"><p align=3D"center">Bhawani Cottage</p></td><=
+td width=3D"21%"><p align=3D"center">13,999/-</p></td></tr><tr><td width=3D=
+"17%">Standard</td><td width=3D"62%"><p align=3D"center">Hotel Mountain Inn=
+</p></td><td width=3D"21%"><p align=3D"center">14,999/-</p></td></tr><tr><t=
+d width=3D"17%">Standard</td><td width=3D"62%"><p align=3D"center">Hotel Si=
+lvermoon / Hotel Royal</p></td><td width=3D"21%"><p align=3D"center">15,599=
+/-</p></td></tr><tr><td width=3D"17%">Deluxe</td><td width=3D"62%"><p align=
+=3D"center">Varah Manali / Mai Vrindavan / Hotel Trishul</p></td><td width=
+=3D"21%"><p align=3D"center">16,999/-</p></td></tr><tr><td width=3D"17%">De=
+luxe +</td><td width=3D"62%"><p align=3D"center">Khushboo Resort / Kingslan=
+d / Shaina Mareema Cottage</p></td><td width=3D"21%"><p align=3D"center">18=
+,899/-</p></td></tr><tr><td width=3D"17%">Super Deluxe</td><td width=3D"62%=
+"><p align=3D"center">Holiday Home International / Hotel Snow Park / Hotel =
+Monal / Manali Valley Resort</p></td><td width=3D"21%"><p align=3D"center">=
+19,999/-</p></td></tr><tr><td width=3D"17%">Super Deluxe +</td><td width=3D=
+"62%"><p align=3D"center">Utopia Resort / White stone / The Royal Regency /=
+ Manali Retreat</p></td><td width=3D"21%"><p align=3D"center">21,599/-</p><=
+/td></tr><tr><td width=3D"17%">Superior</td><td width=3D"62%"><p align=3D"c=
+enter">Manali Heights / Shingar Regency / De Vivendi / Orchard Green</p></t=
+d><td width=3D"21%"><p align=3D"center">23,999/-</p></td></tr><tr><td width=
+=3D"17%">Superior +</td><td width=3D"62%"><p align=3D"center">Sandhya Resor=
+t &amp; Spa | Golden Tulip</p></td><td width=3D"21%"><p align=3D"center">26=
+,699/-</p></td></tr><tr><td width=3D"17%">Luxury</td><td width=3D"62%"><p a=
+lign=3D"center">Quality Inn River Country / Citrus Manali</p></td><td width=
+=3D"21%"><p align=3D"center">31,000/-</p></td></tr></tbody></table><p>Note =
+: If you want to upgrade your vehicle to private , Supplement cost=C2=A0<st=
+rong>INR 1500/-</strong>=C2=A0</p><p class=3D"gmail-m_7123480552890324915st=
+yle1"><strong>Detailed Itinerary</strong></p><p><span class=3D"gmail-m_7123=
+480552890324915style1"><strong><u>Day 01: Delhi -=C2=A0Manali=C2=A0</u></st=
+rong>=C2=A0</span><br>Arrivel in Delhi by Air or Train. After reaching in D=
+elhi go to R.K Ashram Metro Station (Near New Delhi Railway Station) &amp; =
+Feroz Shah Kotla Stadium ( on your own) at=C2=A0<span class=3D"gmail-aBn" t=
+abindex=3D"0"><span class=3D"gmail-aQJ">5:00 PM</span></span>=C2=A0.At shar=
+p=C2=A0<span class=3D"gmail-aBn" tabindex=3D"0"><span class=3D"gmail-aQJ">5=
+:30</span></span>=C2=A0Depart from Delhi to=C2=A0Manali. Travel by overnigh=
+t Volvo bus from Delhi to=C2=A0Manali=C2=A0(12 - 14 Hours). (Manali=C2=A0is=
+ also famous for adventure sports like skiing, hiking, mountaineering, para=
+gliding, rafting, trekking, kayaking, and mountain biking. In short,=C2=A0M=
+anali-is the &quot;Valley of the Gods&quot; and an ideal place for the ones=
+ in search of both adventure and comfort. Reach=C2=A0Manali=C2=A0next morni=
+ng at=C2=A0<span class=3D"gmail-aBn" tabindex=3D"0"><span class=3D"gmail-aQ=
+J">6 - 8 AM</span></span>.</p><p><span class=3D"gmail-m_7123480552890324915=
+style1"><strong><u>Day 02 :=C2=A0Manali=C2=A0Arrival (Local Sightseeing)</u=
+></strong>=C2=A0</span><br>On arrival at=C2=A0Manali, our representative as=
+sists to transfer you to the pre-booked hotel. Check in at the hotel, fresh=
+en up and enjoy leisure time at the comfort of=C2=A0your=C2=A0room. After S=
+ome time enjoy the city tour visiting to some of the prominent spots and at=
+tractions including Hadimba Devi Temple also called Dhungri Temple, =C2=A0,=
+Club House ,Tibetan Monastery and Vashisth Village.=C2=A0 Dinner and Overni=
+ght stay will be at the hotel in=C2=A0Manali.</p><p><span class=3D"gmail-m_=
+7123480552890324915style1"><strong><u>Day 03 :=C2=A0Manali=C2=A0(Full day T=
+rip to Solang Valley )=C2=A0</u></strong></span>=C2=A0<br>Enjoy the morning=
+ breakfast at the hotel and later get ready for an excursion to visit Solan=
+g Valley is outstandingly beautiful and is an ideal spot to view the majest=
+ic covered Himalayas, serene natural surrounding. Return back to the hotel =
+on time for dinner and overnight stay.=C2=A0</p><p><span class=3D"gmail-m_7=
+123480552890324915style1"><strong><u>Day 04 : Manali=C2=A0(Full Day Trip to=
+ Kullu( 45Kms) Manikaran ( 80Kms )=C2=A0</u></strong>=C2=A0</span><br>Enjoy=
+ the morning breakfast at the hotel and later get ready for an excursion to=
+ visit Manikaran. Manikaran has the World=E2=80=99s hottest Suplhur Spring =
+Waters ,Parvati River,=C2=A0and is a holy place for Hindus &amp; Sikhs alik=
+e. Return back to Kullu town enroute visiting the Kasol valley, Rafting in =
+the Beas River, Angora Farm ,Vaishno devi=C2=A0Temple &amp; famous Kullu Sh=
+awl Industry. Drive back to=C2=A0Manali. Check in at the Hotel in=C2=A0Mana=
+li. Overnight stay at the Hotel in=C2=A0Manali.</p><p><span class=3D"gmail-=
+m_7123480552890324915style1"><strong><u>Day 05 : Manali=C2=A0- Delhi Depart=
+ure</u></strong>=C2=A0</span><br>Morning enjoy the breakfast and check out =
+from the hotel at=C2=A0<span class=3D"gmail-aBn" tabindex=3D"0"><span class=
+=3D"gmail-aQJ">12 noon</span></span>=C2=A0(Luggage can be kept at reception=
+ or bell desk. Afternoon enjoys at leisure or can take stroll down the mall=
+ in=C2=A0Manali=C2=A0and enjoy shopping antiques, shawls and handicrafts.=
+=C2=A0Evening catch the volvo from=C2=A0Manali=C2=A0at=C2=A0<span class=3D"=
+gmail-aBn" tabindex=3D"0"><span class=3D"gmail-aQJ">4.00 PM</span></span>=
+=C2=A0to proceed Delhi. Overnight Journey.</p><p><span class=3D"gmail-m_712=
+3480552890324915style1"><strong><u>Day 06: Arrival at Delhi - Tour Ends</u>=
+</strong></span>=C2=A0<br>Arrival at Delhi, the glorious tour to the heaven=
+ly=C2=A0Manali=C2=A0comes to an end. In this way your visit to one of the p=
+aradise on earth located amidst the lofty Himalayas ends=C2=A0offering=C2=
+=A0your glorious memories to cherish for lifetime..=C2=A0</p><p>=C2=A0</p><=
+table border=3D"1" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr><td width=
+=3D"685" valign=3D"top" bgcolor=3D"#FFCC00"><h3>Package Cost does not Inclu=
+des</h3></td></tr><tr><td width=3D"685" valign=3D"top"><p>-Personal Expense=
+s such as Laundry,Luggage Charges, telephone calls, tips &amp; gratuity, mi=
+neral water, soft &amp; hard drinks, rafting, rock climbing, paragliding, j=
+oy ride (Toy Train), porterage .* Travel Insurance, Entrance Fees &amp; Gui=
+de charges.<br>-Lunch.=C2=A0<br>=C2=A0-Anything not specifically mentioned =
+under the head =E2=80=9CPrices included=E2=80=9D.=C2=A0<br>-Room Heater Cha=
+rges=C2=A0<br>-.Snow Vehicle Fare, If Road Is Block Due To Snow.* Luggage /=
+baggage carry charges at Bus<br>-Any cost arising due to natural calamities=
+ like,Vechile=C2=A0Restrictions=C2=A0at Snow/Rohtang, =C2=A0landslides, roa=
+d blockage, political disturbances (strikes), etc (to be borne by the clien=
+t, which is directly payable on=C2=A0the spot).<br><strong>- Visit to Rohta=
+ng Pass not included in the cost).(As per NGT Rule Guest Have to Take the C=
+ar from union on Direct Payment Basis on their id proofs)</strong></p><p>NG=
+T RULES &amp; REGULATIONS:<br>National Green Tribunal (NGT) has implemented=
+ few restrictions &amp; instructions for every traveller visiting Rohtang P=
+ass which are as follows:<br>* The number of vehicles to Rohtang Pass is re=
+stricted to 1=E2=80=8B000 /- per day, out of which only =E2=80=8B6=E2=80=8B=
+00 petrol engine taxis and 400 diesel taxis will be allowed. Due to this re=
+striction customers might have to wait in standby slot.<br>* Visit to Rohta=
+ng Pass can be on individual / sharing / by Deluxe Bus Sub to Availability.=
+<br>* Rohtang Sightseeing - depend on the availability of the permit and pa=
+y on Spot according Union Rate</p><p>=C2=A0</p></td></tr></tbody></table><p=
+>=C2=A0Prices can be change Anytime , without prior notice=C2=A0</p></td></=
+tr></tbody></table></div><div><div class=3D"gmail_signature"><div dir=3D"lt=
+r"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div><=
+div dir=3D"ltr"><font color=3D"#000000"><strong style=3D"font-size:12px;tex=
+t-align:justify"><strong><font face=3D"verdana, sans-serif" size=3D"2"><spa=
+n style=3D"font-weight:normal"><br></span></font></strong></strong></font><=
+/div><div dir=3D"ltr"><font color=3D"#000000"><strong style=3D"font-size:12=
+px;text-align:justify"><strong><font face=3D"verdana, sans-serif" size=3D"2=
+"><span style=3D"font-weight:normal"><br></span></font></strong></strong></=
+font></div><div dir=3D"ltr"><font color=3D"#000000"><strong style=3D"font-s=
+ize:12px;text-align:justify"><strong><font face=3D"verdana, sans-serif" siz=
+e=3D"2"><span style=3D"font-weight:normal"><br></span></font></strong></str=
+ong></font></div><div dir=3D"ltr"><font color=3D"#000000"><strong style=3D"=
+font-size:12px;text-align:justify"><strong><font face=3D"verdana, sans-seri=
+f" size=3D"2"><span style=3D"font-weight:normal">For any clarification, ple=
+ase feel free to call us.</span><br style=3D"font-weight:normal"></font></s=
+trong></strong><span style=3D"font-size:12.8px"></span></font><div style=3D=
+"font-size:12px"><strong><strong><div style=3D"font-weight:normal"><font fa=
+ce=3D"verdana, sans-serif" size=3D"2" color=3D"#000000"><br></font></div></=
+strong></strong><div><font face=3D"verdana, sans-serif" size=3D"2" color=3D=
+"#000000"><strong><strong><span style=3D"font-weight:normal">Warm Regards,<=
+/span><br clear=3D"all"><div style=3D"font-weight:normal"><br></div><strong=
+><div style=3D"text-align:justify">Tarun Sharma</div><div style=3D"font-wei=
+ght:normal;text-align:justify">Manager Domestic Tour</div><div style=3D"fon=
+t-weight:normal;text-align:justify">+91-8130901085</div><div style=3D"font-=
+weight:normal;text-align:justify"><br></div></strong><span style=3D"font-we=
+ight:normal"><div style=3D"text-align:justify"></div><div style=3D"text-ali=
+gn:justify">=C2=A0<img height=3D"89" src=3D"http://virtualholidays.co.in/ve=
+rtual%20logo.jpg" width=3D"200">=C2=A0</div></span></strong></strong><stron=
+g><strong><strong><div style=3D"font-weight:normal;text-align:justify"><br>=
+</div></strong></strong></strong></font><div style=3D"text-align:justify"><=
+strong><strong><font face=3D"verdana, sans-serif" size=3D"2" color=3D"#0000=
+00"><font style=3D"font-weight:normal">VIRTUAL HOLIDAYS PVT. LTD.</font><fo=
+nt style=3D"font-weight:normal"><br></font></font></strong></strong><p><fon=
+t face=3D"verdana, sans-serif" color=3D"#000000"><font size=3D"2"><b>Corpor=
+ate Office:-</b>=C2=A0211 I 2<sup>nd</sup>=C2=A0Floor I Ansal Vikasdeep=C2=
+=A0Building I Distt. Center I Laxmi Nagar I Near Nirman Vihar Metro Station=
+ I Delhi=C2=A0- 110092<b><br></b></font><b style=3D"font-size:small">Land L=
+ine:-</b><span style=3D"font-size:small">=C2=A0011-43103030/31/32/33 I=C2=
+=A0</span><b style=3D"font-size:small">Mobile:-</b><span style=3D"font-size=
+:small">=C2=A0+91-8130901085/9810403559<br></span><b style=3D"font-size:sma=
+ll">Email Id:-</b><span style=3D"font-size:small">=C2=A0</span><a href=3D"m=
+ailto:domestic@virtualholidays.co.in" style=3D"font-size:small" target=3D"_=
+blank">domestic@virtualholidays.co.in</a><br><b style=3D"font-size:small">W=
+ebsite:-</b><span style=3D"font-size:small">=C2=A0</span><a href=3D"http://=
+www.virtualholidays.co.in/" style=3D"font-size:small" target=3D"_blank">www=
+.virtualholidays.co.in</a><br><b style=3D"font-size:small">Rajasthan Packag=
+es:-</b><span style=3D"font-size:small">=C2=A0</span><a href=3D"http://www.=
+campsinrajasthan.com/" style=3D"font-size:small" target=3D"_blank">www.camp=
+sinrajasthan.com</a><br><b style=3D"font-size:small">North East Packages:-=
+=C2=A0</b><a href=3D"http://www.northeasttourpackages.co.in/" style=3D"font=
+-size:small" target=3D"_blank">www.northeasttourpackages.co.in</a><br><b st=
+yle=3D"font-size:small">Ladakh Tour Pacakges:-</b><span style=3D"font-size:=
+small">=C2=A0</span><a href=3D"http://www.ladakh.virtualholidays.co.in/" st=
+yle=3D"font-size:small" target=3D"_blank">www.ladakh.virtualholidays.co.in<=
+/a><br><b style=3D"font-size:small">Kashmir Tour Packages:-</b><span style=
+=3D"font-size:small">=C2=A0</span><a href=3D"http://www.kashmir.virtualholi=
+days.co.in/" style=3D"font-size:small" target=3D"_blank">www.kashmir.virtua=
+lholidays.co.in</a><br><b style=3D"font-size:small">Kerala Tour Packages:-<=
+/b><span style=3D"font-size:small">=C2=A0</span><a href=3D"http://www.keral=
+a.virtualholidays.co.in/" style=3D"font-size:small" target=3D"_blank">www.k=
+erala.virtualholidays.co.in</a><br><b style=3D"font-size:small">Goa Tour Pa=
+ckages:-</b><span style=3D"font-size:small">=C2=A0</span><a href=3D"http://=
+www.goa.virtualholidays.co.in/" style=3D"font-size:small" target=3D"_blank"=
+>www.goa.virtualholidays.co.in</a><br><span style=3D"font-size:small"><b>Am=
+arnath Yatra Pacakges:-</b>=C2=A0</span><a href=3D"http://www.amarnathyatra=
+byhelicopter.co.in/" style=3D"font-size:small" target=3D"_blank">www.amarna=
+thyatrabyhelicopter.co.in</a></font></p></div></div></div></div></div></div=
+></div></div></div></div></div></div></div></div>
+</div>
+
+--001a1139821ad4c60f054e71e559--

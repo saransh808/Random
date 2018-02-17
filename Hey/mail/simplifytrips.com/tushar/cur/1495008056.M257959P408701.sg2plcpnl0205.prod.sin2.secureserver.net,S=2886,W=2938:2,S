@@ -1,0 +1,52 @@
+Return-Path: <0100015c156bdc61-70a113a3-149f-40a7-a9a3-f649cf47652f-000000@amazonses.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id EVQ5DzgDHFl9PAYAwZeyeg
+	for <tushar@simplifytrips.com>; Wed, 17 May 2017 01:00:56 -0700
+Return-path: <0100015c156bdc61-70a113a3-149f-40a7-a9a3-f649cf47652f-000000@amazonses.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Wed, 17 May 2017 01:00:56 -0700
+Received: from a11-103.smtp-out.amazonses.com ([54.240.11.103]:39978)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1:ECDHE-RSA-AES128-SHA:128)
+	(Exim 4.88)
+	(envelope-from <0100015c156bdc61-70a113a3-149f-40a7-a9a3-f649cf47652f-000000@amazonses.com>)
+	id 1dAtt9-001iAw-Ta
+	for tushar@simplifytrips.com; Wed, 17 May 2017 01:00:56 -0700
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=224i4yxa5dv7c2xz3womw6peuasteono; d=amazonses.com; t=1495008012;
+	h=Date:To:From:Subject:Message-ID:MIME-Version:Content-Transfer-Encoding:Content-Type:Feedback-ID;
+	bh=jKxbSFAEiNKsHif7NQSIMZoN+JHOntQ6PmPJRrsy8rA=;
+	b=IG+Tl5ysAYrzocJBxLzwiZ8P+1B/ZkJBx+Df2POkDw+ZCUePM09RWtX7tzi2j7xw
+	tURiruDBfn5PQH+fzwyQ0XrBeAy67iR8MgUIKCMYSsdln19fj1DZKUTnKxDPSkQUwBX
+	JmgaR/lGenKms5kxXSqgcTGxk+62Z/qMlsZOIGOk=
+Date: Wed, 17 May 2017 08:00:09 +0000
+To: tushar@simplifytrips.com
+From: Letsintern <info@letsintern.com>
+Subject: Don't lose your top candidates to other employers. Interview them right away.
+Message-ID: <0100015c156bdc61-70a113a3-149f-40a7-a9a3-f649cf47652f-000000@email.amazonses.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.4 (https://github.com/Synchro/PHPMailer/)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset=iso-8859-1
+X-SES-Outgoing: 2017.05.17-54.240.11.103
+Feedback-ID: 1.us-east-1.S0THvJuq58KydR06Dj+5IwCdP3hCdXH6Uc7C8IjYJEs=:AmazonSES
+
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<p dir="ltr">Dear Tushar Choudhary,</p>
+<p dir="ltr">Thankyou for shortlisting candidates for the <a href='http://www.letsintern.com/internship//Simplifytrips.com/Business-Development-Executive/74440'>requirement posted</a> you posted on &nbsp;Letsintern 22 days ago.</p>
+<p dir="ltr">1. Please&nbsp;<a href="http://www.letsintern.com/employers/login">login</a>&nbsp;to &nbsp;your account. This will direct you to your personalized dashboard at Letsintern.com.</p>
+<p dir="ltr">2. You can schedule an interview with each candidate or reject a profile.&nbsp;</p>
+<p dir="ltr">If you have any queries regarding your posting or anything else you&rsquo;d like us to help you with, please write to marcos@letsintern.com.&nbsp;</p>
+<p dir="ltr">Once again, we want to thank you for choosing us to facilitate your recruitment needs.</p>
+<p dir="ltr">Best,</p>
+<p dir="ltr">Letsintern Team</p>
+<p dir="ltr">&nbsp;</p>
+</body>
+</html>
+
+

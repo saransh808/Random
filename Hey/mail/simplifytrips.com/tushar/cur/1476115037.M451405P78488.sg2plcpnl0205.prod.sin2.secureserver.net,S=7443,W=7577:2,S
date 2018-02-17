@@ -1,0 +1,134 @@
+Return-Path: <01000157af4f5075-05df732d-5d66-4763-b2f0-6daf4d8cf3b2-000000@amazonses.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id Hg7HGl26+1eYMgEAwZeyeg
+	for <tushar@simplifytrips.com>; Mon, 10 Oct 2016 08:57:17 -0700
+Return-path: <01000157af4f5075-05df732d-5d66-4763-b2f0-6daf4d8cf3b2-000000@amazonses.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Mon, 10 Oct 2016 08:57:17 -0700
+Received: from a9-54.smtp-out.amazonses.com ([54.240.9.54]:48022)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1:ECDHE-RSA-AES128-SHA:128)
+	(Exim 4.87)
+	(envelope-from <01000157af4f5075-05df732d-5d66-4763-b2f0-6daf4d8cf3b2-000000@amazonses.com>)
+	id 1btcx3-000K9v-2h
+	for tushar@simplifytrips.com; Mon, 10 Oct 2016 08:57:17 -0700
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=uz3pdgrfxgkkfsz7idjphou763v2nqmj; d=table.co; t=1476114993;
+	h=Date:To:From:Reply-to:Subject:Message-ID:MIME-Version:Content-Type;
+	bh=v5CKb3kRsKzDLQLf2WEJ1O+NL8a+eXwvPeU517E6C0Y=;
+	b=er9b2J1cNSzoh8BLOsDV2/j6znRtz8EdABanOT+EjcZKTNeqT1JVy5w+jf6cvw2V
+	x+9QXoYYzJ3Zp5K18AIxnH8z38JWb4J+r3W00xUhQWPSvln0ATaKNrHN+kX+vdGVBeC
+	0J5iP9qDFUL1ZURDPGgrxE74gK0E9aoMSHYbHncY=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=6gbrjpgwjskckoa6a5zn6fwqkn67xbtw; d=amazonses.com; t=1476114993;
+	h=Date:To:From:Reply-to:Subject:Message-ID:MIME-Version:Content-Type:Feedback-ID;
+	bh=v5CKb3kRsKzDLQLf2WEJ1O+NL8a+eXwvPeU517E6C0Y=;
+	b=hwCOg5Dli/lUsyYdJRMqYw3V4f3u0AlhaSg+de+Y+SjAew8YMuhDQw1pF4Wem0ir
+	Ogj6CGC2BFxyk2rZ+WVC8hpq0pbmw9rvddUVP/ZYS7cKrGV7vrCwGb1YqT2N61GWRU0
+	x5Bp22d3MZH5DFZRSJ1Z7YEUsZ4zJkMDPFEzArpo=
+Date: Mon, 10 Oct 2016 15:56:33 +0000
+To: Tushar <tushar@simplifytrips.com>
+From: Sophie Andrews <sophie@table.co>
+Reply-to: Sophie Andrews <sophie@table.co>
+Subject: Invite to TABLE
+Message-ID: <01000157af4f5075-05df732d-5d66-4763-b2f0-6daf4d8cf3b2-000000@email.amazonses.com>
+X-Priority: 3
+X-Mailer: Sendy (https://sendy.co)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_5fe69030af2dec5798506176b82fed3d"
+X-SES-Outgoing: 2016.10.10-54.240.9.54
+Feedback-ID: 1.us-east-1.FF20Ppqj4VGh6W5mMpxH58Stx3aHZ0MXTtMH8yiE4Ek=:AmazonSES
+
+--b1_5fe69030af2dec5798506176b82fed3d
+Content-Type: text/plain; charset = "UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Hi Tushar,
+
+I came across Simplifykaro and would like to invite you to connect with industry experts and other founders that can help take your start-up to the next level. 
+
+At TABLE we are serial entrepreneurs and know how hard it is to connect with the right people.  That is why we have spent the past year developing a platform that provides the resources founders need to make their ideas happen.
+ 
+TABLE is a community marketplace of curated top industry experts and founders like you offering their expertise in areas like fundraising, growth, technology, product, social media and much more. Some experts offer their time for free, others for a fee, but everyone is an industry leader and passionate about startups and making ideas actually happen. If you book a paid appointment with someone, and are not happy with your consultation, we will provide a full refund. 
+
+On TABLE you can find the right person, make an appointment and collaborate online with real people that can move your project forward. If you don't find the expert you need, let us know, and we will bring someone on board that can help you.
+ 
+Join now for free and we will sign you up for our weekly '30 minutes with a thought leader' giveaway. Your membership will always remain free.
+ 
+Find out more here - http://sendy.dropr.com/l/PBII9LiIuY6g5TngOwCUTg/PRRuVoVs0axgERcTFHZZ763w/swixqq6k4UU9ujmVoox9wQ
+ 
+If you would like more information or have any questions please let me know. I would be happy to hear back from you.
+ 
+Best,
+
+Sophie Andrews
+Startup Evangelist
+
+TABLE
+1250 Addison Street
+Berkeley
+California
+94702
+
+Twitter: @tabledotco
+table.co
+
+If you don't want to receive any more mails from us, you can unsubscribe by clicking http://sendy.dropr.com/unsubscribe/pw9UJ7YfF20M3vljiikZCjYLlUvVMqiFndxJE0Sfxoo/3G3N6RmCMVlTkmzPcM892A5Q/swixqq6k4UU9ujmVoox9wQ
+
+
+--b1_5fe69030af2dec5798506176b82fed3d
+Content-Type: text/html; charset = "UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 600px" width="600">
+	<tbody>
+		<tr>
+			<td align="left">
+			<p>Hi Tushar,</p>
+
+			<p>I came across Simplifykaro and would like to invite you to connect with industry experts and other founders that can help take your start-up to the next level. Imagine how your business would improve if you could always have a conversation with an industry expert, in the field you need, at no risk.</p>
+
+			<p>At TABLE we are serial entrepreneurs and know how hard it is to connect with the right people. That is why we have spent the past year developing a platform that provides the resources founders need to make their ideas happen.</p>
+
+			<p>TABLE is a community marketplace of curated top industry experts and founders like you offering their expertise in areas like fundraising, growth, technology, product, social media and much more. Some experts offer their time for free, others for a fee, but everyone is an industry leader and passionate about startups and making ideas actually happen. If you book a paid appointment with someone, and are not happy with your consultation, we will provide a full refund.</p>
+
+			<p>On TABLE you can find the right person, make an appointment and collaborate online with real people that can move your project forward. If you don&#39;t find the expert you need, let us know, and we will bring someone on board that can help you.</p>
+
+			<p>Join now for free and we will sign you up for our weekly &#39;30 minutes with a thought leader&#39; giveaway. Your membership will always remain free.</p>
+
+			<p>Find out more here&nbsp;- <a href="http://sendy.dropr.com/l/PBII9LiIuY6g5TngOwCUTg/PRRuVoVs0axgERcTFHZZ763w/swixqq6k4UU9ujmVoox9wQ">https://table.co</a></p>
+
+			<p>If you would like more information or have any questions please let me know. I would be happy to hear back from you.</p>
+
+			<p>Best,</p>
+
+			<p>Sophie Andrews<br />
+			<span style="font-size:10px;"><span style="color:#999999;">Startup Evangelist</span></span></p>
+
+			<p><span style="font-size:10px;"><strong>TABLE</strong><br />
+			<span style="color:#999999;">1250 Addison Street<br />
+			Berkeley<br />
+			California<br />
+			94702<br />
+			<br />
+			Twitter: <a href="http://sendy.dropr.com/l/PBII9LiIuY6g5TngOwCUTg/kwB5QygOSJyhc6wuuFgJuA/swixqq6k4UU9ujmVoox9wQ">@tabledotco</a><br />
+			<a href="http://sendy.dropr.com/l/PBII9LiIuY6g5TngOwCUTg/o7Og2OmVmKxjB5ca8R4i0w/swixqq6k4UU9ujmVoox9wQ">table.co</a></span></span></p>
+
+			<p><font color="#999999"><span style="font-size: 10px;">If you don&#39;t want to receive any more mails from us, you can unsubscribe by clicking <a href="http://sendy.dropr.com/unsubscribe/pw9UJ7YfF20M3vljiikZCjYLlUvVMqiFndxJE0Sfxoo/3G3N6RmCMVlTkmzPcM892A5Q/swixqq6k4UU9ujmVoox9wQ">here</a>.</span></font></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</body>
+</html>
+<img src="http://sendy.dropr.com/t/swixqq6k4UU9ujmVoox9wQ/PBII9LiIuY6g5TngOwCUTg" alt="" style="width:1px;height:1px;"/>
+
+
+
+--b1_5fe69030af2dec5798506176b82fed3d--

@@ -1,0 +1,125 @@
+Return-Path: <0100015bd7176bb3-8b3e7ea5-9c4e-4f13-b40b-ad3f365f047a-000000@amazonses.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id IYy0A1wODFkC4gcAwZeyeg
+	for <tushar@simplifytrips.com>; Thu, 04 May 2017 22:32:12 -0700
+Return-path: <0100015bd7176bb3-8b3e7ea5-9c4e-4f13-b40b-ad3f365f047a-000000@amazonses.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Thu, 04 May 2017 22:32:12 -0700
+Received: from a10-17.smtp-out.amazonses.com ([54.240.10.17]:38490)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1:ECDHE-RSA-AES128-SHA:128)
+	(Exim 4.88)
+	(envelope-from <0100015bd7176bb3-8b3e7ea5-9c4e-4f13-b40b-ad3f365f047a-000000@amazonses.com>)
+	id 1d6Vqd-002Adl-OX
+	for tushar@simplifytrips.com; Thu, 04 May 2017 22:32:12 -0700
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=sagm3s5v2bkj5ajhhso3p5qk6rxw6hya; d=internshala.com;
+	t=1493962288;
+	h=Date:From:Reply-To:To:Subject:Message-ID:Mime-Version:Content-Type;
+	bh=58DSai0+PHZUJrM+m5ikFmi2+F8nkfA6h1+8vpx6/b4=;
+	b=J+/iDT5pBjWeFPVyWkQ/0y9U/jRtMO2UWDrBYCFpuQBqgH1qrdBWyLcP6fMtSPhf
+	rswumr5ws4BllheXAo7LfrJuDaEC3XaNr9y/ZhDc5hV23nM1C+WylwCTMWc7IRrw/HS
+	UJL7xPG2RI/dObilXrytLCNmyPBfaRlu4wGVjHNk=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=224i4yxa5dv7c2xz3womw6peuasteono; d=amazonses.com; t=1493962288;
+	h=Date:From:Reply-To:To:Subject:Message-ID:Mime-Version:Content-Type:Feedback-ID;
+	bh=58DSai0+PHZUJrM+m5ikFmi2+F8nkfA6h1+8vpx6/b4=;
+	b=cJ+4jV4J27Py6Uq5VhSNEqvSn1a/MBypmLKFJUoGpVfMDEWaYc1/sKMH1SJX4sN0
+	Y4g3sCz+oI4auwbRfgUB3eXnkKP87rz9PO3MInJg61fJL2hM4W4G4mqxfPbkZJ0Zf5H
+	HcAfBdpqVT6Yo5PEHdR/gHFA9Z5cthUUFX1uW4QY=
+User-Agent: internshala.com
+Date: Fri, 5 May 2017 05:31:28 +0000
+From: "Anamika Singh" <anamika@internshala.com>
+Reply-To: "Anamika Singh" <anamika@internshala.com>
+To: tushar@simplifytrips.com
+Subject: =?UTF-8?Q?Gentle=20Reminder:=20Reg?==?UTF-8?Q?arding=20y?= =?UTF-8?Q?our=20internship=20on=20Int?==?UTF-8?Q?ernshala?=
+X-Sender: anamika@internshala.com
+X-Mailer: internshala.com
+X-Priority: 3 (Normal)
+Message-ID: <0100015bd7176bb3-8b3e7ea5-9c4e-4f13-b40b-ad3f365f047a-000000@email.amazonses.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_590c0e2d8793a"
+X-SES-Outgoing: 2017.05.05-54.240.10.17
+Feedback-ID: 1.us-east-1.zxtucPVubGftJWR49L2EMyyk1hBPV57S2rBAeFj2vQs=:AmazonSES
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_590c0e2d8793a
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Hi Tushar,
+
+Hope you're doing well.
+
+This is to remind you that your Business Development (Sales) internship is
+still under review. I requested you for the clarifications/missing details
+in my previous email as mentioned below in the trail.
+
+Please feel free to get in touch on +91 9650196253 for any queries or
+assistance. Kindly note that if we do not hear from you within the next 48
+hours, this internship would be auto-declined.
+
+ Many thanks,
+ Anamika Singh Manager- Employer Relations+91 9650196253Internshala
+ 1st May, 04:53 PM
+
+ Dear Tushar,
+ Thank you very much for posting your Business Development (Sales)
+internship requirement on Internshala.
+ The post is still under review and not yet made live because -
+
+
+
+ It is an output driven performance based internship i.e Rs 200 /Sale. We
+insist on a basic fixed stipend for in-office requirements and the rest
+could be performance-based. This ensures that the basic expense of the
+intern is taken care of. Please revert with the minimum assured stipend that
+you would be willing to pay to the hired intern.
+
+
+
+ Please feel free to get in touch on +91 9650196253 for any queries or
+ assistance.
+
+ We look forward to hearing from you.
+ Many thanks,
+ Anamika Singh Manager- Employer Relations+91 9650196253Internshala
+
+
+--B_ALT_590c0e2d8793a
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi Tushar,=0A<br /><br />=0AHope you're doing well.=0A<br /><br />=0AThis i=
+s to remind you that your <a href=3D"https://internshala.com/internship/det=
+ail/business-development-sales-internship-in-multiple-locations-at-simplify=
+trips1493634942">Business Development (Sales)</a> internship is still under=
+ review. I requested you for the clarifications/missing details in my previ=
+ous email as mentioned below in the trail.=0A<br /><br />=0APlease feel fre=
+e to get in touch on <a href=3D"tel: %2B91 9650196253">+91 9650196253</a> f=
+or any queries or assistance. Kindly note that if we do not hear from you w=
+ithin the next 48 hours, this internship would be auto-declined.=0A<br/><br=
+/>=0A                        Many thanks,                            =0A   =
+                     <br/>Anamika Singh<br/> Manager- Employer Relations<br=
+/>+91 9650196253<br/><a href=3D'https://internshala.com'>Internshala<a>    =
+<hr />=0A    1st May, 04:53 PM    <br /><br />=0A    <div style=3D"margin-l=
+eft: 50px;">=0A        Dear Tushar,<br><br>=0A    Thank you very much for p=
+osting your <span id=3D"internship-profile">Business Development (Sales)</s=
+pan> internship requirement on Internshala.=0A    The post is still under r=
+eview and not yet made live because -=0A    <ul>=0A        <div id=3D"templ=
+ate_followup_reasons">=0A    <li>=0A        It is an output driven performa=
+nce based internship i.e <b class=3D"stipend-mentioned">Rs 200 /Sale</b>. W=
+e insist on a basic fixed stipend for in-office requirements and the rest c=
+ould be performance-based. This ensures that the basic expense of the inter=
+n is taken care of. Please revert with the minimum assured stipend that you=
+ would be willing to pay to the hired intern.=0A    </li>=0A</div>=0A    </=
+ul>=0A    Please feel free to get in touch on <a href=3D"tel: +91 965019625=
+3">+91 9650196253</a> for any queries or=0A    assistance.=0A    <br><br>=
+=0A    We look forward to hearing from you.        <br/><br/>=0A           =
+             Many thanks,                            =0A                   =
+     <br/>Anamika Singh<br/> Manager- Employer Relations<br/>+91 9650196253=
+<br/><a href=3D'https://internshala.com'>Internshala<a>    </div>
+
+--B_ALT_590c0e2d8793a--

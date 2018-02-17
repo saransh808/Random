@@ -1,0 +1,35 @@
+Return-Path: <noreply@sg2plcpnl0205.prod.sin2.secureserver.net>
+Delivered-To: tusharchoudhary@sg2plcpnl0205.prod.sin2.secureserver.net
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id EePtIoeBMViLWAcAwZeyeg
+	for <tusharchoudhary@sg2plcpnl0205.prod.sin2.secureserver.net>; Sun, 20 Nov 2016 03:57:11 -0700
+Return-path: <noreply@sg2plcpnl0205.prod.sin2.secureserver.net>
+Envelope-to: tusharchoudhary@sg2plcpnl0205.prod.sin2.secureserver.net
+Delivery-date: Sun, 20 Nov 2016 03:57:11 -0700
+Received: from root by sg2plcpnl0205.prod.sin2.secureserver.net with local (Exim 4.87)
+	(envelope-from <noreply@sg2plcpnl0205.prod.sin2.secureserver.net>)
+	id 1c8Po7-0023VZ-GQ
+	for tusharchoudhary@sg2plcpnl0205.prod.sin2.secureserver.net; Sun, 20 Nov 2016 03:57:11 -0700
+To: tusharchoudhary@sg2plcpnl0205.prod.sin2.secureserver.net
+Subject: [Installatron] Code Igniter installed
+Date: Sun, 20 Nov 2016 03:57:11 -0700
+From: noreply@sg2plcpnl0205.prod.sin2.secureserver.net
+Message-ID: <de8ac6e227da57828c4dec99daf949d0@sg2plcpnl0205.prod.sin2.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.26
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+Code Igniter v3.1.0 has been installed to:
+
+http://www.simplifytrips.com/ci
+http://www.simplifytrips.com/ci
+
+
+
+Login to your web hosting control panel and navigate to the Installatron tool to manage this install.
+
+End of report.
+

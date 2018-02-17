@@ -1,0 +1,273 @@
+Return-Path: <3_EQQWRMbAJUH3IBDG3zEED7CIB3CIHzEE72.5DD5A3JH3G1DCI3CI.1DB@M3KW2WVRGUFZ5GODRSRYTGD7.apphosting.bounces.google.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id oToTDSZFEFmfFA8AwZeyeg
+	for <tushar@simplifytrips.com>; Mon, 08 May 2017 03:15:02 -0700
+Return-path: <3_EQQWRMbAJUH3IBDG3zEED7CIB3CIHzEE72.5DD5A3JH3G1DCI3CI.1DB@M3KW2WVRGUFZ5GODRSRYTGD7.apphosting.bounces.google.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Mon, 08 May 2017 03:15:02 -0700
+Received: from mail-pg0-f72.google.com ([74.125.83.72]:39369)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.88)
+	(envelope-from <3_EQQWRMbAJUH3IBDG3zEED7CIB3CIHzEE72.5DD5A3JH3G1DCI3CI.1DB@M3KW2WVRGUFZ5GODRSRYTGD7.apphosting.bounces.google.com>)
+	id 1d7fh0-0049CU-51
+	for tushar@simplifytrips.com; Mon, 08 May 2017 03:15:02 -0700
+Received: by mail-pg0-f72.google.com with SMTP id x64so65862395pgd.6
+        for <tushar@simplifytrips.com>; Mon, 08 May 2017 03:14:41 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=setmore-com.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:date:reply-to:message-id:subject:from:to;
+        bh=j4nhx2f4X3QobdGhr7qkrgU3bV8bSrzSJVg202+BZSU=;
+        b=rcxhhBD9NTnyCHdJw/KxL4Q8f0n3Jrk7YJFvecfHlwFKzMIlS/lJHPPGT0POKRrQLP
+         PJbQSiJqn1zEMIGkYClB+cPCTmgbxjktrNfpWdzKl2ChXfbtrsid8/z7qxlPYvwUTn/Y
+         ZE5o0onCDJ17wE86eTMPJOk4ri97u67WWhWWl/xGmmZ7hIPkhvMHoCNrFbzCJ4ffGGoY
+         mBZIxE4HEElx+g5qIzefKEmK3Cro9bNQ9HIEMRoVOLEsT9Zpjx5ckxDCsFV06u4Qw5MZ
+         x0SYrAuH1OaqfnOLPM2F0z4LRJAHJuReLG9lzYxpG0yspG4TNcnNyjOgoStbwtxtD/NR
+         onGA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:date:reply-to:message-id:subject
+         :from:to;
+        bh=j4nhx2f4X3QobdGhr7qkrgU3bV8bSrzSJVg202+BZSU=;
+        b=S+ExgKrmWJp8sAEy2vUH7+5mGWHwbNkOpGUg4HQ1N7csc+d5Z9rPv0S+RluePHFl63
+         zv1StqVVzL2nqPQ+A8kbsb0wF8Q1VhXXIG3hOsbH6WlJj0ll/nkHqluzJG+F2XG42oQG
+         Cd+wUpmmd5k8PIk3fVwZbHopqmYqqd8oxlsWkBOyVa3zpA+bTNcSl7vbiwSOETAj/2Rm
+         ZY+ZJ+r0V9FtnhOtuoiHTgy+r4nu0QopEMlhvQpK5mz8xgmMmltpGt/edgcjNKDe9ujS
+         xSzyNMikObkO26pceeaO/CZS9I4BfPq4pp6Uf9H0Et3ASEFNId3Zl4vPxOerJEdMpeML
+         ZZvw==
+X-Gm-Message-State: AN3rC/4CEyUDZqeZHwcdyseXUtZT2wMp1b4GR3xsM5lxG8DdRpJnJ7AW
+	DO5PE49QrLn8sahxXGgifqTOnEVxH3qiyz0chCZWW9BnuWh2
+MIME-Version: 1.0
+X-Received: by 10.99.109.203 with SMTP id i194mr7508841pgc.142.1494238460231;
+ Mon, 08 May 2017 03:14:20 -0700 (PDT)
+Date: Mon, 08 May 2017 03:14:20 -0700
+Reply-To: rajiv@first100sales.com
+X-Google-Appengine-App-Id: s~setmoreappointments
+X-Google-Appengine-App-Id-Alias: setmoreappointments
+Message-ID: <94eb2c14fa74a1c7b5054f008044@google.com>
+Subject: Appointment Scheduled on Wed May 17, 2017 11:00 am IST with Pradeep .
+From: FHS Accelerator <no-reply@setmore.com>
+To: tushar@simplifytrips.com
+Content-Type: multipart/mixed; boundary=94eb2c14fa74a1c78d054f008043
+
+--94eb2c14fa74a1c78d054f008043
+Content-Type: multipart/alternative; boundary=94eb2c14fa74a1c788054f008041
+
+--94eb2c14fa74a1c788054f008041
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+
+Thank You
+
+Hi Tushar Choudhary,
+
+Your appointment has been booked with FHS Accelerator Pvt Ltd
+
+
+When:
+Your Time - Wed May 17, 2017 11:00 AM IST
+
+Company Time - Wed May 17, 2017 11:00 am IST
+
+
+Service:
+Understanding your Immediate Need
+
+
+Consultant:
+Pradeep
+
+
+Please put your Startup/Idea details @ fhsidealab.com/auth/login
+
+Call +91 99807 33554 at the appointment time
+& come online @ appear.in/fhsaccelerator
+
+NB : PLEASE DON'T VISIT OFFICE WITHOUT CALLING
+
+Thanks,
+Pradeep
+pradeep@first100sales.com
+
+
+FHS Accelerator Pvt Ltd
+
+
+9980733554 Email View Website
+
+Reschedule Cancel Appointment Reviews
+
+
+
+Powerful Free Scheduling - Setmore
+
+
+
+--94eb2c14fa74a1c788054f008041
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>E-mail Template</title>
+			<link href=3D"http://fonts.googleapis.com/css?family=3DOpen+Sans:400,600=
+,700,800" rel=3D"stylesheet" type=3D"text/css">
+			<meta name=3D"viewport" content=3D"initial-scale=3D1, maximum-scale=3D1"=
+>
+		=09
+			<style>
+				#setmoreFooterContent:hover
+				{
+					text-decoration: underline;
+				}
+		</style>
+		=09
+		</head>
+		<body style=3D"margin:0px;">
+			<table cellpadding=3D"0" cellspacing=3D"0" width=3D"700" align=3D"center=
+" border=3D"0" style=3D"font-family: 'Open Sans', sans-serif; font-size:12p=
+x;margin-top:10px;">
+				<tbody style=3D"background-color:rgba(241, 245, 247, 0.5);vertical-alig=
+n: top;line-height: 20px;">
+					<tr>
+						<td style=3D"background-color:#ffffff;padding: 30px 40px;border: 1px =
+solid #c2c2c2;border-radius: 7px;">
+							<div style=3D"border-bottom: 1px solid #e5e5e5;padding-bottom: 5px;m=
+argin-bottom: 20px;">
+								<h1 style=3D"color:#4e5b63;font-size: 28px;margin: 15px 0px 0px;fon=
+t-weight: 500;">Thank You</h1>
+								<h6 style=3D"color:#4e5b63;font-size: 15px;margin: 25px 0px 10px;fo=
+nt-weight: 500;">Hi Tushar Choudhary,</h6>
+								<p style=3D"color:#788a95;font-size: 15px;margin: 10px 0px 15px;">Y=
+our appointment has been booked with FHS Accelerator Pvt Ltd</p>
+							</div>
+							<div style=3D"border-bottom: 1px solid #e5e5e5;margin-bottom: 20px;p=
+adding-bottom: 15px;">
+								<div style=3D"position: relative;display: inline-block;width: 100%;=
+">
+									<label style=3D"color:#788a95;font-size:15px;">When:&nbsp;</label>
+									<p style=3D"display: inline-block;margin: 0;color:#637374;font-siz=
+e:15px;">Your Time - Wed May 17, 2017 11:00 AM IST</p>
+																		<p style=3D"display: inline-block;margin: 0;color:#637374=
+;font-size:15px;margin-left:52px;">Company Time - Wed May 17, 2017 11:00 am=
+ IST</p>
+																	</div>
+							=09
+								<div style=3D"position: relative;display: inline-block;width: 100%;=
+">
+									<label style=3D"color:#788a95;font-size:15px;">Service:&nbsp;</lab=
+el>
+									<p style=3D"display: inline-block;margin: 0;color:#637374;font-siz=
+e:15px;">Understanding your Immediate Need</p>
+								</div>
+								<div style=3D"position: relative;display: inline-block;width: 100%;=
+">
+									<label style=3D"color:#788a95;font-size:15px;">Consultant:&nbsp;</=
+label>
+									<p style=3D"display: inline-block;margin: 0;color:#637374;font-siz=
+e:15px;">Pradeep </p>
+								</div>
+
+							=09
+							=09
+
+							</div>
+
+							<div>
+								<dl>
+									<dd style=3D"color:#788a95;font-size:15px;margin: 0;">Please put y=
+our Startup/Idea details @ fhsidealab.com/auth/login<br><br>Call +91 99807 =
+33554 at the appointment time<br>&amp; come online @ appear.in/fhsaccelerat=
+or<br><br>N.B :  PLEASE DON&#039;T VISIT OFFICE WITHOUT CALLING<br><br>Than=
+ks,<br>Pradeep<br>pradeep@first100sales.com</dd>
+								</dl>
+							</div>
+						</td>
+						<td style=3D"background-color:rgba(241, 245, 247, 0.5);padding:20px;b=
+order-top-right-radius: 7px;border-bottom-right-radius: 7px;" >
+							<div style=3D"width: 158px; line-height:0px;padding : 2px;"><img src=
+=3Dhttp://lh3.ggpht.com/v4SA7OcwG5rD5uEwxZMATAHN5QHqAlGwIPLlQQJOE3DInViASEg=
+y8TPlYHXItOZJ8aeXBYqTQgy-rchxzHv6sYUsi04fZefkDA=3Ds250 style=3D"height: aut=
+o; width: 158px;border-radius: 5px;margin-bottom: 20px;" /></div>
+					=09
+							<div style=3D"color:#4e5b63;width:150px;">FHS Accelerator Pvt Ltd</d=
+iv>
+							<dl style=3D"margin: 0px 0px 20px 0px;color:#95a5a6;line-height: 20p=
+x;width: 150px;">
+								<dd style=3D"margin:0 0 5px 0;"><br />9980733554</dd>
+								<a href=3D"mailto:rajiv@first100sales.com" style=3D"color:#33c3ba; =
+text-decoration:none;">Email</a>
+								<a href=3D"http://first100sales.com" style=3D"display: block;margin=
+:0 0 5px 0; cursor: pointer; text-decoration: none;color: #33c3ba;">View We=
+bsite</a>
+							=09
+									<!-- <span>Get Directions?</span> <a href=3D"#" style=3D"color: #9=
+5a5a6;text-decoration: none;">Click here</a> -->
+							</dl><br/>
+							<a href=3D"http://my.setmore.com/reschduleCustomerAppointmentPopup.d=
+o?cancellationKey=3Db3f9e8bd-1518-476c-bb74-fed6c246f75a&isEdited=3Dtrue"st=
+yle=3D"width: 177px;text-decoration: none;text-align: center;display: block=
+;padding: 9px 0px;border: 1px solid #cad3d9;border-radius: 4px;color: #33c3=
+ba;background: #f7f9fa;margin-bottom: 7px;">Reschedule</a>
+							<a href=3D"http://my.setmore.com/cancelCustomerAppointmentPopup.do?c=
+ancellationKey=3Db3f9e8bd-1518-476c-bb74-fed6c246f75a"style=3D"width: 177px=
+;text-decoration: none;text-align: center;display: block;padding: 9px 0px;b=
+order: 1px solid #cad3d9;border-radius: 4px;color: #33c3ba;background: #f7f=
+9fa;margin-bottom: 7px;">Cancel Appointment</a>
+							<a href=3D"http://my.setmore.com/bookingpage/3537cd74-ea62-48be-aa98=
+-7ad67f277b06/reviews" style=3D"width: 177px;text-decoration: none;text-ali=
+gn: center;display: block;padding: 9px 0px;border: 1px solid #cad3d9;border=
+-radius: 4px;color: #33c3ba;background: #f7f9fa;margin-bottom: 7px;">Review=
+s</a>
+						</td>
+
+					</tr>
+										<tr>
+						<td colspan=3D"2" style=3D"padding: 15px 0px;background-color: #fff;"=
+>
+							<a style=3D"text-decoration:none" href=3D"https://www.setmore.com/?u=
+tm_source=3Dfooter%20email&utm_medium=3DHT" target=3D"_blank"><div style=3D=
+"float:left">
+								<img src=3D"http://my.setmore.com/images/emailTemplate-images/setmo=
+relogo.png" style=3D"width:24px;height:21px;" />
+							</div>
+							<div id=3D"setmoreFooterContent" style=3D"width:230px;color:rgba(68,=
+ 87, 98, 0.69);font-size:100%;">Powerful Free Scheduling - Setmore</div></a=
+>
+						</td>
+				    </tr>
+									</tbody>
+			</table>
+		</body>
+	</html>
+--94eb2c14fa74a1c788054f008041--
+--94eb2c14fa74a1c78d054f008043
+Content-Type: text/calendar; charset=US-ASCII; name="appointment.ics"
+Content-Disposition: attachment; filename="appointment.ics"
+Content-Transfer-Encoding: base64
+
+QkVHSU46VkNBTEVOREFSDQpQUk9ESUQ6LS8vU2V0TW9yZS8vVjIuMC8vRU4NClZFUlNJT046Mi4w
+DQpDQUxTQ0FMRTpHUkVHT1JJQU4NClgtV1ItVElNRVpPTkU6QXNpYS9Lb2xrYXRhDQpCRUdJTjpW
+VElNRVpPTkUNClRaSUQ6QXNpYS9Lb2xrYXRhDQpUWlVSTDpodHRwOi8vdHp1cmwub3JnL3pvbmVp
+bmZvL0FzaWEvS29sa2F0YQ0KWC1MSUMtTE9DQVRJT046QXNpYS9Lb2xrYXRhDQpCRUdJTjpTVEFO
+REFSRA0KVFpPRkZTRVRGUk9NOiswNTUzMjgNClRaT0ZGU0VUVE86KzA1NTMyMA0KVFpOQU1FOkhN
+VA0KRFRTVEFSVDoxODgwMDEwMVQwMDAwMDANCkVORDpTVEFOREFSRA0KQkVHSU46U1RBTkRBUkQN
+ClRaT0ZGU0VURlJPTTorMDU1MzIwDQpUWk9GRlNFVFRPOiswNjMwDQpUWk5BTUU6QlVSVA0KRFRT
+VEFSVDoxOTQxMTAwMVQwMDAwMDANCkVORDpTVEFOREFSRA0KQkVHSU46U1RBTkRBUkQNClRaT0ZG
+U0VURlJPTTorMDYzMA0KVFpPRkZTRVRUTzorMDUzMA0KVFpOQU1FOklTVA0KRFRTVEFSVDoxOTQy
+MDUxNVQwMDAwMDANCkVORDpTVEFOREFSRA0KQkVHSU46REFZTElHSFQNClRaT0ZGU0VURlJPTTor
+MDUzMA0KVFpPRkZTRVRUTzorMDYzMA0KVFpOQU1FOklTVA0KRFRTVEFSVDoxOTQyMDkwMVQwMDAw
+MDANCkVORDpEQVlMSUdIVA0KRU5EOlZUSU1FWk9ORQ0KQkVHSU46VkVWRU5UDQpVSUQ6NDFkZmE2
+MGEtZDJiNS00MGI5LWJkZDktYzExYWMwYTQ3YzU3QHNldG1vcmUuY29tDQpERVNDUklQVElPTjpB
+cHBvaW50bWVudCBEZXRhaWxzOlxuUHJvdmlkZXI6IFByYWRlZXAgXG5TZXJ2aWNlOiBVbmRlcnN0
+YW5kaW5nIHlvdXIgSW1tZWRpYXRlIE5lZWRcbllvdXIgRGV0YWlsczpcbk5hbWU6IFR1c2hhciBD
+aG91ZGhhcnlcblBob25lOiA3NTY3OTQ5NjA2XG5FbWFpbDogdHVzaGFyQHNpbXBsaWZ5dHJpcHMu
+Y29tXG5BZGRyZXNzOiBcbldlYnNpdGU6IHd3dy5zaW1wbGlmeXRyaXBzLmNvbVxuUHJvZGN1dC9T
+ZXJ2aWNlOiBzaW1wbGlmeXRyaXBzLmNvbVxuTWFya2V0OiBUcmF2ZWxcblNhbGVzIHJldmVudWU6
+IE5BXG5TcGVjaWZpYyBhZ2VuZGE6IE5lZWRzIHRvIGFkZHJlc3Mgd2hhdCB0byBkby5cbk5vdGVz
+OiBcblN0YXR1czogY29uZmlybWVkDQpDTEFTUzpQVUJMSUMNClNFUVVFTkNFOjANClNVTU1BUlk6
+VHVzaGFyIENob3VkaGFyeSAtIFByYWRlZXAgIC0gVW5kZXJzdGFuZGluZyB5b3VyIEltbWVkaWF0
+ZSBOZWVkDQpEVFNUQVJUO1RaSUQ9QXNpYS9Lb2xrYXRhOjIwMTcwNTE3VDExMDAwMA0KRFRFTkQ7
+VFpJRD1Bc2lhL0tvbGthdGE6MjAxNzA1MTdUMTIwMDAwDQpMT0NBVElPTjoNClNUQVRVUzpDT05G
+SVJNRUQNCkVORDpWRVZFTlQNCkVORDpWQ0FMRU5EQVINCg==
+--94eb2c14fa74a1c78d054f008043--

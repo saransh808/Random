@@ -1,0 +1,434 @@
+Return-Path: <s-2tm8ndodf87zaqyd2fjt5agve8zqp24gl5o7dkpizxgah4bj6ysu6qg1@bounce.linkedin.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id 2WxTA1Ifc1h9SwEAwZeyeg
+	for <tushar@simplifytrips.com>; Sun, 08 Jan 2017 22:27:46 -0700
+Return-path: <s-2tm8ndodf87zaqyd2fjt5agve8zqp24gl5o7dkpizxgah4bj6ysu6qg1@bounce.linkedin.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Sun, 08 Jan 2017 22:27:46 -0700
+Received: from maile-ge.linkedin.com ([108.174.0.197]:36226)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <s-2tm8ndodf87zaqyd2fjt5agve8zqp24gl5o7dkpizxgah4bj6ysu6qg1@bounce.linkedin.com>)
+	id 1cQSUj-000ML1-Kt
+	for tushar@simplifytrips.com; Sun, 08 Jan 2017 22:27:46 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=linkedin.com;
+	s=proddkim1024; t=1483939612;
+	bh=zFn0upzvlKQB6t9eJwvLeaEqUYrcGrPawZU3jfj2P7k=;
+	h=From:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:
+	 X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=4/HzhX3PJYgys2DNt2KCkmM45PKJF+ZHYTQODdEdcVrutCUTFVGxO2Bxll7BMKuHM
+	 e3OibgvYoyRig/iM8onN3kB4wnHQFpXy3ESPGlAY5AvhPJ89wV7KtPkL4FJWkIx9ME
+	 7RDvDQoN/hXDzOZtrVBljvk+Sra8CW+AMNd0h+eg=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=maile.linkedin.com;
+	s=proddkim1024; t=1483939612;
+	bh=zFn0upzvlKQB6t9eJwvLeaEqUYrcGrPawZU3jfj2P7k=;
+	h=From:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:
+	 X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=gU3FPDvxUMMKzcXFSsCvNhgaAAjgUTUJcNCDY15HUgnXAHvrhd16SyF0njAu4xYWL
+	 CCw2PlFFuqXNwFlke1k7hmJkGc7VuaVpBKMxdonad2Uu3HZDB900wx2PSmva6bWUWx
+	 fP0Y2wyLyWdExaLLKB1B46ukt4YaHLSdw9PJhxiQ=
+From: LinkedIn <messages-noreply@linkedin.com>
+Message-ID: <913959936.1225164.1483939611163.JavaMail.app@lsg1-app1068.prod.linkedin.com>
+Subject: Tushar, start using your new simplifytrips Company Page today
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1225162_694512775.1483939611160"
+To: Tushar Choudhary <tushar@simplifytrips.com>
+Date: Mon, 9 Jan 2017 05:26:51 +0000 (UTC)
+X-LinkedIn-Class: EMAIL-DEFAULT
+X-LinkedIn-Template: company_page_created
+X-LinkedIn-fbl: m2-aszzwm9hm50a8bp8e3ob1abco0y5wvuj4v3ykoyuym3f77xfzsagj2uqh0viwc49ypbhabjtwwbwzgphxe8n8sgsd688jgbpbdqfd6
+X-LinkedIn-Id: 1zmjuk-ixpnbvwi-cr
+
+------=_Part_1225162_694512775.1483939611160
+Content-Type: text/plain;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: text-body
+
+Hi Tushar,
+
+You're all set up! Start using your Company Page to share company news, int=
+eract with customers, and build your brand today.
+
+Go to your page: https://www.linkedin.com/e/v2?e=3D1zmjuk-ixpnbvwi-cr&amp;t=
+=3Dbzo&amp;midToken=3DAQHMP3b0C6y_Rg&amp;tracking=3Deml-company_page_create=
+d-body-view_cp_button&amp;ek=3Dcompany_page_created&amp;companyUniversalNam=
+e=3Dsimplifytrips
+
+
+A few tips to get you started:=20
+
+Promoting your Company Page: https://www.linkedin.com/e/v2?e=3D1zmjuk-ixpnb=
+vwi-cr&amp;t=3Dplh&amp;midToken=3DAQHMP3b0C6y_Rg&amp;tracking=3Deml-company=
+_page_created-stream-tips_promote_cp&amp;ek=3Dcompany_page_created&amp;urlh=
+ash=3DgsK0&amp;url=3Dhttps%3A%2F%2Fwww%2Eyoutube%2Ecom%2Fwatch%3Fv%3DL3Wy2B=
+4G9CU
+
+
+15 Tips for Compelling Company Page Updates: https://www.linkedin.com/e/v2?=
+e=3D1zmjuk-ixpnbvwi-cr&amp;t=3Dplh&amp;midToken=3DAQHMP3b0C6y_Rg&amp;tracki=
+ng=3Deml-company_page_created-stream-tips_compelling_updates&amp;ek=3Dcompa=
+ny_page_created&amp;urlhash=3Dd_4Y&amp;url=3Dhttp%3A%2F%2Fwww%2Eslideshare%=
+2Enet%2FLImarketingsolutions%2F15-tips-for-compelling-company-updates
+
+
+Company Page FAQs: https://www.linkedin.com/e/v2?e=3D1zmjuk-ixpnbvwi-cr&amp=
+;a=3DcustomerServiceUrl&amp;midToken=3DAQHMP3b0C6y_Rg&amp;tracking=3Deml-co=
+mpany_page_created-stream-cp_faq&amp;ek=3Dcompany_page_created&amp;articleI=
+d=3D1561
+
+
+Company Page Best Practices: https://www.linkedin.com/e/v2?e=3D1zmjuk-ixpnb=
+vwi-cr&amp;t=3Dplh&amp;midToken=3DAQHMP3b0C6y_Rg&amp;tracking=3Deml-company=
+_page_created-stream-tips_best_practices&amp;ek=3Dcompany_page_created&amp;=
+urlhash=3D_OfG&amp;url=3Dhttps%3A%2F%2Fbusiness%2Elinkedin%2Ecom%2Fmarketin=
+g-solutions%2Fcompany-pages%2Fbest-practices
+
+
+
+
+
+=C2=A9 2017 LinkedIn Ireland Unlimited Company. LinkedIn, the LinkedIn logo=
+, and InMail are registered trademarks of LinkedIn Corporation in the Unite=
+d States and/or other countries. All rights reserved.
+
+
+
+This email was intended for Tushar Choudhary (Executive O&M at wartsila ind=
+ia ltd).=20
+Learn why we included this: https://www.linkedin.com/e/v2?e=3D1zmjuk-ixpnbv=
+wi-cr&a=3DcustomerServiceUrl&midToken=3DAQHMP3b0C6y_Rg&ek=3Dcompany_page_cr=
+eated&articleId=3D4788
+
+If you need assistance or have questions, please contact LinkedIn Customer =
+Service: https://www.linkedin.com/e/v2?e=3D1zmjuk-ixpnbvwi-cr&a=3DcustomerS=
+erviceUrl&midToken=3DAQHMP3b0C6y_Rg&ek=3Dcompany_page_created
+
+LinkedIn is a registered business name of LinkedIn Ireland Unlimited Compan=
+y.
+Registered in Ireland as a private unlimited company, Company Number 477441
+Registered Office: Wilton Plaza, Wilton Place, Dublin 2, Ireland
+------=_Part_1225162_694512775.1483939611160
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: html-body
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns=3D"http://www.w3=
+.org/1999/xhtml" style=3D"-webkit-text-size-adjust:none;"> <head> <meta htt=
+p-equiv=3D"Content-Type" content=3D"text/html;charset=3Dutf-8"> <meta name=
+=3D"HandheldFriendly" content=3D"true"> <meta name=3D"viewport" content=3D"=
+width=3Ddevice-width; initial-scale=3D0.666667; maximum-scale=3D0.666667; u=
+ser-scalable=3D0"> <meta name=3D"viewport" content=3D"width=3Ddevice-width"=
+> <title></title> <style type=3D"text/css">@media all and (max-width:590px)=
+ { *[class].responsive { width:290px !important; } *[id]#center { width:50%=
+; margin:0 auto; display:table; } *[class].display-none { display:none !imp=
+ortant; } *[class].display-block { display:block !important; } *[class].fix=
+-table-content { table-layout:fixed; } *[class].hide-for-mobile { display:n=
+one !important; } *[class].show-for-mobile { width:auto !important; max-hei=
+ght:none !important; visibility:visible !important; overflow:visible !impor=
+tant; float:none !important; height:auto !important; display:block !importa=
+nt; } *[class].responsive_header { display:table-cell !important; width:100=
+% !important; color:#0077b5 !important; font-size:12px !important; } *[clas=
+s].res-font10 { font-size:10px !important; } *[class].res-font12 { font-siz=
+e:12px !important; } *[class].res-font13 { font-size:13px !important; } *[c=
+lass].res-font14 { font-size:14px !important; } *[class].res-font16 { font-=
+size:16px !important; } *[class].res-font18 { font-size:18px !important; } =
+*[class].res-font20 { font-size:20px !important; } *[class].res-width10 { w=
+idth:10px !important; } *[class].res-width20 { width:20px !important; } *[c=
+lass].res-width25 { width:25px !important; } *[class].res-width120 { width:=
+120px !important; } *[class].res-height0 { height:0px !important; } *[class=
+].res-height10 { height:10px !important; } *[class].res-height20 { height:2=
+0px !important; } *[class].res-height30 { height:30px !important; } *[class=
+].res-img40 { width:40px !important; height:40px !important; } *[class].res=
+-img60 { width:60px !important; height:60px !important; } *[class].res-img7=
+5 { width:75px !important; height:75px !important; } *[class].res-img100 { =
+width:100px !important; height:100px !important; } *[class].res-img150 { wi=
+dth:150px !important; height:150px !important; } *[class].res-img320 { widt=
+h:320px !important; height:auto !important; } *[class].hideIMG { display:no=
+ne; height:0px !important; width:0px !important; } *[class].responsive-spac=
+er { width:10px !important; } *[class].header-spacer { table-layout:auto !i=
+mportant; width:250px !important; } *[class].header-spacer td, *[class].hea=
+der-spacer div { width:250px !important; } *[class].center-content { text-a=
+lign:center !important; } *[class].responsive-fullwidth { width:100% !impor=
+tant; } *[class].cellpadding-none, *[class].cellpadding-none table, *[class=
+].cellpadding-none table td { border-collapse:collapse !important; padding:=
+0 !important; } *[class].remove-margin { margin:0 !important; } *[class].re=
+move-border { border:none !important; } } @media all and (-webkit-min-devic=
+e-pixel-ratio:1.5) { *[id]#base-header-logo { background-image:url(https://=
+static.licdn.com/scds/common/u/images/email/logos/logo_linkedin_tm_email_19=
+7x48_v1.png) !important; background-size:95px; background-repeat:no-repeat;=
+ width:95px !important; height:21px !important; } *[id]#base-header-logo im=
+g { display:none; } *[id]#base-header-logo a { height:21px !important; } *[=
+id]#base-header-logo-china { background-image:url(https://static.licdn.com/=
+scds/common/u/images/email/logos/logo_linkedin_tm_china_email_266x42_v1.png=
+) !important; background-size:133px; background-repeat:no-repeat; width:133=
+px !important; height:21px !important; } *[id]#base-header-logo-china img {=
+ display:none; } *[id]#base-header-logo-china a { height:21px !important; }=
+ } </style> </head> <body style=3D"background-color:#dfdfdf;padding:0;margi=
+n:0 auto;width:100%;"> <span style=3D"visibility:hidden;color:transparent;d=
+isplay:none !important;mso-hide:all;width:0;font-size:1px;opacity:0;height:=
+0;"></span> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"background-color:#dfdfdf;color:#333333;font-size:16px;font-family:Helve=
+tica,Arial,sans-serif;" width=3D"100%" bgcolor=3D"#dfdfdf"> <tbody> <tr> <t=
+d> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"backgro=
+und-color:#dfdfdf;color:#333333;font-size:16px;font-family:Helvetica,Arial,=
+sans-serif;" width=3D"1" bgcolor=3D"#dfdfdf"> <tbody> <tr> <td> <div style=
+=3D"height:5px;font-size:5px;line-height:5px;"> &nbsp; </div></td> </tr> </=
+tbody> </table></td> </tr> <tr> <td> <table cellspacing=3D"0" cellpadding=
+=3D"0" border=3D"0" align=3D"center" width=3D"100%" style=3D"color:#333333;=
+table-layout:fixed;font-size:16px;font-family:Helvetica,Arial,sans-serif;">=
+ <tbody> <tr> <td align=3D"center"> <table border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" style=3D"color:#333333;font-size:16px;font-family:Helvetic=
+a,Arial,sans-serif;min-width:290px;" width=3D"550" class=3D"responsive"> <t=
+body> <tr> <td align=3D"left"> <table border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" style=3D"color:#333333;font-size:16px;font-family:Helvetica,Ari=
+al,sans-serif;" width=3D"100%" bgcolor=3D"#DFDFDF"> <tbody> <tr> <td> <tabl=
+e width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"col=
+or:#333333;font-size:16px;font-family:Helvetica,Arial,sans-serif;"> <tbody>=
+ <tr> <td> <div style=3D"height:8px;font-size:8px;line-height:8px"> &nbsp; =
+</div></td> </tr> </tbody> </table></td> </tr> <tr> <td> <table border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0" style=3D"color:#333333;font-size:16px=
+;font-family:Helvetica,Arial,sans-serif;" width=3D"100%"> <tbody> <tr> <td =
+align=3D"left" valign=3D"middle" width=3D"95" height=3D"21" id=3D"base-head=
+er-logo"><a style=3D"text-decoration:none;cursor:pointer;border:none;displa=
+y:block;height:21px;width:100%;" href=3D"https://www.linkedin.com/comm/nhom=
+e/?trk=3Deml-company_page_created-header-linkedin_logo&amp;midToken=3DAQHMP=
+3b0C6y_Rg&amp;trkEmail=3Deml-company_page_created-null-6-null-null-1zmjuk%7=
+Eixpnbvwi%7Ecr"><img src=3D"https://static.licdn.com/scds/common/u/images/e=
+mail/logos/logo_linkedin_tm_email_95x21_v1.png" width=3D"95" height=3D"21" =
+alt=3D"LinkedIn" style=3D"border:none;text-decoration:none;"></a></td> </tr=
+> </tbody> </table></td> </tr> </tbody> </table> <table width=3D"1" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"color:#333333;font-size=
+:16px;font-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> <div styl=
+e=3D"height:8px;font-size:8px;line-height:8px"> &nbsp; </div></td> </tr> </=
+tbody> </table> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" sty=
+le=3D"color:#333333;font-size:16px;font-family:Helvetica,Arial,sans-serif;"=
+ width=3D"100%" bgcolor=3D"#333333"> <tbody> <tr> <td width=3D"20" class=3D=
+"responsive-spacer"> <table width=3D"20" border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"0" class=3D"res-width10" style=3D"color:#333333;font-size:16px;=
+font-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> <div style=3D"h=
+eight:0px;font-size:0px;line-height:0px"> &nbsp; </div></td> </tr> </tbody>=
+ </table></td> <td width=3D"100%"> <table width=3D"510" cellspacing=3D"0" c=
+ellpadding=3D"1" border=3D"0" class=3D"header-spacer" style=3D"color:#33333=
+3;table-layout:fixed;font-size:16px;font-family:Helvetica,Arial,sans-serif;=
+"> <tbody> <tr> <td width=3D"510"> <div style=3D"height:12px;font-size:12px=
+;line-height:12px;width:510px;"> &nbsp; </div></td> </tr> </tbody> </table>=
+</td> <td width=3D"20"> <table width=3D"20" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" class=3D"res-width10" style=3D"color:#333333;font-size:16=
+px;font-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> <div style=
+=3D"height:0px;font-size:0px;line-height:0px"> &nbsp; </div></td> </tr> </t=
+body> </table></td> </tr> </tbody> </table> <table border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" style=3D"color:#333333;font-size:16px;font-family:=
+Helvetica,Arial,sans-serif;" width=3D"100%" bgcolor=3D"#ffffff"> <tbody> <t=
+r> <td width=3D"100" height=3D"60" style=3D"vertical-align:top;" valign=3D"=
+middle"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"c=
+olor:#333333;font-size:16px;font-family:Helvetica,Arial,sans-serif;" width=
+=3D"100%"> <tbody> <tr> <td colspan=3D"2"> <table width=3D"1" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"1" style=3D"color:#333333;font-size:16px;f=
+ont-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> <div style=3D"he=
+ight:20px;font-size:20px;line-height:20px"> &nbsp; </div></td> </tr> </tbod=
+y> </table></td> </tr> <tr> <td width=3D"20"> <table width=3D"20" border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"1" style=3D"color:#333333;font-size:16=
+px;font-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> <div style=
+=3D"height:0px;font-size:0px;line-height:0px"> &nbsp; </div></td> </tr> </t=
+body> </table></td> <td><a href=3D"https://www.linkedin.com/e/v2?e=3D1zmjuk=
+-ixpnbvwi-cr&amp;t=3Dbzo&amp;midToken=3DAQHMP3b0C6y_Rg&amp;tracking=3Deml-c=
+ompany_page_created-body-view_cp_logo&amp;ek=3Dcompany_page_created&amp;com=
+panyUniversalName=3Dsimplifytrips"><img alt=3D"simplifytrips" src=3D"https:=
+//static.licdn.com/scds/common/u/images/themes/katy/ghosts/company/ghost_co=
+mpany_100x60_v1.png" border=3D"0" width=3D"100" height=3D"60"></a></td> </t=
+r> </tbody> </table></td> <td width=3D"20"> <table width=3D"20" border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"1" style=3D"color:#333333;font-size:16px=
+;font-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> <div style=3D"=
+height:0px;font-size:0px;line-height:0px"> &nbsp; </div></td> </tr> </tbody=
+> </table></td> <td align=3D"left"> <table border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" style=3D"color:#333333;font-size:16px;font-family:Helvetic=
+a,Arial,sans-serif;" width=3D"100%"> <tbody> <tr> <td> <table width=3D"1" b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"1" style=3D"color:#333333;font=
+-size:16px;font-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> <div=
+ style=3D"height:20px;font-size:20px;line-height:20px"> &nbsp; </div></td> =
+</tr> </tbody> </table></td> </tr> <tr> <td><strong>Hi Tushar,</strong></td=
+> </tr> <tr> <td> <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" style=3D"color:#333333;font-size:16px;font-family:Helvetica,Aria=
+l,sans-serif;"> <tbody> <tr> <td> <div style=3D"height:5px;font-size:5px;li=
+ne-height:5px"> &nbsp; </div></td> </tr> </tbody> </table></td> </tr> <tr> =
+<td>You're all set up! Start using your Company Page to share company news,=
+ interact with customers, and build your brand today.</td> </tr> <tr> <td> =
+<table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1" style=
+=3D"color:#333333;font-size:16px;font-family:Helvetica,Arial,sans-serif;"> =
+<tbody> <tr> <td> <div style=3D"height:20px;font-size:20px;line-height:20px=
+"> &nbsp; </div></td> </tr> </tbody> </table></td> </tr> <tr> <td> <table b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"left" style=3D"col=
+or:#333333;font-size:16px;font-family:Helvetica,Arial,sans-serif;"> <tbody>=
+ <tr> <td align=3D"center" height=3D"30" valign=3D"middle" bgcolor=3D"#287B=
+BC" background=3D"https://static.licdn.com/scds/common/u/img/email/bg_btn_k=
+aty_blue_medium.png" style=3D"background:url(https://static.licdn.com/scds/=
+common/u/img/email/bg_btn_katy_blue_medium.png) repeat-x scroll bottom #287=
+BBC;background-color:#287BBC;border:1px solid #1B5480;-moz-border-radius:3p=
+x;-webkit-border-radius:3px;border-radius:3px; cursor: pointer;"> <table bo=
+rder=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"color:#333333;font-=
+size:16px;font-family:Helvetica,Arial,sans-serif;" width=3D"100%" bgcolor=
+=3D"transparent"> <tbody> <tr> <td width=3D"13"> <table width=3D"13px" bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"1" style=3D"color:#333333;font-si=
+ze:16px;font-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> <div st=
+yle=3D"height:0px;font-size:0px;line-height:0px"> &nbsp; </div></td> </tr> =
+</tbody> </table></td> <td><a href=3D"https://www.linkedin.com/e/v2?e=3D1zm=
+juk-ixpnbvwi-cr&amp;t=3Dbzo&amp;midToken=3DAQHMP3b0C6y_Rg&amp;tracking=3Dem=
+l-company_page_created-body-view_cp_button&amp;ek=3Dcompany_page_created&am=
+p;companyUniversalName=3Dsimplifytrips" style=3D"text-decoration:none; font=
+-size: 13px;font-weight: bold;color: white;white-space: nowrap;display: blo=
+ck;" target=3D"_blank"><span style=3D"font-size: 13px;font-weight: bold;col=
+or: white;white-space: nowrap;display: block;">Go to your page</span></a></=
+td> <td width=3D"13"> <table width=3D"13px" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"1" style=3D"color:#333333;font-size:16px;font-family:Helveti=
+ca,Arial,sans-serif;"> <tbody> <tr> <td> <div style=3D"height:0px;font-size=
+:0px;line-height:0px"> &nbsp; </div></td> </tr> </tbody> </table></td> </tr=
+> </tbody> </table></td> </tr> </tbody> </table></td> </tr> <tr> <td> <tabl=
+e width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1" style=3D"col=
+or:#333333;font-size:16px;font-family:Helvetica,Arial,sans-serif;"> <tbody>=
+ <tr> <td> <div style=3D"height:20px;font-size:20px;line-height:20px"> &nbs=
+p; </div></td> </tr> </tbody> </table></td> </tr> </tbody> </table></td> <t=
+d width=3D"20"> <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"1" style=3D"color:#333333;font-size:16px;font-family:Helvetica,Arial=
+,sans-serif;"> <tbody> <tr> <td> <div style=3D"height:0px;font-size:0px;lin=
+e-height:0px"> &nbsp; </div></td> </tr> </tbody> </table></td> </tr> </tbod=
+y> </table></td> </tr> <tr> <td align=3D"left"> <table border=3D"0" cellspa=
+cing=3D"0" cellpadding=3D"0" style=3D"color:#333333;font-size:16px;font-fam=
+ily:Helvetica,Arial,sans-serif;" width=3D"100%" bgcolor=3D"#f1f1f1"> <tbody=
+> <tr> <td colspan=3D"3"> <table width=3D"1" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"1" style=3D"color:#333333;font-size:16px;font-family:Helvet=
+ica,Arial,sans-serif;"> <tbody> <tr> <td> <div style=3D"height:20px;font-si=
+ze:20px;line-height:20px"> &nbsp; </div></td> </tr> </tbody> </table></td> =
+</tr> <tr> <td width=3D"20"> <table width=3D"20" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" style=3D"color:#333333;font-size:16px;font-family:=
+Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> <div style=3D"height:0px;fo=
+nt-size:0px;line-height:0px"> &nbsp; </div></td> </tr> </tbody> </table></t=
+d> <td> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"co=
+lor:#333333;font-size:16px;font-family:Helvetica,Arial,sans-serif;" width=
+=3D"100%"> <tbody> <tr> <td style=3D"font-size:13px;"><strong>A few tips to=
+ get you started:</strong></td> </tr> <tr> <td> <table border=3D"0" cellspa=
+cing=3D"0" cellpadding=3D"0" style=3D"color:#333333;font-size:16px;font-fam=
+ily:Helvetica,Arial,sans-serif;" width=3D"100%"> <tbody> <tr> <td colspan=
+=3D"4"> <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1"=
+ style=3D"color:#333333;font-size:16px;font-family:Helvetica,Arial,sans-ser=
+if;"> <tbody> <tr> <td> <div style=3D"height:15px;font-size:15px;line-heigh=
+t:15px"> &nbsp; </div></td> </tr> </tbody> </table></td> </tr> <tr style=3D=
+"font-size:13px;line-height:18px;"> <td width=3D"20"> <table width=3D"20" b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"1" style=3D"color:#333333;font=
+-size:16px;font-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> <div=
+ style=3D"height:0px;font-size:0px;line-height:0px"> &nbsp; </div></td> </t=
+r> </tbody> </table></td> <td>=E2=80=A2</td> <td width=3D"10"> <table width=
+=3D"10" border=3D"0" cellspacing=3D"0" cellpadding=3D"1" style=3D"color:#33=
+3333;font-size:16px;font-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> =
+<td> <div style=3D"height:0px;font-size:0px;line-height:0px"> &nbsp; </div>=
+</td> </tr> </tbody> </table></td> <td>How-to video: <a href=3D"https://www=
+.linkedin.com/e/v2?e=3D1zmjuk-ixpnbvwi-cr&amp;t=3Dplh&amp;midToken=3DAQHMP3=
+b0C6y_Rg&amp;tracking=3Deml-company_page_created-stream-tips_promote_cp&amp=
+;ek=3Dcompany_page_created&amp;urlhash=3DgsK0&amp;url=3Dhttps%3A%2F%2Fwww%2=
+Eyoutube%2Ecom%2Fwatch%3Fv%3DL3Wy2B4G9CU" style=3D"color:#0077B5;text-decor=
+ation:none;">Promoting your Company Page</a></td> </tr> <tr style=3D"font-s=
+ize:13px;line-height:18px;"> <td width=3D"20"> <table width=3D"20" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"1" style=3D"color:#333333;font-size=
+:16px;font-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> <div styl=
+e=3D"height:0px;font-size:0px;line-height:0px"> &nbsp; </div></td> </tr> </=
+tbody> </table></td> <td>=E2=80=A2</td> <td width=3D"10"> <table width=3D"1=
+0" border=3D"0" cellspacing=3D"0" cellpadding=3D"1" style=3D"color:#333333;=
+font-size:16px;font-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> =
+<div style=3D"height:0px;font-size:0px;line-height:0px"> &nbsp; </div></td>=
+ </tr> </tbody> </table></td> <td>Tips: <a href=3D"https://www.linkedin.com=
+/e/v2?e=3D1zmjuk-ixpnbvwi-cr&amp;t=3Dplh&amp;midToken=3DAQHMP3b0C6y_Rg&amp;=
+tracking=3Deml-company_page_created-stream-tips_compelling_updates&amp;ek=
+=3Dcompany_page_created&amp;urlhash=3Dd_4Y&amp;url=3Dhttp%3A%2F%2Fwww%2Esli=
+deshare%2Enet%2FLImarketingsolutions%2F15-tips-for-compelling-company-updat=
+es" style=3D"color:#0077B5;text-decoration:none;">15 Tips for Compelling Co=
+mpany Page Updates</a></td> </tr> <tr style=3D"font-size:13px;line-height:1=
+8px;"> <td width=3D"20"> <table width=3D"20" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"1" style=3D"color:#333333;font-size:16px;font-family:Helvet=
+ica,Arial,sans-serif;"> <tbody> <tr> <td> <div style=3D"height:0px;font-siz=
+e:0px;line-height:0px"> &nbsp; </div></td> </tr> </tbody> </table></td> <td=
+>=E2=80=A2</td> <td width=3D"10"> <table width=3D"10" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"1" style=3D"color:#333333;font-size:16px;font-fami=
+ly:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> <div style=3D"height:0px=
+;font-size:0px;line-height:0px"> &nbsp; </div></td> </tr> </tbody> </table>=
+</td> <td>Company Page <a href=3D"https://www.linkedin.com/e/v2?e=3D1zmjuk-=
+ixpnbvwi-cr&amp;a=3DcustomerServiceUrl&amp;midToken=3DAQHMP3b0C6y_Rg&amp;tr=
+acking=3Deml-company_page_created-stream-cp_faq&amp;ek=3Dcompany_page_creat=
+ed&amp;articleId=3D1561" style=3D"color:#0077B5;text-decoration:none;">FAQs=
+</a> and <a href=3D"https://www.linkedin.com/e/v2?e=3D1zmjuk-ixpnbvwi-cr&am=
+p;t=3Dplh&amp;midToken=3DAQHMP3b0C6y_Rg&amp;tracking=3Deml-company_page_cre=
+ated-stream-tips_best_practices&amp;ek=3Dcompany_page_created&amp;urlhash=
+=3D_OfG&amp;url=3Dhttps%3A%2F%2Fbusiness%2Elinkedin%2Ecom%2Fmarketing-solut=
+ions%2Fcompany-pages%2Fbest-practices" style=3D"color:#0077B5;text-decorati=
+on:none;">Best Practices</a></td> </tr> <tr> <td colspan=3D"4"> <table widt=
+h=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"1" style=3D"color:#33=
+3333;font-size:16px;font-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> =
+<td> <div style=3D"height:15px;font-size:15px;line-height:15px"> &nbsp; </d=
+iv></td> </tr> </tbody> </table></td> </tr> </tbody> </table></td> </tr> </=
+tbody> </table></td> <td width=3D"20"> <table width=3D"20" border=3D"0" cel=
+lspacing=3D"0" cellpadding=3D"0" style=3D"color:#333333;font-size:16px;font=
+-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> <div style=3D"heigh=
+t:0px;font-size:0px;line-height:0px"> &nbsp; </div></td> </tr> </tbody> </t=
+able></td> </tr> <tr> <td colspan=3D"3"> <table width=3D"1" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"1" style=3D"color:#333333;font-size:16px;fon=
+t-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> <div style=3D"heig=
+ht:20px;font-size:20px;line-height:20px"> &nbsp; </div></td> </tr> </tbody>=
+ </table></td> </tr> </tbody> </table></td> </tr> <tr> <td></td> </tr> <tr>=
+ <td align=3D"left"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" style=3D"color:#333333;font-size:16px;font-family:Helvetica,Arial,sans-se=
+rif;" width=3D"100%" class=3D"responsive"> <tbody> <tr> <td> <table width=
+=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"color:#333=
+333;font-size:16px;font-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> <=
+td> <div style=3D"height:10px;font-size:10px;line-height:10px"> &nbsp; </di=
+v></td> </tr> </tbody> </table></td> </tr> <tr> <td align=3D"center"> <tabl=
+e border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"color:#999999;f=
+ont-size:11px;font-family:Helvetica,Arial,sans-serif;" width=3D"100%"> <tbo=
+dy> <tr> <td align=3D"center" dir=3D"ltr">=C2=A9 2017 LinkedIn Ireland Unli=
+mited Company. LinkedIn, the LinkedIn logo, and InMail are registered trade=
+marks of LinkedIn Corporation in the United States and/or other countries. =
+All rights reserved.</td> </tr> <tr> <td> <table width=3D"1" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0" style=3D"color:#333333;font-size:16px;fo=
+nt-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> <div style=3D"hei=
+ght:10px;font-size:10px;line-height:10px"> &nbsp; </div></td> </tr> </tbody=
+> </table></td> </tr> <tr> <td align=3D"center"></td> </tr> <tr> <td align=
+=3D"center"></td> </tr> <tr> <td align=3D"center">This email was intended f=
+or Tushar Choudhary (Executive O&amp;M at wartsila india ltd). <a href=3D"h=
+ttps://www.linkedin.com/e/v2?e=3D1zmjuk-ixpnbvwi-cr&amp;a=3DcustomerService=
+Url&amp;midToken=3DAQHMP3b0C6y_Rg&amp;ek=3Dcompany_page_created&amp;article=
+Id=3D4788" style=3D"color:#0077B5;text-decoration:none;">Learn why we inclu=
+ded this.</a></td> </tr> <tr> <td align=3D"center">If you need assistance o=
+r have questions, please contact <a target=3D"_blank" href=3D"https://www.l=
+inkedin.com/e/v2?e=3D1zmjuk-ixpnbvwi-cr&amp;a=3DcustomerServiceUrl&amp;midT=
+oken=3DAQHMP3b0C6y_Rg&amp;ek=3Dcompany_page_created" style=3D"color:#0077B5=
+;text-decoration:none;">LinkedIn Customer Service</a>.</td> </tr> <tr> <td>=
+ <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"color:#333333;font-size:16px;font-family:Helvetica,Arial,sans-serif;"> =
+<tbody> <tr> <td> <div style=3D"height:10px;font-size:10px;line-height:10px=
+"> &nbsp; </div></td> </tr> </tbody> </table></td> </tr> <tr> <td align=3D"=
+center" dir=3D"ltr">LinkedIn is a registered business name of LinkedIn Irel=
+and Unlimited Company.</td> </tr> <tr> <td align=3D"center" dir=3D"ltr">Reg=
+istered in Ireland as a private unlimited company, Company Number 477441</t=
+d> </tr> <tr> <td align=3D"center" dir=3D"ltr">Registered Office: Wilton Pl=
+aza, Wilton Place, Dublin 2, Ireland</td> </tr> <tr> <td> <table width=3D"1=
+" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"color:#333333;f=
+ont-size:16px;font-family:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> <=
+div style=3D"height:10px;font-size:10px;line-height:10px"> &nbsp; </div></t=
+d> </tr> </tbody> </table></td> </tr> <tr> <td align=3D"center"></td> </tr>=
+ <tr> <td> <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" style=3D"color:#333333;font-size:16px;font-family:Helvetica,Arial,sans-=
+serif;"> <tbody> <tr> <td> <div style=3D"height:10px;font-size:10px;line-he=
+ight:10px"> &nbsp; </div></td> </tr> </tbody> </table></td> </tr> </tbody> =
+</table></td> </tr> <tr> <td> <table width=3D"1" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" style=3D"color:#333333;font-size:16px;font-family:=
+Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> <div style=3D"height:20px;f=
+ont-size:20px;line-height:20px"> &nbsp; </div></td> </tr> </tbody> </table>=
+</td> </tr> </tbody> </table></td> </tr> </tbody> </table></td> </tr> </tbo=
+dy> </table></td> </tr> <tr> <td> <table width=3D"1" border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"0" style=3D"color:#333333;font-size:16px;font-famil=
+y:Helvetica,Arial,sans-serif;"> <tbody> <tr> <td> <div style=3D"height:20px=
+;font-size:20px;line-height:20px"> &nbsp; </div></td> </tr> </tbody> </tabl=
+e></td> </tr> </tbody> </table> <img src=3D"http://www.linkedin.com/emimp/1=
+zmjuk-ixpnbvwi-cr.gif" style=3D"width:1px; height:1px;"> </body> </html>
+------=_Part_1225162_694512775.1483939611160--
+

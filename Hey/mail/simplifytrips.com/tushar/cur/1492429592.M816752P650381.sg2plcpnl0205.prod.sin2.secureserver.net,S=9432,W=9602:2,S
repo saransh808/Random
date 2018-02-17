@@ -1,0 +1,170 @@
+Return-Path: <bounce+ee7ea0.8fda4-tushar=simplifytrips.com@cj.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id 0ZOTMBir9FiN7AkAwZeyeg
+	for <tushar@simplifytrips.com>; Mon, 17 Apr 2017 04:46:32 -0700
+Return-path: <bounce+ee7ea0.8fda4-tushar=simplifytrips.com@cj.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Mon, 17 Apr 2017 04:46:32 -0700
+Received: from rs237.mailgun.us ([209.61.151.237]:24176)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtp (Exim 4.87)
+	(envelope-from <bounce+ee7ea0.8fda4-tushar=simplifytrips.com@cj.com>)
+	id 1d0572-002jYc-ID
+	for tushar@simplifytrips.com; Mon, 17 Apr 2017 04:46:32 -0700
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=cj.com; q=dns/txt; s=krs;
+ t=1492429529; h=Content-Type: Mime-Version: Subject: Message-Id: To:
+ Reply-To: From: Date: Sender;
+ bh=Phf7jal1oLDe86puJvk1hq/ggNZvfIRmmwgBW7/Epi8=; b=fURPc6Nb3cTIMT5jkdTc/+HIr2C54JMpROHzPgtjM2/UYDCmsXim+kfVwuIYUudY5XcO9bRh
+ 4fZOBfBtT1qbQSPZAzHIqn8VTFm8MpUH8ms7alvQvahJ4PzMiAOhD6wqt5qXHBSx7GMntfZJ
+ 55JblNrkZglq2edsbOZVrXcb864=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=cj.com; s=krs; q=dns;
+ h=Sender: Date: From: Reply-To: To: Message-Id: Subject: Mime-Version:
+ Content-Type;
+ b=PWWrfbh8i7IbyFqY4twVGwH2odkPW31H7l+oGx1BMv+XZ1cq96m8l4OqgBaKhEXhkafI2O
+ faoCVnbkEK9JD6s/sxAq3P/xQrDadS5HyT1hUj+xaEG93Pi2DrFZFDNTQW22R86mMck/MZk8
+ 4JtYlVln/Nbe/Xv18YB4TEK7rA6B8=
+Sender: no-response@cj.com
+X-Mailgun-Sending-Ip: 209.61.151.237
+X-Mailgun-Sid: WyI4N2NiMiIsICJ0dXNoYXJAc2ltcGxpZnl0cmlwcy5jb20iLCAiOGZkYTQiXQ==
+Received: from mn105.sj2.cj.com (135.nat-gw1.sj2.vclk.net [64.156.167.135])
+ by mxa.mailgun.org with ESMTP id 58f4aad8.7fb2785fa848-smtp-out-n02; Mon,
+ 17 Apr 2017 11:45:28 -0000 (UTC)
+Date: Mon, 17 Apr 2017 04:45:28 -0700 (PDT)
+From: CJ Affiliate <no-response@cj.com>
+Reply-To: no-response@cj.com
+To: tushar@simplifytrips.com
+Message-Id: <743301047.11921492429528566.JavaMail.member@mn105.sj2.cj.com>
+Subject: CJ Affiliate publisher sign-up - please confirm email
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_1192_606580288.1492429528566"
+
+------=_Part_1192_606580288.1492429528566
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+   <head>
+   </head>
+  <body style="font-family: 'Open Sans',sans-serif;font-size: small;">
+        
+        <table bgcolor="#F2F2F2" width="600">
+            <tr><td colspan="4" height="30"></td></tr>
+            <tr>
+              <td width="50"></td>
+              <td colspan="2"><img src="http://www.cj.com/sites/all/themes/cj_us/img/CJ-Logo-Website.png" /></td>
+              <td width="50"></td>
+            </tr>
+            <tr><td colspan="4" height="30"></td></tr>
+            <tr>
+              <td width="50"></td>
+              <td colspan="2">
+                  <span style="color:#333333;">
+                  	Please click below to confirm your email address:
+                  </span>
+              </td>
+              <td width="50"></td>
+            </tr>
+            <tr><td colspan="4" height="20"></td></tr>
+            <tr>
+              <td width="50"></td>
+              <td colspan="2">
+               <table>
+                  <tr>
+                      <td bgcolor="#00AF66" style="border-radius: 5px; text-align:center; padding-top: 7px; padding-bottom: 7px; padding-left: 12px; padding-right: 12px; text-decoration: none;">
+                        <a style="color:white;text-decoration: none!important;font-weight: bold;border-radius: 5px;" href="https://signup.cj.com/member/signup/publisher/details?token=S1krTk9DTk9XMnhuTWYveUlLT0lkcjVQQ1JsMEVlNDFtbVc2Ly81ZGtJVVFMN0dpOFI3OGJjM3l2WVVQTktGd01WNDhXTmoyZmRodzFZOTZzdm9NbGl3SkZmV1d6UUlWUW5xYnVpdzFnTFZ3dGJWbWRaaFlKWXJEeHIrS3luK1JiQ3dDemV0NC9LekpIbkRVMXd2WXc4cVVUdXBFOXlxMitVOFh1U2FMTW4vandlWG9uVXFNWVhVTHNjeTBZcGsxYk1GNGVWTDBCdXdKOHpVSktlaUVwayt1cFdEaktndHQwalF1bnMzMlQ4TT0">
+                            Create My CJ Publisher Account
+                        </a>
+                      </td>
+                  </tr>
+                </table
+               
+              </td>
+              <td width="100"></td>
+            </tr>
+
+            <tr><td colspan="4" height="60"></td></tr>
+            <tr>
+              <td width="50"></td>
+              <td colspan="2">
+                <span style="color:#333333;font-style:normal;font-size:12px;">
+                  If you received this email by mistake, simply delete it. You won't be subscribed if you don't click the confirmation link above.
+                </span>
+              </td>
+              <td width="50"></td>
+            </tr>
+            <tr><td height="30" colspan="4"></td></tr>
+            <tr>
+              <td width="50"></td>
+              <td colspan="2">
+                <font size="1">
+                  Copyright CJ Affiliate
+                </font>
+              </td>
+              <td width="50"></td>
+            </tr>
+            <tr><td height="15px" colspan="4"></td></tr>
+        </table>
+	   
+   </body>
+</html>
+
+------=_Part_1192_606580288.1492429528566
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+PGh0bWw+DQogICA8aGVhZD4NCiAgIDwvaGVhZD4NCiAgPGJvZHkgc3R5bGU9ImZvbnQtZmFtaWx5
+OiAnT3BlbiBTYW5zJyxzYW5zLXNlcmlmO2ZvbnQtc2l6ZTogc21hbGw7Ij4NCiAgICAgICAgDQog
+ICAgICAgIDx0YWJsZSBiZ2NvbG9yPSIjRjJGMkYyIiB3aWR0aD0iNjAwIj4NCiAgICAgICAgICAg
+IDx0cj48dGQgY29sc3Bhbj0iNCIgaGVpZ2h0PSIzMCI+PC90ZD48L3RyPg0KICAgICAgICAgICAg
+PHRyPg0KICAgICAgICAgICAgICA8dGQgd2lkdGg9IjUwIj48L3RkPg0KICAgICAgICAgICAgICA8
+dGQgY29sc3Bhbj0iMiI+PGltZyBzcmM9Imh0dHA6Ly93d3cuY2ouY29tL3NpdGVzL2FsbC90aGVt
+ZXMvY2pfdXMvaW1nL0NKLUxvZ28tV2Vic2l0ZS5wbmciIC8+PC90ZD4NCiAgICAgICAgICAgICAg
+PHRkIHdpZHRoPSI1MCI+PC90ZD4NCiAgICAgICAgICAgIDwvdHI+DQogICAgICAgICAgICA8dHI+
+PHRkIGNvbHNwYW49IjQiIGhlaWdodD0iMzAiPjwvdGQ+PC90cj4NCiAgICAgICAgICAgIDx0cj4N
+CiAgICAgICAgICAgICAgPHRkIHdpZHRoPSI1MCI+PC90ZD4NCiAgICAgICAgICAgICAgPHRkIGNv
+bHNwYW49IjIiPg0KICAgICAgICAgICAgICAgICAgPHNwYW4gc3R5bGU9ImNvbG9yOiMzMzMzMzM7
+Ij4NCiAgICAgICAgICAgICAgICAgIAlQbGVhc2UgY2xpY2sgYmVsb3cgdG8gY29uZmlybSB5b3Vy
+IGVtYWlsIGFkZHJlc3M6DQogICAgICAgICAgICAgICAgICA8L3NwYW4+DQogICAgICAgICAgICAg
+IDwvdGQ+DQogICAgICAgICAgICAgIDx0ZCB3aWR0aD0iNTAiPjwvdGQ+DQogICAgICAgICAgICA8
+L3RyPg0KICAgICAgICAgICAgPHRyPjx0ZCBjb2xzcGFuPSI0IiBoZWlnaHQ9IjIwIj48L3RkPjwv
+dHI+DQogICAgICAgICAgICA8dHI+DQogICAgICAgICAgICAgIDx0ZCB3aWR0aD0iNTAiPjwvdGQ+
+DQogICAgICAgICAgICAgIDx0ZCBjb2xzcGFuPSIyIj4NCiAgICAgICAgICAgICAgIDx0YWJsZT4N
+CiAgICAgICAgICAgICAgICAgIDx0cj4NCiAgICAgICAgICAgICAgICAgICAgICA8dGQgYmdjb2xv
+cj0iIzAwQUY2NiIgc3R5bGU9ImJvcmRlci1yYWRpdXM6IDVweDsgdGV4dC1hbGlnbjpjZW50ZXI7
+IHBhZGRpbmctdG9wOiA3cHg7IHBhZGRpbmctYm90dG9tOiA3cHg7IHBhZGRpbmctbGVmdDogMTJw
+eDsgcGFkZGluZy1yaWdodDogMTJweDsgdGV4dC1kZWNvcmF0aW9uOiBub25lOyI+DQogICAgICAg
+ICAgICAgICAgICAgICAgICA8YSBzdHlsZT0iY29sb3I6d2hpdGU7dGV4dC1kZWNvcmF0aW9uOiBu
+b25lIWltcG9ydGFudDtmb250LXdlaWdodDogYm9sZDtib3JkZXItcmFkaXVzOiA1cHg7IiBocmVm
+PSJodHRwczovL3NpZ251cC5jai5jb20vbWVtYmVyL3NpZ251cC9wdWJsaXNoZXIvZGV0YWlscz90
+b2tlbj1TMWtyVGs5RFRrOVhNbmh1VFdZdmVVbExUMGxrY2pWUVExSnNNRVZsTkRGdGJWYzJMeTgx
+Wkd0SlZWRk1OMGRwT0ZJM09HSmpNM2wyV1ZWUVRrdEdkMDFXTkRoWFRtb3labVJvZHpGWk9UWnpk
+bTlOYkdsM1NrWm1WMWQ2VVVsV1VXNXhZblZwZHpGblRGWjNkR0pXYldSYWFGbEtXWEpFZUhJclMz
+bHVLMUppUTNkRGVtVjBOQzlMZWtwSWJrUlZNWGQyV1hjNGNWVlVkWEJGT1hseE1pdFZPRmgxVTJG
+TVRXNHZhbmRsV0c5dVZYRk5XVmhWVEhOamVUQlpjR3N4WWsxR05HVldUREJDZFhkS09IcFZTa3Rs
+YVVWd2F5dDFjRmRFYWt0bmRIUXdhbEYxYm5Nek1sUTRUVDAiPg0KICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgIENyZWF0ZSBNeSBDSiBQdWJsaXNoZXIgQWNjb3VudA0KICAgICAgICAgICAgICAg
+ICAgICAgICAgPC9hPg0KICAgICAgICAgICAgICAgICAgICAgIDwvdGQ+DQogICAgICAgICAgICAg
+ICAgICA8L3RyPg0KICAgICAgICAgICAgICAgIDwvdGFibGUNCiAgICAgICAgICAgICAgIA0KICAg
+ICAgICAgICAgICA8L3RkPg0KICAgICAgICAgICAgICA8dGQgd2lkdGg9IjEwMCI+PC90ZD4NCiAg
+ICAgICAgICAgIDwvdHI+DQoNCiAgICAgICAgICAgIDx0cj48dGQgY29sc3Bhbj0iNCIgaGVpZ2h0
+PSI2MCI+PC90ZD48L3RyPg0KICAgICAgICAgICAgPHRyPg0KICAgICAgICAgICAgICA8dGQgd2lk
+dGg9IjUwIj48L3RkPg0KICAgICAgICAgICAgICA8dGQgY29sc3Bhbj0iMiI+DQogICAgICAgICAg
+ICAgICAgPHNwYW4gc3R5bGU9ImNvbG9yOiMzMzMzMzM7Zm9udC1zdHlsZTpub3JtYWw7Zm9udC1z
+aXplOjEycHg7Ij4NCiAgICAgICAgICAgICAgICAgIElmIHlvdSByZWNlaXZlZCB0aGlzIGVtYWls
+IGJ5IG1pc3Rha2UsIHNpbXBseSBkZWxldGUgaXQuIFlvdSB3b24ndCBiZSBzdWJzY3JpYmVkIGlm
+IHlvdSBkb24ndCBjbGljayB0aGUgY29uZmlybWF0aW9uIGxpbmsgYWJvdmUuDQogICAgICAgICAg
+ICAgICAgPC9zcGFuPg0KICAgICAgICAgICAgICA8L3RkPg0KICAgICAgICAgICAgICA8dGQgd2lk
+dGg9IjUwIj48L3RkPg0KICAgICAgICAgICAgPC90cj4NCiAgICAgICAgICAgIDx0cj48dGQgaGVp
+Z2h0PSIzMCIgY29sc3Bhbj0iNCI+PC90ZD48L3RyPg0KICAgICAgICAgICAgPHRyPg0KICAgICAg
+ICAgICAgICA8dGQgd2lkdGg9IjUwIj48L3RkPg0KICAgICAgICAgICAgICA8dGQgY29sc3Bhbj0i
+MiI+DQogICAgICAgICAgICAgICAgPGZvbnQgc2l6ZT0iMSI+DQogICAgICAgICAgICAgICAgICBD
+b3B5cmlnaHQgQ0ogQWZmaWxpYXRlDQogICAgICAgICAgICAgICAgPC9mb250Pg0KICAgICAgICAg
+ICAgICA8L3RkPg0KICAgICAgICAgICAgICA8dGQgd2lkdGg9IjUwIj48L3RkPg0KICAgICAgICAg
+ICAgPC90cj4NCiAgICAgICAgICAgIDx0cj48dGQgaGVpZ2h0PSIxNXB4IiBjb2xzcGFuPSI0Ij48
+L3RkPjwvdHI+DQogICAgICAgIDwvdGFibGU+DQoJICAgDQogICA8aW1nIHdpZHRoPSIxcHgiIGhl
+aWdodD0iMXB4IiBhbHQ9IiIgc3JjPSJodHRwOi8vZW1haWwuY2ouY29tL28vZUp3VnkxRU9neUFN
+QU5EVGpFX1NZckgwZ3dzczhSQlZJR0prTS1LVzdQYUw3Xy1sR0VwU01qVXlEUU1nRUZ0RWNVaml5
+SWwzd1ktamZlcFhKNjI3YmJuTi1Yd1F0QmVDdDMxemR0bnM4bTVtalNvY0dJTVdMSWtUbE5rbkVV
+WUNVUzdlWjNQRzY5Tlh2WHV2N2Roci1WMW5QZnI5X3dxLUtKcyI+PC9ib2R5Pg0KPC9odG1sPg0K
+
+------=_Part_1192_606580288.1492429528566--

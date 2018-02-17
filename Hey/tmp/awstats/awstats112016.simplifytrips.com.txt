@@ -1,0 +1,1007 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201611 will be lost/reset.
+# Last config file used to build this data file was /home/tusharchoudhary/tmp/awstats/awstats.simplifytrips.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2705                
+POS_VISITOR 20909               
+POS_DAY 31689               
+POS_DOMAIN 3539                
+POS_LOGIN 4135                
+POS_ROBOT 4290                
+POS_WORMS 4982                
+POS_EMAILSENDER 5113                
+POS_EMAILRECEIVER 5256                
+POS_SESSION 32517               
+POS_SIDER 32728               
+POS_FILETYPES 5391                
+POS_DOWNLOADS 5666                
+POS_OS 5714                
+POS_BROWSER 6051                
+POS_SCREENSIZE 8383                
+POS_UNKNOWNREFERER 8457                
+POS_UNKNOWNREFERERBROWSER 9844                
+POS_ORIGIN 10724               
+POS_SEREFERRALS 10867               
+POS_PAGEREFS 11024               
+POS_SEARCHWORDS 11424               
+POS_KEYWORDS 11576               
+POS_MISC 2367                
+POS_ERRORS 11635               
+POS_CLUSTER 3991                
+POS_SIDER_404 11807               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20161201020805 239 63421 12556581956561
+FirstTime 20161101011917
+LastTime 20161130234523
+LastUpdate 20161201052909 239 0 238 0 0
+TotalVisits 618                 
+TotalUnique 264                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 280                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 111 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 42 231 4626839 37 86 633160
+1 38 80 2290172 20 29 14415
+2 16 41 702282 15 27 32305
+3 110 231 4744183 92 168 160771
+4 37 97 2655709 31 61 109728
+5 23 60 344195 26 38 39574
+6 33 66 1631171 18 37 52461
+7 44 75 1949260 20 39 58380
+8 37 94 4152793 18 37 495034
+9 66 152 4733065 121 183 207931
+10 62 222 2742977 35 52 34750
+11 41 115 2687243 24 90 74293
+12 96 380 4026260 137 284 282117
+13 61 115 1788428 40 60 92852
+14 95 230 1495846 53 69 124660
+15 36 44 622108 24 82 226859
+16 52 59 336909 21 33 73685
+17 55 79 508480 42 77 652740
+18 28 33 163057 39 49 163210
+19 33 61 992626 26 36 37896
+20 22 43 424550 27 43 85214
+21 41 126 3272156 41 58 573789
+22 88 341 4715698 51 95 147308
+23 54 117 1959356 22 34 13580
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 28
+in 548 2172 42827942
+us 459 630 7169396
+cn 42 56 724462
+ca 33 52 1307853
+de 30 36 284244
+ua 21 21 71094
+fr 10 11 54260
+nl 9 17 173254
+gb 8 13 159390
+jp 7 23 291352
+ru 7 7 56672
+br 6 6 39941
+lt 6 6 0
+tr 4 4 6158
+cz 3 3 25391
+se 3 3 23491
+au 2 11 159372
+no 2 2 2048
+by 1 1 1002
+sg 1 1 891
+pl 1 1 1116
+rs 1 1 2825
+ro 1 1 1024
+sk 1 1 2009
+id 1 10 157363
+at 1 1 0
+tj 1 1 1440
+il 1 1 21373
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+googlebot 111 383973 20161129201619 16
+bot[\s_+:,\.\;\/\\-] 104 250761 20161130075522 38
+bingpreview 24 1793751 20161129183446 0
+unknown 16 676 20161119124159 16
+crawl 12 95121 20161121035903 1
+curl 11 21092 20161125213658 0
+ia_archiver 10 3015 20161126150017 9
+no_user_agent 10 73418 20161129110156 0
+spider 5 3009 20161122003839 4
+ruby\/ 4 6158 20161128104402 0
+php 3 24011 20161126133841 0
+slurp 1 26 20161107173046 1
+checker 1 1002 20161125233425 0
+robot 1 5175 20161122003840 0
+googlebot\-image 1 447343 20161127003437 0
+netcraft 1 9227 20161116184752 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+svg 18 348331 0 0
+ico 1 473 0 0
+Unknown 286 638363 0 0
+woff 9 257493 0 0
+js 915 10529579 0 0
+png 149 1911433 0 0
+eot 1 20050 0 0
+html 676 2417895 0 0
+jpg 212 33199103 0 0
+css 587 3774662 0 0
+php 238 467981 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 20
+win2000 1 1
+linuxubuntu 4 4
+java 36 36
+macosx6 6 6
+Unknown 249 233
+winxp 114 69
+macosx9 9 9
+win8.1 111 39
+macosx 22 16
+winnt 538 173
+linuxandroid 612 97
+winunknown 1 1
+ios_iphone 6 5
+win2003 5 2
+win8 33 33
+linux 168 69
+macosx8 3 3
+win7 1119 392
+macosx7 2 2
+winlong 53 20
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 118
+firefox3.6.13 4 4
+opera15.0.1147.24 1 1
+chrome54.0.2840.85 431 60
+chrome41.0.2228.0 12 12
+chrome41.0.2272.118 3 3
+chrome12.0.742.100 3 3
+firefox3.6.18 2 2
+chrome39.0.2171.71 2 2
+firefox29.0 5 3
+firefox9.0.1 2 2
+chrome44.0.2403.89 1 1
+opera8.01 1 1
+msie9.0 10 8
+chrome35.0.1916.153 2 2
+firefox43.0 37 5
+firefox24.0 4 4
+safari10.0 5 5
+firefox14.0.1 1 1
+msie7.0 38 21
+firefox48.0 1 1
+firefox25.0 4 4
+chrome9.0.597.94 3 3
+nsplayer 1 0
+netscape 2 2
+chrome28.0.1469.0 2 2
+k\-meleon 1 1
+firefox3.6.8 2 2
+chrome52.0.2743.82 21 21
+firefox5.0 6 6
+chrome31.0.1650.57 6 6
+firefox3.6.23 2 2
+wget 7 3
+chrome37.0.2062.117 3 3
+chrome48.0.2611.45 1 1
+chrome14.0.835.187 3 3
+firefox4.0.1 3 3
+safari5.1 4 4
+chrome54.0.2840.87 78 40
+firefox7.0.1 4 4
+firefox49.0 1 1
+netscape5.0 53 43
+safari6.0 6 6
+chrome36.0.1944.0 5 5
+chrome10.0.648.151 2 2
+chrome39.0.2171.95 1 1
+multizilla 1 1
+firefox11.0 1 1
+chrome53.0.2785.116 17 8
+chrome43.0.2357.130 18 18
+safari7.0.3 1 1
+firefox1.0.4 8 8
+firefox45.0 10 1
+msie10.0 3 3
+chrome37.0.2062.120 10 10
+firefox33.0 1 1
+chrome51.0.2704.103 3 3
+firefox28.0 6 6
+mozilla 17 17
+chrome28.0.1500.71 2 1
+konqueror4.5 1 1
+chrome36.0.1985.125 12 12
+chrome37.0.2049.0 1 1
+safari3.0.3 2 2
+chrome24.0.1295.0 1 1
+firefox3.6.7 3 3
+chrome14.0.803.0 1 1
+chrome40.0.2214.115 8 2
+safari5.0.2 1 1
+firefox3.0.5 7 1
+chrome34.0.1847.131 5 1
+chrome32.0.1700.76 12 2
+chrome1.0.154.36 1 1
+chrome12.0.742.91 1 1
+chrome35.0.1916.114 1 1
+chrome30.0.0.0 3 3
+chrome54.0.2840.99 1281 387
+msie11.0 14 6
+chrome32.0.1664.3 1 1
+chrome49.0.2623.112 39 6
+firefox3.6.11 2 2
+msie6.0 9 9
+chrome52.0.2743.116 9 3
+android 2 2
+firefox50.0 10 1
+chrome53.0.2785.143 20 3
+firefox5.0.1 1 1
+chrome41.0.2272.101 2 2
+chrome45.0.2454.93 17 17
+chrome38.0.1025.166 36 6
+opera11.01 1 1
+firefox44.0 4 4
+firefox3.6.3 3 3
+chrome17.0.963.65 1 1
+chrome16.0.912.63 2 2
+chrome12.0.742.112 1 1
+chrome34.0.1847.116 1 1
+firefox12.0 1 1
+chrome54.0.2840.71 175 30
+chrome49.0.2623.75 5 5
+chrome42.0.2311.135 1 1
+chrome5.0.307.7 1 0
+firefox46.0 2 2
+msie8.0 24 8
+chrome27.0.1453.90 1 1
+chrome27.0.1453 36 4
+safari 50 8
+chrome54.0.2840.68 108 17
+chrome53.0.2785.124 13 4
+firefox31.0 10 1
+Unknown 233 231
+chrome11.0.696.68 2 2
+firefox40.1 7 2
+opera37.0.2192.105088 7 1
+firefox21.0 6 6
+camino 1 1
+firefox15.0.1 2 2
+safari6.0.5 1 1
+wap 6 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 25
+Mozilla/5.0_(compatible;_evc-batch/2.0.20161119215434) 20161122071303
+Mozilla 20161126012814
+WhatsApp/2.16.352_A 20161129104329
+Jeode/1.x.x 20161113191614
+Media_Player_Classic 20161113191718
+Python-urllib/3.5 20161118071102
+uclassify.com/1.0 20161110090039
+Mozilla/5.0_zgrab/0.x 20161122125704
+Installatron_Plugin/9.1.26 20161120035709
+Go-http-client/1.1 20161114213830
+Science_Traveller_International_1X/1.0 20161113191656
+Mozilla/5.0_(compatible;_Wappalyzer;__https://github.com/AliasIO/Wappalyzer) 20161104001547
+Scrapy/1.2.1_(_http://scrapy.org) 20161118092835
+Mozilla/5.0 20161129013323
+Mozilla/5.0_AppleWebKit/536.30.1_(KHTML,_like_Gecko)_Version/6.0.5_Safari/536.30.1_Installatron_(Mimicking_WebKit) 20161120035709
+Mozilla/5.0_(compatible;_evc-batch/2.0.20161122223033) 20161123110157
+WordPress/4.6.1;_http://www.simplifytrips.com 20161120031645
+Mozilla/5.0_(compatible;_evc-batch/2.0.20161115184639) 20161116070528
+Mozilla/5.0_(compatible;_evc-batch/2.0) 20161111085518
+Mozilla/5.0_(compatible;_evc-batch/2.0.20161113201825) 20161115071226
+Mozilla/5.0_(compatible;_evc-batch/2.0.20161116185926) 20161119071029
+NSPlayer/10.0.0.xxxx_WMFSDK/10.0 20161113191656
+ltx71_-_(http://ltx71.com/) 20161107154743
+Ruby 20161122103347
+Mozilla/5.0_(compatible;_evc-batch/2.0.20161111163211) 20161113070842
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 18
+ltx71_-_(http://ltx71.com/) 20161107154743
+Ruby 20161122103347
+ICE_Browser/5.05_(Java_1.4.0;_Windows_2000_5.0_x86) 20161113191657
+Java/1.6.0_26 20161113120948
+WordPress/4.6.1;_http://www.simplifytrips.com 20161120031645
+Installatron_Plugin/9.1.26 20161120035709
+uclassify.com/1.0 20161110090039
+Java/1.8.0_111 20161117225712
+Scrapy/1.2.1_(_http://scrapy.org) 20161118092835
+python-requests/2.7.0_CPython/2.7.3_Linux/3.2.0-115-virtual 20161125140410
+Science_Traveller_International_1X/1.0 20161113191656
+python-requests/2.7.0_CPython/2.7.6_Linux/3.13.0-101-generic 20161125140411
+Go-http-client/1.1 20161114213830
+Jeode/1.x.x 20161113191614
+WhatsApp/2.16.352_A 20161129104329
+Google-HTTP-Java-Client/1.22.0_(gzip) 20161117193429
+Python-urllib/3.5 20161118071102
+Media_Player_Classic 20161113191718
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 714 739
+From1 0 0
+From2 15 15
+From3 35 35
+From4 446 2303
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 15 15
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 8
+http://166.62.30.157:80 11 11
+http://pizza-tycoon.com 6 6
+http://googleweblight.com 5 5
+http://burger-imperia.com 4 4
+https://www.facebook.com 4 4
+http://l.facebook.com/lsr.php 2 2
+http://m.facebook.com 2 2
+http://vdot.xyz/domain/simplifytrips.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+307 50 6757
+500 27 17056
+301 381 2167
+404 593 1127786
+503 93 3139
+303 26 0
+206 9 64176
+302 79 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 158
+/product/simplifying-trips-noida-to-rajkot/images/img-8.jpg 1 http://www.simplifytrips.com/product/simplifying-trips-noida-to-rajkot/
+/wp-content/themes/trips/fonts/fontawesome-webfont.svg 10 http://www.simplifytrips.com/
+/wp-content/themes/trips/css/bootstrap.min.css.map 1 -
+/admin-assets/css/style-responsive.css 1 http://www.simplifytrips.com/index.php/admin/login
+/.hg/requires 1 -
+/wp-content/themes/trips/fonts/fontawesome-webfont.ttf 13 http://www.simplifytrips.com/
+/css/styles.css 2 http://webcache.googleusercontent.com/search
+/main-assets/js/jquery-3.1.0.min.js 7 http://www.simplifytrips.com/home
+/js/jquery-1.9.1.min.js 2 http://webcache.googleusercontent.com/search
+/demo/ 1 -
+/news/wp-login.php 2 -
+/blog/ 1 -
+/main-assets/css/style.css 6 http://www.simplifytrips.com/home
+/index.php/images/fevicon.png 8 http://www.simplifytrips.com/index.php/home
+/admin-assets/js/modernizr.js 1 http://www.simplifytrips.com/index.php/admin/login
+/blog/wp-login.php 2 -
+/admin-assets/js/jquery.chosen.min.js 2 http://www.simplifytrips.com/index.php/admin/login
+/admin-assets/js/jquery.sparkline.min.js 2 http://www.simplifytrips.com/index.php/admin/login
+/wp-content/plugins/downloads-manager/readme.txt 1 -
+/admin-assets/js/jquery.cleditor.min.js 2 http://www.simplifytrips.com/index.php/admin/login
+/wp/wp-login.php 2 -
+/afmin 1 -
+/wp-content/plugins/wp-image-news-slider/functions.php 2 -
+/wp-login.php 25 https://www.google.com
+/wp-content/plugins/category-grid-view-gallery/cat_grid.php 1 -
+/admin-assets/js/bootstrap.min.js 2 http://www.simplifytrips.com/index.php/admin/login
+/site/wp-login.php 2 -
+/index.php/1 1 -
+/main-assets/css/awesomplete.css 7 http://www.simplifytrips.com/home
+/wp-content/plugins/gallery-plugin/gallery-plugin.php 1 -
+/sign 1 -
+/wp-content/plugins/cimy-user-extra-fields/README_OFFICIAL.txt 2 -
+/feeds/1408017511655399472/comments/default 1 -
+/commingsoon 1 -
+/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js 3 http://www.simplifytrips.com/index_login.php
+/wp-content/plugins/user-avatar/readme.txt 1 -
+/wp-content/plugins/user-meta/readme.txt 2 -
+/js/global.js 6 http://www.simplifytrips.com/
+/en/wp-login.php 2 -
+/feeds/8539754089400965949/comments/default 1 -
+/apple-touch-icon.png 1 -
+/welcome 1 -
+/admin-assets/css/style.css 1 http://www.simplifytrips.com/index.php/admin/login
+/apple-touch-icon-precomposed.png 1 -
+/admin-assets/js/jquery.iphone.toggle.js 2 http://www.simplifytrips.com/index.php/admin/login
+/wp-content/plugins/font-uploader/font-uploader-free.php 1 -
+/home1 1 -
+/listing/images/img-8.jpg 17 http://www.simplifytrips.com/listing/
+/admin-assets/js/jquery.flot.pie.js 2 http://www.simplifytrips.com/index.php/admin/login
+/2016_04_01_archive.html 1 -
+/listing/wp_admin 1 -
+/2016/04/simplifying-trips-rajkot-gandhinagar.html 1 -
+/index.php/home 1 -
+/listing/ 1 -
+/2016/03/simplifying-trips-noida-to-rajkot.html 1 -
+/account/images/fevicon.png 11 http://www.simplifytrips.com/account/signin
+/admin-assets/js/counter.js 2 http://www.simplifytrips.com/index.php/admin/login
+/admin-assets/js/jquery.knob.modified.js 2 http://www.simplifytrips.com/index.php/admin/login
+/index.php/home1 1 -
+/images/logo.png 1 -
+/CPANEL 1 -
+/wp-content/themes/trips/js/functions.js 15 http://www.simplifytrips.com/operator-registration/
+/feeds/7650620466404888887/comments/default 1 -
+/main-assets/images/logo.png 7 http://www.simplifytrips.com/home
+/js/Backstretch.js 4 http://webcache.googleusercontent.com/search
+/wp-content/plugins/nextgen-gallery/changelog.txt 1 -
+/listing/admin 1 -
+/admin-assets/js/jquery.flot.js 2 http://www.simplifytrips.com/index.php/admin/login
+/ 80 http://simplifytrips.com/
+/ccontacts 1 http://ya.ru/
+/images/fevicon.png 22 http://www.simplifytrips.com/home
+/cms/wp-login.php 2 -
+/index.php/admin/index.html 1 http://www.simplifytrips.com/index.php/admin/managecategory
+/2016/03/simplifying-trips-leh-ladakh-episode-4.html 1 -
+/admin-assets/js/jquery.gritter.min.js 2 http://www.simplifytrips.com/index.php/admin/login
+/admin-assets/js/custom.js 2 http://www.simplifytrips.com/index.php/admin/login
+/weelcome 1 -
+/wp-content/plugins/front-end-upload/destination.php 4 -
+/admin-assets/js/jquery.cookie.js 2 http://www.simplifytrips.com/index.php/admin/login
+/admin-assets/img/bg-login.jpg 1 http://www.simplifytrips.com/index.php/admin/login
+/admin-assets/js/dist/jquery-migrate.min.map 2 -
+/wp-content/plugins/wp-editor/readme.txt 2 -
+/admin-assets/js/jquery.raty.min.js 2 http://www.simplifytrips.com/index.php/admin/login
+/privacy-policy 1 -
+/admin-assets/css/bootstrap.min.css 1 http://www.simplifytrips.com/index.php/admin/login
+/wp-content/plugins/mac-dock-gallery/bugslist.txt 2 -
+/listing 2 -
+/web/wp-login.php 2 -
+/wp-content/plugins/magic-fields/MF_Constant.php 1 -
+/wp-content/themes/trips/fonts/fontawesome-webfont.woff 12 http://www.simplifytrips.com/
+/main-assets/css/bootstrap.min.css 6 http://www.simplifytrips.com/home
+/index.php/commingsoon 1 -
+/home/wp-login.php 1 -
+/admin-assets/js/jquery.flot.resize.min.js 2 http://www.simplifytrips.com/index.php/admin/login
+/HOME 1 -
+/.git/config 3 http://simplifytrips.com/.git/config
+/main-assets/css/font-awesome.min.css 6 http://www.simplifytrips.com/home
+/wp-content/plugins/wpmarketplace/readme.txt 3 -
+/terms 1 -
+/wp-content/plugins/nmedia-user-file-uploader/readme.txt 1 -
+/wp-content/plugins/another-wordpress-classifieds-plugin/AWPCP.po 2 -
+/wordpress/wp-login.php 2 -
+/admin-assets/js/excanvas.js 2 http://www.simplifytrips.com/index.php/admin/login
+/wp-content/plugins/wp-property/action_hooks.php 1 -
+/sitemap.xml 1 http://www.simplifytrips.com/robots.txt
+/robots.txt 75 -
+/admin-assets/js/jquery.imagesloaded.js 2 http://www.simplifytrips.com/index.php/admin/login
+/wp-content/themes/trips/fonts/fontawesome-webfont.eot 1 http://www.simplifytrips.com/
+/js/jquery.countdown.js 4 http://webcache.googleusercontent.com/search
+/wp-content/plugins/analytics-counter/view/scripts/wpadm-ga.js 1 -
+/.flowconfig 1 -
+/wp-admin 4 -
+/main-assets/js/bootstrap.min.js 9 http://www.simplifytrips.com/home
+/wp-content/themes/trips/fonts/fontawesome-webfont.woff2 1 http://www.simplifytrips.com/wp-content/themes/trips/css/font-awesome.min.css
+/2016/03/simplifying-trips-leh-ladakh-episode-1.html 4 -
+/.bzr/README 1 -
+/main-assets/js/awesomplete.js 7 http://www.simplifytrips.com/home
+/blogs/wp-login.php 2 -
+/admin-assets/js/jquery.flot.stack.js 2 http://www.simplifytrips.com/index.php/admin/login
+/admin-assets/js/jquery.noty.js 2 http://www.simplifytrips.com/index.php/admin/login
+/index.php/login/endpoint 7 -
+/main/wp-login.php 2 -
+/wp-content/plugins/fcchat/default.png 1 -
+/main-assets/css/bootstrap.min.css.map 7 -
+/home 3 -
+/admin-assets/js/jquery.uploadify-3.1.min.js 2 http://www.simplifytrips.com/index.php/admin/login
+/search 1 -
+/admin-assets/js/jquery.dataTables.min.js 2 http://www.simplifytrips.com/index.php/admin/login
+/wp-content/plugins/wp-filemanager/fm.php 1 -
+/admin-assets/js/jquery-migrate-1.0.0.min.js 1 http://www.simplifytrips.com/index.php/admin/login
+/new/wp-login.php 2 -
+/admin-assets/js/jquery.ui.touch-punch.js 1 http://www.simplifytrips.com/index.php/admin/login
+/admin-assets/css/bootstrap-responsive.min.css 1 http://www.simplifytrips.com/index.php/admin/login
+/admin-assets/js/jquery.masonry.min.js 2 http://www.simplifytrips.com/index.php/admin/login
+/wp-content/plugins/resume-submissions-job-postings/installer.php 1 -
+/main-assets/images/home-backgound.jpg 1 http://www.simplifytrips.com/main-assets/css/style.css
+/listing/images/img-4.jpg 17 http://www.simplifytrips.com/listing/
+/wp-content/plugins/simple-dropbox-upload-form/ 1 -
+/2016_03_01_archive.html 1 -
+/admin-assets/js/jquery.uniform.min.js 2 http://www.simplifytrips.com/index.php/admin/login
+/demo 1 -
+/product/simplifying-trips-noida-to-rajkot/images/img-4.jpg 1 http://www.simplifytrips.com/product/simplifying-trips-noida-to-rajkot/
+/wp-content/plugins/ninja-forms/ninja_forms.php 1 -
+/.git/HEAD 1 -
+/test/wp-login.php 2 -
+/downloader/ 1 http://SIMPLIFYTRIPS.COM/downloader/
+/admin 3 -
+/wp-content/plugins/contact-form-7/license.txt 1 -
+/wp-content/plugins/user-photo/admin.css 1 -
+/CFIDE/administrator/enter.cfm 4 http://www.simplifytrips.com
+/listing/p_admin 1 -
+/admin-assets/js/jquery-1.9.1.min.js 1 http://www.simplifytrips.com/index.php/admin/login
+/wordpress/ 2 http://www.simplifytrips.com/wordpress/
+/admin-assets/js/jquery-ui-1.10.0.custom.min.js 1 http://www.simplifytrips.com/index.php/admin/login
+/index.php/account/images/fevicon.png 3 http://www.simplifytrips.com/index.php/account/signup
+/admin-assets/js/fullcalendar.min.js 2 http://www.simplifytrips.com/index.php/admin/login
+/admin-assets/js/retina.js 2 http://www.simplifytrips.com/index.php/admin/login
+/admin-assets/js/jquery.elfinder.min.js 2 http://www.simplifytrips.com/index.php/admin/login
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 280
+103.69.13.104 372 1115 20497209 20161129104329
+166.62.30.157 180 180 3240 20161120035709
+27.7.214.137 66 373 8287356 20161130225534
+116.75.223.7 30 235 3744824 20161118100736
+159.203.252.180 20 20 165334 20161121194940
+58.20.108.146 19 19 33386 20161127175316
+158.69.229.134 17 17 156859 20161119033009
+38.99.62.91 17 17 131251 20161123110157
+188.68.48.243 16 16 147632 20161117225712
+185.93.187.114 12 12 33054 20161102165334
+59.180.131.212 12 46 1511062 20161114044006
+208.80.194.125 11 11 69501 20161127173453
+208.80.194.122 11 11 88897 20161129172353
+42.106.98.219 10 82 1207887 20161130234523
+208.80.194.27 9 9 70341 20161128162600
+54.175.174.39 8 8 16072 20161101192309
+104.236.177.168 7 7 11178 20161130163102
+182.71.57.202 7 34 1245008 20161123011308
+208.80.194.120 7 7 39243 20161127164916
+171.51.58.151 6 33 186691 20161103225030
+106.67.44.193 6 19 678132 20161127111508
+173.254.227.167 6 6 42558 20161123205308
+208.80.194.121 6 6 55362 20161119164430
+208.80.194.124 6 6 36156 20161122171352
+208.80.194.126 5 5 27235 20161130164739
+93.92.217.228 2 2 3125 20161123022609
+129.10.232.5 4 4 36908 20161114211056
+50.6.77.89 1 1 21373 20161116064138
+141.212.122.96 1 1 1116 20161121105809
+179.156.65.230 1 1 2009 20161118034356
+94.142.242.84 1 1 9227 20161108052733
+223.181.7.11 2 24 721399 20161112035711
+40.113.95.244 1 1 9227 20161101172805
+208.91.115.12 1 5 104641 20161124193722
+123.125.67.145 1 1 2009 20161108054054
+95.175.33.89 1 1 21373 20161116073000
+207.235.33.150 1 1 9227 20161108025207
+223.181.97.18 2 27 128831 20161104053057
+66.102.7.174 0 1 447343 
+144.76.61.6 2 2 12154 20161127023300
+199.101.134.200 1 1 2009 20161115074348
+141.212.122.80 1 1 2009 20161107093009
+104.198.98.117 3 3 6027 20161114213830
+220.181.51.75 2 2 4018 20161116090943
+173.208.184.62 4 20 320804 20161109120248
+66.102.8.18 2 9 130074 20161111221950
+66.220.145.246 1 5 68565 20161118110230
+167.250.5.31 1 1 21373 20161116065335
+62.210.75.243 1 2 32038 20161117075503
+84.177.94.118 1 1 2009 20161111080132
+58.20.108.148 2 2 2048 20161130084457
+138.201.58.84 2 2 2865 20161114165057
+45.55.23.53 1 1 9227 20161109132056
+109.104.79.189 1 1 21373 20161116062934
+31.31.79.197 1 1 21373 20161116061628
+174.136.12.119 1 1 21373 20161116070437
+35.161.202.40 2 2 2048 20161127230631
+52.4.236.226 1 1 9227 20161110090039
+141.212.122.112 2 2 4018 20161115104635
+109.235.70.117 4 4 0 20161116103750
+205.154.44.207 1 1 21159 20161116074233
+66.33.193.133 1 1 21373 20161116064034
+192.99.46.89 2 2 18454 20161101095315
+71.197.192.160 1 1 9227 20161118071102
+117.241.230.94 1 1 1024 20161129214031
+54.71.204.189 1 1 1116 20161120235333
+64.89.234.161 5 5 7160 20161130025812
+185.10.142.205 1 1 2825 20161121174823
+66.220.145.245 0 6 118827 
+116.75.218.98 3 16 238215 20161104124148
+116.203.79.108 0 1 0 
+66.249.80.10 0 2 2963 
+66.249.85.186 0 5 6424 
+200.160.6.137 2 2 18454 20161113120948
+54.81.172.157 1 6 70509 20161116135543
+104.198.235.121 1 1 2009 20161101011918
+104.36.16.229 1 1 2009 20161116145557
+66.249.93.198 0 7 115383 
+104.198.52.164 1 1 2009 20161116212655
+123.125.67.152 1 1 1002 20161126144926
+131.161.8.199 1 1 9227 20161110084240
+38.100.21.64 1 4 169433 20161103214227
+104.197.195.210 1 1 2009 20161104234208
+104.131.32.83 1 1 2009 20161108045448
+81.27.99.100 1 1 21373 20161116061717
+116.203.73.107 2 11 159372 20161114010155
+208.80.194.123 5 5 26885 20161124170517
+54.198.166.35 1 1 2009 20161106145409
+134.249.159.113 1 1 2009 20161104042224
+144.76.80.151 1 1 9227 20161116142127
+89.108.88.240 1 1 9227 20161109005348
+157.192.41.83 1 1 9227 20161108074440
+54.224.206.148 1 6 70509 20161109214146
+104.198.74.64 1 1 2009 20161117193429
+208.88.224.203 1 1 1024 20161130004922
+62.23.200.228 4 4 36908 20161117153738
+213.136.78.176 2 8 79109 20161126085612
+104.198.24.136 1 1 2009 20161115011307
+104.198.254.115 1 1 2009 20161102201641
+212.24.103.94 1 1 0 20161101020404
+39.130.87.185 2 8 487450 20161129085358
+66.102.8.20 0 6 102385 
+54.81.65.63 1 1 2825 20161123200454
+54.159.86.113 1 10 157363 20161117145709
+35.164.90.113 1 1 2259 20161119201009
+46.0.153.38 1 1 9227 20161104093352
+178.217.187.39 1 1 1116 20161121153509
+220.181.51.77 1 1 2009 20161113190623
+54.90.41.238 1 1 1002 20161126010948
+54.161.43.57 1 7 486426 20161128095325
+223.180.200.46 2 12 43807 20161106020532
+64.79.100.53 2 2 2004 20161126012814
+45.63.20.68 1 1 0 20161113053519
+150.70.173.42 1 1 9227 20161104032853
+195.154.146.225 1 1 1024 20161130181912
+38.100.21.85 2 2 4018 20161107153358
+128.91.58.155 5 13 162883 20161130131208
+54.229.174.0 1 1 9227 20161119034923
+185.106.121.30 3 11 121002 20161129013322
+141.212.122.32 2 2 4018 20161116104714
+52.164.241.43 1 1 2009 20161111024950
+188.163.75.50 1 1 1116 20161120102904
+52.43.244.104 1 1 1002 20161124224005
+91.121.83.118 1 1 2009 20161108055729
+104.199.180.239 1 1 9227 20161111124610
+89.190.42.7 2 2 4018 20161105120843
+54.172.241.121 2 3 34047 20161107154732
+117.239.117.228 4 15 553585 20161125235727
+116.202.251.28 1 7 486492 20161120070556
+122.171.26.40 1 10 157363 20161114040425
+107.167.110.12 1 2 15415 20161111043341
+42.106.102.56 1 6 39149 20161121180603
+163.172.137.135 2 7 79736 20161106164951
+45.56.96.153 2 2 5650 20161123152235
+52.40.39.182 1 1 1116 20161121224412
+66.249.93.196 2 7 81645 20161105193655
+141.212.122.144 2 2 4018 20161109104142
+141.212.122.16 1 1 2009 20161113102445
+138.201.52.225 1 1 2009 20161103130536
+146.196.32.230 2 11 159372 20161105101900
+45.55.229.95 1 1 1116 20161123012550
+177.54.51.210 1 1 1024 20161130033312
+54.204.154.230 1 3 41871 20161105212613
+149.202.127.215 2 2 5424 20161128123639
+54.70.240.234 1 1 1002 20161125235221
+94.23.169.94 1 1 4400 20161107180719
+47.30.191.138 3 9 488724 20161123080908
+104.236.194.196 1 1 2009 20161119124150
+66.249.80.12 1 2 1603 20161123080636
+35.164.102.113 1 1 1024 20161129230922
+66.249.85.185 1 2 1537 20161127111154
+45.55.133.229 1 5 37326 20161123064334
+173.245.89.125 1 1 21373 20161116055255
+106.219.61.52 2 10 72518 20161108235444
+122.168.36.55 1 1 1024 20161129012303
+95.213.184.35 2 2 25866 20161103075248
+220.181.51.76 1 1 2009 20161112135413
+166.62.123.148 1 1 21373 20161116062843
+123.125.67.208 2 2 3011 20161124202033
+146.148.96.122 1 1 2009 20161108201020
+185.38.14.215 2 2 3897 20161124102700
+104.155.173.6 1 1 2009 20161111233627
+220.181.51.109 1 1 2009 20161109052956
+171.25.193.131 2 2 2118 20161125031347
+104.236.220.125 1 1 2009 20161112133422
+54.71.60.199 2 2 3125 20161122231101
+104.154.96.59 1 1 2009 20161107215322
+52.160.108.81 1 7 486404 20161125214315
+92.222.103.232 1 1 1024 20161128000120
+104.154.24.30 1 1 2009 20161104004414
+54.71.101.192 1 1 2009 20161119231156
+208.113.181.95 1 1 21159 20161116074215
+42.106.111.3 1 7 486492 20161121032846
+88.198.22.8 1 1 9227 20161116142026
+182.77.12.171 3 12 161381 20161105221220
+67.205.1.138 1 1 21373 20161116071645
+80.82.64.102 1 1 16639 20161110085525
+74.117.179.18 1 1 2009 20161102010129
+136.243.144.66 1 1 2009 20161118092835
+54.162.63.28 1 1 9227 20161115225310
+23.99.101.118 1 2 15415 20161114235011
+66.102.6.78 4 9 10770 20161127111100
+195.242.80.96 1 1 16639 20161101055931
+54.161.171.133 1 3 41871 20161103211202
+198.27.91.219 3 5 45889 20161113191718
+104.236.91.249 1 1 1024 20161126170703
+220.181.51.74 1 1 1116 20161120045958
+162.243.206.95 2 2 12052 20161121074850
+66.102.6.112 0 1 32775 
+13.76.241.210 1 2 15415 20161114233649
+54.234.157.216 1 1 1116 20161122103347
+66.102.6.81 0 4 482413 
+150.70.173.43 1 1 9227 20161108054012
+141.212.122.48 1 1 2009 20161101090220
+66.102.8.206 0 1 1808 
+85.248.227.164 1 1 2009 20161103173713
+104.236.82.152 1 1 2009 20161116044327
+176.31.149.121 1 1 4400 20161117164407
+54.254.250.150 1 1 9227 20161114091044
+130.211.173.80 1 1 2009 20161102015136
+66.102.6.114 0 1 32775 
+92.241.245.126 1 1 9227 20161104183411
+131.161.9.227 1 1 9227 20161115163513
+185.72.244.24 1 1 9227 20161104030402
+149.210.189.216 1 1 21373 20161116064121
+104.198.159.43 1 1 2009 20161105234326
+94.23.75.242 1 1 1116 20161123083308
+116.251.217.48 1 1 891 20161120035709
+183.39.159.226 2 2 4018 20161117150912
+46.166.148.156 1 1 1116 20161123171216
+66.102.6.12 1 1 1116 20161122050038
+123.125.67.144 1 1 2009 20161106100803
+66.102.6.116 2 4 5679 20161128131113
+185.96.192.118 4 4 6158 20161129113844
+221.188.52.188 1 8 102290 20161106040335
+54.70.158.232 3 3 5042 20161129005806
+178.162.205.21 1 1 6517 20161126185009
+178.121.254.144 1 1 1002 20161126061408
+89.221.250.17 1 1 21373 20161116061734
+54.162.211.60 1 10 157363 20161120005141
+59.147.202.89 2 2 4018 20161115130320
+73.188.142.22 1 1 2927 20161127113842
+64.111.123.44 1 1 21373 20161116055311
+94.23.216.164 1 1 2825 20161120230046
+64.233.172.148 1 1 1024 20161130070638
+104.236.69.58 1 1 2009 20161102205916
+54.167.150.65 1 3 41871 20161101205202
+45.55.133.242 1 3 41871 20161106073846
+77.244.145.250 1 1 1440 20161108034857
+66.249.80.14 0 1 32775 
+192.99.62.107 1 6 70509 20161104001545
+146.148.76.58 1 1 2009 20161110194406
+123.125.67.206 1 1 2009 20161107095549
+220.181.51.81 1 1 1116 20161121003329
+141.212.122.160 1 1 2009 20161111105441
+153.219.235.190 1 10 157363 20161101074917
+198.27.69.229 2 2 4018 20161117201405
+123.125.67.150 2 2 4018 20161119101305
+209.222.77.221 1 1 1002 20161125213659
+66.102.6.80 1 5 930308 20161129083235
+193.90.12.89 1 1 1024 20161129085353
+183.39.158.102 2 10 171225 20161115170536
+104.155.188.105 1 1 2009 20161113224530
+79.98.25.62 2 2 0 20161107233917
+104.236.110.18 1 1 1024 20161130190656
+130.211.186.255 1 1 2009 20161107000000
+66.220.145.244 1 4 49244 20161126133959
+35.160.144.8 1 1 1116 20161123232102
+54.198.53.231 1 1 9227 20161101183921
+167.114.103.181 4 4 36908 20161115090847
+176.126.252.12 1 1 1024 20161129145952
+47.90.94.143 1 1 9227 20161116011546
+52.41.173.217 1 1 1024 20161130234410
+45.55.133.227 1 3 41871 20161115050317
+54.175.110.158 1 1 9227 20161106080549
+101.216.112.12 1 10 157363 20161116011402
+1.39.14.191 4 13 163390 20161103215546
+117.205.158.201 3 25 844056 20161112061400
+47.30.248.147 1 7 486492 20161120190228
+66.249.93.200 0 4 105322 
+104.197.176.202 1 1 2009 20161115204254
+54.244.63.62 2 7 40063 20161125140412
+54.71.101.206 1 1 2009 20161117111624
+104.197.125.234 1 1 2009 20161113012627
+91.210.145.59 5 5 16267 20161106120232
+193.90.12.86 1 1 1024 20161130032031
+122.252.255.226 2 24 1048676 20161127221625
+141.212.122.128 2 2 3125 20161122125704
+207.210.200.150 1 1 21373 20161116060510
+188.163.79.54 1 1 2009 20161107174503
+5.189.191.104 1 1 2259 20161111154107
+54.244.247.32 1 1 1002 20161125140410
+106.67.66.246 3 3 5636 20161127183715
+66.220.145.243 0 2 12098 
+45.76.25.2 1 1 2927 20161126153356
+103.14.197.42 1 10 157363 20161102221535
+146.148.44.166 1 1 2009 20161109230224
+104.128.237.88 1 1 0 20161125023549
+66.102.8.204 0 1 447343 
+66.102.8.16 0 3 69891 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20161101 49 60 328315 31
+20161102 39 48 250533 25
+20161103 41 82 650649 26
+20161104 39 82 519407 29
+20161105 29 65 719145 20
+20161106 24 48 336133 18
+20161107 19 28 266265 15
+20161108 22 38 333475 20
+20161109 18 39 460738 16
+20161110 26 96 1384052 23
+20161111 19 44 557069 19
+20161112 17 69 1784428 13
+20161113 20 37 360661 18
+20161114 41 172 3496487 23
+20161115 25 35 315411 19
+20161116 64 87 852311 51
+20161117 51 93 732188 36
+20161118 34 64 539544 26
+20161119 26 28 123973 22
+20161120 107 289 6949724 20
+20161121 16 27 551519 16
+20161122 13 19 508429 12
+20161123 26 79 3958975 17
+20161124 55 167 5946189 13
+20161125 14 43 1996251 13
+20161126 192 553 6813284 15
+20161127 30 80 3222555 16
+20161128 49 173 3357022 12
+20161129 57 235 3300441 17
+20161130 48 212 2950190 17
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 27
+2mn-5mn 11
+30s-2mn 15
+5mn-15mn 3
+15mn-30mn 3
+0s-30s 542
+30mn-1h 17
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 62
+/ 612 2175133 461 451
+/wp-cron.php 178 0 105 104
+/home 60 122711 3 7
+/account/signin 43 108978 1 0
+/wp-login.php 31 56003 9 9
+/index.php/home 30 61853 1 2
+/listing/ 25 75900 2 8
+/index.php/admin/login 17 31397 1 4
+/xmlrpc.php 17 362913 17 17
+/admin/login 12 12497 0 0
+/index.php/privacy 12 22897 0 0
+/admin/addstate 9 28296 0 0
+/demo/ 9 17856 7 1
+/index.php/admin/managelocation 8 24768 0 0
+/author/tushar/ 7 67517 5 6
+/admin-assets/font/fontawesome-webfont-62877.woff 7 205422 0 0
+/index.php 7 6814 0 0
+/admin/addlocation 7 22585 0 0
+/index.php/admin/managestate 7 21485 0 0
+/operator-registration/ 6 19719 2 2
+/index.php/admin 6 16080 0 0
+/account/signup 6 13636 0 0
+/my-account/lost-password/ 6 20798 0 0
+/index.php/admin/managecategory 5 15079 0 0
+/privacy 5 11317 1 1
+/index.php/welcome 3 2673 0 0
+/sign 1 179 0 0
+/commingSoon 1 1010 0 0
+/index.php/account/signup 3 7157 0 0
+/wp-admin/load-styles.php 1 35869 0 0
+/index.php/admin/editlocation/6 2 6540 0 0
+/wp-content/themes/trips/fonts/glyphicons-halflings-regular.eot 1 20050 0 1
+/cart/ 1 16046 0 0
+/feed/ 1 856 0 1
+/admin 2 5360 0 0
+/cpanel 2 5237 1 0
+/index.php/admin/managecountry 1 2976 0 0
+/account/login/Facebook 3 2454 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 1 7644 0 0
+/admin/addcountry 4 12424 0 0
+/admin/managelocation 3 9117 0 0
+/ci/user_guide/libraries/benchmark.html 1 8563 0 0
+/ci/ 5 5465 1 2
+/CPANEL 1 179 0 0
+/admin/managecategory 2 5856 0 0
+/index_login.php 3 5043 0 0
+/index.php/admin/editcountry/1 1 0 0 0
+/terms 1 1666 0 0
+/welcome 4 3568 1 1
+/product/simplifying-trips-noida-to-rajkot/ 1 3036 0 1
+/ci/deleteme.cha6tdxq.php 1 1339 0 0
+/index.php/commingSoon 5 5034 0 0
+/ci/user_guide/_static/fonts/fontawesome-webfont.woff 1 44427 0 0
+/account/ 1 34 0 0
+/admin/managestate 4 11956 0 0
+/ci/user_guide/ 1 6972 0 0
+/admin/editcountry/1 3 9405 0 0
+/index.php/account 1 34 0 0
+/admin/managecountry 4 11754 0 0
+/account/logout/Facebook 1 0 0 0
+/index.php/account/signin 3 7781 0 0
+/admin/addcategory 4 12424 0 0
+END_SIDER

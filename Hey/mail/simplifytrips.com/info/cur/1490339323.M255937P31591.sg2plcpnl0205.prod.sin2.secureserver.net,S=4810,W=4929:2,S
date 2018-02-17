@@ -1,0 +1,119 @@
+Return-Path: <>
+Delivered-To: info@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id uTowD/vF1FhnewAAwZeyeg
+	for <info@simplifytrips.com>; Fri, 24 Mar 2017 00:08:43 -0700
+Return-path: <>
+Envelope-to: info@simplifytrips.com
+Delivery-date: Fri, 24 Mar 2017 00:08:43 -0700
+Received: from mail-pg0-f48.google.com ([74.125.83.48]:35059)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	id 1crJL0-000L5b-SK
+	for info@simplifytrips.com; Fri, 24 Mar 2017 00:08:43 -0700
+Received: by mail-pg0-f48.google.com with SMTP id t143so4367349pgb.2
+        for <info@simplifytrips.com>; Fri, 24 Mar 2017 00:08:22 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=adventureworldindia-com.20150623.gappssmtp.com; s=20150623;
+        h=from:to:in-reply-to:subject:date:message-id:mime-version
+         :thread-index;
+        bh=dSfmeI39F/RU80VTtnfmhGvQaFRrs/CNrEN6Fi6KgBQ=;
+        b=YMh0wyxMZG4Ph8J6+fD9Hrj+uC6pqF7fGk0CPs0Axc6cz0NPgy7YntsaZTDTgizi4R
+         /hTvABSsMe5mL15p+GEj7AsDY+PSohVW95y2TlUL/EPXspG0fGodmXiODnIGnU4ZlxLT
+         4EPPM9ieVD4iL9/IZI8gVxzY9xA1d9I+B436YY6++ggNMb2z6RqymaX8Q/cNS4bkHOrA
+         1A3Fb3sePJDpJFyhpkKlY6AlgUK5kcIc8tgFDETSx1078x8Yp+acrP+KPLOdOKQmCNip
+         HmOlEFglzDkharOAxrdKs/3X8/auqrepgMpF97nfwjMSThatCtpr7wHkvBfd1A9mX82s
+         3gsQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:to:in-reply-to:subject:date:message-id
+         :mime-version:thread-index;
+        bh=dSfmeI39F/RU80VTtnfmhGvQaFRrs/CNrEN6Fi6KgBQ=;
+        b=ryp0llswBI+/3sPh4pU7yyZvX51ngShs4HDoM0KKCxUkfekQR6V+vI4W5FySTN6SuX
+         Dt4fidYvHj2deya+PVWRWXJHl2Avc9R8rBU5h1YD9gUvgJKPbV/5nxiuOdJpJbx3Wwmx
+         UM1/7oibOgG4g5AokYQrIWqC5jaCMuBQ06u0WGh8bToDndx9a9OzZJqJrM2iZMr9eg2t
+         WDO4OQntlM0xvdUykLkS3LGwMs6lHllIqfk/fxW3qSloujBLTsGLcr6RG3eXUsO/b4N/
+         WbMZU1rgsKUHX89C7Vl5cO4aSYLNWqhX/SFWEJOevIyulagSkLouLcF6nmjvEDRKW27M
+         qHPg==
+X-Gm-Message-State: AFeK/H3N6zYmJDCoOvHZ/dCK2YqPR6IHQJMx3p9FOQSYENzC5rbqdzjpZ6sbseTmnWnbZg==
+X-Received: by 10.98.72.88 with SMTP id v85mr7231499pfa.99.1490339280894;
+        Fri, 24 Mar 2017 00:08:00 -0700 (PDT)
+Received: from RajBajajHP ([122.161.197.84])
+        by smtp.gmail.com with ESMTPSA id b70sm2315979pfc.100.2017.03.24.00.07.59
+        for <info@simplifytrips.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 24 Mar 2017 00:08:00 -0700 (PDT)
+From: "Raj Bajaj" <bajaj@adventureworldindia.com>
+To: <info@simplifytrips.com>
+In-Reply-To: <703843f415404cde48ce5037405ffe3d@simplifytrips.com>
+Subject: Read: Signup Notification Simplifytrips
+Date: Fri, 24 Mar 2017 12:37:56 +0530
+Message-ID: <02b501d2a46d$5eb00470$1c100d50$@adventureworldindia.com>
+MIME-Version: 1.0
+Content-Type: multipart/report;
+	boundary="----=_NextPart_000_02B6_01D2A49B.78684070";
+	report-type=disposition-notification
+X-Mailer: Microsoft Outlook 16.0
+thread-index: AQLV3Ep3+8KqtJZ5sIooapP8Ip/7LAHr2uucAa1QT6QBnrMTrJ9zYyny
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_02B6_01D2A49B.78684070
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_02B7_01D2A49B.78684070"
+
+
+------=_NextPart_001_02B7_01D2A49B.78684070
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Your message
+
+    To:  Bajaj
+    Subject:  Signup Notification Simplifytrips
+    Sent:  24/03/2017 12:21 PM
+
+was read on 24/03/2017 12:37 PM.
+
+------=_NextPart_001_02B7_01D2A49B.78684070
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dutf-8">
+<META NAME=3D"Generator" CONTENT=3D"MS Exchange Server version =
+rmj.rmm.rup.rpr">
+<TITLE>Read: Signup Notification Simplifytrips</TITLE>
+</HEAD>
+<BODY>
+<!-- Converted from text/plain format -->
+
+<P><FONT SIZE=3D2>Your message<BR>
+<BR>
+&nbsp;&nbsp;&nbsp; To:&nbsp; Bajaj<BR>
+&nbsp;&nbsp;&nbsp; Subject:&nbsp; Signup Notification Simplifytrips<BR>
+&nbsp;&nbsp;&nbsp; Sent:&nbsp; 24/03/2017 12:21 PM<BR>
+<BR>
+was read on 24/03/2017 12:37 PM.</FONT>
+</P>
+
+</BODY>
+</HTML>
+------=_NextPart_001_02B7_01D2A49B.78684070--
+
+------=_NextPart_000_02B6_01D2A49B.78684070
+Content-Type: message/disposition-notification
+Content-Transfer-Encoding: 7bit
+
+Reporting-UA: adventureworldindia.com; Microsoft Outlook 16.0
+Final-Recipient: rfc822;bajaj@adventureworldindia.com
+Original-Message-ID: <703843f415404cde48ce5037405ffe3d@simplifytrips.com>
+Disposition: manual-action/MDN-sent-automatically; displayed
+
+------=_NextPart_000_02B6_01D2A49B.78684070--
+

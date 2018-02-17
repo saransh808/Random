@@ -1,0 +1,108 @@
+Return-Path: <dknayyar03@gmail.com>
+Delivered-To: hr@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id Ac+SFq/PClntxgIAwZeyeg
+	for <hr@simplifytrips.com>; Wed, 03 May 2017 23:52:31 -0700
+Return-path: <dknayyar03@gmail.com>
+Envelope-to: hr@simplifytrips.com
+Delivery-date: Wed, 03 May 2017 23:52:31 -0700
+Received: from mail-io0-f177.google.com ([209.85.223.177]:32978)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.88)
+	(envelope-from <dknayyar03@gmail.com>)
+	id 1d6Acp-000lax-9v
+	for hr@simplifytrips.com; Wed, 03 May 2017 23:52:31 -0700
+Received: by mail-io0-f177.google.com with SMTP id p24so10459535ioi.0
+        for <hr@simplifytrips.com>; Wed, 03 May 2017 23:52:10 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to;
+        bh=UvDytds6Heu54HJKPRTkUbKXA3io0QhDgLsc1G+/XJk=;
+        b=BnfbkrXG5gsVkeaB9wuUTXjz3cSIrxSKqvC5zVlOeb7tpioCg6nSAk8XP7etFx/hLN
+         serwV6VN+TRUknRtwgkTaER49Qvky2dca8mkTEvS3SeyXks/n+I4Xr9lhuvW2+FmMW7f
+         ZcTw4BTnyUvgFVEO4KSeEee8HpB4UkpcGkcPrq/lrlzj1iOhIGUf9Tudli6Yg1JFkhIA
+         hnA+ZFzenwbPmP4p0WW4O34/K3clS91NiC/AULHVJzIUhlFIMMfmmbhAa8EquSJTivIW
+         zelfhVoeVMFyTJ+fuZcppD/IYw5WzG+zasLFfBAJ2aYSvjEZYHC8aVC59IYuplpl3qlj
+         6R2w==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to;
+        bh=UvDytds6Heu54HJKPRTkUbKXA3io0QhDgLsc1G+/XJk=;
+        b=MZSdl6YcLCUz5BXeDNhQGxvPyljpKiINT/dQq4Dhp01ljDra45vZ2IvLr53YUgs/ke
+         wQaO1il7jJW61MA1TI5V/Idzcrcn/BLLQ0/79VkFF2sFzy8e05bzC8KaOydZOu3+c7Mv
+         NG9XrIk1NlZ11NourSdsAy3btvZYlz1RgcMOM4DzKmpcI8Tak6W7PtqTAsAcZGvYbcw8
+         fFJHlKbmc9cSilUcVfx0XSSGcmPmyI0N68Zj4zNHKbhZ+MsgzDUuNtqzvu3rVfXUq1+6
+         mTkoOxNW+UgGSwFy8xDgr2gPkyaJzAh66WvpSxR9Erus0hEM8g0nj92jElsCqyaUORQv
+         5SBA==
+X-Gm-Message-State: AN3rC/4CN0SEEwuRWZ8uFaF3UG54LKDbGEKZsmsZhxF0ujS0Pxww8QcQ
+	nX9z5eC4ELIFNcRO8OiL7Dib+HPuKg==
+X-Received: by 10.157.61.52 with SMTP id a49mr15952526otc.30.1493880708895;
+ Wed, 03 May 2017 23:51:48 -0700 (PDT)
+MIME-Version: 1.0
+References: <6c382442f722df7f1998d84614c1f2e2@simplifytrips.com>
+In-Reply-To: <6c382442f722df7f1998d84614c1f2e2@simplifytrips.com>
+From: Diksha Nayyar <dknayyar03@gmail.com>
+Date: Thu, 04 May 2017 06:51:38 +0000
+Message-ID: <CAAzjmwFr-RH9XgF7DARqjaPmsvjpXQFMJRR4y1eELBLrmc20Bw@mail.gmail.com>
+Subject: Curriculum vitae
+To: hr@simplifytrips.com
+Content-Type: multipart/alternative; boundary=001a11409322fd9900054ead34d5
+
+--001a11409322fd9900054ead34d5
+Content-Type: text/plain; charset=UTF-8
+
+Following attached is my Resume.
+
+
+
+On Thu, 4 May 2017 at 11:24 AM, <hr@simplifytrips.com> wrote:
+
+> Dear Diksha,
+>
+> Thank you for applying for the internship program with us.If you like to
+> gain experience in how a startup works with limited resources,various
+> challenges and pressure,kindly provide your updated CV/Resume so that we
+> could know more about your skills and experience. Also let us know about
+> your availability for face to face interview.
+>
+>
+> About Company:-
+>  Simplifytrips.com is an upcoming start-up which aims to revolutionize the
+> travel domain manifold. This start-up was founded in January 2017 and is in
+> very early stage of its incorporation.
+> WBR
+>
+>
+> HR,
+> Simplifytrips.com
+>
+-- 
+Sent from Gmail Mobile
+
+--001a11409322fd9900054ead34d5
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div>Following attached is my Resume.</div><div><br></div><div><br></div><d=
+iv><br></div><div><div class=3D"gmail_quote"><div>On Thu, 4 May 2017 at 11:=
+24 AM, &lt;<a href=3D"mailto:hr@simplifytrips.com">hr@simplifytrips.com</a>=
+&gt; wrote:<br></div><blockquote class=3D"gmail_quote" style=3D"margin:0 0 =
+0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div style=3D"font-size=
+:10pt;font-family:Verdana,Geneva,sans-serif">
+<div class=3D"m_-4277893506714155229pre" style=3D"margin:0;padding:0;font-f=
+amily:monospace">Dear Diksha,<br> <br> Thank you for applying for the inter=
+nship program with us.If you like to gain experience in how a startup works=
+ with limited resources,various challenges and pressure,kindly provide your=
+ updated CV/Resume so that we could know more about your skills and experie=
+nce. Also let us know about your availability for face to face interview.<b=
+r> <br> <br><span style=3D"text-decoration:underline"> About Company:-</spa=
+n><br> =C2=A0Simplifytrips.com is an upcoming start-up which aims to revolu=
+tionize the travel domain manifold. This start-up was founded in January 20=
+17 and is in very early stage of its incorporation.=C2=A0<br> WBR<br> <br> =
+<br> HR, <br> Simplifytrips.com =C2=A0</div>
+</div>
+</blockquote></div></div><div dir=3D"ltr">-- <br></div><div data-smartmail=
+=3D"gmail_signature">Sent from Gmail Mobile</div>
+
+--001a11409322fd9900054ead34d5--

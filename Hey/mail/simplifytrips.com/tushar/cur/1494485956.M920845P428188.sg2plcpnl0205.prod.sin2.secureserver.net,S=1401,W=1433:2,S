@@ -1,0 +1,32 @@
+Return-Path: <>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id uebKNsQLFFmciAYAwZeyeg
+	for <tushar@simplifytrips.com>; Wed, 10 May 2017 23:59:16 -0700
+Return-path: <>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Wed, 10 May 2017 23:59:16 -0700
+Received: from chlb1.net4india.com ([118.67.248.215]:45011 helo=lx7mail.net4india.com)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.88)
+	id 1d8i4C-001nnr-Pe
+	for tushar@simplifytrips.com; Wed, 10 May 2017 23:59:16 -0700
+Received: from exim by lx7mail.net4india.com with local (Exim 4.75 #4)
+	id 1d8i3p-0005n3-LD
+	for <tushar@simplifytrips.com>; Thu, 11 May 2017 12:28:53 +0530
+X-Failed-Recipients: sales@srtravelntours.in
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@net4india.net>
+To: tushar@simplifytrips.com
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1d8i3p-0005n3-LD@lx7mail.net4india.com>
+Date: Thu, 11 May 2017 12:28:53 +0530
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  sales@srtravelntours.in
+    mailbox is full: retry timeout exceeded
+

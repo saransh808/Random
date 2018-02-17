@@ -1,0 +1,95 @@
+Return-Path: <vishnu@theistartup.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id UWlEDCNtFFnS2g4AwZeyeg
+	for <tushar@simplifytrips.com>; Thu, 11 May 2017 06:54:43 -0700
+Return-path: <vishnu@theistartup.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Thu, 11 May 2017 06:54:43 -0700
+Received: from sg2nlshrout01.shr.prod.sin2.secureserver.net ([182.50.132.193]:38170)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <vishnu@theistartup.com>)
+	id 1d8oYF-0045Eg-3w
+	for tushar@simplifytrips.com; Thu, 11 May 2017 06:54:43 -0700
+Received: from sg2plcpnl0118.prod.sin2.secureserver.net ([182.50.135.65])
+	by : HOSTING RELAY : with SMTP
+	id 8oWcdLzHeCyou8oWcdH1qN; Thu, 11 May 2017 06:53:02 -0700
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=theistartup.com; s=default; h=MIME-Version:Content-Type:Subject:To:From:
+	Message-ID:Date:Sender:Reply-To:Cc:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=XSOjuZr/ZHackp8hJS3+vLU5DvJvj9GyAnSzOendjn0=; b=izknDRYriACdoDy9K8ZACQ8QU+
+	YzCRu1AYKvKOTuoWTEGmAk2gwZamQkut32kw+UrIUOHNLe3Hft96yIid2l38lacLV5SnFrmbWgW2Q
+	qhU6dNFSDp0Yl5BA+YbVpSKmS14RHvGFSrEbUwwuSH8HdM5IqjxWEMuSOMDucxIz1PPOpv1vjtnOg
+	CFlVAkfHI1wtwEFl4OVJvVMwZqBRONNMJ+Y01PGNmtvdR4miixuDSm3oCthEGWqzcJbsW6acmbRY0
+	a0+hCwIR9rccS+AqyeeBY4Cbed65R5rhLeQGPcNGxXTwkrD2p05tlKO0MYzoy3lj+iNocOKr8HamK
+	iokcVF5Q==;
+Received: from [127.0.0.1] (port=48438 helo=sg2plcpnl0118.prod.sin2.secureserver.net)
+	by sg2plcpnl0118.prod.sin2.secureserver.net with esmtpsa (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.88)
+	(envelope-from <vishnu@theistartup.com>)
+	id 1d8oWc-002Bdk-OL
+	for tushar@simplifytrips.com; Thu, 11 May 2017 06:53:02 -0700
+Received: from 47.29.71.65 ([47.29.71.65]) by
+ sg2plcpnl0118.prod.sin2.secureserver.net (Horde Framework) with HTTPS; Thu,
+ 11 May 2017 06:52:57 -0700
+Date: Thu, 11 May 2017 06:52:57 -0700
+Message-ID: <20170511065257.Horde.Yeiv_ZfCiB_JJoLbeXwDTcS@sg2plcpnl0118.prod.sin2.secureserver.net>
+From: vishnu@theistartup.com
+To: tushar@simplifytrips.com
+Subject: Week 2- Mail 1 (Theistartup.com)
+User-Agent: Horde Application Framework 5
+Content-Type: text/plain; charset=utf-8; format=flowed; DelSp=Yes
+MIME-Version: 1.0
+Content-Disposition: inline
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - sg2plcpnl0118.prod.sin2.secureserver.net
+X-AntiAbuse: Original Domain - simplifytrips.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - theistartup.com
+X-Get-Message-Sender-Via: sg2plcpnl0118.prod.sin2.secureserver.net: authenticated_id: vishnu@theistartup.com
+X-Authenticated-Sender: sg2plcpnl0118.prod.sin2.secureserver.net: vishnu@theistartup.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-CMAE-Envelope: MS4wfLyK/cufXT5RPl5hpg5Xv5Yaq48euZlV00/blmZ9cVUNcJZgmD8ksZnnfMI/qAMEOJxtillBoT+rdqqQd5J8Zw6kwH9vsfefiAaJdJgPGjHAsykMCzyj
+ XWf7B3G31t8Vy5vU8udIO1F6PCs8r09LHOl0MefPlkspQpGzIybuCBl2TkFxMPlR7WpjT67lZUWTY5ebOh15J0e+7FPbvZ/JD9c=
+
+
+
+Hello
+
+This is your week 2 and in this week we'll concentrate on your Social  
+Media Circle.
+
+Today I will help you grow your twitter audience. We have just found a  
+tool that will help you grow your twitter followers 3 times more.
+
+All you need to do is make an account, add the keywords related to  
+your niche and get more followers. They will do all the jobs for you  
+like finding people of the same niche, following them and unfollowing  
+those who doesn't follow you back. We have already tried their service  
+and it works very nicely. There is no hack or trick but just a good  
+strategy.
+
+Website- Social Quant (https://www.socialquant.net/)
+
+Although they charge a bit but you can try their 14-days free trial  
+(without credit cards).
+
+More useful links.
+
+http://theistartup.com/create-social-media-strategy-2017/
+
+http://www.keypersonofinfluence.com/15-ways-smash-social-media-strategy-twitter/
+
+
+Thank You
+Theistartup.com
+
+
+
+

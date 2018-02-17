@@ -1,0 +1,112 @@
+Return-Path: <ads-noreply@indeed.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id 0QxHNv7G+FgVUQEAwZeyeg
+	for <tushar@simplifytrips.com>; Thu, 20 Apr 2017 07:34:38 -0700
+Return-path: <ads-noreply@indeed.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Thu, 20 Apr 2017 07:34:38 -0700
+Received: from mail64.indeed.com ([198.58.75.64]:41936)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <ads-noreply@indeed.com>)
+	id 1d1DAM-000MYW-L3
+	for tushar@simplifytrips.com; Thu, 20 Apr 2017 07:34:38 -0700
+Received: from aus-mexec18.localdomain (aus-mexec18.indeed.net [10.1.2.18])
+	by mail64.indeed.com (Postfix) with ESMTP id 3w81Zr4m6KzJYPJn
+	for <tushar@simplifytrips.com>; Thu, 20 Apr 2017 09:33:56 -0500 (CDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=indeed.com;
+	s=default; t=1492698836;
+	bh=IEAI1dLZh/3yyha040fhpXnwvlG+JFFv/r9rJ4CH/BE=;
+	h=Date:To:From:Subject;
+	b=RT9JDhKACq6j8r3ZDAj0RXj+dohZ2K70IJkqz6mBfTefFDXAuuEqKK6G+4QuKqans
+	 xuFrF8L/uE2cNI011A1ge/p7gOdcWrlmnjzIKjtHOZNudooo/5AyYS3hrRI+KrSY44
+	 +3fCBrmBmPQ0QFqBp9LPeNnYWdTHsOI+km2E8/qA=
+Received: from localhost.localdomain (localhost [127.0.0.1])
+	by aus-mexec18.localdomain (Postfix) with ESMTP id 51515400EF
+	for <tushar@simplifytrips.com>; Thu, 20 Apr 2017 09:33:56 -0500 (CDT)
+X-PHPMAILER-DKIM: phpmailer.worxware.com
+DKIM-Signature: v=1; a=rsa-sha1; q=dns/txt; l=2940; s=default;
+	t=1492698836; c=relaxed/simple;
+	h=From:To:Subject;
+	d=indeed.com; i=@indeed.com;
+	z=From:=20Indeed=20<ads-noreply@indeed.com>
+	|To:=20tushar@simplifytrips.com
+	|Subject:=20Activate=20your=20job:=20info=20required;
+	bh=y2GI76HA4SRIv7kynNHi3CC0A1k=;
+	b=
+Date: Thu, 20 Apr 2017 09:33:56 -0500
+To: tushar@simplifytrips.com
+From: Indeed <ads-noreply@indeed.com>
+Subject: Activate your job: info required
+Message-ID: <a9e83d933e25780d1481bafdf0369924@localhost.localdomain>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.worxware.com)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    </head>
+    <body style="">
+        <div style="line-height: 16px; font-family: Arial, sans-serif;">
+            <table style="width: 500px; margin-left: 10px; font-size:12px">
+                <tr>
+                    <td style="padding-bottom: 10px;">
+                        <img src="https://ads.indeed.com/images/email/indeed-logo-small.png?refUid=1be5sftne2gpl9g2" alt="indeed.com"/>
+                    </td>
+                </tr>
+
+                
+    <tr>
+        <td style="padding-bottom: 10px;">
+            
+                
+                    
+
+                    <p>You're almost finished posting your job!  To activate your job,</p>
+                    <ol>
+                    
+                    
+                    <li><a href="https://ads.indeed.com/editbilling?refUid=1be5sftne2gpl9g2&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=newaccount_nobilling" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">Enter your billing information</a>.</li>
+                    </ol>
+
+                    
+                        
+                            <p><strong>Questions?</strong> <a href="https://ads.indeed.com/contact_indeed?hl=en&amp;co=IN&amp;refUid=1be5sftne2gpl9g2&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=newaccount_nobilling&amp;lid=contactus" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">Contact us</a>.</p>
+                        
+                        
+                    
+                
+            
+        </td>
+    </tr>
+
+
+                
+                    <tr>
+                        <td style="padding-bottom: 10px;">
+                            Indeed<br />
+                                <a href="http://india.indeed.com/?utm_source=indeed&utm_medium=advemail&utm_campaign=ads" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">india.indeed.com</a><br />
+                            
+                            
+                        </td>
+                    </tr>
+                
+
+            
+            </table>
+
+            
+
+            <hr noshade="" size="2" style="color:#ccc;background-color:#ccc;border-color:#ccc;margin-left: 5px">
+
+            <div style="margin-left: 10px;color:#6f6f6f;font-size:smaller;"><a href="http://india.indeed.com?utm_source=indeed&utm_medium=advemail&utm_campaign=ads"><font color="#2164f3"><b>Indeed</b></font></a> - one search. all jobs. | Indeed Ireland Operations Limited, 124 St. Stephen's Green, Dublin 2, Ireland</div>
+        </div>
+    </body>
+</html>
+
+

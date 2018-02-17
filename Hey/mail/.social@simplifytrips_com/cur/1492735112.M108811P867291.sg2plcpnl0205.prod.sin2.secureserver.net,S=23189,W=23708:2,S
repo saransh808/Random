@@ -1,0 +1,519 @@
+Return-Path: <b02777fdc29social=simplifytrips.com@bounce.twitter.com>
+Delivered-To: social@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id mbFsA4hU+VjbOw0AwZeyeg
+	for <social@simplifytrips.com>; Thu, 20 Apr 2017 17:38:32 -0700
+Return-path: <b02777fdc29social=simplifytrips.com@bounce.twitter.com>
+Envelope-to: social@simplifytrips.com
+Delivery-date: Thu, 20 Apr 2017 17:38:32 -0700
+Received: from spring-chicken-ap.twitter.com ([199.16.156.155]:56579)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <b02777fdc29social=simplifytrips.com@bounce.twitter.com>)
+	id 1d1Mal-003dvU-J8
+	for social@simplifytrips.com; Thu, 20 Apr 2017 17:38:32 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=twitter.com;
+	s=dkim-201406; t=1492735065;
+	bh=2/cb20qej2ejhLwKgG3FoX1dMZZ1hyb0d3be4QLry+A=;
+	h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:
+	 Message-ID;
+	b=VTdDq0P5sSXQJsFjBKrwsLQVg79tyoB7PsoNWEFZmluhyVZ618nIGO3sC0TybqjUE
+	 Wzg2CYtk5hk4r6jx9KVKhueeXVxoBprsePhcggQ/QCt6ew8ClkrneH0SuArjuQmre8
+	 7o8W5bdX0JuCpK9H7zkXIWxPLvy1VedFWNM18m+VJdtmIjkBCdLa+R3zRaidzDjLel
+	 +yInKjX/tAcZd6LaV7EFVjl7owEM3B6iomj47y1CekS9Fji2RIhwcwcXLyG2IvuYG0
+	 EE1kzHBOw0I+k2Nb7SbXo+rztw4j71VwbqTg+khJqirnDRCd0tJW2DLwpy1xasdFtj
+	 NmFszPg3MbJzQ==
+X-MSFBL: vcxeUPVIHRBPIvEWONLlIwfTOn4ClNdA2b55UNAAMJo=|eyJ1Ijoic29jaWFsQHN
+	pbXBsaWZ5dHJpcHMuY29tQGlpZCMjYmJhZmUwYWI5NGNhNDE0M2FmMzQ0MzdkMTQ
+	1ZmUzNThAdXNiIyMyQDI0NEA3NjM2ODczMDI2MzE1OTYwMzNAMEAxODY5YzRiNzc
+	zNjNmZmUxMzM3NjY1OThlODlmNzc1NWM5ZmEyNDQ2IiwiciI6InNvY2lhbEBzaW1
+	wbGlmeXRyaXBzLmNvbSIsImIiOiJhdGxhLWFxbC0zNy1zcjEtRXZlcnl0aGluZy4
+	xNzUiLCJnIjoiRXZlcnl0aGluZyJ9
+Date: Fri, 21 Apr 2017 00:37:45 +0000
+From: Twitter <info@twitter.com>
+To: Simplifytrips <social@simplifytrips.com>
+Subject: @social_simplify, check out Twitter Lite today
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_767200_128798558.1492735065457"
+List-Unsubscribe: <https://twitter.com/i/u?t=1&listunsub=t&cn=Y21fdHdpdHRlcl9saXRlX3Yy&sig=5f61326926c4327073df257f68e5fc781ca5854a&iid=bbafe0ab94ca4143af34437d145fe358&uid=763687302631596033&nid=244+26&usbid=2>
+Feedback-ID: 0040162518f58f41d1f0:1048253730ef9e47c2e7c120b672719ee288:none:twitterESP
+Precedence: Bulk
+Message-ID: <71.57.61531.95459F85@twitter.com>
+
+------=_Part_767200_128798558.1492735065457
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Twitter Lite 
+
+Try Twitter Lite 
+> https://mobile.twitter.com
+
+=
+   
+A fast, data-friendly way to see what's happening in the world right now
+
+=
+
+Available on most smartphones and tablets through the mobile web, Twitter Lite minimizes data usage, loads quickly on slower connections, is resilient to unreliable networks, and takes up less than 1MB on your mobile device.
+
+So you can get breaking news, sports scores, and entertainment updates. Interact with brands and your government. Easily market your business, or quickly provide customer service - all while using less of your data plan.
+
+Learn more 
+> https://mobile.twitter.com
+
+Try it now at mobile.twitter.com
+
+=
+
+About 
+> https://about.twitter.com/
+
+Help 
+> https://support.twitter.com/articles/20113771
+
+Unsubscribe 
+> https://twitter.com/i/u?t=1&amp;cn=Y21fdHdpdHRlcl9saXRlX3Yy&amp;sig=7cab40124d05b0c74d3066ae553d7e3440e8e3ad&amp;iid=bbafe0ab94ca4143af34437d145fe358&amp;uid=763687302631596033&amp;nid=244+26&amp;usbid=2
+
+Twitter International Company
+One Cumberland Place, Fenian Street
+Dublin 2, D02 AX07  IRELAND
+------=_Part_767200_128798558.1492735065457
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/
+html; charset=3Dutf-8" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, minimum-scale=3D1.=
+0, maximum-scale=3D1.0, user-scalable=3D0" />
+<meta name=3D"apple-mobile-web-app-capable" content=3D"yes" />
+<!--[if gte mso 9]><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style type=3D"text/css">
+/* Windows 10 Mail Fix */
+a { text-decoration: none; }
+/* a:visited { color: #8899A6; text-decoration:none; } */
+.addressLink a { color: #8899A6 !important; text-decoration: none !importan=
+t; }
+/* Windows 10 Mail Fix End */
+
+@media only screen and (max-width: 500px) {
+.width_full {
+width: 100% !important;
+}
+.width_20 {
+width: 20px !important;
+}
+.width_24 {
+width: 24px !important;
+}
+#hide {
+display: none !important;
+}
+
+#hero {
+background-image: url(https://ea.twimg.com/email/self_serve/media/cm_twitte=
+r_lite_hero_mobile-1492028117969.jpg) !important;
+background-size: cover !important;
+background-position-x: center !important;
+width: 100%;
+height: 280px !important;
+}
+
+.hero {
+height: 210px !important;
+}
+
+.iosyellow a {
+text-decoration: underline;
+}
+
+.width_full {
+width: 100% !important;
+}
+
+.height_30 {
+height: 30px !important;
+}
+
+}
+</style>
+</head>
+<body style=3D"margin:0px auto;padding:0px;-webkit-text-size-adjust:100%;-m=
+s-text-size-adjust:100%;">
+<style>
+.ios_blue a {
+color: #1DA1F2 !important;
+text-decoration: none;
+}
+</style>
+<div class=3D"preheader" style=3D"display:none;font-size:1px;color:#333333;=
+line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+Introducing Twitter Lite. A fast, data-friendly way to see what's happening=
+ in the world right now
+</div>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" bgco=
+lor=3D"#ffffff" class=3D"wrapper" style=3D"padding:0px;line-height:1px;font=
+-size:1px;">
+<tbody>
+<tr>
+<td class=3D"empty" width=3D"100%" align=3D"center" style=3D"padding:0px;ma=
+rgin:0px auto;line-height:1px;font-size:1px;font-size:0px;line-height:1px;p=
+adding:0px;">
+<!-- BODY START -->
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" bg=
+color=3D"#ffffff" width=3D"640" class=3D"width_full" dir=3D"ltr" style=3D"p=
+adding:0px;line-height:1px;font-size:1px;">
+<tbody>
+<tr>
+<td id=3D"hero" background=3D"https://ea.twimg.com/email/self_serve/media/c=
+m_twitter_lite_hero-1491948993556.jpg" bgcolor=3D"ffffff" width=3D"640" hei=
+ght=3D"358" valign=3D"top" style=3D"padding:0px;margin:0px auto;line-height=
+:1px;font-size:1px;">
+<!--[if gte mso 9]>
+<v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" fill=3D"true" stroke=3D"f=
+alse" style=3D"width:640px;height:358px;">
+<v:fill type=3D"tile" src=3D"https://ea.twimg.com/email/self_serve/media/cm=
+_twitter_lite_hero-1491948993556.jpg" color=3D"ffffff" />
+<v:textbox inset=3D"0,0,0,0">
+<![endif]-->
+<div>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" wi=
+dth=3D"100%" style=3D"padding:0px;line-height:1px;font-size:1px;">
+<tbody>
+<tr>
+<td style=3D"padding:0px;margin:0px auto;line-height:1px;font-size:1px;"> <=
+a href=3D"https://twitter.com/i/redirect?url=3Dhttps%3A%2F%2Fmobile.twitter=
+.com&amp;t=3D1&amp;cn=3DY21fdHdpdHRlcl9saXRlX3Yy&amp;sig=3D05cd5d0e05c5dbf0=
+3f001101c5de04119e2a99b5&amp;iid=3Dbbafe0ab94ca4143af34437d145fe358&amp;uid=
+=3D763687302631596033&amp;nid=3D244+1553" target=3D"_blank" style=3D"text-d=
+ecoration:none;border-style:none;border:0px;padding:0px;margin:0px;"> <img =
+src=3D"https://ea.twimg.com/email/self_serve/media/spacer_650x265-148105648=
+7262.png" width=3D"640" height=3D"275" class=3D"width_full hero" title=3D"T=
+witter Lite" alt=3D"Twitter Lite" style=3D"color: #FFAD1F; font-family: 'He=
+lveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: =
+bold; font-size: 60px; line-height: 64px; border: none; text-align: center;=
+margin:0px;padding:0px;display:inline-block;-ms-interpolation-mode:bicubic;=
+border:none;outline:none;" /> </a></td>
+</tr>
+<tr>
+<td class=3D"empty" style=3D"padding:0px;margin:0px auto;line-height:1px;fo=
+nt-size:1px;font-size:0px;line-height:1px;padding:0px;">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" cl=
+ass=3D"center" style=3D"padding:0px;line-height:1px;font-size:1px;text-alig=
+n:center;margin:auto;">
+<tbody>
+<tr>
+<td align=3D"center" class=3D"button center" bgcolor=3D"#FFAD1F" dir=3D"ltr=
+" style=3D"padding:0px;margin:0px auto;line-height:1px;font-size:1px;text-a=
+lign:center;margin:auto;-webkit-border-radius:4px;-moz-border-radius:4px;bo=
+rder-radius:4px;line-height:18px;"> <a href=3D"https://twitter.com/i/redire=
+ct?url=3Dhttps%3A%2F%2Fmobile.twitter.com&amp;t=3D1&amp;cn=3DY21fdHdpdHRlcl=
+9saXRlX3Yy&amp;sig=3Daba74410abcd0881c4021e7c625efda1b48663d6&amp;iid=3Dbba=
+fe0ab94ca4143af34437d145fe358&amp;uid=3D763687302631596033&amp;nid=3D244+15=
+54" target=3D"_blank" class=3D"button nowrap" style=3D"text-decoration:none=
+;border-style:none;border:0px;padding:0px;margin:0px;white-space:nowrap;fon=
+t-size:16px;font-family:'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial=
+, sans-serif;color:#ffffff;text-decoration:none;-webkit-border-radius:4px;-=
+moz-border-radius:4px;border-radius:4px;padding:11px 30px;border:1px solid =
+#FFAD1F;display:inline-block;font-weight:600;-webkit-font-smoothing:antiali=
+ased;">
+<!--[if gte mso 11]>&nbsp; &nbsp; &nbsp;<![endif]--> Try Twitter Lite
+<!--[if gte mso 11]>&nbsp; &nbsp; &nbsp;<![endif]--> </a> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"24" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbs=
+p; </td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if gte mso 9]>
+</v:textbox>
+</v:rect>
+<![endif]--> </td>
+</tr>
+<tr>
+<td class=3D"empty" style=3D"padding:0px;margin:0px auto;line-height:1px;fo=
+nt-size:1px;font-size:0px;line-height:1px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" bg=
+color=3D"#ffffff" width=3D"640" class=3D"width_full" style=3D"padding:0px;l=
+ine-height:1px;font-size:1px;">
+<tbody>
+<tr>
+<td class=3D"empty width_20" width=3D"90" style=3D"padding:0px;margin:0px a=
+uto;line-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px=
+;"> &nbsp; </td>
+<td class=3D"empty" style=3D"padding:0px;margin:0px auto;line-height:1px;fo=
+nt-size:1px;font-size:0px;line-height:1px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" di=
+r=3D"ltr" style=3D"padding:0px;line-height:1px;font-size:1px;">
+<tbody>
+<tr>
+<td class=3D"empty" height=3D"40" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbs=
+p; </td>
+</tr>
+<tr>
+<td class=3D"h3 deep_grey center" align=3D"center" dir=3D"ltr" style=3D"pad=
+ding:0px;margin:0px auto;line-height:1px;font-size:1px;color:#8899A6;font-f=
+amily:'Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing=
+:antialiased;-webkit-text-size-adjust:none;font-size:18px;padding:0px;margi=
+n:0px;font-weight:bold;line-height:18px;text-align:center;margin:auto;font-=
+size:22px;line-height:26px;"> A fast, data-friendly way to see what=E2=80=
+=99s happening in the world right now </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"24" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbs=
+p; </td>
+</tr>
+<tr>
+<td class=3D"body deep_grey" align=3D"left" dir=3D"ltr" style=3D"padding:0p=
+x;margin:0px auto;line-height:1px;font-size:1px;color:#8899A6;font-family:'=
+Helvetica Neue Light', Helvetica, Arial, sans-serif;-webkit-font-smoothing:=
+antialiased;-webkit-text-size-adjust:none;font-size:16px;padding:0px;margin=
+:0px;font-weight:normal;line-height:20px;font-family:'Helvetica Neue Light'=
+, Helvetica, Arial, sans-serif;-webkit-font-smoothing:antialiased;-webkit-t=
+ext-size-adjust:none;font-size:16px;padding:0px;margin:0px;font-weight:norm=
+al;line-height:22px;"> Available on most smartphones and tablets through th=
+e mobile web, Twitter Lite minimizes data usage, loads quickly on slower co=
+nnections, is resilient to unreliable networks, and takes up less than 1MB =
+on your mobile device. </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"16" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbs=
+p; </td>
+</tr>
+<tr>
+<td class=3D"body deep_grey" align=3D"left" dir=3D"ltr" style=3D"padding:0p=
+x;margin:0px auto;line-height:1px;font-size:1px;color:#8899A6;font-family:'=
+Helvetica Neue Light', Helvetica, Arial, sans-serif;-webkit-font-smoothing:=
+antialiased;-webkit-text-size-adjust:none;font-size:16px;padding:0px;margin=
+:0px;font-weight:normal;line-height:20px;font-family:'Helvetica Neue Light'=
+, Helvetica, Arial, sans-serif;-webkit-font-smoothing:antialiased;-webkit-t=
+ext-size-adjust:none;font-size:16px;padding:0px;margin:0px;font-weight:norm=
+al;line-height:22px;"> So you can get breaking news, sports scores, and ent=
+ertainment updates. Interact with brands and your government. Easily market=
+ your business, or quickly provide customer service - all while using less =
+of your data plan. </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"40" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbs=
+p; </td>
+</tr>
+<tr>
+<td class=3D"empty" align=3D"center" style=3D"padding:0px;margin:0px auto;l=
+ine-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" st=
+yle=3D"padding:0px;line-height:1px;font-size:1px;">
+<tbody>
+<tr>
+<td align=3D"center" class=3D"button center" bgcolor=3D"#FFAD1F" dir=3D"ltr=
+" style=3D"padding:0px;margin:0px auto;line-height:1px;font-size:1px;text-a=
+lign:center;margin:auto;-webkit-border-radius:4px;-moz-border-radius:4px;bo=
+rder-radius:4px;line-height:18px;"> <a href=3D"https://twitter.com/i/redire=
+ct?url=3Dhttps%3A%2F%2Flite.twitter.com&amp;t=3D1&amp;cn=3DY21fdHdpdHRlcl9s=
+aXRlX3Yy&amp;sig=3D4ad5d36caa628a8ab9936a837480ba5aeceb34ac&amp;iid=3Dbbafe=
+0ab94ca4143af34437d145fe358&amp;uid=3D763687302631596033&amp;nid=3D244+1555=
+" target=3D"_blank" class=3D"button nowrap" style=3D"text-decoration:none;b=
+order-style:none;border:0px;padding:0px;margin:0px;white-space:nowrap;font-=
+size:16px;font-family:'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, =
+sans-serif;color:#ffffff;text-decoration:none;-webkit-border-radius:4px;-mo=
+z-border-radius:4px;border-radius:4px;padding:11px 30px;border:1px solid #F=
+FAD1F;display:inline-block;font-weight:600;-webkit-font-smoothing:antialias=
+ed;">
+<!--[if gte mso 11]>&nbsp; &nbsp; &nbsp;<![endif]--> Learn more
+<!--[if gte mso 11]>&nbsp; &nbsp; &nbsp;<![endif]--> </a> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"40" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbs=
+p; </td>
+</tr>
+<tr>
+<td class=3D"h4 deep_grey center" align=3D"center" dir=3D"ltr" style=3D"pad=
+ding:0px;margin:0px auto;line-height:1px;font-size:1px;color:#8899A6;font-f=
+amily:'Helvetica Neue', Helvetica, Arial, sans-serif;-webkit-font-smoothing=
+:antialiased;-webkit-text-size-adjust:none;font-size:16px;padding:0px;margi=
+n:0px;font-weight:bold;line-height:20px;text-align:center;margin:auto;"> <a=
+ href=3D"https://twitter.com/i/redirect?url=3Dhttps%3A%2F%2Fmobile.twitter.=
+com&amp;t=3D1&amp;cn=3DY21fdHdpdHRlcl9saXRlX3Yy&amp;sig=3D1403859a0556da9e7=
+240220f48ee1dff50175c52&amp;iid=3Dbbafe0ab94ca4143af34437d145fe358&amp;uid=
+=3D763687302631596033&amp;nid=3D244+1556" class=3D"yellow" style=3D"text-de=
+coration:none;border-style:none;border:0px;padding:0px;margin:0px;color:#FF=
+AD1F;">Try it now at mobile.twitter.com</a> </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"40" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbs=
+p; </td>
+</tr>
+</tbody>
+</table> </td>
+<td class=3D"empty width_20" width=3D"90" style=3D"padding:0px;margin:0px a=
+uto;line-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px=
+;"> &nbsp; </td>
+</tr>
+</tbody>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" bg=
+color=3D"#f5f8fa" width=3D"640" class=3D"width_full" style=3D"padding:0px;l=
+ine-height:1px;font-size:1px;">
+<!--[if gte mso 9]>
+<tr>
+<td colspan=3D"3" align=3D"center">
+<img src=3D"https://ea.twimg.com/email/self_serve/media/spacer_650x1-148105=
+9174655.png" width=3D"640" />
+</td>
+</tr>
+<![endif]-->
+<tbody>
+<tr>
+<td class=3D"empty width_20" width=3D"90" style=3D"padding:0px;margin:0px a=
+uto;line-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px=
+;"> &nbsp; </td>
+<td class=3D"empty" style=3D"padding:0px;margin:0px auto;line-height:1px;fo=
+nt-size:1px;font-size:0px;line-height:1px;padding:0px;">
+<table align=3D"center" dir=3D"ltr" style=3D"padding:0px;line-height:1px;fo=
+nt-size:1px;">
+<tbody>
+<tr>
+<td class=3D"empty" height=3D"72" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbs=
+p; </td>
+</tr>
+<tr>
+<td class=3D"footer strong deep_grey center" align=3D"center" dir=3D"ltr" s=
+tyle=3D"padding:0px;margin:0px auto;line-height:1px;font-size:1px;color:#88=
+99A6;font-family:'Helvetica Neue Light', Helvetica, Arial, sans-serif;-webk=
+it-font-smoothing:antialiased;-webkit-text-size-adjust:none;font-size:12px;=
+padding:0px;margin:0px;font-weight:normal;line-height:16px;font-weight:bold=
+;text-align:center;margin:auto;"> <a href=3D"https://twitter.com/i/redirect=
+?url=3Dhttps%3A%2F%2Fabout.twitter.com%2F&amp;t=3D1&amp;cn=3DY21fdHdpdHRlcl=
+9saXRlX3Yy&amp;sig=3D914d92e2d6843c6afa11ebf526daca20e07cd251&amp;iid=3Dbba=
+fe0ab94ca4143af34437d145fe358&amp;uid=3D763687302631596033&amp;nid=3D244+15=
+57" class=3D"yellow" style=3D"text-decoration:none;border-style:none;border=
+:0px;padding:0px;margin:0px;color:#FFAD1F;"> About </a> &nbsp;|&nbsp; <a hr=
+ef=3D"https://twitter.com/i/redirect?url=3Dhttps%3A%2F%2Fsupport.twitter.co=
+m%2Farticles%2F20113771&amp;t=3D1&amp;cn=3DY21fdHdpdHRlcl9saXRlX3Yy&amp;sig=
+=3Dba279281c9456bab8d70674d762d6d474a06462f&amp;iid=3Dbbafe0ab94ca4143af344=
+37d145fe358&amp;uid=3D763687302631596033&amp;nid=3D244+1558" class=3D"yello=
+w" style=3D"text-decoration:none;border-style:none;border:0px;padding:0px;m=
+argin:0px;color:#FFAD1F;"> Help </a> &nbsp;|&nbsp; <a href=3D"https://twitt=
+er.com/i/u?t=3D1&amp;cn=3DY21fdHdpdHRlcl9saXRlX3Yy&amp;sig=3D7cab40124d05b0=
+c74d3066ae553d7e3440e8e3ad&amp;iid=3Dbbafe0ab94ca4143af34437d145fe358&amp;u=
+id=3D763687302631596033&amp;nid=3D244+26&amp;usbid=3D2" class=3D"yellow" st=
+yle=3D"text-decoration:none;border-style:none;border:0px;padding:0px;margin=
+:0px;color:#FFAD1F;"> Unsubscribe </a> </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"12" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbs=
+p; </td>
+</tr>
+<tr>
+<td class=3D"footer deep_grey center" align=3D"center" style=3D"padding:0px=
+;margin:0px auto;line-height:1px;font-size:1px;color:#8899A6;font-family:'H=
+elvetica Neue Light', Helvetica, Arial, sans-serif;-webkit-font-smoothing:a=
+ntialiased;-webkit-text-size-adjust:none;font-size:12px;padding:0px;margin:=
+0px;font-weight:normal;line-height:16px;text-align:center;margin:auto;"> <s=
+pan class=3D"addressLink"> Twitter =EF=BB=BFInternational =EF=BB=BFCompany<=
+br />One&nbsp;Cumberland&nbsp;Place,&nbsp;Fenian&nbsp;Street<br />Dublin&nb=
+sp;2,&nbsp;D02&nbsp;AX07&nbsp;&nbsp;IRELAND
+<!--https://twitter.com/scribe/ibis?t=3D1&amp;cn=3DY21fdHdpdHRlcl9saXRlX3Yy=
+&amp;iid=3Dbbafe0ab94ca4143af34437d145fe358&amp;uid=3D763687302631596033&am=
+p;nid=3D244+20--></span> </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"72" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbs=
+p; </td>
+</tr>
+</tbody>
+</table> </td>
+<td class=3D"empty width_20" width=3D"90" style=3D"padding:0px;margin:0px a=
+uto;line-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px=
+;"> &nbsp; </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<!-- BODY END --> </td>
+</tr>
+<tr>
+<td class=3D"fix_gmail_ios" id=3D"hide" align=3D"center" style=3D"padding:0=
+px;margin:0px auto;line-height:1px;font-size:1px;color:#ffffff;font-family:=
+Arial, sans-serif;font-size:14px;"> =E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=
+=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=
+=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=
+=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94 </td>
+</tr>
+<tr>
+<td class=3D"fix_gmail_android" id=3D"hide" align=3D"center" style=3D"paddi=
+ng:0px;margin:0px auto;line-height:1px;font-size:1px;">
+<table align=3D"center" style=3D"padding:0px;line-height:1px;font-size:1px;=
+">
+<tbody>
+<tr>
+<td width=3D"135" height=3D"1" style=3D"padding:0px;margin:0px auto;line-he=
+ight:1px;font-size:1px;"> <img src=3D"https://ea.twimg.com/email/self_serve=
+/media/spacer-1476918453497.png" height=3D"1" width=3D"130" style=3D"margin=
+:0px;padding:0px;display:inline-block;-ms-interpolation-mode:bicubic;border=
+:none;outline:none;" /> </td>
+<td width=3D"135" height=3D"1" style=3D"padding:0px;margin:0px auto;line-he=
+ight:1px;font-size:1px;"> <img src=3D"https://ea.twimg.com/email/self_serve=
+/media/spacer-1476918453497.png" height=3D"1" width=3D"130" style=3D"margin=
+:0px;padding:0px;display:inline-block;-ms-interpolation-mode:bicubic;border=
+:none;outline:none;" /> </td>
+<td width=3D"135" height=3D"1" style=3D"padding:0px;margin:0px auto;line-he=
+ight:1px;font-size:1px;"> <img src=3D"https://ea.twimg.com/email/self_serve=
+/media/spacer-1476918453497.png" height=3D"1" width=3D"130" style=3D"margin=
+:0px;padding:0px;display:inline-block;-ms-interpolation-mode:bicubic;border=
+:none;outline:none;" /> </td>
+<td width=3D"135" height=3D"1" style=3D"padding:0px;margin:0px auto;line-he=
+ight:1px;font-size:1px;"> <img src=3D"https://ea.twimg.com/email/self_serve=
+/media/spacer-1476918453497.png" height=3D"1" width=3D"130" style=3D"margin=
+:0px;padding:0px;display:inline-block;-ms-interpolation-mode:bicubic;border=
+:none;outline:none;" /> </td>
+<td width=3D"135" height=3D"1" style=3D"padding:0px;margin:0px auto;line-he=
+ight:1px;font-size:1px;"> <img src=3D"https://ea.twimg.com/email/self_serve=
+/media/spacer-1476918453497.png" height=3D"1" width=3D"130" style=3D"margin=
+:0px;padding:0px;display:inline-block;-ms-interpolation-mode:bicubic;border=
+:none;outline:none;" /> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<img width=3D"1" height=3D"1" src=3D"https://twitter.com/scribe/ibis?t=3D1&=
+amp;cn=3DY21fdHdpdHRlcl9saXRlX3Yy&amp;iid=3Dbbafe0ab94ca4143af34437d145fe35=
+8&amp;uid=3D763687302631596033&amp;nid=3D244+20" style=3D"margin:0px;paddin=
+g:0px;display:inline-block;-ms-interpolation-mode:bicubic;border:none;outli=
+ne:none;" />
+</body>
+</html>
+
+------=_Part_767200_128798558.1492735065457--

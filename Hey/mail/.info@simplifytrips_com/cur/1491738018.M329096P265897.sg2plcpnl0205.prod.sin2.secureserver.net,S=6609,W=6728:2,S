@@ -1,0 +1,119 @@
+Return-Path: <amaresh@seasonsandvacations.com>
+Delivered-To: info@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id ySPVEaId6lipDgQAwZeyeg
+	for <info@simplifytrips.com>; Sun, 09 Apr 2017 04:40:18 -0700
+Return-path: <amaresh@seasonsandvacations.com>
+Envelope-to: info@simplifytrips.com
+Delivery-date: Sun, 09 Apr 2017 04:40:18 -0700
+Received: from mail-pu1apc01on0101.outbound.protection.outlook.com ([104.47.126.101]:9322 helo=APC01-PU1-obe.outbound.protection.outlook.com)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <amaresh@seasonsandvacations.com>)
+	id 1cxBCc-0017xv-3i
+	for info@simplifytrips.com; Sun, 09 Apr 2017 04:40:18 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=journey2india.onmicrosoft.com; s=selector1-seasonsandvacations-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=2pFSxs1aDhcXOF3QQfwJez/s5UnSeig2O8+yuwRC/v8=;
+ b=qlX/dRYteSN0c6xVHr7V9wY/dZLZKtc+p/FcWGoTcchQoC2CcMkTteljQTVHOg9yolsSe42KjjqxQrVWAhq54KlXC0KwDTbtNxsiCoqS8+R+IvypP1rJcW97lQaXkUyvca9VXA4D39ezMVDu0QSKXGEQZkaHrjrOEjzoRE6dI/E=
+Received: from SG2PR0601MB1312.apcprd06.prod.outlook.com (10.169.105.26) by
+ SG2PR0601MB1310.apcprd06.prod.outlook.com (10.169.105.24) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.1.1019.17; Sun, 9 Apr 2017 11:39:35 +0000
+Received: from SG2PR0601MB1312.apcprd06.prod.outlook.com ([10.169.105.26]) by
+ SG2PR0601MB1312.apcprd06.prod.outlook.com ([10.169.105.26]) with mapi id
+ 15.01.1019.024; Sun, 9 Apr 2017 11:39:35 +0000
+From: Amaresh Tiwari <amaresh@seasonsandvacations.com>
+To: "info@simplifytrips.com" <info@simplifytrips.com>
+Subject: Read: Destination Insights for Summer 2017
+Thread-Topic: Destination Insights for Summer 2017
+Thread-Index: AQHSreZvfzBPZIiG/0qS4MyWz7dQtQ==
+Date: Sun, 9 Apr 2017 11:39:35 +0000
+Message-ID: <f82e4532d2fc4c0e8a0f20c5772d9c03@seasonsandvacations.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: simplifytrips.com; dkim=none (message not signed)
+ header.d=none;simplifytrips.com; dmarc=none action=none
+ header.from=seasonsandvacations.com;
+x-microsoft-exchange-diagnostics: 1;SG2PR0601MB1310;7:Y4cpz+4I6Of9LJDDrhySOzKFlL9MgJx5C6Ky4qNbTLnvMQJbitCb9yuOF4CcRexb1imRLYktkhkphWdyzU4uH4BLa8BrKTvzFZpfrKgDeD0EsLU++NRvpd+G/r7yE8yBu6sKlTh3kcovZfiT1kYvrgzmikd5uy+cJzH7nuRhSbMLUHKzObxoja7ljICnuRXu7MhQNdpxzyTUroaxgN3zNxU54alet1IRNGTsO1CL4VSSW2ylvVo/UtbM9w7VXZ09kQvjQSfSQtLQs4ibl1CUP1Jaa9zDHNUvbsehSy9iej0gSysksUXx9D2Gq7teP+KnLbd7sk4EaeP/pHEZZfQevg==
+x-ms-office365-filtering-correlation-id: 3be5dfbb-7000-4b33-b193-08d47f3d192b
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(2017030254075)(201703131423075);SRVR:SG2PR0601MB1310;
+x-microsoft-antispam-prvs: <SG2PR0601MB131019D0D73F84580C8DB6B3B30E0@SG2PR0601MB1310.apcprd06.prod.outlook.com>
+x-exchange-antispam-report-test: UriScan:(148717330147763);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(6040450)(601004)(2401047)(8121501046)(5005006)(93006095)(93001095)(10201501046)(3002001)(6041248)(201703131423075)(201702281528075)(201703061421075)(20161123560025)(20161123562025)(2016111802025)(20161123555025)(20161123564025)(6072148)(6043046);SRVR:SG2PR0601MB1310;BCL:0;PCL:0;RULEID:;SRVR:SG2PR0601MB1310;
+x-forefront-prvs: 02723F29C4
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(6009001)(39400400002)(39410400002)(38353002)(6916009)(2501003)(8676002)(81166006)(1730700003)(2900100001)(6506006)(77096006)(24736003)(8936002)(73894003)(3280700002)(38730400002)(110136004)(2906002)(122556002)(25786009)(36756003)(102836003)(305945005)(6486002)(1250700005)(54356999)(86362001)(5640700003)(621065002)(3660700001)(53936002)(2351001)(6512007)(50986999)(4270600005)(33646002);DIR:OUT;SFP:1102;SCL:1;SRVR:SG2PR0601MB1310;H:SG2PR0601MB1312.apcprd06.prod.outlook.com;FPR:;SPF:None;MLV:sfv;LANG:en;
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/report;
+	boundary="_000_f82e4532d2fc4c0e8a0f20c5772d9c03seasonsandvacationscom_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: seasonsandvacations.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 09 Apr 2017 11:39:35.6390
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 9d4d1c48-c225-4250-800a-956a7e6b11ad
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SG2PR0601MB1310
+
+--_000_f82e4532d2fc4c0e8a0f20c5772d9c03seasonsandvacationscom_
+Content-Type: multipart/alternative;
+	boundary="_002_f82e4532d2fc4c0e8a0f20c5772d9c03seasonsandvacationscom_"
+
+--_002_f82e4532d2fc4c0e8a0f20c5772d9c03seasonsandvacationscom_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Amaresh Tiwari
+   Subject: Destination Insights for Summer 2017
+   Sent: Wednesday, April 5, 2017 1:56:01 PM (UTC+05:30) Chennai, Kolkata, =
+Mumbai, New Delhi
+
+ was read on Sunday, April 9, 2017 5:09:35 PM (UTC+05:30) Chennai, Kolkata,=
+ Mumbai, New Delhi.
+
+--_002_f82e4532d2fc4c0e8a0f20c5772d9c03seasonsandvacationscom_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:10pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Amaresh Tiwari<br>
+&nbsp;&nbsp; Subject: Destination Insights for Summer 2017<br>
+&nbsp;&nbsp; Sent: Wednesday, April 5, 2017 1:56:01 PM (UTC&#43;05:30) Chen=
+nai, Kolkata, Mumbai, New Delhi<br>
+<br>
+&nbsp;was read on Sunday, April 9, 2017 5:09:35 PM (UTC&#43;05:30) Chennai,=
+ Kolkata, Mumbai, New Delhi.</div>
+</span></font>
+</body>
+</html>
+
+--_002_f82e4532d2fc4c0e8a0f20c5772d9c03seasonsandvacationscom_--
+
+--_000_f82e4532d2fc4c0e8a0f20c5772d9c03seasonsandvacationscom_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; amaresh@seasonsandvacations.com
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: 8Gt8srIY5EaOokWVkqQcNg==
+Original-Message-ID: <4323cf659cbe994ad5b3fc6f6aeb4c6c@simplifytrips.com>
+X-Display-Name: Amaresh Tiwari
+
+
+--_000_f82e4532d2fc4c0e8a0f20c5772d9c03seasonsandvacationscom_--

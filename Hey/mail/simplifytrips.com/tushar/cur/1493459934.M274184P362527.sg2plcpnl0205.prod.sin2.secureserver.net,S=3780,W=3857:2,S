@@ -1,0 +1,77 @@
+Return-Path: <0100015bb9257017-d8fb90dc-dbd6-4ffa-bda2-716a910a5b7a-000000@amazonses.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id 0dw4EN5jBFkfiAUAwZeyeg
+	for <tushar@simplifytrips.com>; Sat, 29 Apr 2017 02:58:54 -0700
+Return-path: <0100015bb9257017-d8fb90dc-dbd6-4ffa-bda2-716a910a5b7a-000000@amazonses.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Sat, 29 Apr 2017 02:58:54 -0700
+Received: from a10-22.smtp-out.amazonses.com ([54.240.10.22]:39408)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1:ECDHE-RSA-AES128-SHA:128)
+	(Exim 4.88)
+	(envelope-from <0100015bb9257017-d8fb90dc-dbd6-4ffa-bda2-716a910a5b7a-000000@amazonses.com>)
+	id 1d4P9R-001WFL-UQ
+	for tushar@simplifytrips.com; Sat, 29 Apr 2017 02:58:54 -0700
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=sagm3s5v2bkj5ajhhso3p5qk6rxw6hya; d=internshala.com;
+	t=1493459890;
+	h=Date:From:Reply-To:To:Subject:Message-ID:Mime-Version:Content-Type;
+	bh=Jswv1kElA63hbcGFuD+BmRyaJTE5/8X8lTe8BvyZ6aI=;
+	b=OQj9/XHC5GFGgVdZI+0HfCbZMFcp5geYewX7Rz9efog0PMUUWkuPOlaqOltO7HbC
+	F3iVts93Kf4wQPPfO+wb8uKkfIZ47oClb9CAsyTAp7tU9P26yxAjImO4JdQEg0UJ3Gu
+	DIIQwk+oMvyM/ma3wyk9z0ibajMfR3CZ+uKOhukE=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=224i4yxa5dv7c2xz3womw6peuasteono; d=amazonses.com; t=1493459890;
+	h=Date:From:Reply-To:To:Subject:Message-ID:Mime-Version:Content-Type:Feedback-ID;
+	bh=Jswv1kElA63hbcGFuD+BmRyaJTE5/8X8lTe8BvyZ6aI=;
+	b=a4FU7EhmgllgmH/cFmlzKz/yUXyBKHcTCWWnSEf3Ewq3JqbmJiBOMXHVeLHoKfb6
+	VoC4vae157lbOZ3QgS0oCpbf+CX/5Y/+jXSxwXntZ8AHMEcn+7w582yfjY5EQkIIP8q
+	PL793JCbnxKUcCr1Xp/vGx5GA/cNPphr8yKIt+LY=
+User-Agent: internshala.com
+Date: Sat, 29 Apr 2017 09:58:10 +0000
+From: "Ushasi Dev" <ushasi@internshala.com>
+Reply-To: "Ushasi Dev" <ushasi@internshala.com>
+To: tushar@simplifytrips.com
+Subject: =?UTF-8?Q?Your=20Social=20Media=20Ma?==?UTF-8?Q?rketing=20?= =?UTF-8?Q?internship=20on=20Interns?==?UTF-8?Q?hala=20has?= =?UTF-8?Q?=20been=20declined.?=
+X-Sender: ushasi@internshala.com
+X-Mailer: internshala.com
+X-Priority: 3 (Normal)
+Message-ID: <0100015bb9257017-d8fb90dc-dbd6-4ffa-bda2-716a910a5b7a-000000@email.amazonses.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_590463af5eb6c"
+X-SES-Outgoing: 2017.04.29-54.240.10.22
+Feedback-ID: 1.us-east-1.zxtucPVubGftJWR49L2EMyyk1hBPV57S2rBAeFj2vQs=:AmazonSES
+
+This is a multi-part message in MIME format.
+Your email application may not support this format.
+
+--B_ALT_590463af5eb6c
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Dear Tushar,Hope you're doing well. Your internship post on Internshala has
+been declined for following reasons -
+
+ It is an unpaid internship, and I am afraid we only support paid
+internships.
+
+ Please feel free to get in touch if there are any questions.
+ Many thanks,
+ Ushasi Dev Manager- Employer Relations+91 9953998225Internshala
+
+
+--B_ALT_590463af5eb6c
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Tushar,<br><br>Hope you're doing well. <br><br>Your <span id=3D"intern=
+ship-profile"></span> internship post on Internshala has been declined for =
+following reasons -<ul>=0A        <div id=3D"template_rejected_reasons">=0A=
+    <li>It is an unpaid internship, and I am afraid we only support paid in=
+ternships.</li>=0A</div>=0A    </ul>Please feel free to get in touch if the=
+re are any questions.<br/><br/>=0A                        Many thanks,     =
+                       =0A                        <br/>Ushasi Dev<br/> Mana=
+ger- Employer Relations<br/>+91 9953998225<br/><a href=3D'https://internsha=
+la.com'>Internshala<a>
+
+--B_ALT_590463af5eb6c--

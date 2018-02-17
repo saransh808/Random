@@ -1,0 +1,620 @@
+Return-Path: <b0306adf01asocial=simplifytrips.com@bounce.twitter.com>
+Delivered-To: social@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id oXcwA2IGIFm42wgAwZeyeg
+	for <social@simplifytrips.com>; Sat, 20 May 2017 02:03:30 -0700
+Return-path: <b0306adf01asocial=simplifytrips.com@bounce.twitter.com>
+Envelope-to: social@simplifytrips.com
+Delivery-date: Sat, 20 May 2017 02:03:30 -0700
+Received: from spruce-goose-ab.twitter.com ([199.59.150.71]:32471)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.88)
+	(envelope-from <b0306adf01asocial=simplifytrips.com@bounce.twitter.com>)
+	id 1dC0IL-002R1a-Jh
+	for social@simplifytrips.com; Sat, 20 May 2017 02:03:29 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=twitter.com;
+	s=dkim-201406; t=1495270964;
+	bh=OarVcrptHyD9uh9SQkch2TA8DqTGKvBQwk7zvPGcxdU=;
+	h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:
+	 Message-ID;
+	b=En5xxVh7m+jjFfw0ZBYCy8vxbO6TB6naaXaxKTTvaZhzgzpmVJMFkQWQwKMZZn7xF
+	 AFvoBs0VGyQwnLD6/Nfky6a8kEIvw0F5u1dBVVTeaUd2KxZzyTCWb94XUiSQm5RTfM
+	 8Mmgg1g28tlUjTAKUNRV8B0IHxPBi/8f9EqXIUV4qM2lVyD5iFj1TFZHUA3ka5Hjik
+	 +ivIk9aF4x1ixsuAsIUbXmOFtBOawsMIUxz3sBAl4fmxZm9GBpdmJjErP8oxEoRld3
+	 wYmfC1WuLfAVnv/RAEoDcF9aVZRXtZWco8eTSq11hV5DS/+Evb6SHWJOm6338AJaHs
+	 cX6WwWhWiUePA==
+X-MSFBL: 9yZ8vDr3A37GhT8u+WlUR+jIr2uzt/HlrwQe7f5VVNQ=|eyJnIjoiQnVsayIsImI
+	iOiJzbWYxLWJmZy0zOC1zcjEtQnVsay4xNjEiLCJyIjoic29jaWFsQHNpbXBsaWZ
+	5dHJpcHMuY29tIiwidSI6InNvY2lhbEBzaW1wbGlmeXRyaXBzLmNvbUBpaWQjI2F
+	lYzZmYjA1MzVjYTQ5MTA5N2JlNDQ3MzZmZmExNTM3QHVzYiMjMkAyNDRANzYzNjg
+	3MzAyNjMxNTk2MDMzQDBAMjM5ZDk1NDgzZTQ0NDUxZWRlY2I2ZGM0ZGVlNmJmNDR
+	iNDFmN2MxNyJ9
+Date: Sat, 20 May 2017 09:02:43 +0000
+From: Twitter <info@twitter.com>
+To: Simplifytrips <social@simplifytrips.com>
+Subject: Important updates to our Privacy Policy
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_8405060_244638233.1495270963437"
+List-Unsubscribe: <https://twitter.com/i/u?t=1&listunsub=t&cn=bGVnYWxfc2VwXzIwMTY%3D&sig=fb6466fa3947e4c30e8555175eb750610cb2a7da&iid=aec6fb0535ca491097be44736ffa1537&uid=763687302631596033&nid=244+26&usbid=2>
+Feedback-ID: 0040162518f58f41d1f0:1f401d222bd99956d7caac7cee30:IN:twitterESP
+Precedence: Bulk
+Message-ID: <2E.D1.25128.33600295@twitter.com>
+
+------=_Part_8405060_244638233.1495270963437
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Twitter=20
+> https://twitter.com
+
+=3D
+
+Update to our Privacy Policy
+
+=3D
+
+We=E2=80=99re updating our <a href=3D"https://twitter.com/i/redirect?url=3D=
+https%3A%2F%2Ftwitter.com%2Fprivacy&t=3D1&cn=3DbGVnYWxfc2VwXzIwMTY%3D&sig=
+=3D81a5764bd514e07c3ac4a74c022b6faeed466fde&iid=3Daec6fb0535ca491097be44736=
+ffa1537&uid=3D763687302631596033&nid=3D244+1553" class=3D"blue">Privacy Pol=
+icy</a> to reflect improvements we=E2=80=99ve made to Twitter. We encourage=
+ you to read the updated policy in full =E2=80=94 by using our services on =
+or after June 18, 2017, you=E2=80=99ll be agreeing to these revisions. Here=
+ are some of the important updates:
+
+<strong>Transparency and control:</strong> We=E2=80=99ve launched new <a hr=
+ef=3D"https://twitter.com/i/redirect?url=3Dhttps%3A%2F%2Ftwitter.com%2Fpers=
+onalization&t=3D1&cn=3DbGVnYWxfc2VwXzIwMTY%3D&sig=3Dd1dd63e90b1522f4c687919=
+78a3bd13aa683f944&iid=3Daec6fb0535ca491097be44736ffa1537&uid=3D763687302631=
+596033&nid=3D244+1554" class=3D"blue">Personalization and Data settings</a>=
+ and expanded <a href=3D"https://twitter.com/i/redirect?url=3Dhttps%3A%2F%2=
+Ftwitter.com%2Fyour_twitter_data&t=3D1&cn=3DbGVnYWxfc2VwXzIwMTY%3D&sig=3D08=
+867833297ded8dfff8d5f6ed896f7fd13b4595&iid=3Daec6fb0535ca491097be44736ffa15=
+37&uid=3D763687302631596033&nid=3D244+1555" class=3D"blue">Your Twitter Dat=
+a</a> to give you more transparent access to your information and more gran=
+ular controls over how your data is used by Twitter. These enhanced setting=
+s will replace Twitter=E2=80=99s reliance on the Do Not Track browser setti=
+ng, which we will no longer support.
+
+<strong>Web data:</strong> We=E2=80=99ve updated how we store and use data =
+from other websites that integrate Twitter content like embedded timelines,=
+ to improve our services and personalize the content we show you including =
+ads. We do not store web page visit data for users who are in the European =
+Union and EFTA States.
+
+<strong>Data sharing:</strong> We=E2=80=99ve updated how we share non-perso=
+nal, aggregated, and device-level data, including under select partnership =
+agreements that allow the data to be linked to your name, email, or other p=
+ersonal information if you give the partner your consent. You can control w=
+hether your data is shared under these partnership agreements in your <a hr=
+ef=3D"https://twitter.com/i/redirect?url=3Dhttps%3A%2F%2Ftwitter.com%2Fpers=
+onalization&t=3D1&cn=3DbGVnYWxfc2VwXzIwMTY%3D&sig=3D3e65c9fb01d4ddf58654c8a=
+b216888befe8a615b&iid=3Daec6fb0535ca491097be44736ffa1537&uid=3D763687302631=
+596033&nid=3D244+1556" class=3D"blue">Personalization and Data settings</a>=
+.
+
+<strong>Personalization across your devices:</strong> We=E2=80=99ve explain=
+ed how we use data to personalize across your devices, and given you additi=
+onal control in your <a href=3D"https://twitter.com/i/redirect?url=3Dhttps%=
+3A%2F%2Ftwitter.com%2Fpersonalization&t=3D1&cn=3DbGVnYWxfc2VwXzIwMTY%3D&sig=
+=3D2caf0e8f59f2e3949702663cce976d6bca8b53b1&iid=3Daec6fb0535ca491097be44736=
+ffa1537&uid=3D763687302631596033&nid=3D244+1557" class=3D"blue">Personaliza=
+tion and Data settings</a> for devices that you haven=E2=80=99t used to log=
+ into Twitter.
+
+<strong>Privacy Shield and the Digital Advertising Alliance:</strong> We=E2=
+=80=99re excited to announce that we will be participating in the Swiss-US =
+Privacy Shield program and adhering to the Digital Advertising Alliance Sel=
+f-Regulatory Principles for Online Behavioral Advertising.
+
+We hope you see value in these changes as we continue to improve your Twitt=
+er experience in a way that dovetails with our heartbeat as a company =E2=
+=80=94 a commitment to protecting and defending your privacy. If you have a=
+ny questions, feel free to write to us <a href=3D"https://twitter.com/i/red=
+irect?url=3Dhttps%3A%2F%2Fsupport.twitter.com%2Fforms%2Fprivacy&t=3D1&cn=3D=
+bGVnYWxfc2VwXzIwMTY%3D&sig=3D0c383b838b596344ee8f5a934be45b203fed0c4f&iid=
+=3Daec6fb0535ca491097be44736ffa1537&uid=3D763687302631596033&nid=3D244+1553=
+" class=3D"blue">here</a>. Thank you for using Twitter!=20
+
+-Twitter=20
+
+=3D
+
+Help=20
+> https://support.twitter.com/
+
+Twitter International Company
+One Cumberland Place, Fenian Street
+Dublin 2, D02 AX07  IRELAND
+------=_Part_8405060_244638233.1495270963437
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/
+html; charset=3Dutf-8" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, minimum-scale=3D1.=
+0, maximum-scale=3D1.0, user-scalable=3D0" />
+<meta name=3D"apple-mobile-web-app-capable" content=3D"yes" />
+<!--[if gte mso 9]><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml><![endif]-->
+<!--[if IE]>
+<style type=3D"text/css" inline=3D"false">
+/* Outlook 2000 - 2003 Canopy Image Fix */
+.canopy img {
+height: 154px !important;
+}
+</style>
+<![endif]-->
+<style type=3D"text/css">
+/* Windows 10 Mail Fix */
+a { text-decoration: none; }
+/* a:visited { color: #8899A6; text-decoration:none; } */
+.addressLink a { color: #8899A6 !important; text-decoration: none !importan=
+t; }
+/* Windows 10 Mail Fix End */
+
+@media only screen and (max-width: 500px) {
+.width_full {
+width: 100% !important;
+}
+.width_20 {
+width: 20px !important;
+}
+.width_24 {
+width: 24px !important;
+}
+#hide {
+display: none !important;
+}
+
+.hide {
+display: none !important;
+}
+
+.width_full {
+width: 100% !important;
+min-width: 360px !important;
+height: auto !important;
+}
+
+.height_30 {
+height: 30px !important;
+}
+
+.dots {
+max-width: 100px !important;
+}
+
+}
+</style>
+</head>
+<body style=3D"margin:0px auto;padding:0px;-webkit-text-size-adjust:100%;-m=
+s-text-size-adjust:100%;">
+<style>
+.ios_blue a {
+color: #1DA1F2 !important;
+text-decoration: none;
+}
+</style>
+<div class=3D"preheader" style=3D"display:none;font-size:1px;color:#333333;=
+line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+Read the updated policy in full
+</div>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" bgco=
+lor=3D"#f5f8fa" class=3D"wrapper" style=3D"padding:0px;line-height:1px;font=
+-size:1px;margin:0px auto;min-width:400px;">
+<tbody>
+<tr>
+<td class=3D"empty" width=3D"100%" align=3D"center" style=3D"padding:0px;ma=
+rgin:0px auto;line-height:1px;font-size:1px;font-size:0px;line-height:1px;p=
+adding:0px;">
+<!-- BODY START -->
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" bg=
+color=3D"#F5F8FA" width=3D"100%" class=3D"width_full" dir=3D"ltr" style=3D"=
+padding:0px;line-height:1px;font-size:1px;margin:0px auto;">
+<tbody>
+<tr>
+<td class=3D"empty center" style=3D"padding:0px;margin:0px auto;line-height=
+:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;text-align:cen=
+ter;margin:auto;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" bg=
+color=3D"#ffffff" width=3D"450" class=3D"width_full center" style=3D"paddin=
+g:0px;line-height:1px;font-size:1px;margin:0px auto;text-align:center;margi=
+n:auto;">
+<tbody>
+<tr>
+<td class=3D"empty width_20" width=3D"24" style=3D"padding:0px;margin:0px a=
+uto;line-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px=
+;"> &nbsp; </td>
+<td class=3D"empty" style=3D"padding:0px;margin:0px auto;line-height:1px;fo=
+nt-size:1px;font-size:0px;line-height:1px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" di=
+r=3D"ltr" style=3D"padding:0px;line-height:1px;font-size:1px;margin:0px aut=
+o;">
+<tbody>
+<tr>
+<td class=3D"empty" height=3D"24" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbs=
+p; </td>
+</tr>
+<tr>
+<td class=3D"image empty center" align=3D"center" style=3D"padding:0px;marg=
+in:0px auto;line-height:1px;font-size:1px;font-size:0px;line-height:1px;pad=
+ding:0px;font-size:0px;line-height:100%;padding:0px;mso-line-height-rule:ex=
+actly;text-align:center;margin:auto;"> <a href=3D"https://twitter.com/i/red=
+irect?url=3Dhttps%3A%2F%2Ftwitter.com&amp;t=3D1&amp;cn=3DbGVnYWxfc2VwXzIwMT=
+Y%3D&amp;sig=3D3adbe0e4abbc3919f692def4f1e6b45d9ce1aaf6&amp;iid=3Daec6fb053=
+5ca491097be44736ffa1537&amp;uid=3D763687302631596033&amp;nid=3D244+1553
+" style=3D"text-decoration:none;border-style:none;border:0px;padding:0px;ma=
+rgin:0px;color:#1DA1F2;"> <img src=3D"https://ea.twimg.com/email/self_serve=
+/media/icon_twitter_blue.png" width=3D"32" alt=3D"Twitter" title=3D"Twitter=
+" style=3D"margin:0px;padding:0px;display:inline-block;-ms-interpolation-mo=
+de:bicubic;border:none;outline:none;" /> </a> </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"24" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbs=
+p; </td>
+</tr>
+</tbody>
+</table> </td>
+<td class=3D"empty width_20" width=3D"24" style=3D"padding:0px;margin:0px a=
+uto;line-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px=
+;"> &nbsp; </td>
+</tr>
+</tbody>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" cl=
+ass=3D"center" style=3D"padding:0px;line-height:1px;font-size:1px;margin:0p=
+x auto;text-align:center;margin:auto;">
+<tbody>
+<tr>
+<td class=3D"empty" height=3D"1" bgcolor=3D"#E1E8ED" style=3D"padding:0px;m=
+argin:0px auto;line-height:1px;font-size:1px;font-size:0px;line-height:1px;=
+padding:0px;"> </td>
+</tr>
+</tbody>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" wi=
+dth=3D"450" class=3D"width_full center" bgcolor=3D"#ffffff" style=3D"paddin=
+g:0px;line-height:1px;font-size:1px;margin:0px auto;text-align:center;margi=
+n:auto;">
+<tbody>
+<tr>
+<td class=3D"empty width_20" width=3D"24" style=3D"padding:0px;margin:0px a=
+uto;line-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px=
+;"> &nbsp; </td>
+<td class=3D"empty" style=3D"padding:0px;margin:0px auto;line-height:1px;fo=
+nt-size:1px;font-size:0px;line-height:1px;padding:0px;">
+<table align=3D"center" dir=3D"ltr" style=3D"padding:0px;line-height:1px;fo=
+nt-size:1px;margin:0px auto;">
+<tbody>
+<tr>
+<td class=3D"empty" height=3D"24" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbs=
+p; </td>
+</tr>
+<tr>
+<td class=3D"h2 black" align=3D"left" dir=3D"ltr" style=3D"padding:0px;marg=
+in:0px auto;line-height:1px;font-size:1px;font-family:'Helvetica Neue', Hel=
+vetica, Arial, sans-serif;-webkit-font-smoothing:antialiased;-webkit-text-s=
+ize-adjust:none;font-size:24px;padding:0px;margin:0px;font-weight:bold;line=
+-height:32px;"> Update to our Privacy Policy </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"24" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbs=
+p; </td>
+</tr>
+<tr>
+<td class=3D"body black" align=3D"left" dir=3D"ltr" style=3D"padding:0px;ma=
+rgin:0px auto;line-height:1px;font-size:1px;font-family:'Helvetica Neue Lig=
+ht', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antialiased;-webki=
+t-text-size-adjust:none;font-size:16px;padding:0px;margin:0px;font-weight:n=
+ormal;line-height:20px;"> We=E2=80=99re updating our <a href=3D"https://twi=
+tter.com/i/redirect?url=3Dhttps%3A%2F%2Ftwitter.com%2Fprivacy&amp;t=3D1&amp=
+;cn=3DbGVnYWxfc2VwXzIwMTY%3D&amp;sig=3D81a5764bd514e07c3ac4a74c022b6faeed46=
+6fde&amp;iid=3Daec6fb0535ca491097be44736ffa1537&amp;uid=3D76368730263159603=
+3&amp;nid=3D244+1553" class=3D"blue" style=3D"text-decoration:none;border-s=
+tyle:none;border:0px;padding:0px;margin:0px;color:#1DA1F2;color:#1DA1F2;">P=
+rivacy Policy</a> to reflect improvements we=E2=80=99ve made to Twitter. We=
+ encourage you to read the updated policy in full =E2=80=94 by using our se=
+rvices on or after June 18, 2017, you=E2=80=99ll be agreeing to these revis=
+ions. Here are some of the important updates: </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"24" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbs=
+p; </td>
+</tr>
+<tr>
+<td class=3D"body black" align=3D"left" dir=3D"ltr" style=3D"padding:0px;ma=
+rgin:0px auto;line-height:1px;font-size:1px;font-family:'Helvetica Neue Lig=
+ht', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antialiased;-webki=
+t-text-size-adjust:none;font-size:16px;padding:0px;margin:0px;font-weight:n=
+ormal;line-height:20px;"> <strong>Transparency and control:</strong> We=E2=
+=80=99ve launched new <a href=3D"https://twitter.com/i/redirect?url=3Dhttps=
+%3A%2F%2Ftwitter.com%2Fpersonalization&amp;t=3D1&amp;cn=3DbGVnYWxfc2VwXzIwM=
+TY%3D&amp;sig=3Dd1dd63e90b1522f4c68791978a3bd13aa683f944&amp;iid=3Daec6fb05=
+35ca491097be44736ffa1537&amp;uid=3D763687302631596033&amp;nid=3D244+1554" c=
+lass=3D"blue" style=3D"text-decoration:none;border-style:none;border:0px;pa=
+dding:0px;margin:0px;color:#1DA1F2;color:#1DA1F2;">Personalization and Data=
+ settings</a> and expanded <a href=3D"https://twitter.com/i/redirect?url=3D=
+https%3A%2F%2Ftwitter.com%2Fyour_twitter_data&amp;t=3D1&amp;cn=3DbGVnYWxfc2=
+VwXzIwMTY%3D&amp;sig=3D08867833297ded8dfff8d5f6ed896f7fd13b4595&amp;iid=3Da=
+ec6fb0535ca491097be44736ffa1537&amp;uid=3D763687302631596033&amp;nid=3D244+=
+1555" class=3D"blue" style=3D"text-decoration:none;border-style:none;border=
+:0px;padding:0px;margin:0px;color:#1DA1F2;color:#1DA1F2;">Your Twitter Data=
+</a> to give you more transparent access to your information and more granu=
+lar controls over how your data is used by Twitter. These enhanced settings=
+ will replace Twitter=E2=80=99s reliance on the Do Not Track browser settin=
+g, which we will no longer support. </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"24" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbs=
+p; </td>
+</tr>
+<tr>
+<td class=3D"body black" align=3D"left" dir=3D"ltr" style=3D"padding:0px;ma=
+rgin:0px auto;line-height:1px;font-size:1px;font-family:'Helvetica Neue Lig=
+ht', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antialiased;-webki=
+t-text-size-adjust:none;font-size:16px;padding:0px;margin:0px;font-weight:n=
+ormal;line-height:20px;"> <strong>Web data:</strong> We=E2=80=99ve updated =
+how we store and use data from other websites that integrate Twitter conten=
+t like embedded timelines, to improve our services and personalize the cont=
+ent we show you including ads. We do not store web page visit data for user=
+s who are in the European Union and EFTA States. </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"24" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbs=
+p; </td>
+</tr>
+<tr>
+<td class=3D"body black" align=3D"left" dir=3D"ltr" style=3D"padding:0px;ma=
+rgin:0px auto;line-height:1px;font-size:1px;font-family:'Helvetica Neue Lig=
+ht', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antialiased;-webki=
+t-text-size-adjust:none;font-size:16px;padding:0px;margin:0px;font-weight:n=
+ormal;line-height:20px;"> <strong>Data sharing:</strong> We=E2=80=99ve upda=
+ted how we share non-personal, aggregated, and device-level data, including=
+ under select partnership agreements that allow the data to be linked to yo=
+ur name, email, or other personal information if you give the partner your =
+consent. You can control whether your data is shared under these partnershi=
+p agreements in your <a href=3D"https://twitter.com/i/redirect?url=3Dhttps%=
+3A%2F%2Ftwitter.com%2Fpersonalization&amp;t=3D1&amp;cn=3DbGVnYWxfc2VwXzIwMT=
+Y%3D&amp;sig=3D3e65c9fb01d4ddf58654c8ab216888befe8a615b&amp;iid=3Daec6fb053=
+5ca491097be44736ffa1537&amp;uid=3D763687302631596033&amp;nid=3D244+1556" cl=
+ass=3D"blue" style=3D"text-decoration:none;border-style:none;border:0px;pad=
+ding:0px;margin:0px;color:#1DA1F2;color:#1DA1F2;">Personalization and Data =
+settings</a>. </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"24" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbs=
+p; </td>
+</tr>
+<tr>
+<td class=3D"body black" align=3D"left" dir=3D"ltr" style=3D"padding:0px;ma=
+rgin:0px auto;line-height:1px;font-size:1px;font-family:'Helvetica Neue Lig=
+ht', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antialiased;-webki=
+t-text-size-adjust:none;font-size:16px;padding:0px;margin:0px;font-weight:n=
+ormal;line-height:20px;"> <strong>Personalization across your devices:</str=
+ong> We=E2=80=99ve explained how we use data to personalize across your dev=
+ices, and given you additional control in your <a href=3D"https://twitter.c=
+om/i/redirect?url=3Dhttps%3A%2F%2Ftwitter.com%2Fpersonalization&amp;t=3D1&a=
+mp;cn=3DbGVnYWxfc2VwXzIwMTY%3D&amp;sig=3D2caf0e8f59f2e3949702663cce976d6bca=
+8b53b1&amp;iid=3Daec6fb0535ca491097be44736ffa1537&amp;uid=3D763687302631596=
+033&amp;nid=3D244+1557" class=3D"blue" style=3D"text-decoration:none;border=
+-style:none;border:0px;padding:0px;margin:0px;color:#1DA1F2;color:#1DA1F2;"=
+>Personalization and Data settings</a> for devices that you haven=E2=80=99t=
+ used to log into Twitter. </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"24" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbs=
+p; </td>
+</tr>
+<tr>
+<td class=3D"body black" align=3D"left" dir=3D"ltr" style=3D"padding:0px;ma=
+rgin:0px auto;line-height:1px;font-size:1px;font-family:'Helvetica Neue Lig=
+ht', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antialiased;-webki=
+t-text-size-adjust:none;font-size:16px;padding:0px;margin:0px;font-weight:n=
+ormal;line-height:20px;"> <strong>Privacy Shield and the Digital Advertisin=
+g Alliance:</strong> We=E2=80=99re excited to announce that we will be part=
+icipating in the Swiss-US Privacy Shield program and adhering to the Digita=
+l Advertising Alliance Self-Regulatory Principles for Online Behavioral Adv=
+ertising. </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"24" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbs=
+p; </td>
+</tr>
+<tr>
+<td class=3D"body black" align=3D"left" dir=3D"ltr" style=3D"padding:0px;ma=
+rgin:0px auto;line-height:1px;font-size:1px;font-family:'Helvetica Neue Lig=
+ht', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antialiased;-webki=
+t-text-size-adjust:none;font-size:16px;padding:0px;margin:0px;font-weight:n=
+ormal;line-height:20px;"> We hope you see value in these changes as we cont=
+inue to improve your Twitter experience in a way that dovetails with our he=
+artbeat as a company =E2=80=94 a commitment to protecting and defending you=
+r privacy. If you have any questions, feel free to write to us <a href=3D"h=
+ttps://twitter.com/i/redirect?url=3Dhttps%3A%2F%2Fsupport.twitter.com%2Ffor=
+ms%2Fprivacy&amp;t=3D1&amp;cn=3DbGVnYWxfc2VwXzIwMTY%3D&amp;sig=3D0c383b838b=
+596344ee8f5a934be45b203fed0c4f&amp;iid=3Daec6fb0535ca491097be44736ffa1537&a=
+mp;uid=3D763687302631596033&amp;nid=3D244+1553" class=3D"blue" style=3D"tex=
+t-decoration:none;border-style:none;border:0px;padding:0px;margin:0px;color=
+:#1DA1F2;color:#1DA1F2;">here</a>. Thank you for using Twitter! </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"24" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbs=
+p; </td>
+</tr>
+<tr>
+<td class=3D"body black" align=3D"left" dir=3D"ltr" style=3D"padding:0px;ma=
+rgin:0px auto;line-height:1px;font-size:1px;font-family:'Helvetica Neue Lig=
+ht', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antialiased;-webki=
+t-text-size-adjust:none;font-size:16px;padding:0px;margin:0px;font-weight:n=
+ormal;line-height:20px;"> -Twitter </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"24" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbs=
+p; </td>
+</tr>
+</tbody>
+</table> </td>
+<td class=3D"empty width_20" width=3D"24" style=3D"padding:0px;margin:0px a=
+uto;line-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px=
+;"> &nbsp; </td>
+</tr>
+</tbody>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" <t=
+r=3D"" style=3D"padding:0px;line-height:1px;font-size:1px;margin:0px auto;"=
+>
+<tbody>
+<tr>
+<td class=3D"empty" height=3D"1" bgcolor=3D"#E1E8ED" style=3D"padding:0px;m=
+argin:0px auto;line-height:1px;font-size:1px;font-size:0px;line-height:1px;=
+padding:0px;">&gt; </td>
+</tr>
+</tbody>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" wi=
+dth=3D"450" class=3D"width_full center" bgcolor=3D"#ffffff" style=3D"paddin=
+g:0px;line-height:1px;font-size:1px;margin:0px auto;text-align:center;margi=
+n:auto;">
+<tbody>
+<tr>
+<td class=3D"empty width_20" width=3D"24" style=3D"padding:0px;margin:0px a=
+uto;line-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px=
+;"> &nbsp; </td>
+<td class=3D"empty" style=3D"padding:0px;margin:0px auto;line-height:1px;fo=
+nt-size:1px;font-size:0px;line-height:1px;padding:0px;">
+<table align=3D"center" dir=3D"ltr" style=3D"padding:0px;line-height:1px;fo=
+nt-size:1px;margin:0px auto;">
+<tbody>
+<tr>
+<td class=3D"empty" height=3D"72" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbs=
+p; </td>
+</tr>
+<tr>
+<td class=3D"footer strong deep_grey" align=3D"center" style=3D"padding:0px=
+;margin:0px auto;line-height:1px;font-size:1px;color:#8899A6;font-family:'H=
+elvetica Neue Light', Helvetica, Arial, sans-serif;-webkit-font-smoothing:a=
+ntialiased;-webkit-text-size-adjust:none;font-size:12px;padding:0px;margin:=
+0px;font-weight:normal;line-height:16px;font-weight:bold;"> <a href=3D"http=
+s://support.twitter.com/" class=3D"color" style=3D"text-decoration:none;bor=
+der-style:none;border:0px;padding:0px;margin:0px;color:#1DA1F2;color:#1DA1F=
+2;"> Help </a> </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"6" style=3D"padding:0px;margin:0px auto;line-=
+height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbsp=
+; </td>
+</tr>
+<tr>
+<td class=3D"footer deep_grey center" align=3D"center" style=3D"padding:0px=
+;margin:0px auto;line-height:1px;font-size:1px;color:#8899A6;font-family:'H=
+elvetica Neue Light', Helvetica, Arial, sans-serif;-webkit-font-smoothing:a=
+ntialiased;-webkit-text-size-adjust:none;font-size:12px;padding:0px;margin:=
+0px;font-weight:normal;line-height:16px;text-align:center;margin:auto;"> <s=
+pan class=3D"addressLink"> Twitter =EF=BB=BFInternational =EF=BB=BFCompany<=
+br />One&nbsp;Cumberland&nbsp;Place,&nbsp;Fenian&nbsp;Street<br />Dublin&nb=
+sp;2,&nbsp;D02&nbsp;AX07&nbsp;&nbsp;IRELAND
+<!--https://twitter.com/scribe/ibis?t=3D1&amp;cn=3DbGVnYWxfc2VwXzIwMTY%3D&a=
+mp;iid=3Daec6fb0535ca491097be44736ffa1537&amp;uid=3D763687302631596033&amp;=
+nid=3D244+20--></span> </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"72" style=3D"padding:0px;margin:0px auto;line=
+-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;"> &nbs=
+p; </td>
+</tr>
+</tbody>
+</table> </td>
+<td class=3D"empty width_20" width=3D"24" style=3D"padding:0px;margin:0px a=
+uto;line-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px=
+;"> &nbsp; </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr class=3D"hide">
+<td class=3D"empty hide" height=3D"32" style=3D"padding:0px;margin:0px auto=
+;line-height:1px;font-size:1px;font-size:0px;line-height:1px;padding:0px;">=
+ &nbsp; </td>
+</tr>
+</tbody>
+</table>
+<!-- BODY END --> </td>
+</tr>
+<tr>
+<td class=3D"fix_gmail_ios" id=3D"hide" align=3D"center" style=3D"padding:0=
+px;margin:0px auto;line-height:1px;font-size:1px;color:#f5f8fa;font-family:=
+Arial, sans-serif;font-size:14px;"> =E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=
+=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=
+=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=
+=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94 </td>
+</tr>
+<tr>
+<td class=3D"fix_gmail_android" id=3D"hide" align=3D"center" style=3D"paddi=
+ng:0px;margin:0px auto;line-height:1px;font-size:1px;">
+<table align=3D"center" style=3D"padding:0px;line-height:1px;font-size:1px;=
+margin:0px auto;">
+<tbody>
+<tr>
+<td width=3D"135" height=3D"1" style=3D"padding:0px;margin:0px auto;line-he=
+ight:1px;font-size:1px;"> <img src=3D"https://ea.twimg.com/email/self_serve=
+/media/spacer-1476918453497.png" height=3D"1" width=3D"130" style=3D"margin=
+:0px;padding:0px;display:inline-block;-ms-interpolation-mode:bicubic;border=
+:none;outline:none;" /> </td>
+<td width=3D"135" height=3D"1" style=3D"padding:0px;margin:0px auto;line-he=
+ight:1px;font-size:1px;"> <img src=3D"https://ea.twimg.com/email/self_serve=
+/media/spacer-1476918453497.png" height=3D"1" width=3D"130" style=3D"margin=
+:0px;padding:0px;display:inline-block;-ms-interpolation-mode:bicubic;border=
+:none;outline:none;" /> </td>
+<td width=3D"135" height=3D"1" style=3D"padding:0px;margin:0px auto;line-he=
+ight:1px;font-size:1px;"> <img src=3D"https://ea.twimg.com/email/self_serve=
+/media/spacer-1476918453497.png" height=3D"1" width=3D"130" style=3D"margin=
+:0px;padding:0px;display:inline-block;-ms-interpolation-mode:bicubic;border=
+:none;outline:none;" /> </td>
+<td width=3D"135" height=3D"1" style=3D"padding:0px;margin:0px auto;line-he=
+ight:1px;font-size:1px;"> <img src=3D"https://ea.twimg.com/email/self_serve=
+/media/spacer-1476918453497.png" height=3D"1" width=3D"130" style=3D"margin=
+:0px;padding:0px;display:inline-block;-ms-interpolation-mode:bicubic;border=
+:none;outline:none;" /> </td>
+<td width=3D"135" height=3D"1" style=3D"padding:0px;margin:0px auto;line-he=
+ight:1px;font-size:1px;"> <img src=3D"https://ea.twimg.com/email/self_serve=
+/media/spacer-1476918453497.png" height=3D"1" width=3D"130" style=3D"margin=
+:0px;padding:0px;display:inline-block;-ms-interpolation-mode:bicubic;border=
+:none;outline:none;" /> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<img width=3D"1" height=3D"1" src=3D"https://twitter.com/scribe/ibis?t=3D1&=
+amp;cn=3DbGVnYWxfc2VwXzIwMTY%3D&amp;iid=3Daec6fb0535ca491097be44736ffa1537&=
+amp;uid=3D763687302631596033&amp;nid=3D244+20" style=3D"margin:0px;padding:=
+0px;display:inline-block;-ms-interpolation-mode:bicubic;border:none;outline=
+:none;" />
+</body>
+</html>
+
+------=_Part_8405060_244638233.1495270963437--

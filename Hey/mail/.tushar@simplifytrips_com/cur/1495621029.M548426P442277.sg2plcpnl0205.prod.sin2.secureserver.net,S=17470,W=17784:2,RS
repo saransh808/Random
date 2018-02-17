@@ -1,0 +1,314 @@
+Return-Path: <info@rareholidays.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id GaSbIKVdJVmlvwYAwZeyeg
+	for <tushar@simplifytrips.com>; Wed, 24 May 2017 03:17:09 -0700
+Return-path: <info@rareholidays.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Wed, 24 May 2017 03:17:09 -0700
+Received: from mail-it0-f42.google.com ([209.85.214.42]:37932)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.88)
+	(envelope-from <info@rareholidays.com>)
+	id 1dDTLp-001wuO-Di
+	for tushar@simplifytrips.com; Wed, 24 May 2017 03:17:09 -0700
+Received: by mail-it0-f42.google.com with SMTP id r63so36006914itc.1
+        for <tushar@simplifytrips.com>; Wed, 24 May 2017 03:16:49 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=rareholidays-com.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=8WV1nhpnX/RA5X1JlsV9JIhWuc3D2VEKtLGC/Mx6iHU=;
+        b=RQF799KizXH0hH7C5sI6xLzmIeLnkU4bsM1XNAa+5Zazx97mknLGMmywN4lB3Rw6U1
+         pTcmADQaB465sHKNEheuJRMB5sxSMMwxzxTSQgojI3Us/N8W29f+726P++t0gOl+pVST
+         +cLCe/TT3dA+oULtuc6idlT2MpBANpXzAjzHYzVAP4TfQMHOUmDHNAOzhpdhkbX6AOGq
+         fgbAzj//6URWdqrYRiWKfwcO7eCsF+b0lPyR+xntwT+KEvI2q/3K2eY2e9aE04pV2W+v
+         GAOu+NqvhdiYxD0T8FXMNewd9xeCuwYciSkDxJN/He1L3QxLXmF0ruDIKEjR/0vZ0126
+         xopA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=8WV1nhpnX/RA5X1JlsV9JIhWuc3D2VEKtLGC/Mx6iHU=;
+        b=KpVvTgDG1vSqGJl55lLOrZjzp7NcF3IZZdioDpU2Bp503B5shZptlJ6QUjW57+O0WI
+         cE3iKVC3kPhjCNlH2GLxWYAOmIayLHwF7M4JQoBkUdU0HAs7+5Lk7hBuSYtzWVuGalcD
+         zhQfyokrag+bzWMOqH8zQ+VlZNDSlSbi97S6+bGqRaACMaPWKCwNARmm1Z6ciPxxUhJ9
+         bhOGaRzhQXkubCGLgR8wzQFplEnwT6dB49FQHJqudnaiPzIQfOFxJPRnGgNLQ0LPE3JK
+         zr8ZhRiZGGrfyB+Oa9Ok2qReEUlu96VILi7rdSdjWb7UFHWokBcLIfn7Hy5LAXB5BSHe
+         B31Q==
+X-Gm-Message-State: AODbwcDDKH61RSi5t04drYwSyqFawOK/ceW+uyd2eH1TSYhLmxZg/gRZ
+	x1GGOXXXcLydWvwfUkAm/qEWNwJyjaLlHs8=
+X-Received: by 10.36.36.84 with SMTP id f81mr7167991ita.24.1495620987096; Wed,
+ 24 May 2017 03:16:27 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.107.6.216 with HTTP; Wed, 24 May 2017 03:16:26 -0700 (PDT)
+In-Reply-To: <721ee064362a1d5807bcdba02023e601@simplifytrips.com>
+References: <67299af5b6bde0f909d981709064d42e@simplifytrips.com>
+ <81fa27e65279f1bd237c812ad98eba29@simplifytrips.com> <99fe5483410678a89fdbd72fb4094482@simplifytrips.com>
+ <c7a48ffcd70251e1e25ae90d85526a29@simplifytrips.com> <537f8246a7a6205c99cd880323bca82b@simplifytrips.com>
+ <6228c2d8b347816aa106c83f7b62cf22@simplifytrips.com> <721ee064362a1d5807bcdba02023e601@simplifytrips.com>
+From: Shantanu Roy <info@rareholidays.com>
+Date: Wed, 24 May 2017 15:46:26 +0530
+Message-ID: <CAE7gmCXRL65b8yr3rDEtF7vb4g8Yd_v2H0RfZjKsiwzSj3KOJQ@mail.gmail.com>
+Subject: Re: Strategic Partnership
+To: tushar@simplifytrips.com
+Content-Type: multipart/alternative; boundary="001a1146fc02a7c8e20550426544"
+
+--001a1146fc02a7c8e20550426544
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Tushar
+
+Thanks for your mail and offer.
+Someone called me yesterday and after that I had checked your portal to see
+the kinds of packages in offer. However, I found the trips are available
+for Ladakh only..rest of the destination are not seen in the offer.
+
+Secondly, what happens if some clients shows interest in our package shown
+on your portal,
+
+*which becomes a lead for us and later he does not travel with us which is
+very common among Indian Tourists. *
+
+*What about the costs etc which you would charge ? *
+
+Your email says the following which is copied below with my questions
+embedded -
+
+*Proposal:*
+- Based on the travel location searched by our travelers, we offer them
+options to compare and choose their packages from various local experts.
+- As a start-up offer, you are entitled for up-to 20 free listings for your
+packages(i.e. 10 Domestic & 10 International) under any category. There are
+hardly any packages seen !!
+- You can edit/delete these trips according to your needs.
+
+
+*Whats in it for Exotic India Journey ?*
+a) Customer satisfaction as a trusted partner of simplifytrips.com.
+b) You can negotiate directly with travelers without our involvement.
+c) You as a service provider and your packages will be reviewed by
+travelers, more positive reviews about you, top place you will get in our
+listings page as "most recommended package". How can offer Top Place when
+there are similar packages by other Travel Companies also ?
+d) Exposure to the untapped audience.
+e) "Zero Commission" structure for bookings through us.
+
+
+Thanks
+
+Regards
+
+Shantanu
+
+
+
+*Shantanu Roy Chowdhury / Director - Rare Holidays India*
+
+
+*Member : Expert Committee ASSOCHAM*
+*Member : Travel Operator for Tigers- London*
+*Phone : 9873098900 / 0120-4222771 / 011-43022802*
+Facebook <http://www.facebook.com/rareholidays4you> Linkedin
+<http://www.linkedin.com/profile/view?id=26052880&trk=nav_responsive_tab_profile>
+ Twitter <http://www.twitter.com/rareholidays> Website
+<http://www.rareholidays.com>
+
+
+This e-mail message may contain confidential or legally privileged
+information and is intended only for the use of the intended recipient(s).
+Any unauthorized disclosure, dissemination, distribution, copying or the
+taking of any action in reliance on the information herein is prohibited.
+E-mails are not secure and cannot be guaranteed to be error free as they
+can be intercepted, amended, or contain viruses. Anyone who communicates
+with us by e-mail is deemed to have accepted these risks. Company Name is
+not responsible for errors or omissions in this message and denies any
+responsibility for any damage arising from the use of e-mail. Any opinion
+and other statement contained in this message and any attachment are solely
+those of the author and do not necessarily represent those of the company.
+
+On Wed, May 24, 2017 at 3:15 PM, <tushar@simplifytrips.com> wrote:
+
+>
+> Hi Rare Holidays,
+>
+> I am founder of simplifytrips.com, with prior experience in Operations
+> and Management and have keen interest in Travel & related businesses.
+> I would like to present you with a partnership proposal for Exotic India
+> Journey with SimplifyTrips.com.
+> We specializes in helping travelers to find their best package deal for
+> every place in India and abroad.
+>
+>
+> *Proposal:*
+> - Based on the travel location searched by our travelers, we offer them
+> options to compare and choose their packages from various local experts.
+> - As a start-up offer, you are entitled for up-to 20 free listings for
+> your packages(i.e. 10 Domestic & 10 International) under any category.
+> - You can edit/delete these trips according to your needs.
+>
+>
+> *Whats in it for Exotic India Journey ?*
+> a) Customer satisfaction as a trusted partner of simplifytrips.com.
+> b) You can negotiate directly with travelers without our involvement.
+> c) You as a service provider and your packages will be reviewed by
+> travelers, more positive reviews about you, top place you will get in our
+> listings page as "most recommended package".
+> d) Exposure to the untapped audience.
+> e) "Zero Commission" structure for bookings through us.
+>
+>
+> For signing up with us you can click on the link below
+>
+> http://www.simplifytrips.com/agent/signup?redir=http://www.
+> simplifytrips.com/agent
+>
+> Please let me know your thoughts.
+> Looking forward for a positive response.
+>
+> For any queries do revert.
+>
+> Regards,
+> Tushar
+> Founder, simplifytips.com
+> 7567949606/8890780236
+>
+
+--001a1146fc02a7c8e20550426544
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"font-family:arial na=
+rrow,sans-serif;font-size:large;color:rgb(11,83,148)">Dear Tushar<br><br></=
+div><div class=3D"gmail_default" style=3D"font-family:arial narrow,sans-ser=
+if;font-size:large;color:rgb(11,83,148)">Thanks for your mail and offer.<br=
+></div><div class=3D"gmail_default" style=3D"font-family:arial narrow,sans-=
+serif;font-size:large;color:rgb(11,83,148)">Someone called me yesterday and=
+ after that I had checked your portal to see the kinds of packages in offer=
+. However, I found the trips are available for Ladakh only..rest of the des=
+tination are not seen in the offer.<br><br></div><div class=3D"gmail_defaul=
+t" style=3D"font-family:arial narrow,sans-serif;font-size:large;color:rgb(1=
+1,83,148)">Secondly, what happens if some clients shows interest in our pac=
+kage shown on your portal, <b>which becomes a lead for us and later he does=
+ not travel with us which is very common among Indian Tourists. <br><br></b=
+></div><div class=3D"gmail_default" style=3D"font-family:arial narrow,sans-=
+serif;font-size:large;color:rgb(11,83,148)"><b>What about the costs etc whi=
+ch you would charge ? <br></b></div><div class=3D"gmail_default" style=3D"f=
+ont-family:arial narrow,sans-serif;font-size:large;color:rgb(11,83,148)"><b=
+r></div><div class=3D"gmail_default" style=3D"font-family:arial narrow,sans=
+-serif;font-size:large;color:rgb(11,83,148)">Your email says the following =
+which is copied below with my questions embedded -<br><br><span><u><strong>=
+Proposal:</strong></u><tt><br>- Based on the travel=20
+location searched by our travelers, we offer them options to compare and
+ choose their packages from various local experts.=C2=A0</tt><tt><br></tt><=
+tt>-
+ As a start-up offer, you are entitled for up-to 20 free listings for=20
+your packages(i.e. 10 Domestic &amp; 10 International) under any=20
+category. <span style=3D"color:rgb(255,0,0)">There are hardly any packages =
+seen !! </span><br></tt></span><span>- You can edit/delete these trips acco=
+rding to your needs.</span>
+<p><span>=C2=A0<strong><u><br>Whats in it for Exotic India Journey ?</u></s=
+trong><tt><br></tt><tt>a) Customer satisfaction as a trusted partner of <a =
+href=3D"http://simplifytrips.com" target=3D"_blank">simplifytrips.com</a>.<=
+/tt><br><tt>b) You can negotiate directly with travelers without our involv=
+ement.</tt><br><tt>c)
+ You as a service provider and your packages will be reviewed by=20
+travelers, more positive reviews about you, top place you will get in=20
+our listings page as &quot;most recommended package&quot;.</tt> <span style=
+=3D"color:rgb(255,0,0)">How can offer Top Place when there are similar pack=
+ages by other Travel Companies also ?</span><br><tt>d) Exposure to the unta=
+pped audience.<br>e) &quot;Zero Commission&quot; structure for bookings thr=
+ough us. <br></tt></span></p><p><span><tt><br></tt></span></p><p><span><tt>=
+Thanks</tt></span></p><p><span><tt>Regards</tt></span></p><p><span><tt>Shan=
+tanu<br></tt></span></p></div></div><div class=3D"gmail_extra"><br clear=3D=
+"all"><div><div class=3D"gmail_signature" data-smartmail=3D"gmail_signature=
+"><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div di=
+r=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"=
+><div><div dir=3D"ltr"><div style=3D"font-family:arial;font-size:small"><sp=
+an style=3D"color:rgb(51,51,51);font-family:&#39;Helvetica Neue&#39;,Helvet=
+ica,Arial,sans-serif;font-size:14px;line-height:20px"><br></span></div><div=
+ style=3D"font-family:arial;font-size:small"><span style=3D"color:rgb(51,51=
+,51);font-family:&#39;Helvetica Neue&#39;,Helvetica,Arial,sans-serif;font-s=
+ize:14px;line-height:20px"><br></span></div><div style=3D"font-family:arial=
+;font-size:small"><b><i><font color=3D"#000000"><span style=3D"font-family:=
+&#39;Helvetica Neue&#39;,Helvetica,Arial,sans-serif;font-size:14px;line-hei=
+ght:20px">Shantanu Roy Chowdhury=C2=A0/</span><span style=3D"font-family:&#=
+39;Helvetica Neue&#39;,Helvetica,Arial,sans-serif;font-size:14px;line-heigh=
+t:20px">=C2=A0</span><span style=3D"font-family:&#39;Helvetica Neue&#39;,He=
+lvetica,Arial,sans-serif;font-size:14px;line-height:20px">Director - Rare H=
+olidays India</span></font></i></b><br></div><div style=3D"font-family:aria=
+l"><p style=3D"font-size:14px;margin:0px 0px 10px;color:rgb(51,51,51);font-=
+family:&#39;Helvetica Neue&#39;,Helvetica,Arial,sans-serif;line-height:20px=
+"><span><img src=3D"http://www.rareholidays.com/wp-content/themes/rare/imag=
+es/logo.png"><br></span></p><div style=3D"font-family:arial,sans-serif"><di=
+v style=3D"font-size:small;font-family:arial"><font face=3D"arial narrow, s=
+ans-serif"><b>Member : Expert Committee ASSOCHAM</b></font></div><div style=
+=3D"font-size:small;font-family:arial"><font face=3D"arial narrow, sans-ser=
+if"><b>Member : Travel Operator for Tigers- London</b></font></div><div sty=
+le=3D"font-size:small;font-family:arial"><font face=3D"arial narrow, sans-s=
+erif"><b>Phone : 9873098900 / 0120-4222771 / 011-43022802</b></font></div><=
+div style=3D"font-size:small;font-family:arial"><a href=3D"http://www.faceb=
+ook.com/rareholidays4you" target=3D"_blank">Facebook</a>=C2=A0<a href=3D"ht=
+tp://www.linkedin.com/profile/view?id=3D26052880&amp;trk=3Dnav_responsive_t=
+ab_profile" target=3D"_blank">Linkedin</a>=C2=A0<a href=3D"http://www.twitt=
+er.com/rareholidays" target=3D"_blank">Twitter</a>=C2=A0<a href=3D"http://w=
+ww.rareholidays.com" target=3D"_blank">Website</a></div></div><p style=3D"f=
+ont-size:14px;margin:0px 0px 10px;color:rgb(51,51,51);font-family:&#39;Helv=
+etica Neue&#39;,Helvetica,Arial,sans-serif;line-height:20px"><br></p><p sty=
+le=3D"font-size:14px;margin:0px 0px 10px;font-family:&#39;Helvetica Neue&#3=
+9;,Helvetica,Arial,sans-serif;line-height:20px;color:rgb(153,153,153)">This=
+ e-mail message may contain confidential or legally privileged information =
+and is intended only for the use of the intended recipient(s). Any unauthor=
+ized disclosure, dissemination, distribution, copying or the taking of any =
+action in reliance on the information herein is prohibited. E-mails are not=
+ secure and cannot be guaranteed to be error free as they can be intercepte=
+d, amended, or contain viruses. Anyone who communicates with us by e-mail i=
+s deemed to have accepted these risks. Company Name is not responsible for =
+errors or omissions in this message and denies any responsibility for any d=
+amage arising from the use of e-mail. Any opinion and other statement conta=
+ined in this message and any attachment are solely those of the author and =
+do not necessarily represent those of the company.</p></div></div></div></d=
+iv></div></div></div></div></div></div></div></div></div></div></div></div>=
+</div></div>
+<br><div class=3D"gmail_quote">On Wed, May 24, 2017 at 3:15 PM,  <span dir=
+=3D"ltr">&lt;<a href=3D"mailto:tushar@simplifytrips.com" target=3D"_blank">=
+tushar@simplifytrips.com</a>&gt;</span> wrote:<br><blockquote class=3D"gmai=
+l_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left=
+:1ex"><div style=3D"font-size:10pt;font-family:Verdana,Geneva,sans-serif">
+<p><br></p>
+<p>Hi Rare Holidays,</p>
+<p><span><tt>I am founder of <a href=3D"http://simplifytrips.com" target=3D=
+"_blank">simplifytrips.com</a>, with prior experience in Operations and Man=
+agement and have keen interest in Travel &amp; related businesses.</tt><tt>=
+<br></tt><tt>I </tt><tt>would like to present you with a partnership propos=
+al for Exotic India Journey with SimplifyTrips.com.</tt><tt><br></tt><tt>We=
+=C2=A0specializes in helping travelers to find their best package deal=C2=
+=A0for every place in India and abroad. </tt><tt><br></tt><tt><br><br></tt>=
+<u><strong>Proposal:</strong></u><tt><br>- Based on the travel location sea=
+rched by our travelers, we offer them options to compare and choose their p=
+ackages from various local experts.=C2=A0</tt><tt><br></tt><tt>- As a start=
+-up offer, you are entitled for up-to 20 free listings for your packages(i.=
+e. 10 Domestic &amp; 10 International) under any category. =C2=A0<br></tt><=
+/span><span>- You can edit/delete these trips according to your needs.</spa=
+n></p>
+<p><span>=C2=A0<strong><u><br>Whats in it for Exotic India Journey ?</u></s=
+trong><tt><br></tt><tt>a) Customer satisfaction as a trusted partner of <a =
+href=3D"http://simplifytrips.com" target=3D"_blank">simplifytrips.com</a>.<=
+/tt><br><tt>b) You can negotiate directly with travelers without our involv=
+ement.</tt><br><tt>c) You as a service provider and your packages will be r=
+eviewed by travelers, more positive reviews about you, top place you will g=
+et in our listings page as &quot;most recommended package&quot;.</tt><br><t=
+t>d) Exposure to the untapped audience.<br>e) &quot;Zero Commission&quot; s=
+tructure for bookings through us.=C2=A0<br><br><br>For signing up with us y=
+ou can click on the link below<br></tt></span></p>
+<p><tt><a href=3D"http://www.simplifytrips.com/agent/signup?redir=3Dhttp://=
+www.simplifytrips.com/agent" target=3D"_blank">http://www.simplifytrips.com=
+/<wbr>agent/signup?redir=3Dhttp://www.<wbr>simplifytrips.com/agent</a>=C2=
+=A0<br><br>Please let me know your thoughts.<br>Looking forward for a posit=
+ive response.<br><br>For any queries do revert.<br><br>Regards,<br></tt>Tus=
+har=C2=A0<br><tt>Founder, <a href=3D"http://simplifytips.com" target=3D"_bl=
+ank">simplifytips.com</a></tt><tt><br></tt>7567949606/8890780236</p>
+
+</div>
+</blockquote></div><br></div>
+
+--001a1146fc02a7c8e20550426544--

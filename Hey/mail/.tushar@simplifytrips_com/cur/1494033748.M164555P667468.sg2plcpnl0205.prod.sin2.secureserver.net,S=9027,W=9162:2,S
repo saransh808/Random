@@ -1,0 +1,135 @@
+Return-Path: <ads-noreply@indeed.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id +ZayCVQlDVlMLwoAwZeyeg
+	for <tushar@simplifytrips.com>; Fri, 05 May 2017 18:22:28 -0700
+Return-path: <ads-noreply@indeed.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Fri, 05 May 2017 18:22:28 -0700
+Received: from mail64.indeed.com ([198.58.75.64]:45056)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <ads-noreply@indeed.com>)
+	id 1d6oQV-002nfD-Qb
+	for tushar@simplifytrips.com; Fri, 05 May 2017 18:22:28 -0700
+Received: from aus-mexec36.localdomain (aus-mexec36.indeed.net [10.1.2.36])
+	by mail64.indeed.com (Postfix) with ESMTP id 3wKWFP4vffzGsJf8
+	for <tushar@simplifytrips.com>; Fri,  5 May 2017 20:21:45 -0500 (CDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=indeed.com;
+	s=default; t=1494033705;
+	bh=W3ZCU2qqz+J6aeRMhyFz/TM7n3x8WGDr8kAuoNnCkvU=;
+	h=Date:To:From:Subject;
+	b=xXT23h9Fum6JbR7YbLGOsKNjroM0OiXWMXtteARMUFbv8lQWCQmZ4r5bbysiu5rQL
+	 vqq0xH86rqF+kX49u8+S+Ib1afVbZuDFCJjkT3CEN6NRMjWLsLQ9tHLQWV9XyPwMIX
+	 a2NUn5lnivM6RBGPvi5bRyEqr8NRnGDhuR3wcGKY=
+Received: from localhost.localdomain (localhost [127.0.0.1])
+	by aus-mexec36.localdomain (Postfix) with ESMTP id 80E7CC054F
+	for <tushar@simplifytrips.com>; Fri,  5 May 2017 20:21:45 -0500 (CDT)
+X-PHPMAILER-DKIM: phpmailer.worxware.com
+DKIM-Signature: v=1; a=rsa-sha1; q=dns/txt; l=6935; s=default;
+	t=1494033705; c=relaxed/simple;
+	h=From:To:Subject;
+	d=indeed.com; i=@indeed.com;
+	z=From:=20Indeed=20<ads-noreply@indeed.com>
+	|To:=20tushar@simplifytrips.com
+	|Subject:=20We=20want=20to=20hear=20from=20you;
+	bh=X9u8W7xa4PBq30j6+YdoiQCgoqA=;
+	b=
+Date: Fri, 5 May 2017 20:21:45 -0500
+To: tushar@simplifytrips.com
+From: Indeed <ads-noreply@indeed.com>
+Subject: We want to hear from you
+Message-ID: <6009459fbf65ad5b00559b8fa6f4e84d@localhost.localdomain>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.worxware.com)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    </head>
+    <body style="">
+        <div style="line-height: 16px; font-family: Arial, sans-serif;">
+            <table style="width: 500px; margin-left: 10px; font-size:12px">
+                <tr>
+                    <td style="padding-bottom: 10px;">
+                        <img src="https://ads.indeed.com/images/email/indeed-logo-small.png?refUid=1bfdlbdua2gu2ce1" alt="indeed.com"/>
+                    </td>
+                </tr>
+
+                
+    <tr>
+        <td style="padding-bottom: 10px;">
+            
+                <p>
+                    Tushar Choudhary,
+                </p>
+            
+            <p>Thank you for using Indeed to hire. Your feedback is important to us - we review every survey response. Please take a moment to help us improve your experience by completing this satisfaction survey.</p>
+            <p style="font-weight: bold;">
+                How likely is it that you would recommend Indeed to a friend or colleague?
+                <br/>
+                (click a number below)
+            </p>
+            <p style="font-weight: bold; font-size: 16px">
+                
+                    <a href="https://ads.indeed.com/survey/be583438e48c680a?hl=en&rating=0&amp;refUid=1bfdlbdua2gu2ce1&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=nps_survey" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">0</a>
+                
+                    &nbsp;&nbsp;&nbsp;<a href="https://ads.indeed.com/survey/be583438e48c680a?hl=en&rating=1&amp;refUid=1bfdlbdua2gu2ce1&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=nps_survey" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">1</a>
+                
+                    &nbsp;&nbsp;&nbsp;<a href="https://ads.indeed.com/survey/be583438e48c680a?hl=en&rating=2&amp;refUid=1bfdlbdua2gu2ce1&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=nps_survey" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">2</a>
+                
+                    &nbsp;&nbsp;&nbsp;<a href="https://ads.indeed.com/survey/be583438e48c680a?hl=en&rating=3&amp;refUid=1bfdlbdua2gu2ce1&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=nps_survey" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">3</a>
+                
+                    &nbsp;&nbsp;&nbsp;<a href="https://ads.indeed.com/survey/be583438e48c680a?hl=en&rating=4&amp;refUid=1bfdlbdua2gu2ce1&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=nps_survey" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">4</a>
+                
+                    &nbsp;&nbsp;&nbsp;<a href="https://ads.indeed.com/survey/be583438e48c680a?hl=en&rating=5&amp;refUid=1bfdlbdua2gu2ce1&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=nps_survey" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">5</a>
+                
+                    &nbsp;&nbsp;&nbsp;<a href="https://ads.indeed.com/survey/be583438e48c680a?hl=en&rating=6&amp;refUid=1bfdlbdua2gu2ce1&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=nps_survey" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">6</a>
+                
+                    &nbsp;&nbsp;&nbsp;<a href="https://ads.indeed.com/survey/be583438e48c680a?hl=en&rating=7&amp;refUid=1bfdlbdua2gu2ce1&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=nps_survey" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">7</a>
+                
+                    &nbsp;&nbsp;&nbsp;<a href="https://ads.indeed.com/survey/be583438e48c680a?hl=en&rating=8&amp;refUid=1bfdlbdua2gu2ce1&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=nps_survey" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">8</a>
+                
+                    &nbsp;&nbsp;&nbsp;<a href="https://ads.indeed.com/survey/be583438e48c680a?hl=en&rating=9&amp;refUid=1bfdlbdua2gu2ce1&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=nps_survey" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">9</a>
+                
+                    &nbsp;&nbsp;&nbsp;<a href="https://ads.indeed.com/survey/be583438e48c680a?hl=en&rating=10&amp;refUid=1bfdlbdua2gu2ce1&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=nps_survey" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">10</a>
+                
+            </p>
+            <p>(0 means "not at all likely", 10 means "extremely likely")</p>
+            <p>
+                Having trouble with this email? <a href="https://ads.indeed.com/survey/be583438e48c680a?hl=en&amp;refUid=1bfdlbdua2gu2ce1&amp;utm_source=indeed&amp;utm_medium=email&amp;utm_campaign=nps_survey" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">Take the survey online.</a>
+            </p>
+            <p>Thanks for your feedback.</p>
+            <p>Indeed Client Services</p>
+        </td>
+    </tr>
+
+
+                
+                    <tr>
+                        <td style="padding-bottom: 10px;">
+                            Indeed<br />
+                                <a href="http://india.indeed.com/?utm_source=indeed&utm_medium=advemail&utm_campaign=ads" style="font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#0000cc;text-decoration:underline;">india.indeed.com</a><br />
+                            
+                            
+                        </td>
+                    </tr>
+                
+
+            
+            </table>
+
+            
+
+            <hr noshade="" size="2" style="color:#ccc;background-color:#ccc;border-color:#ccc;margin-left: 5px">
+
+            <div style="margin-left: 10px;color:#6f6f6f;font-size:smaller;"><a href="http://india.indeed.com?utm_source=indeed&utm_medium=advemail&utm_campaign=ads"><font color="#2164f3"><b>Indeed</b></font></a> - one search. all jobs. | Indeed Ireland Operations Limited, 124 St. Stephen's Green, Dublin 2, Ireland</div>
+        </div>
+    </body>
+</html>
+
+

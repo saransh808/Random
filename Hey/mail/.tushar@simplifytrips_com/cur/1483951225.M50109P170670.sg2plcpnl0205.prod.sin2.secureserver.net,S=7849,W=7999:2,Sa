@@ -1,0 +1,150 @@
+Return-Path: <choudhary.tushar4@gmail.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id IWbqAnlMc1iumgIAwZeyeg
+	for <tushar@simplifytrips.com>; Mon, 09 Jan 2017 01:40:25 -0700
+Return-path: <choudhary.tushar4@gmail.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Mon, 09 Jan 2017 01:40:25 -0700
+Received: from mail-lf0-f65.google.com ([209.85.215.65]:33125)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <choudhary.tushar4@gmail.com>)
+	id 1cQVVA-000iOp-Lg
+	for tushar@simplifytrips.com; Mon, 09 Jan 2017 01:40:25 -0700
+Received: by mail-lf0-f65.google.com with SMTP id k62so8365776lfg.0
+        for <tushar@simplifytrips.com>; Mon, 09 Jan 2017 00:40:04 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=5/zxlG8AvxRI4oFlJY2t5qkovX8X3ZUSUZ8vMNSqqhU=;
+        b=hJbV9FcrJTdfv02rYENavyrSLaPHLGZoV6cUnDVeZ9bIDEV1vDcX1Xh+8uIxpuVH9k
+         sLNvIv68wTRwiFZtvBwmRw6wibZN/D9x26J4ZkccYly19xsf02OXW7gflBN1LcwIcHYD
+         GgThWslcjKxBsAUeaPj2zRm8cwU8/QcizWZgkdzTSS3bXQnn3Ig9AG7uae19B9MUNyqG
+         WbaEgiAd6en/JtUNfFcHQ+DFLvgqlpbE5XVuUgzD0JYNkuqkaHBQv9n7rZaNSu/GYd/c
+         wT4xRy9IvyOuva+nBvj8zbAQDBtTlK1+QRRL4B4M9toQKsyuex8NqzFekZAaHG/Vspn2
+         YmyA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=5/zxlG8AvxRI4oFlJY2t5qkovX8X3ZUSUZ8vMNSqqhU=;
+        b=tq7DBe+2IrxIaWut8dBo1VFt0Pqvad5rEsNhUb00fXlrFftj+grUKYNQ7lYZmxzEeY
+         0DwnFJi6g1HvfPtT8db+YFWI8yubhQqpwEpOQk9BoFsleZuBYnGs9KTzzMY6KEFa/9Aa
+         7FjB2J/7mTd3fz8HnOH1uKItbTIvtdhA5J5/pofH2zCsGAr4GXKvhF3uNf58ahtLdPPC
+         ixuFtofgUa88cCXLOr0A0hJiWxqv/RlRAN/MiUshLoxRXd9Xw90WB4X7yqc0wV1X4zXG
+         YF+FcW70bN/buS/REYsp2cxWXU2QQ//BNmShP2C5miG92X4JMGVh+sUyt1UInr1X0b8v
+         cwQw==
+X-Gm-Message-State: AIkVDXIbAVELbB+aCrFB5fCGZN1NvuJWLQ1fmpSFAU92yoOwrpQmXkokII8hDDTp8KPip19ltRqqMxJU6oxAfA==
+X-Received: by 10.46.78.2 with SMTP id c2mr30702510ljb.62.1483951180932; Mon,
+ 09 Jan 2017 00:39:40 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.25.24.162 with HTTP; Mon, 9 Jan 2017 00:39:40 -0800 (PST)
+From: Tushar Choudhary <choudhary.tushar4@gmail.com>
+Date: Mon, 9 Jan 2017 14:09:40 +0530
+Message-ID: <CAEFAUAfeQCxnKNebUnxiUoqTQoR+OGVX8fN2PM2-Ux5X-W_dag@mail.gmail.com>
+Subject: Simplifytrips Proposal
+To: tushar@simplifytrips.com
+Content-Type: multipart/alternative; boundary=f403045ec2ea00ead60545a54fb9
+
+--f403045ec2ea00ead60545a54fb9
+Content-Type: text/plain; charset=UTF-8
+
+   - Greetings for the day,
+
+   Simplifytrips.com is a start-up which aims at providing online solutions
+   for trip/package search in india. Tour operators can show-case there
+   packages across different categories and can get genuine travelers.
+   Don't worry we won't be charging any percent of commission from you. Its
+   free to use.
+
+   So sign-up today and start showcasing your packages absolutely free....!!
+
+   Follow the link below ......
+
+   http://simplifytrips.com/agent/signup?redir=http://simplifyt
+   rips.com/agent
+
+   *How it Works  ?*
+   Simplifytrips works just like trivago.in. Showcase your trips on our
+   portal from where you are operating. Users/Travelers just have to enter
+   there origin and destination and thats it, the listed trips and packages
+   will be showcased and they can choose and compare there trips. You have the
+   option to edit your listed trips by logging into your simplifytrips account
+   at any point you feel.
+
+   *What we offer  ?*
+   As of now you are entitled for listing 10 trips - 05 Domestic trips and
+   05 International trips under six different categories with us. We will also
+   be doing promotion across all social media and electronic media platform
+   for our portal. Hence genuine travelers/users.
+
+   We are in the last phase of our website development and testing, and
+   hence we require you to kindly list your trips and packages with us.
+
+   Looking forward for your association with us.
+
+   For any queries to revert.
+
+   WBR
+   --
+   Tushar Choudhary
+   Director,
+   www.simplifytrips.com
+   +91-75679-49606
+   -
+
+
+-- 
+Tushar Choudhary
++91-75679-49606
+
+--f403045ec2ea00ead60545a54fb9
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><ul class=3D"gmail-icons" style=3D"box-sizing:border-box;m=
+argin:0.625rem 0px 0px;padding:0px;font-size:1rem;line-height:1.6;list-styl=
+e:none;font-family:arial,helvetica,sans-serif"><li class=3D"email" style=3D=
+"box-sizing:border-box;margin:0px 0px 0.625rem;padding:0px 0px 0px 23px;fon=
+t-size:0.75rem;line-height:1.75;color:rgb(102,102,102)"><div dir=3D"ltr" st=
+yle=3D"color:rgb(80,0,80);font-family:arial,sans-serif;font-size:12.8px"><d=
+iv><span style=3D"font-size:12.8px">Greetings for the day,</span><div style=
+=3D"font-size:12.8px"><br></div><div style=3D"font-size:12.8px">Simplifytri=
+ps.com is a start-up which aims at providing online solutions for trip/pack=
+age search in india. Tour operators can show-case there packages across dif=
+ferent categories and can get genuine travelers.<br>Don&#39;t worry we won&=
+#39;t be charging any percent of commission from you. Its free to use.</div=
+><div style=3D"font-size:12.8px"><br></div><div style=3D"font-size:12.8px">=
+So sign-up today and start showcasing your packages absolutely free....!!<b=
+r><br>Follow the link below ......</div><div style=3D"font-size:12.8px"><br=
+><a href=3D"http://simplifytrips.com/agent/signup?redir=3Dhttp://simplifytr=
+ips.com/agent" target=3D"_blank">http://simplifytrips.com/agent<wbr>/signup=
+?redir=3Dhttp://simplifyt<wbr>rips.com/agent</a><br><br><b>How it Works =C2=
+=A0?</b><br>Simplifytrips works just like=C2=A0<a href=3D"http://trivago.in=
+/" target=3D"_blank">trivago.in</a>. Showcase your trips on our portal from=
+ where you are operating. Users/Travelers just have to enter there origin a=
+nd destination and thats it, the listed trips and packages will be showcase=
+d and they can choose and compare there trips. You have the option to edit =
+your listed trips by logging into your simplifytrips account at any point y=
+ou feel.<br><br><b>What we offer =C2=A0?</b><br>As of now you are entitled =
+for listing 10 trips - 05 Domestic trips and 05 International trips under s=
+ix different categories with us. We will also be doing promotion across all=
+ social media and electronic media platform for our portal. Hence genuine t=
+ravelers/users.</div><div style=3D"font-size:12.8px"><br></div><div style=
+=3D"font-size:12.8px">We are in the last phase of our website development a=
+nd testing, and hence we require you to kindly list your trips and packages=
+ with us. =C2=A0<br><br>Looking forward for your association with us.</div>=
+<div style=3D"font-size:12.8px"><br>For any queries to revert.<br><br>WBR=
+=C2=A0</div></div><span class=3D"gmail-m_3536812720567560172HOEnZb"><font c=
+olor=3D"#888888">--=C2=A0<br><div class=3D"gmail-m_3536812720567560172m_146=
+2641578622899283gmail_signature"><div dir=3D"ltr"><div>Tushar Choudhary</di=
+v><div>Director,<br><a href=3D"http://www.simplifytrips.com/" target=3D"_bl=
+ank">www.simplifytrips.com</a><br>+91-75679-49606</div></div></div></font><=
+/span></div></li><li class=3D"email" style=3D"box-sizing:border-box;margin:=
+0px 0px 0.625rem;padding:0px 0px 0px 23px;font-size:0.75rem;line-height:1.7=
+5;color:rgb(102,102,102)"><div><br></div></li></ul><div><br></div>-- <br><d=
+iv class=3D"gmail_signature"><div dir=3D"ltr"><div>Tushar Choudhary<br>+91-=
+75679-49606</div></div></div>
+</div>
+
+--f403045ec2ea00ead60545a54fb9--

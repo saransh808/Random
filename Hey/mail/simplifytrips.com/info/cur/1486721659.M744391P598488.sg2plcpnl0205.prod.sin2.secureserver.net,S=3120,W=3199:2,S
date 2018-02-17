@@ -1,0 +1,79 @@
+Return-Path: <ashok@ientra.com>
+Delivered-To: info@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id QTnKKnuSnVjYIQkAwZeyeg
+	for <info@simplifytrips.com>; Fri, 10 Feb 2017 03:14:19 -0700
+Return-path: <ashok@ientra.com>
+Envelope-to: info@simplifytrips.com
+Delivery-date: Fri, 10 Feb 2017 03:14:19 -0700
+Received: from md-in-29.webhostbox.net ([111.118.215.253]:49944)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.87)
+	(envelope-from <ashok@ientra.com>)
+	id 1cc8Db-002Va4-BQ
+	for info@simplifytrips.com; Fri, 10 Feb 2017 03:14:19 -0700
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=ientra.com;
+	 s=default; h=Message-ID:Subject:Cc:To:From:Date:Content-Transfer-Encoding:
+	Content-Type:MIME-Version; bh=o8SjXdxo1Otk0HVr0XTLsw6Ji5ZqY7PXmlrLBy4D/kc=;
+	 b=rtKTJ8GeDyyo+t/FzCKAtEynKdqLJdQo7l2Rq7xnj5cX982Nb/FAFKx4eQEIKwS1lHPyleajC9
+	u9MyB3DriJvh5oqbdNyANxJ5qvArRosZ7zXyJXqHQJDi/vyVvE5T56usr4ZgVl1sL43Pl09b1IdNw
+	PYtUabvdb4JPP7uIPNf3D+G91CLKv7QVCBql+8ostZNY9+E1yFz/dHRwfyZHjHqkSXIPNXgMxXnPg
+	fIrpD2dJIXmGYYJTDGOg4EFPIGtKw5H+3uCE5vIahEoQQQDqvieoDnQZAXrZNY+2Qq3a6ZAFkcdfQ
+	KQULN8I+vpClizaoTa/s4PBOmX1ucJ6wlYo1Q==;
+Received: from [127.0.0.1] (port=35392 helo=ientra.com)
+	by md-in-29.webhostbox.net with esmtpa (Exim 4.86_1)
+	(envelope-from <ashok@ientra.com>)
+	id 1cc8Ct-002X73-M8; Fri, 10 Feb 2017 10:13:36 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+Date: Fri, 10 Feb 2017 15:43:35 +0530
+From: ashok@ientra.com
+To: info@simplifytrips.com
+Cc: enquiry <enquiry@ientra.com>
+Subject: Proposal from Ientra Business Solutions Pvt Ltd
+Message-ID: <e85b09713d2c611c67fe22ce4946fc46@ientra.com>
+X-Sender: ashok@ientra.com
+User-Agent: Roundcube Webmail/1.0.6
+X-Authenticated_sender: ashok@ientra.com
+X-OutGoing-Spam-Status: No, score=-1.0
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - md-in-29.webhostbox.net
+X-AntiAbuse: Original Domain - simplifytrips.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - ientra.com
+X-Get-Message-Sender-Via: md-in-29.webhostbox.net: authenticated_id: ashok@ientra.com
+X-Authenticated-Sender: md-in-29.webhostbox.net: ashok@ientra.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+Hello,
+
+We at Ientra business solutions provide efficient and effective start-up 
+services and funding assistance, at the most healthy pricing. We are 
+currently in the search for start-ups showing potential.
+
+Recently, a post of yours in a start-up forum came into our notice. Our 
+team would like to assist you in acquiring the required funds for your 
+various development stages and also to provide you our services.
+
+
+
+Thank you. Looking forward to hearing from you.
+
+
+Please visit our website - www.Ientra.com for more details.
+
+[mail me at ashok@ientra.com
+Or call me on +918884642012]
+
+
+
+With regards,
+
+Ashok Kumar V G
+
+Ientra Business Solutions
+

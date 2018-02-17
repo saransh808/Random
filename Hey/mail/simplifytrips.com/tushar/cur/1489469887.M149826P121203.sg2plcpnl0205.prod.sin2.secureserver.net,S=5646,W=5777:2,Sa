@@ -1,0 +1,131 @@
+Return-Path: <shashanklingayas@gmail.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id UXXXCL+Bx1hz2QEAwZeyeg
+	for <tushar@simplifytrips.com>; Mon, 13 Mar 2017 22:38:07 -0700
+Return-path: <shashanklingayas@gmail.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Mon, 13 Mar 2017 22:38:07 -0700
+Received: from mail-pg0-f50.google.com ([74.125.83.50]:33398)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <shashanklingayas@gmail.com>)
+	id 1cnf9q-000Vud-UM
+	for tushar@simplifytrips.com; Mon, 13 Mar 2017 22:38:07 -0700
+Received: by mail-pg0-f50.google.com with SMTP id 25so79545901pgy.0
+        for <tushar@simplifytrips.com>; Mon, 13 Mar 2017 22:37:46 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=WaXTxXNxjSZKmiS/sG00aMxwVmpIr6JqXbWTnCHR8jQ=;
+        b=iydNxB+HsvlcUIx46BlhKpWDByADgOgxZh98h1YRTKsbmXxoHonY6tLEMtFcDTIZf8
+         OCXJSTjrdwT/Qq3pBBYjt9UGKRClXsSuhDzEL2H/FezeAQtkee4/M4vsURKyvkOVvhRy
+         8c7p01uJjmdAb2BPhMUzXqoMXxXsszkJRtqT3Kj2/ZyzLGa/9NTZjJpAyCVWVlWWYSZd
+         QL/oY6k2PAvf7tRnzSNzHs+ydRgn1Oo6vrbTWzFVBMouVcHam5iMNXeTtRR35QvBLW8m
+         rHE8Cdkq/6AAOka1H2alBbzE/TGdO973Sy2INKLwmVt7siqGTCX01sjgLpp7dHgHR3Uw
+         gYng==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=WaXTxXNxjSZKmiS/sG00aMxwVmpIr6JqXbWTnCHR8jQ=;
+        b=C+Phqgj3j59OMvh+SaPW9yoA4bMdSCjEacHc8V+b06lcm7/VGGQHcElhvEVMxregNI
+         LX9vfnh0WMKUDM2VUTSZ9C2TENWAIor3ewgILIpJsq13Fu9goPb8ZaYFrfJj/+24JJry
+         MV7qVhk6SPah66UwyInHIR/PoEMxrLEJbTGFw7hw8pYTNfuaWQLkKw0UL8d6GwsGCzSW
+         c+6wcJw+b135HOagYKzplzqYBPZwDG0bt4RxeV0V7TnEGO2aP+O+b0WruZdaNqNhB7fp
+         Uf55Jc0vQ2AHlOlYbkaHZOuEs6wuwZwOGDGkR09dHBkkruhBw/5h3K3zqRSpzXJ10bHE
+         Jgxw==
+X-Gm-Message-State: AMke39lAG0GDoKoVKaYjCmNX6YdIICO1SPx52nJ8nRRVS0eoePjwbkVLGSjr+/nxp8e12F+ukmAm0PHYhztWXw==
+X-Received: by 10.84.202.163 with SMTP id x32mr52600871pld.67.1489469845176;
+ Mon, 13 Mar 2017 22:37:25 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.100.170.199 with HTTP; Mon, 13 Mar 2017 22:37:24 -0700 (PDT)
+In-Reply-To: <2016f78cceea6e8f68ee328d8f23d287@simplifytrips.com>
+References: <2016f78cceea6e8f68ee328d8f23d287@simplifytrips.com>
+From: Shashank Choudhary <shashanklingayas@gmail.com>
+Date: Tue, 14 Mar 2017 11:07:24 +0530
+Message-ID: <CAKty-vrrEH_7Ez2WaunW4KYxwawrugffMJnJwqAvwNXw1vAo0w@mail.gmail.com>
+Subject: Re: Package Listings
+To: "tushar@simplifytrips.com" <tushar@simplifytrips.com>
+Content-Type: multipart/alternative; boundary=94eb2c1486b60682d2054aaa3972
+
+--94eb2c1486b60682d2054aaa3972
+Content-Type: text/plain; charset=UTF-8
+
+Ek baat check karna mail body main thode changes kiye hain. Aur last main
+apne phone number ke neeche mail is bhi daal dena.
+
+On Tuesday, March 14, 2017, <tushar@simplifytrips.com> wrote:
+
+> Greetings for the day...!!
+>
+> Dear Swadesh Kumar Yadav,
+>
+> Its nice to have you onboard, as according to our records there are no
+> packages listed from your end, kindly start adding your packages and enjoy
+> being the part of our network.
+>
+> You can add any package as per your choice and can edit the same at any
+> point of time. As per the current free offer you can add 20 different
+> packages under 02 domains (domestic & International) and 06 six different
+> categories (Family trip, budget trip, Honeymoon package, adventure trip,
+> weekend getaway and historical trip).
+>
+>
+>
+> So avail this offer and don't miss out the chance of getting your packages
+> listed.
+>
+>
+>
+> For any queries, do revert.
+>
+>
+>
+> Tushar Choudhary
+>
+> +91-75679-49606
+>
+>
+>
+>
+>
+>
+
+--94eb2c1486b60682d2054aaa3972
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Ek baat check karna mail body main thode changes kiye hain. Aur last main a=
+pne phone number ke neeche mail is bhi daal dena.<br><br>On Tuesday, March =
+14, 2017,  &lt;<a href=3D"mailto:tushar@simplifytrips.com">tushar@simplifyt=
+rips.com</a>&gt; wrote:<br><blockquote class=3D"gmail_quote" style=3D"margi=
+n:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div style=3D"fon=
+t-size:10pt;font-family:Verdana,Geneva,sans-serif">
+<p>Greetings for the day...!!</p>
+<p>Dear Swadesh Kumar Yadav,</p>
+<p>Its nice to have you onboard, as according to=C2=A0our records there are=
+ no packages listed from your end, kindly start adding your packages and en=
+joy being the part of our network.=C2=A0</p><p><span style=3D"font-size:10p=
+t">You can add any package as per your choice and can edit the same at any =
+point of time.=C2=A0</span><span style=3D"font-size:10pt">As per the curren=
+t free=C2=A0</span><span style=3D"font-size:10pt">offer</span><span style=
+=3D"font-size:10pt">=C2=A0you can add 20 different packages under 02 domain=
+s (domestic &amp; International) and 06 six different categories (Family tr=
+ip, budget trip, Honeymoon package, adventure trip, weekend getaway and his=
+torical trip).</span></p>
+<p>=C2=A0</p>
+<p>So avail this offer and don&#39;t miss out the chance of getting your pa=
+ckages listed.</p>
+<p>=C2=A0</p>
+<p>For any queries, do revert.</p>
+<p>=C2=A0</p>
+<p>Tushar Choudhary</p>
+<p>+91-75679-49606=C2=A0</p>
+<p>=C2=A0</p>
+<p>=C2=A0</p>
+<div>=C2=A0</div>
+</div>
+</blockquote>
+
+--94eb2c1486b60682d2054aaa3972--

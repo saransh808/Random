@@ -1,0 +1,850 @@
+Return-Path: <3cyb7WAYRBnorsqfYpqgknjgdwrpgnq.amkrsqfYpqgknjgdwrpgnq.amk@trix.bounces.google.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id yehqDJ4m+1h31gEAwZeyeg
+	for <tushar@simplifytrips.com>; Sat, 22 Apr 2017 02:47:10 -0700
+Return-path: <3cyb7WAYRBnorsqfYpqgknjgdwrpgnq.amkrsqfYpqgknjgdwrpgnq.amk@trix.bounces.google.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Sat, 22 Apr 2017 02:47:10 -0700
+Received: from mail-qt0-f206.google.com ([209.85.216.206]:36647)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.88)
+	(envelope-from <3cyb7WAYRBnorsqfYpqgknjgdwrpgnq.amkrsqfYpqgknjgdwrpgnq.amk@trix.bounces.google.com>)
+	id 1d1rdG-000VhW-3P
+	for tushar@simplifytrips.com; Sat, 22 Apr 2017 02:47:10 -0700
+Received: by mail-qt0-f206.google.com with SMTP id y33so1422434qta.3
+        for <tushar@simplifytrips.com>; Sat, 22 Apr 2017 02:46:49 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20161025;
+        h=mime-version:message-id:date:subject:from:to;
+        bh=hyO3gdNEP4lYiVqL69HZTuK9jpNQOV5/Lzrkw0nCrrQ=;
+        b=vKzd3D1N/bNRp0VMOl36XGH2a8KWIFDjvPCpE8n1t7smZoN4us0gsGm1be221Fo31i
+         t1GcNmPsNI2xt7sGl9eQ5i5X3ktqEfUrjrGvuPcWYqwZUDlrbvpBSP09NxRPVRHro9/2
+         RY4Oz5pYf7h2PS6be4q1972wFYmi3roFjLn3JeoibiI+pmuDAUjrkMhHrn4VTso5jU8S
+         7qUoOQosPoOXfaPTOJEeK84QrRYgT0+976cG9tJZ31DsOnQXg9SltAik3HR3qPWwc+jY
+         Bo2hB10bDwBUs9X3bx1qauq28mWDTAhWk4ek2kMdameNcvKfhOuYtvm2olV9O5pOxgrN
+         TeYA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:message-id:date:subject:from:to;
+        bh=hyO3gdNEP4lYiVqL69HZTuK9jpNQOV5/Lzrkw0nCrrQ=;
+        b=rQY3siq9C9kFOhr+Oi1NTvzxAZ+JGXVudpevpRke+mMtyg5IyxYg1vDc9abYByWhZW
+         +EAUb590yMICgWq+N75aAgRIkxvqrVAuSCZ+6dyx5m9ABUWBrnnFypySkW30dcHYe2g9
+         uDC+SU+Uu8sLKpAbDgXJcTgWfAgYDB9x3aOcXf0+/iFaQg2LrnDHinIqMDHKkm8q+cvU
+         eZ+nNhE5J9e6K+DAleVjyqn7DGCjbQ+RjqaA7HwNjXLRW0Ztl85kIATAlhqVjGzb3Dxo
+         /FR/nVOkXZqX5YI29P4cS8VFYtuUz1n0C/j09nuqr8oq89PowZ25f0RWLHu3Da4/ZUAU
+         mqFA==
+X-Gm-Message-State: AN3rC/4FmOQ4GSLocgVE96UDAtRgZuvVff/kAY3etRO7t/DjIND1Nroj
+	F1vLkiaeAZ7YLY/wEstJOURkKo/aBsPS
+MIME-Version: 1.0
+X-Received: by 10.200.45.220 with SMTP id q28mr7987924qta.63.1492854387897;
+ Sat, 22 Apr 2017 02:46:27 -0700 (PDT)
+Message-ID: <001a1143c6ba7e057e054dbe3f41@google.com>
+Date: Sat, 22 Apr 2017 09:46:27 +0000
+Subject: STun Application Form
+From: Google Forms <nobody@google.com>
+To: tushar@simplifytrips.com
+Content-Type: multipart/alternative; boundary=001a1143c6ba7e0566054dbe3f3e
+
+--001a1143c6ba7e0566054dbe3f3e
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+
+Google Forms
+
+
+Thanks for filling out STun Application Form
+
+
+
+
+
+Here's what we got from you:
+
+
+
+
+
+
+Edit response
+
+
+STun Application Form
+
+Beginning May 2017, Startup Tunnel (STun) is launching Its fourth cohort  
+for it's Incubation Program, applications for which are now open.
+STun is looking for ambitious entrepreneurs with a passion to solve the  
+real and tough challenges of today by the means of technology. Breakthrough  
+ideas and products in the following domains of healthtech, fintech,  
+civictech & cleantech are welcome.
+This program isn't looking for the 'just-another' or copy-cat ideas. It is  
+looking to discover the next moonshot, that will drastically improve the  
+lives of millions.
+In the meantime, you could read this article on YourStory to understand our  
+incubation program better: http://yourstory.com/2015/09/startup-incubator/
+You can also have a close look at our portfolio companies here  
+http://inc42.com/flash-feed/meet-the-7-startups-that-graduated-from-startup-tunnels-second-batch/
+http://www.iamwire.com/2016/03/startups-graduate-stuns-batch/134064
+
+
+Email address *
+
+tushar@simplifytrips.com
+
+
+Founder's Name *
+
+
+Tushar Choudhary
+
+
+Founder's Contact Number: *
+
+
+7567949606
+
+
+Founder's Email ID: *
+
+
+tushar@simplifytrips.com
+
+
+Co-founder's Name: *
+
+
+Shashank Choudhary
+
+
+Elevator Pitch *
+
+
+Searching a perfect deal for your holiday package is tedious and time  
+consuming, and what we get are offers are from few top listings on google  
+and that is it. Where as in this start-up you can find your best deal and  
+quotations from the local experts from your place of origin.
+
+
+Company Name: *
+
+
+TSAR trips pvt. ltd.
+
+
+Primary Industry: *
+
+
+Travel
+
+
+Location: *
+
+
+Noida
+
+
+Your company URL?
+
+
+www.simplifytrips.com
+
+
+How old is the Startup? *
+
+
+0- 1Years
+1 - 3 Years
+Other:
+
+
+Prototype ready *
+
+
+Concept Only
+Full Product ready
+Product in Development
+Prototype Ready
+TTM Revenue
+Other:
+
+
+Current team size? *
+
+
+1 - 5
+5 - 10
+Other:
+
+
+What does your current team configuration look like? *
+
+
+Growth - Sales / Marketing / Analytics / Social metrics / Content Creation  
+/ Digital marketing
+Tech - Developer / Architect / CTO / QA Lead
+Product - Product Manager
+Other:
+
+
+Funding status? *
+
+
+Bootstrapped (self, family and friends)
+Seed/ Angel Stage
+Other:
+
+
+What help are you looking for from Startup Tunnel? *
+
+
+Funding
+Incubation
+Mentorship
+Other:
+
+
+How did you hear about us?
+
+
+Facebook
+
+
+Create your own Google Form
+
+
+
+--001a1143c6ba7e0566054dbe3f3e
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body style=3D"font-family: Roboto,Helvetica,Arial,sans-serif; margin=
+: 0; padding: 0; height: 100%; width: 100%;"><table border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" style=3D"background-color:rgb(94, 69, 4);" width=
+=3D"100%" role=3D"presentation"><tbody><tr height=3D"64px"><td style=3D"pad=
+ding-left: 24px"><img alt=3D"Google Forms" height=3D"26px" style=3D"display=
+: inline-block; margin: 0; vertical-align: middle;" width=3D"143px" src=3D"=
+https://www.gstatic.com/docs/forms/google_forms_logo_lockup_white_2x.png"><=
+/td></tr></tbody></table><div style=3D"padding: 24px; background-color:rgb(=
+254, 235, 184)"><div align=3D"center" style=3D"background-color: #fff; bord=
+er-bottom: 1px solid #e0e0e0; margin: 0 auto; max-width: 624px; min-width: =
+154px; padding: 0 24px;"><table align=3D"center" cellpadding=3D"0" cellspac=
+ing=3D"0" style=3D"background-color: #fff;" width=3D"100%" role=3D"presenta=
+tion"><tbody><tr height=3D"24px"><td></td></tr><tr><td><div style=3D"font-s=
+ize: 13px; line-height: 18px; color: #424242; font-weight: 700">Thanks for =
+filling out <a href=3D"https://docs.google.com/forms/d/e/1FAIpQLSftf7CiNKda=
+d6xbv-3pgBvmtN5gVV8oLe9HdYbSCu-plKcomw/viewform?usp=3Dmail_form_link">STun =
+Application Form</a></div></td></tr><tr height=3D"12px"></tr><tr><td><div s=
+tyle=3D"font-size: 13px; line-height: 18px; color: #424242;">Here's what we=
+ got from you:</div></td></tr><tr height=3D"24px"></tr><tr><td><table borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"><tbody><tr><td><=
+a href=3D"https://docs.google.com/forms/d/e/1FAIpQLSftf7CiNKdad6xbv-3pgBvmt=
+N5gVV8oLe9HdYbSCu-plKcomw/viewform?edit2=3D2_ABaOnuefx46RMvBv3Tmmt5Mjgt6NlO=
+s_NPjTmu7vcjU0lwPaPCKp0yxTfBK6SA"style=3D"border-radius: 3px; box-sizing: b=
+order-box; display: inline-block; font-size: 13px; font-weight: 700; height=
+: 40px; line-height: 40px; padding: 0 24px; text-align: center; text-decora=
+tion: none; text-transform: uppercase; vertical-align: middle; color: #fff;=
+ background-color: rgb(94, 69, 4);" target=3D"_blank">Edit response</a></td=
+></tr></tbody></table><div itemprop=3D"action" itemscope itemtype=3D"http:/=
+/schema.org/ViewAction"><meta itemprop=3D"url" content=3D"https://docs.goog=
+le.com/forms/d/e/1FAIpQLSftf7CiNKdad6xbv-3pgBvmtN5gVV8oLe9HdYbSCu-plKcomw/v=
+iewform?edit2=3D2_ABaOnuefx46RMvBv3Tmmt5Mjgt6NlOs_NPjTmu7vcjU0lwPaPCKp0yxTf=
+BK6SA&amp;usp=3Dmail_goto_form"><meta itemprop=3D"name" content=3D"Edit you=
+r response"></div></td></tr><tr><td><div class=3D"ss-form-container" style=
+=3D""><div class=3D"ss-form-heading" style=3D""><h1 class=3D"ss-form-title"=
+ dir=3D"ltr" style=3D"margin:.67em 0;">STun Application Form</h1>
+<div class=3D"ss-form-desc ss-no-ignore-whitespace" style=3D"font:inherit;w=
+idth:99%;margin:0 0 1em;white-space:pre-wrap;word-wrap:break-word;">Beginni=
+ng May 2017, Startup Tunnel (STun) is launching Its fourth cohort for it&#3=
+9;s Incubation Program, applications for which are now open.<p>STun is look=
+ing for ambitious entrepreneurs with a passion to solve the real and tough =
+challenges of today by the means of technology.  Breakthrough ideas and pro=
+ducts in the following domains of healthtech, fintech, civictech &amp; clea=
+ntech are welcome.<p>This program isn=E2=80=99t looking for the =E2=80=98ju=
+st-another=E2=80=99 or copy-cat ideas. It is looking to discover the next m=
+oonshot, that will drastically improve the lives of millions.<p>In the mean=
+time, you could read this article on YourStory to understand our incubation=
+ program better: <a href=3D"https://www.google.com/url?q=3Dhttp://yourstory=
+.com/2015/09/startup-incubator/&amp;sa=3DD&amp;ust=3D1492857987775000&amp;u=
+sg=3DAFQjCNGXCTbIJA8hTf75spZKOdvercvRlg" style=3D"">http://yourstory.com/20=
+15/09/startup-incubator/</a><p>You can also have a close look at our portfo=
+lio companies here <a href=3D"https://www.google.com/url?q=3Dhttp://inc42.c=
+om/flash-feed/meet-the-7-startups-that-graduated-from-startup-tunnels-secon=
+d-batch/&amp;sa=3DD&amp;ust=3D1492857987775000&amp;usg=3DAFQjCNF9AGoRx6n31i=
+ab1v0My2-ckAzWxA" style=3D"">http://inc42.com/flash-feed/meet-the-7-startup=
+s-that-graduated-from-startup-tunnels-second-batch/</a><p><a href=3D"https:=
+//www.google.com/url?q=3Dhttp://www.iamwire.com/2016/03/startups-graduate-s=
+tuns-batch/134064&amp;sa=3DD&amp;ust=3D1492857987775000&amp;usg=3DAFQjCNFtZ=
+fKPj3JMJOSjC-wEjmKRBJpBJg" style=3D"">http://www.iamwire.com/2016/03/startu=
+ps-graduate-stuns-batch/134064</a></p></p></p></p></p></div>
+</div>
+<div class=3D"ss-form" style=3D""><form action=3D"" method=3D"GET" id=3D"ss=
+-form" style=3D""><br>
+<div class=3D"ss-form-question errorbox-good" role=3D"listitem" style=3D"">
+<div dir=3D"auto" class=3D"ss-item ss-item-required ss-text" style=3D"margi=
+n:12px 0;"><div class=3D"ss-form-entry" style=3D"margin-bottom:1.5em;vertic=
+al-align:middle;margin-left:0;margin-top:0;max-width:100%;"><label class=3D=
+"ss-q-item-label" for=3D"emailAddress" style=3D""><div class=3D"ss-q-title"=
+ style=3D"display:block;font-weight:bold;margin-top:.83em;margin-bottom:.83=
+em;">Email address
+<label for=3D"emailAddress" aria-label=3D"(Required field)" style=3D""></la=
+bel>
+<span class=3D"ss-required-asterisk" aria-hidden=3D"true" style=3D"color:#c=
+43b1d;">*</span></div></label>
+<div class=3D"ss-q-text ss-printable-text-line" dir=3D"auto" style=3D"backg=
+round-color:#eee;max-width:90%;border:1px solid #c0c0c0;padding:5px;white-s=
+pace:pre-wrap;color:#545454;width:70%;">tushar@simplifytrips.com</div>
+
+
+</div></div></div>
+<div class=3D"ss-form-question errorbox-good" role=3D"listitem" style=3D"">
+<div dir=3D"auto" class=3D"ss-item ss-item-required ss-text" style=3D"margi=
+n:12px 0;"><div class=3D"ss-form-entry" style=3D"margin-bottom:1.5em;vertic=
+al-align:middle;margin-left:0;margin-top:0;max-width:100%;">
+<label class=3D"ss-q-item-label" for=3D"entry_658545211" style=3D""><div cl=
+ass=3D"ss-q-title" style=3D"display:block;font-weight:bold;margin-top:.83em=
+;margin-bottom:.83em;">Founder&#39;s Name
+<label for=3D"itemView.getDomIdToLabel()" aria-label=3D"(Required field)" s=
+tyle=3D""></label>
+<span class=3D"ss-required-asterisk" aria-hidden=3D"true" style=3D"color:#c=
+43b1d;">*</span></div>
+<div class=3D"ss-q-help ss-secondary-text" dir=3D"auto" style=3D"display:bl=
+ock;margin:.1em 0 .25em 0;color:#666;"></div></label>
+
+<div class=3D"ss-q-text" dir=3D"auto" style=3D"background-color:#eee;max-wi=
+dth:90%;border:1px solid #c0c0c0;padding:5px;white-space:pre-wrap;color:#54=
+5454;width:70%;">Tushar Choudhary</div>
+
+
+</div></div></div>
+<br> <div class=3D"ss-form-question errorbox-good" role=3D"listitem" style=
+=3D"">
+<div dir=3D"auto" class=3D"ss-item ss-item-required ss-text" style=3D"margi=
+n:12px 0;"><div class=3D"ss-form-entry" style=3D"margin-bottom:1.5em;vertic=
+al-align:middle;margin-left:0;margin-top:0;max-width:100%;">
+<label class=3D"ss-q-item-label" for=3D"entry_1155851552" style=3D""><div c=
+lass=3D"ss-q-title" style=3D"display:block;font-weight:bold;margin-top:.83e=
+m;margin-bottom:.83em;">Founder&#39;s Contact Number:
+<label for=3D"itemView.getDomIdToLabel()" aria-label=3D"(Required field)" s=
+tyle=3D""></label>
+<span class=3D"ss-required-asterisk" aria-hidden=3D"true" style=3D"color:#c=
+43b1d;">*</span></div>
+<div class=3D"ss-q-help ss-secondary-text" dir=3D"auto" style=3D"display:bl=
+ock;margin:.1em 0 .25em 0;color:#666;"></div></label>
+
+<div class=3D"ss-q-text" dir=3D"auto" style=3D"background-color:#eee;max-wi=
+dth:90%;border:1px solid #c0c0c0;padding:5px;white-space:pre-wrap;color:#54=
+5454;width:70%;">7567949606</div>
+
+
+</div></div></div>
+<br> <div class=3D"ss-form-question errorbox-good" role=3D"listitem" style=
+=3D"">
+<div dir=3D"auto" class=3D"ss-item ss-item-required ss-text" style=3D"margi=
+n:12px 0;"><div class=3D"ss-form-entry" style=3D"margin-bottom:1.5em;vertic=
+al-align:middle;margin-left:0;margin-top:0;max-width:100%;">
+<label class=3D"ss-q-item-label" for=3D"entry_818188220" style=3D""><div cl=
+ass=3D"ss-q-title" style=3D"display:block;font-weight:bold;margin-top:.83em=
+;margin-bottom:.83em;">Founder&#39;s Email ID:
+<label for=3D"itemView.getDomIdToLabel()" aria-label=3D"(Required field)" s=
+tyle=3D""></label>
+<span class=3D"ss-required-asterisk" aria-hidden=3D"true" style=3D"color:#c=
+43b1d;">*</span></div>
+<div class=3D"ss-q-help ss-secondary-text" dir=3D"auto" style=3D"display:bl=
+ock;margin:.1em 0 .25em 0;color:#666;"></div></label>
+
+<div class=3D"ss-q-text" dir=3D"auto" style=3D"background-color:#eee;max-wi=
+dth:90%;border:1px solid #c0c0c0;padding:5px;white-space:pre-wrap;color:#54=
+5454;width:70%;">tushar@simplifytrips.com</div>
+
+
+</div></div></div>
+<br> <div class=3D"ss-form-question errorbox-good" role=3D"listitem" style=
+=3D"">
+<div dir=3D"auto" class=3D"ss-item ss-item-required ss-text" style=3D"margi=
+n:12px 0;"><div class=3D"ss-form-entry" style=3D"margin-bottom:1.5em;vertic=
+al-align:middle;margin-left:0;margin-top:0;max-width:100%;">
+<label class=3D"ss-q-item-label" for=3D"entry_1370927702" style=3D""><div c=
+lass=3D"ss-q-title" style=3D"display:block;font-weight:bold;margin-top:.83e=
+m;margin-bottom:.83em;">Co-founder&#39;s Name:
+<label for=3D"itemView.getDomIdToLabel()" aria-label=3D"(Required field)" s=
+tyle=3D""></label>
+<span class=3D"ss-required-asterisk" aria-hidden=3D"true" style=3D"color:#c=
+43b1d;">*</span></div>
+<div class=3D"ss-q-help ss-secondary-text" dir=3D"auto" style=3D"display:bl=
+ock;margin:.1em 0 .25em 0;color:#666;"></div></label>
+
+<div class=3D"ss-q-text" dir=3D"auto" style=3D"background-color:#eee;max-wi=
+dth:90%;border:1px solid #c0c0c0;padding:5px;white-space:pre-wrap;color:#54=
+5454;width:70%;">Shashank Choudhary</div>
+
+
+</div></div></div>
+<br> <div class=3D"ss-form-question errorbox-good" role=3D"listitem" style=
+=3D"">
+<div dir=3D"auto" class=3D"ss-item ss-item-required ss-paragraph-text" styl=
+e=3D"margin:12px 0;"><div class=3D"ss-form-entry" style=3D"margin-bottom:1.=
+5em;vertical-align:middle;margin-left:0;margin-top:0;max-width:100%;">
+<label class=3D"ss-q-item-label" for=3D"entry_684236863" style=3D""><div cl=
+ass=3D"ss-q-title" style=3D"display:block;font-weight:bold;margin-top:.83em=
+;margin-bottom:.83em;">Elevator Pitch
+<label for=3D"itemView.getDomIdToLabel()" aria-label=3D"(Required field)" s=
+tyle=3D""></label>
+<span class=3D"ss-required-asterisk" aria-hidden=3D"true" style=3D"color:#c=
+43b1d;">*</span></div>
+<div class=3D"ss-q-help ss-secondary-text" dir=3D"auto" style=3D"display:bl=
+ock;margin:.1em 0 .25em 0;color:#666;"></div></label>
+
+<div class=3D"ss-q-text" dir=3D"auto" style=3D"background-color:#eee;max-wi=
+dth:90%;border:1px solid #c0c0c0;padding:5px;white-space:pre-wrap;color:#54=
+5454;width:70%;">Searching a perfect deal for your holiday package is tedio=
+us and time consuming, and what we get are offers are from few top listings=
+ on google and that is it. Where as in this start-up you can find your best=
+ deal and quotations from the local experts from your place of origin.  </d=
+iv>
+
+
+</div></div></div>
+<br> <div class=3D"ss-form-question errorbox-good" role=3D"listitem" style=
+=3D"">
+<div dir=3D"auto" class=3D"ss-item ss-item-required ss-text" style=3D"margi=
+n:12px 0;"><div class=3D"ss-form-entry" style=3D"margin-bottom:1.5em;vertic=
+al-align:middle;margin-left:0;margin-top:0;max-width:100%;">
+<label class=3D"ss-q-item-label" for=3D"entry_1071032316" style=3D""><div c=
+lass=3D"ss-q-title" style=3D"display:block;font-weight:bold;margin-top:.83e=
+m;margin-bottom:.83em;">Company Name:
+<label for=3D"itemView.getDomIdToLabel()" aria-label=3D"(Required field)" s=
+tyle=3D""></label>
+<span class=3D"ss-required-asterisk" aria-hidden=3D"true" style=3D"color:#c=
+43b1d;">*</span></div>
+<div class=3D"ss-q-help ss-secondary-text" dir=3D"auto" style=3D"display:bl=
+ock;margin:.1em 0 .25em 0;color:#666;"></div></label>
+
+<div class=3D"ss-q-text" dir=3D"auto" style=3D"background-color:#eee;max-wi=
+dth:90%;border:1px solid #c0c0c0;padding:5px;white-space:pre-wrap;color:#54=
+5454;width:70%;">TSAR trips pvt. ltd.</div>
+
+
+</div></div></div>
+<br> <div class=3D"ss-form-question errorbox-good" role=3D"listitem" style=
+=3D"">
+<div dir=3D"auto" class=3D"ss-item ss-item-required ss-text" style=3D"margi=
+n:12px 0;"><div class=3D"ss-form-entry" style=3D"margin-bottom:1.5em;vertic=
+al-align:middle;margin-left:0;margin-top:0;max-width:100%;">
+<label class=3D"ss-q-item-label" for=3D"entry_907521817" style=3D""><div cl=
+ass=3D"ss-q-title" style=3D"display:block;font-weight:bold;margin-top:.83em=
+;margin-bottom:.83em;">Primary Industry:
+<label for=3D"itemView.getDomIdToLabel()" aria-label=3D"(Required field)" s=
+tyle=3D""></label>
+<span class=3D"ss-required-asterisk" aria-hidden=3D"true" style=3D"color:#c=
+43b1d;">*</span></div>
+<div class=3D"ss-q-help ss-secondary-text" dir=3D"auto" style=3D"display:bl=
+ock;margin:.1em 0 .25em 0;color:#666;"></div></label>
+
+<div class=3D"ss-q-text" dir=3D"auto" style=3D"background-color:#eee;max-wi=
+dth:90%;border:1px solid #c0c0c0;padding:5px;white-space:pre-wrap;color:#54=
+5454;width:70%;">Travel</div>
+
+
+</div></div></div>
+<br> <div class=3D"ss-form-question errorbox-good" role=3D"listitem" style=
+=3D"">
+<div dir=3D"auto" class=3D"ss-item ss-item-required ss-text" style=3D"margi=
+n:12px 0;"><div class=3D"ss-form-entry" style=3D"margin-bottom:1.5em;vertic=
+al-align:middle;margin-left:0;margin-top:0;max-width:100%;">
+<label class=3D"ss-q-item-label" for=3D"entry_1967003108" style=3D""><div c=
+lass=3D"ss-q-title" style=3D"display:block;font-weight:bold;margin-top:.83e=
+m;margin-bottom:.83em;">Location:
+<label for=3D"itemView.getDomIdToLabel()" aria-label=3D"(Required field)" s=
+tyle=3D""></label>
+<span class=3D"ss-required-asterisk" aria-hidden=3D"true" style=3D"color:#c=
+43b1d;">*</span></div>
+<div class=3D"ss-q-help ss-secondary-text" dir=3D"auto" style=3D"display:bl=
+ock;margin:.1em 0 .25em 0;color:#666;"></div></label>
+
+<div class=3D"ss-q-text" dir=3D"auto" style=3D"background-color:#eee;max-wi=
+dth:90%;border:1px solid #c0c0c0;padding:5px;white-space:pre-wrap;color:#54=
+5454;width:70%;">Noida</div>
+
+
+</div></div></div>
+<br> <div class=3D"ss-form-question errorbox-good" role=3D"listitem" style=
+=3D"">
+<div dir=3D"auto" class=3D"ss-item  ss-text" style=3D"margin:12px 0;"><div =
+class=3D"ss-form-entry" style=3D"margin-bottom:1.5em;vertical-align:middle;=
+margin-left:0;margin-top:0;max-width:100%;">
+<label class=3D"ss-q-item-label" for=3D"entry_1243866571" style=3D""><div c=
+lass=3D"ss-q-title" style=3D"display:block;font-weight:bold;margin-top:.83e=
+m;margin-bottom:.83em;">Your company URL?
+</div>
+<div class=3D"ss-q-help ss-secondary-text" dir=3D"auto" style=3D"display:bl=
+ock;margin:.1em 0 .25em 0;color:#666;"></div></label>
+
+<div class=3D"ss-q-text" dir=3D"auto" style=3D"background-color:#eee;max-wi=
+dth:90%;border:1px solid #c0c0c0;padding:5px;white-space:pre-wrap;color:#54=
+5454;width:70%;">www.simplifytrips.com</div>
+
+
+</div></div></div>
+<br> <div class=3D"ss-form-question errorbox-good" role=3D"listitem" style=
+=3D"">
+<div dir=3D"auto" class=3D"ss-item ss-item-required ss-checkbox" style=3D"m=
+argin:12px 0;"><div class=3D"ss-form-entry" style=3D"margin-bottom:1.5em;ve=
+rtical-align:middle;margin-left:0;margin-top:0;max-width:100%;">
+<label class=3D"ss-q-item-label" for=3D"entry_730898733" style=3D""><div cl=
+ass=3D"ss-q-title" style=3D"display:block;font-weight:bold;margin-top:.83em=
+;margin-bottom:.83em;">How old is the Startup?
+<label for=3D"itemView.getDomIdToLabel()" aria-label=3D"(Required field)" s=
+tyle=3D""></label>
+<span class=3D"ss-required-asterisk" aria-hidden=3D"true" style=3D"color:#c=
+43b1d;">*</span></div>
+<div class=3D"ss-q-help ss-secondary-text" dir=3D"auto" style=3D"display:bl=
+ock;margin:.1em 0 .25em 0;color:#666;"></div></label>
+
+
+<ul class=3D"ss-choices ss-choices-required" role=3D"group" aria-label=3D"H=
+ow old is the Startup?  " style=3D"list-style:none;padding:0;margin:.5em 0 =
+0;"><li class=3D"ss-choice-item" style=3D"margin:0;line-height:1.3em;paddin=
+g-bottom:.5em;">
+<label><span class=3D"ss-choice-item-control goog-inline-block" style=3D"po=
+sition:relative;display:inline-block;"><input type=3D"checkbox" name=3D"ent=
+ry.248214489" disabled checked value=3D"0- 1Years" id=3D"group_248214489_1"=
+ role=3D"checkbox" class=3D"ss-q-checkbox" aria-required=3D"true" style=3D"=
+"></span>
+<span class=3D"ss-choice-label" style=3D"">0- 1Years</span>
+</label></li> <li class=3D"ss-choice-item" style=3D"margin:0;line-height:1.=
+3em;padding-bottom:.5em;">
+<label><span class=3D"ss-choice-item-control goog-inline-block" style=3D"po=
+sition:relative;display:inline-block;"><input type=3D"checkbox" name=3D"ent=
+ry.248214489" disabled value=3D"1 - 3 Years" id=3D"group_248214489_2" role=
+=3D"checkbox" class=3D"ss-q-checkbox" aria-required=3D"true" style=3D""></s=
+pan>
+<span class=3D"ss-choice-label" style=3D"">1 - 3 Years</span>
+</label></li> <li class=3D"ss-choice-item" style=3D"margin:0;line-height:1.=
+3em;padding-bottom:.5em;"><label><span class=3D"ss-choice-item-control goog=
+-inline-block" style=3D"position:relative;display:inline-block;"><input typ=
+e=3D"checkbox" name=3D"entry.248214489" disabled value=3D"__other_option__"=
+ id=3D"group_248214489_3" role=3D"checkbox" class=3D"ss-q-checkbox ss-q-oth=
+er-toggle" aria-required=3D"true" style=3D""></span>
+<span class=3D"ss-choice-label" style=3D"">Other:</span></label>
+<span class=3D"ss-q-other-container goog-inline-block" style=3D"position:re=
+lative;display:inline-block;"><input type=3D"text" name=3D"entry.248214489.=
+other_option_response" disabled value=3D"" class=3D"ss-q-other" id=3D"entry=
+_248214489_other_option_response" dir=3D"auto" aria-label=3D"Other" style=
+=3D""></span>
+</li></ul>
+
+</div></div></div>
+<br> <div class=3D"ss-form-question errorbox-good" role=3D"listitem" style=
+=3D"">
+<div dir=3D"auto" class=3D"ss-item ss-item-required ss-checkbox" style=3D"m=
+argin:12px 0;"><div class=3D"ss-form-entry" style=3D"margin-bottom:1.5em;ve=
+rtical-align:middle;margin-left:0;margin-top:0;max-width:100%;">
+<label class=3D"ss-q-item-label" for=3D"entry_675256812" style=3D""><div cl=
+ass=3D"ss-q-title" style=3D"display:block;font-weight:bold;margin-top:.83em=
+;margin-bottom:.83em;">Prototype ready
+<label for=3D"itemView.getDomIdToLabel()" aria-label=3D"(Required field)" s=
+tyle=3D""></label>
+<span class=3D"ss-required-asterisk" aria-hidden=3D"true" style=3D"color:#c=
+43b1d;">*</span></div>
+<div class=3D"ss-q-help ss-secondary-text" dir=3D"auto" style=3D"display:bl=
+ock;margin:.1em 0 .25em 0;color:#666;"></div></label>
+
+
+<ul class=3D"ss-choices ss-choices-required" role=3D"group" aria-label=3D"P=
+rototype ready  " style=3D"list-style:none;padding:0;margin:.5em 0 0;"><li =
+class=3D"ss-choice-item" style=3D"margin:0;line-height:1.3em;padding-bottom=
+:.5em;">
+<label><span class=3D"ss-choice-item-control goog-inline-block" style=3D"po=
+sition:relative;display:inline-block;"><input type=3D"checkbox" name=3D"ent=
+ry.2104927799" disabled value=3D"Concept Only" id=3D"group_2104927799_1" ro=
+le=3D"checkbox" class=3D"ss-q-checkbox" aria-required=3D"true" style=3D""><=
+/span>
+<span class=3D"ss-choice-label" style=3D"">Concept Only</span>
+</label></li> <li class=3D"ss-choice-item" style=3D"margin:0;line-height:1.=
+3em;padding-bottom:.5em;">
+<label><span class=3D"ss-choice-item-control goog-inline-block" style=3D"po=
+sition:relative;display:inline-block;"><input type=3D"checkbox" name=3D"ent=
+ry.2104927799" disabled checked value=3D"Full Product ready" id=3D"group_21=
+04927799_2" role=3D"checkbox" class=3D"ss-q-checkbox" aria-required=3D"true=
+" style=3D""></span>
+<span class=3D"ss-choice-label" style=3D"">Full Product ready</span>
+</label></li> <li class=3D"ss-choice-item" style=3D"margin:0;line-height:1.=
+3em;padding-bottom:.5em;">
+<label><span class=3D"ss-choice-item-control goog-inline-block" style=3D"po=
+sition:relative;display:inline-block;"><input type=3D"checkbox" name=3D"ent=
+ry.2104927799" disabled value=3D"Product in Development" id=3D"group_210492=
+7799_3" role=3D"checkbox" class=3D"ss-q-checkbox" aria-required=3D"true" st=
+yle=3D""></span>
+<span class=3D"ss-choice-label" style=3D"">Product in Development</span>
+</label></li> <li class=3D"ss-choice-item" style=3D"margin:0;line-height:1.=
+3em;padding-bottom:.5em;">
+<label><span class=3D"ss-choice-item-control goog-inline-block" style=3D"po=
+sition:relative;display:inline-block;"><input type=3D"checkbox" name=3D"ent=
+ry.2104927799" disabled value=3D"Prototype Ready" id=3D"group_2104927799_4"=
+ role=3D"checkbox" class=3D"ss-q-checkbox" aria-required=3D"true" style=3D"=
+"></span>
+<span class=3D"ss-choice-label" style=3D"">Prototype Ready</span>
+</label></li> <li class=3D"ss-choice-item" style=3D"margin:0;line-height:1.=
+3em;padding-bottom:.5em;">
+<label><span class=3D"ss-choice-item-control goog-inline-block" style=3D"po=
+sition:relative;display:inline-block;"><input type=3D"checkbox" name=3D"ent=
+ry.2104927799" disabled value=3D"TTM Revenue" id=3D"group_2104927799_5" rol=
+e=3D"checkbox" class=3D"ss-q-checkbox" aria-required=3D"true" style=3D""></=
+span>
+<span class=3D"ss-choice-label" style=3D"">TTM Revenue</span>
+</label></li> <li class=3D"ss-choice-item" style=3D"margin:0;line-height:1.=
+3em;padding-bottom:.5em;"><label><span class=3D"ss-choice-item-control goog=
+-inline-block" style=3D"position:relative;display:inline-block;"><input typ=
+e=3D"checkbox" name=3D"entry.2104927799" disabled value=3D"__other_option__=
+" id=3D"group_2104927799_6" role=3D"checkbox" class=3D"ss-q-checkbox ss-q-o=
+ther-toggle" aria-required=3D"true" style=3D""></span>
+<span class=3D"ss-choice-label" style=3D"">Other:</span></label>
+<span class=3D"ss-q-other-container goog-inline-block" style=3D"position:re=
+lative;display:inline-block;"><input type=3D"text" name=3D"entry.2104927799=
+.other_option_response" disabled value=3D"" class=3D"ss-q-other" id=3D"entr=
+y_2104927799_other_option_response" dir=3D"auto" aria-label=3D"Other" style=
+=3D""></span>
+</li></ul>
+
+</div></div></div>
+<br> <div class=3D"ss-form-question errorbox-good" role=3D"listitem" style=
+=3D"">
+<div dir=3D"auto" class=3D"ss-item ss-item-required ss-checkbox" style=3D"m=
+argin:12px 0;"><div class=3D"ss-form-entry" style=3D"margin-bottom:1.5em;ve=
+rtical-align:middle;margin-left:0;margin-top:0;max-width:100%;">
+<label class=3D"ss-q-item-label" for=3D"entry_739385149" style=3D""><div cl=
+ass=3D"ss-q-title" style=3D"display:block;font-weight:bold;margin-top:.83em=
+;margin-bottom:.83em;">Current team size?
+<label for=3D"itemView.getDomIdToLabel()" aria-label=3D"(Required field)" s=
+tyle=3D""></label>
+<span class=3D"ss-required-asterisk" aria-hidden=3D"true" style=3D"color:#c=
+43b1d;">*</span></div>
+<div class=3D"ss-q-help ss-secondary-text" dir=3D"auto" style=3D"display:bl=
+ock;margin:.1em 0 .25em 0;color:#666;"></div></label>
+
+
+<ul class=3D"ss-choices ss-choices-required" role=3D"group" aria-label=3D"C=
+urrent team size?  " style=3D"list-style:none;padding:0;margin:.5em 0 0;"><=
+li class=3D"ss-choice-item" style=3D"margin:0;line-height:1.3em;padding-bot=
+tom:.5em;">
+<label><span class=3D"ss-choice-item-control goog-inline-block" style=3D"po=
+sition:relative;display:inline-block;"><input type=3D"checkbox" name=3D"ent=
+ry.1251363730" disabled checked value=3D"1 - 5" id=3D"group_1251363730_1" r=
+ole=3D"checkbox" class=3D"ss-q-checkbox" aria-required=3D"true" style=3D"">=
+</span>
+<span class=3D"ss-choice-label" style=3D"">1 - 5</span>
+</label></li> <li class=3D"ss-choice-item" style=3D"margin:0;line-height:1.=
+3em;padding-bottom:.5em;">
+<label><span class=3D"ss-choice-item-control goog-inline-block" style=3D"po=
+sition:relative;display:inline-block;"><input type=3D"checkbox" name=3D"ent=
+ry.1251363730" disabled value=3D"5 - 10" id=3D"group_1251363730_2" role=3D"=
+checkbox" class=3D"ss-q-checkbox" aria-required=3D"true" style=3D""></span>
+<span class=3D"ss-choice-label" style=3D"">5 - 10</span>
+</label></li> <li class=3D"ss-choice-item" style=3D"margin:0;line-height:1.=
+3em;padding-bottom:.5em;"><label><span class=3D"ss-choice-item-control goog=
+-inline-block" style=3D"position:relative;display:inline-block;"><input typ=
+e=3D"checkbox" name=3D"entry.1251363730" disabled value=3D"__other_option__=
+" id=3D"group_1251363730_3" role=3D"checkbox" class=3D"ss-q-checkbox ss-q-o=
+ther-toggle" aria-required=3D"true" style=3D""></span>
+<span class=3D"ss-choice-label" style=3D"">Other:</span></label>
+<span class=3D"ss-q-other-container goog-inline-block" style=3D"position:re=
+lative;display:inline-block;"><input type=3D"text" name=3D"entry.1251363730=
+.other_option_response" disabled value=3D"" class=3D"ss-q-other" id=3D"entr=
+y_1251363730_other_option_response" dir=3D"auto" aria-label=3D"Other" style=
+=3D""></span>
+</li></ul>
+
+</div></div></div>
+<br> <div class=3D"ss-form-question errorbox-good" role=3D"listitem" style=
+=3D"">
+<div dir=3D"auto" class=3D"ss-item ss-item-required ss-checkbox" style=3D"m=
+argin:12px 0;"><div class=3D"ss-form-entry" style=3D"margin-bottom:1.5em;ve=
+rtical-align:middle;margin-left:0;margin-top:0;max-width:100%;">
+<label class=3D"ss-q-item-label" for=3D"entry_1507635160" style=3D""><div c=
+lass=3D"ss-q-title" style=3D"display:block;font-weight:bold;margin-top:.83e=
+m;margin-bottom:.83em;">What does your current team configuration look like=
+?
+<label for=3D"itemView.getDomIdToLabel()" aria-label=3D"(Required field)" s=
+tyle=3D""></label>
+<span class=3D"ss-required-asterisk" aria-hidden=3D"true" style=3D"color:#c=
+43b1d;">*</span></div>
+<div class=3D"ss-q-help ss-secondary-text" dir=3D"auto" style=3D"display:bl=
+ock;margin:.1em 0 .25em 0;color:#666;"></div></label>
+
+
+<ul class=3D"ss-choices ss-choices-required" role=3D"group" aria-label=3D"W=
+hat does your current team configuration look like?  " style=3D"list-style:=
+none;padding:0;margin:.5em 0 0;"><li class=3D"ss-choice-item" style=3D"marg=
+in:0;line-height:1.3em;padding-bottom:.5em;">
+<label><span class=3D"ss-choice-item-control goog-inline-block" style=3D"po=
+sition:relative;display:inline-block;"><input type=3D"checkbox" name=3D"ent=
+ry.1549462993" disabled checked value=3D"Growth - Sales / Marketing / Analy=
+tics / Social metrics / Content Creation / Digital marketing" id=3D"group_1=
+549462993_1" role=3D"checkbox" class=3D"ss-q-checkbox" aria-required=3D"tru=
+e" style=3D""></span>
+<span class=3D"ss-choice-label" style=3D"">Growth - Sales / Marketing / Ana=
+lytics / Social metrics / Content Creation / Digital marketing</span>
+</label></li> <li class=3D"ss-choice-item" style=3D"margin:0;line-height:1.=
+3em;padding-bottom:.5em;">
+<label><span class=3D"ss-choice-item-control goog-inline-block" style=3D"po=
+sition:relative;display:inline-block;"><input type=3D"checkbox" name=3D"ent=
+ry.1549462993" disabled value=3D"Tech - Developer / Architect / CTO / QA Le=
+ad" id=3D"group_1549462993_2" role=3D"checkbox" class=3D"ss-q-checkbox" ari=
+a-required=3D"true" style=3D""></span>
+<span class=3D"ss-choice-label" style=3D"">Tech - Developer / Architect / C=
+TO / QA Lead</span>
+</label></li> <li class=3D"ss-choice-item" style=3D"margin:0;line-height:1.=
+3em;padding-bottom:.5em;">
+<label><span class=3D"ss-choice-item-control goog-inline-block" style=3D"po=
+sition:relative;display:inline-block;"><input type=3D"checkbox" name=3D"ent=
+ry.1549462993" disabled value=3D"Product - Product Manager" id=3D"group_154=
+9462993_3" role=3D"checkbox" class=3D"ss-q-checkbox" aria-required=3D"true"=
+ style=3D""></span>
+<span class=3D"ss-choice-label" style=3D"">Product - Product Manager</span>
+</label></li> <li class=3D"ss-choice-item" style=3D"margin:0;line-height:1.=
+3em;padding-bottom:.5em;"><label><span class=3D"ss-choice-item-control goog=
+-inline-block" style=3D"position:relative;display:inline-block;"><input typ=
+e=3D"checkbox" name=3D"entry.1549462993" disabled value=3D"__other_option__=
+" id=3D"group_1549462993_4" role=3D"checkbox" class=3D"ss-q-checkbox ss-q-o=
+ther-toggle" aria-required=3D"true" style=3D""></span>
+<span class=3D"ss-choice-label" style=3D"">Other:</span></label>
+<span class=3D"ss-q-other-container goog-inline-block" style=3D"position:re=
+lative;display:inline-block;"><input type=3D"text" name=3D"entry.1549462993=
+.other_option_response" disabled value=3D"" class=3D"ss-q-other" id=3D"entr=
+y_1549462993_other_option_response" dir=3D"auto" aria-label=3D"Other" style=
+=3D""></span>
+</li></ul>
+
+</div></div></div>
+<br> <div class=3D"ss-form-question errorbox-good" role=3D"listitem" style=
+=3D"">
+<div dir=3D"auto" class=3D"ss-item ss-item-required ss-checkbox" style=3D"m=
+argin:12px 0;"><div class=3D"ss-form-entry" style=3D"margin-bottom:1.5em;ve=
+rtical-align:middle;margin-left:0;margin-top:0;max-width:100%;">
+<label class=3D"ss-q-item-label" for=3D"entry_414868256" style=3D""><div cl=
+ass=3D"ss-q-title" style=3D"display:block;font-weight:bold;margin-top:.83em=
+;margin-bottom:.83em;">Funding status?
+<label for=3D"itemView.getDomIdToLabel()" aria-label=3D"(Required field)" s=
+tyle=3D""></label>
+<span class=3D"ss-required-asterisk" aria-hidden=3D"true" style=3D"color:#c=
+43b1d;">*</span></div>
+<div class=3D"ss-q-help ss-secondary-text" dir=3D"auto" style=3D"display:bl=
+ock;margin:.1em 0 .25em 0;color:#666;"></div></label>
+
+
+<ul class=3D"ss-choices ss-choices-required" role=3D"group" aria-label=3D"F=
+unding status?  " style=3D"list-style:none;padding:0;margin:.5em 0 0;"><li =
+class=3D"ss-choice-item" style=3D"margin:0;line-height:1.3em;padding-bottom=
+:.5em;">
+<label><span class=3D"ss-choice-item-control goog-inline-block" style=3D"po=
+sition:relative;display:inline-block;"><input type=3D"checkbox" name=3D"ent=
+ry.1967502835" disabled checked value=3D"Bootstrapped (self, family and fri=
+ends)" id=3D"group_1967502835_1" role=3D"checkbox" class=3D"ss-q-checkbox" =
+aria-required=3D"true" style=3D""></span>
+<span class=3D"ss-choice-label" style=3D"">Bootstrapped (self, family and f=
+riends)</span>
+</label></li> <li class=3D"ss-choice-item" style=3D"margin:0;line-height:1.=
+3em;padding-bottom:.5em;">
+<label><span class=3D"ss-choice-item-control goog-inline-block" style=3D"po=
+sition:relative;display:inline-block;"><input type=3D"checkbox" name=3D"ent=
+ry.1967502835" disabled value=3D"Seed/ Angel Stage" id=3D"group_1967502835_=
+2" role=3D"checkbox" class=3D"ss-q-checkbox" aria-required=3D"true" style=
+=3D""></span>
+<span class=3D"ss-choice-label" style=3D"">Seed/ Angel Stage</span>
+</label></li> <li class=3D"ss-choice-item" style=3D"margin:0;line-height:1.=
+3em;padding-bottom:.5em;"><label><span class=3D"ss-choice-item-control goog=
+-inline-block" style=3D"position:relative;display:inline-block;"><input typ=
+e=3D"checkbox" name=3D"entry.1967502835" disabled value=3D"__other_option__=
+" id=3D"group_1967502835_3" role=3D"checkbox" class=3D"ss-q-checkbox ss-q-o=
+ther-toggle" aria-required=3D"true" style=3D""></span>
+<span class=3D"ss-choice-label" style=3D"">Other:</span></label>
+<span class=3D"ss-q-other-container goog-inline-block" style=3D"position:re=
+lative;display:inline-block;"><input type=3D"text" name=3D"entry.1967502835=
+.other_option_response" disabled value=3D"" class=3D"ss-q-other" id=3D"entr=
+y_1967502835_other_option_response" dir=3D"auto" aria-label=3D"Other" style=
+=3D""></span>
+</li></ul>
+
+</div></div></div>
+<br> <div class=3D"ss-form-question errorbox-good" role=3D"listitem" style=
+=3D"">
+<div dir=3D"auto" class=3D"ss-item ss-item-required ss-checkbox" style=3D"m=
+argin:12px 0;"><div class=3D"ss-form-entry" style=3D"margin-bottom:1.5em;ve=
+rtical-align:middle;margin-left:0;margin-top:0;max-width:100%;">
+<label class=3D"ss-q-item-label" for=3D"entry_1758356285" style=3D""><div c=
+lass=3D"ss-q-title" style=3D"display:block;font-weight:bold;margin-top:.83e=
+m;margin-bottom:.83em;">What help are you looking for from Startup Tunnel?
+<label for=3D"itemView.getDomIdToLabel()" aria-label=3D"(Required field)" s=
+tyle=3D""></label>
+<span class=3D"ss-required-asterisk" aria-hidden=3D"true" style=3D"color:#c=
+43b1d;">*</span></div>
+<div class=3D"ss-q-help ss-secondary-text" dir=3D"auto" style=3D"display:bl=
+ock;margin:.1em 0 .25em 0;color:#666;"></div></label>
+
+
+<ul class=3D"ss-choices ss-choices-required" role=3D"group" aria-label=3D"W=
+hat help are you looking for from Startup Tunnel?  " style=3D"list-style:no=
+ne;padding:0;margin:.5em 0 0;"><li class=3D"ss-choice-item" style=3D"margin=
+:0;line-height:1.3em;padding-bottom:.5em;">
+<label><span class=3D"ss-choice-item-control goog-inline-block" style=3D"po=
+sition:relative;display:inline-block;"><input type=3D"checkbox" name=3D"ent=
+ry.1503476190" disabled checked value=3D"Funding" id=3D"group_1503476190_1"=
+ role=3D"checkbox" class=3D"ss-q-checkbox" aria-required=3D"true" style=3D"=
+"></span>
+<span class=3D"ss-choice-label" style=3D"">Funding</span>
+</label></li> <li class=3D"ss-choice-item" style=3D"margin:0;line-height:1.=
+3em;padding-bottom:.5em;">
+<label><span class=3D"ss-choice-item-control goog-inline-block" style=3D"po=
+sition:relative;display:inline-block;"><input type=3D"checkbox" name=3D"ent=
+ry.1503476190" disabled value=3D"Incubation" id=3D"group_1503476190_2" role=
+=3D"checkbox" class=3D"ss-q-checkbox" aria-required=3D"true" style=3D""></s=
+pan>
+<span class=3D"ss-choice-label" style=3D"">Incubation</span>
+</label></li> <li class=3D"ss-choice-item" style=3D"margin:0;line-height:1.=
+3em;padding-bottom:.5em;">
+<label><span class=3D"ss-choice-item-control goog-inline-block" style=3D"po=
+sition:relative;display:inline-block;"><input type=3D"checkbox" name=3D"ent=
+ry.1503476190" disabled value=3D"Mentorship" id=3D"group_1503476190_3" role=
+=3D"checkbox" class=3D"ss-q-checkbox" aria-required=3D"true" style=3D""></s=
+pan>
+<span class=3D"ss-choice-label" style=3D"">Mentorship</span>
+</label></li> <li class=3D"ss-choice-item" style=3D"margin:0;line-height:1.=
+3em;padding-bottom:.5em;"><label><span class=3D"ss-choice-item-control goog=
+-inline-block" style=3D"position:relative;display:inline-block;"><input typ=
+e=3D"checkbox" name=3D"entry.1503476190" disabled value=3D"__other_option__=
+" id=3D"group_1503476190_4" role=3D"checkbox" class=3D"ss-q-checkbox ss-q-o=
+ther-toggle" aria-required=3D"true" style=3D""></span>
+<span class=3D"ss-choice-label" style=3D"">Other:</span></label>
+<span class=3D"ss-q-other-container goog-inline-block" style=3D"position:re=
+lative;display:inline-block;"><input type=3D"text" name=3D"entry.1503476190=
+.other_option_response" disabled value=3D"" class=3D"ss-q-other" id=3D"entr=
+y_1503476190_other_option_response" dir=3D"auto" aria-label=3D"Other" style=
+=3D""></span>
+</li></ul>
+
+</div></div></div>
+<br> <div class=3D"ss-form-question errorbox-good" role=3D"listitem" style=
+=3D"">
+<div dir=3D"auto" class=3D"ss-item  ss-text" style=3D"margin:12px 0;"><div =
+class=3D"ss-form-entry" style=3D"margin-bottom:1.5em;vertical-align:middle;=
+margin-left:0;margin-top:0;max-width:100%;">
+<label class=3D"ss-q-item-label" for=3D"entry_1982413496" style=3D""><div c=
+lass=3D"ss-q-title" style=3D"display:block;font-weight:bold;margin-top:.83e=
+m;margin-bottom:.83em;">How did you hear about us?
+</div>
+<div class=3D"ss-q-help ss-secondary-text" dir=3D"auto" style=3D"display:bl=
+ock;margin:.1em 0 .25em 0;color:#666;"></div></label>
+
+<div class=3D"ss-q-text" dir=3D"auto" style=3D"background-color:#eee;max-wi=
+dth:90%;border:1px solid #c0c0c0;padding:5px;white-space:pre-wrap;color:#54=
+5454;width:70%;">Facebook</div>
+
+
+</div></div></div>
+<br></form></div></div></td></tr><tr height=3D"24px"></tr></tbody></table><=
+/div><table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" style=3D"m=
+ax-width: 672px; min-width: 154px;" width=3D"100%" role=3D"presentation"><t=
+body><tr height=3D"24px"><td></td></tr><tr><td><a href=3D"https://docs.goog=
+le.com/forms?usp=3Dmail_form_link" style=3D"color: #616161; font-size: 13px=
+;">Create your own Google Form</a></td></tr></tbody></table></div></body></=
+html>
+--001a1143c6ba7e0566054dbe3f3e--

@@ -1,0 +1,152 @@
+Return-Path: <cura17.nitw@gmail.com>
+Delivered-To: info@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id odGwANzOlVhzxgkAwZeyeg
+	for <info@simplifytrips.com>; Sat, 04 Feb 2017 05:53:48 -0700
+Return-path: <cura17.nitw@gmail.com>
+Envelope-to: info@simplifytrips.com
+Delivery-date: Sat, 04 Feb 2017 05:53:48 -0700
+Received: from mail-wm0-f49.google.com ([74.125.82.49]:38124)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.87)
+	(envelope-from <cura17.nitw@gmail.com>)
+	id 1cZzqd-002h5p-L5
+	for info@simplifytrips.com; Sat, 04 Feb 2017 05:53:47 -0700
+Received: by mail-wm0-f49.google.com with SMTP id r141so65440199wmg.1
+        for <info@simplifytrips.com>; Sat, 04 Feb 2017 04:53:27 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=G+kVfn2lGGuT3ogOlGskQFCgGVCa/r44OkKGQDqd7kA=;
+        b=ApxD7HiKdlZSsoMv8OE3UToIZ9VBVXKQm6qx9BQbUxi8LJuKF/Tn0Glgvxvlbgg1fa
+         f6C4pGfKEVZAN/xVq+gcbXbf8ExFdGcZbf+vsx8XcJVUd8BBOEyfNKqIvuHiPTmqgifE
+         jviQpyEqD6Oivjt50CIqYidH46THroRmEAc4ObdcT1D4bGVOB5kLVsUA7cpQrt9V7cYz
+         NVxLoYIyCOdGaBSFflze3aX6hT3KJnKQJKJCRlIDE/lzXul4f9lafK3dpUzcaP8mjMoh
+         r106KBPYZoX5e69EaNzH6ueustzhRmlgoB5LhgU5AmwY/rb5i6nlfCqZyXfnEzzdBb7e
+         +3bg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=G+kVfn2lGGuT3ogOlGskQFCgGVCa/r44OkKGQDqd7kA=;
+        b=SEG8Cy/sT2a78YD8l4iCWrgT1SzkSiRZdHBEQGaLFwbPV0Gs1GgKeE1KK8KGFMm5wr
+         hpAgKPJTTv7r+vG7oZG2+OqVRDdSnPnvqEaQJHiekSwOP9ZHnilBMchbMgqrB+Rfp34w
+         ZKdEvE38bC12QLjtcTZSfAo/b8j0cMJ0fGDavYBNA2RTESgLDqwnYVfp3Ecjclm++du6
+         xEmia1url5lDrxO6Ost3gaaEwABvGYfnesY5SeRsOcXTL6NN9mZvq+s6bhcWoDthoCRl
+         SKSJYz+Vx+jG23m1LECyuy9yH7lbyLN6vCg8stF9+GvBAg7TC3EF1DZOqiEGSdXaFjM0
+         HoeA==
+X-Gm-Message-State: AMke39mjofxOJjpJOzYh3LxkjiB5XZfYnH58JpUJWAW4WGoUe8oh2RuJigzIKkS3+cM7ByDjrb/JVFwHredDnA==
+X-Received: by 10.28.30.79 with SMTP id e76mr1784889wme.96.1486212784601; Sat,
+ 04 Feb 2017 04:53:04 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.194.124.203 with HTTP; Sat, 4 Feb 2017 04:53:04 -0800 (PST)
+From: "CURA'17 NIT WARANGAL" <cura17.nitw@gmail.com>
+Date: Sat, 4 Feb 2017 18:23:04 +0530
+Message-ID: <CAG12ob94aTGcj2KAhH4P1EP0sbWjNdg6Ldvj2+D8gEmSM5pXKA@mail.gmail.com>
+Subject: =?UTF-8?Q?Invitation_for_CURA=E2=80=9917_from_SCHOOL_OF_MANAGEMENT=2C_?=
+	=?UTF-8?Q?NIT_WARANGAL?=
+To: info@simplifytrips.com
+Content-Type: multipart/alternative; boundary=001a114b2de41643de0547b3e130
+
+--001a114b2de41643de0547b3e130
+Content-Type: text/plain; charset=UTF-8
+
+Dear Sir,
+
+Greetings  from School of Management, NIT Warangal !!
+
+It gives us a great pleasure in extending you an invitation to associate
+with the latest edition of *CURA'17, a management symposium to be held on
+February 18 - 19, 2017 by School of Management, NIT Warangal.*
+
+CURA provides a brilliant platform for the budding managers to amplify &
+display their phenomenal skills. The event happens for two days where the
+aspirants are explored to the Sudoku's directly from the industry. CURA has
+been gained its own reputation with its successful conduction of the events
+over the years.
+
+Previous CURA event witnessed students from the various prestigious
+management institutions and other prominent B-Schools. This year we are
+expecting a footfall of over 500. Considering this footfall along with the
+students of NIT Warangal which is near to 5000, it would be great chance to
+create brand awareness.
+
+The success of the event depends on the generous support of our sponsors to
+help fulfill all requirements and top level facilities for the event.
+Hence, We invite your esteemed Organisation to participate and be
+associated with us.Other ideas and contributions are also welcomed.
+
+The details of the budget and other associations shall be discussed for
+your reference whenever needed. We look forward for your association with
+our campus & the event.
+
+Hoping for an affirmative response.
+
+Thanks & Regards,
+
+Team CURA,
+
+Mob: +91 9154574141
+
+--001a114b2de41643de0547b3e130
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p style=3D"color:rgb(0,0,0);font-family:verdana,arial,hel=
+vetica,sans-serif;font-size:13.3333px"><span style=3D"color:rgb(34,34,34)">=
+<span style=3D"font-family:arial,sans-serif"><span style=3D"font-size:12.8p=
+x">Dear Sir,</span></span></span><br></p><p style=3D"color:rgb(0,0,0);font-=
+family:verdana,arial,helvetica,sans-serif;font-size:13.3333px"><span style=
+=3D"color:rgb(34,34,34)"><span style=3D"font-family:arial,sans-serif"><span=
+ style=3D"font-size:12.8px">Greetings =C2=A0from School of Management, NIT =
+Warangal !!</span></span></span><br></p><p style=3D"color:rgb(0,0,0);font-f=
+amily:verdana,arial,helvetica,sans-serif;font-size:13.3333px"><span style=
+=3D"color:rgb(34,34,34)"><span style=3D"font-family:arial,sans-serif"><span=
+ style=3D"font-size:12.8px">It gives us a great pleasure in extending you a=
+n invitation to associate with the latest edition of=C2=A0<b>CURA&#39;17, a=
+ management symposium to be held on February 18 - 19, 2017 by School of Man=
+agement, NIT Warangal.</b></span></span></span><br></p><p style=3D"color:rg=
+b(0,0,0);font-family:verdana,arial,helvetica,sans-serif;font-size:13.3333px=
+"><span style=3D"color:rgb(34,34,34)"><span style=3D"font-family:arial,sans=
+-serif"><span style=3D"font-size:12.8px">CURA provides a brilliant platform=
+ for the budding managers to amplify &amp; display their phenomenal skills.=
+ The event happens for two days where the aspirants are explored to the Sud=
+oku&#39;s directly from the industry. CURA has been gained its own reputati=
+on with its successful conduction of the events over the years.</span></spa=
+n></span><br></p><p style=3D"color:rgb(0,0,0);font-family:verdana,arial,hel=
+vetica,sans-serif;font-size:13.3333px"><span style=3D"color:rgb(34,34,34)">=
+<span style=3D"font-family:arial,sans-serif"><span style=3D"font-size:12.8p=
+x">Previous CURA event witnessed students from the various prestigious mana=
+gement institutions and other prominent B-Schools. This year we are expecti=
+ng a footfall of over 500. Considering this footfall along with the student=
+s of NIT Warangal which is near to 5000, it would be great chance to create=
+ brand awareness.=C2=A0</span></span></span><br></p><p style=3D"color:rgb(0=
+,0,0);font-family:verdana,arial,helvetica,sans-serif;font-size:13.3333px"><=
+span style=3D"color:rgb(34,34,34)"><span style=3D"font-family:arial,sans-se=
+rif"><span style=3D"font-size:12.8px">The success of the event depends on t=
+he generous support of our=C2=A0<span class=3D"gmail-m_-1951870335668443948=
+gmail-il">sponsors</span>=C2=A0to help fulfill all requirements and top lev=
+el facilities for the event. Hence, We invite your esteemed Organisation to=
+ participate and be associated with us.Other ideas and contributions are al=
+so welcomed.</span></span></span><br></p><p style=3D"color:rgb(0,0,0);font-=
+family:verdana,arial,helvetica,sans-serif;font-size:13.3333px"><span style=
+=3D"color:rgb(34,34,34)"><span style=3D"font-family:arial,sans-serif"><span=
+ style=3D"font-size:12.8px">The details of the budget and other association=
+s shall be discussed for your reference whenever needed. We look forward fo=
+r your association with our campus &amp; the event.</span></span></span><br=
+></p><p style=3D"color:rgb(0,0,0);font-family:verdana,arial,helvetica,sans-=
+serif;font-size:13.3333px"><span style=3D"color:rgb(34,34,34)"><span style=
+=3D"font-family:arial,sans-serif"><span style=3D"font-size:12.8px">Hoping f=
+or an affirmative response.</span></span></span><br></p><p style=3D"color:r=
+gb(0,0,0);font-family:verdana,arial,helvetica,sans-serif;font-size:13.3333p=
+x"><span style=3D"color:rgb(34,34,34)"><span style=3D"font-family:arial,san=
+s-serif"><span style=3D"font-size:12.8px">Thanks &amp; Regards,</span></spa=
+n></span><br></p><p style=3D"color:rgb(0,0,0);font-family:verdana,arial,hel=
+vetica,sans-serif;font-size:13.3333px"><span style=3D"color:rgb(34,34,34)">=
+<span style=3D"font-family:arial,sans-serif"><span style=3D"font-size:12.8p=
+x">Team CURA,</span></span></span><br></p><p style=3D"color:rgb(0,0,0);font=
+-family:verdana,arial,helvetica,sans-serif;font-size:13.3333px"><span style=
+=3D"color:rgb(34,34,34)"><span style=3D"font-family:arial,sans-serif"><span=
+ style=3D"font-size:12.8px">Mob: +91 9154574141</span></span></span></p></d=
+iv>
+
+--001a114b2de41643de0547b3e130--

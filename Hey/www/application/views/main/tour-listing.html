@@ -1,0 +1,825 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Welcome to Simplifytrips.com</title>
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"/>
+
+</head>
+<body>
+<header style="position: relative;">  
+  <div class="header-sec">
+    <nav class="">
+    <div class="">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#">
+          <img src="images/logo.png" alt="" title="" class="img-responsive">
+        </a>
+      </div>
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">        
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="#">Link</a></li>
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="#">Action</a></li>
+              <li><a href="#">Another action</a></li>
+              <li><a href="#">Something else here</a></li>
+              <li role="separator" class="divider"></li>
+              <li><a href="#">Separated link</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>    
+  </div>
+</header>
+<section class="inner-search">
+  <div class="container">
+  	<div class="inner-search-sec">
+  	  <div class="row">
+  	  	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 col-lg-offset-2">
+  	  	  <div class="inner-search-info">
+  	  	  	<div class="row">
+  	  	  	  <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
+  	  	  	  	<input type="text" class="inner-search-text" placeholder="Search Your Trips">
+  	  	  	  </div>
+  	  	  	  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+  	  	  	  	<button class="inner-search-btn" type="button">Search</button>
+  	  	  	  </div>
+  	  	  	</div>			
+		  </div>
+		  <div class="row">
+		  	<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+		  	  <input type="text" class="datetimepicker" id="datetimepicker1"/>
+		  	</div>
+		  	<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+		  	  <input type="text" class="datetimepicker" id="datetimepicker2"/>
+		  	</div>
+		  	<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+		  	  <input type="text" class="datetimepicker" id="datetimepicker8"/>
+		  	</div>
+		  </div>
+  	  	</div>
+  	  </div>
+  	</div>
+  </div>
+</section>
+<section class="listing">
+  <div class="container">
+  	<div class="listing-sec">
+  	  <div class="row">
+  	  	<div class="col-lg-3 col-md-3 col-sm-3 col-lg-12">
+  	  	  <div class="listing-left">
+  	  	  	<img src="images/filter.jpg" alt="" class="img-responsive">
+  	  	  </div>
+  	  	</div>
+  	  	<div class="col-lg-9 col-md-9 col-sm-9 col-lg-12">
+  	  	  <div class="listing-right">
+  	  	  	<div class="listing-sort">
+  	  	  	  <div class="row">
+  	  	  	  	<div class="col-lg-6 col-md-6 col-sm-6 col-lg-12">
+  	  	  	  	  <div class="sort-left">
+  	  	  	  	  	<p>206 out of 403 Trips</p>
+  	  	  	  	  </div>
+  	  	  	  	</div>
+  	  	  	  	<div class="col-lg-6 col-md-6 col-sm-6 col-lg-12">
+  	  	  	  	  <div class="sort-right">
+  	  	  	  	  	<div class="row">
+  	  	  	  	  	  <div class="col-lg-6 col-md-6 col-sm-6 col-lg-12">
+  	  	  	  	  	  	<div class="sort-popularity">
+  	  	  	  	  	  	  <select class="form-control">
+            						    <option>Sort by Popularity</option>
+            						    <option>2</option>
+            						    <option>3</option>
+            						    <option>4</option>
+            						    <option>5</option>
+            						  </select>
+  	  	  	  	  	  	</div>
+  	  	  	  	  	  </div>
+  	  	  	  	  	  <div class="col-lg-6 col-md-6 col-sm-6 col-lg-12">
+  	  	  	  	  	  	<div class="share-social">
+  	  	  	  	  	  	  <select class="form-control">
+            						    <option>Share on Social</option>
+            						    <option>2</option>
+            						    <option>3</option>
+            						    <option>4</option>
+            						    <option>5</option>
+            						  </select>
+  	  	  	  	  	  	</div>
+  	  	  	  	  	  </div>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	</div>
+  	  	  	  </div>
+  	  	  	</div>
+  	  	  	<div class="listing-info">
+  	  	  	  <div class="listing-info-sec">
+  	  	  	  	<div class="row">
+  	  	  	  	  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+  	  	  	  	  	<div class="listing-img">
+  	  	  	  	  	  <figure>
+  	  	  	  	  	  	<img src="images/img-1.jpg" alt="" title="" class="img-responsive">
+  	  	  	  	  	  	<figcaption>
+  	  	  	  	  	  	  <div class="tour-add-list">
+  	  	  	  	  	  	  	<i class="fa fa-heart" aria-hidden="true"></i>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	</figcaption>
+  	  	  	  	  	  </figure>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+  	  	  	  	  	<div class="listing-details">
+  	  	  	  	  	  <h2 class="tour-name">Honeymoon Tour Packages...</h2>
+  	  	  	  	  	  <div class="tour-rating">
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star-o" aria-hidden="true"></i>
+  	  	  	  	  	  </div>
+  	  	  	  	  	  <div class="tour-location"><i class="fa fa-map-marker" aria-hidden="true"></i> Dehradun, 6.6 km to City centre</div>
+  	  	  	  	  	  <div class="tour-reviews"><i class="fa fa-smile-o" aria-hidden="true"></i> 75 / 100 (179 reviews)</div>
+  	  	  	  	  	  <div class="tour-inclusions">
+  	  	  	  	  	  	<div class="row">
+  	  	  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+  	  	  	  	  	  	  	<div class="tour-inclusions-info">
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-icon"><i class="fa fa-bed" aria-hidden="true"></i></div>
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-title">Accommodation</div>
+  	  	  	  	  	  	  	</div>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+  	  	  	  	  	  	  	<div class="tour-inclusions-info">
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-icon"><i class="fa fa-car" aria-hidden="true"></i></div>
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-title">Transfers</div>
+  	  	  	  	  	  	  	</div>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+  	  	  	  	  	  	  	<div class="tour-inclusions-info">
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-icon"><i class="fa fa-eye" aria-hidden="true"></i></div>
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-title">Sightseeing</div>
+  	  	  	  	  	  	  	</div>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	</div>
+  	  	  	  	  	  </div>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	  <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+  	  	  	  	  	<div class="tour-orgnizer">
+  	  	  	  	  	  <ul class="tour-organizer-list">
+  	  	  	  	  	  	<li><a href="">Booking.com<span>555.00</span></a></li>
+  	  	  	  	  	  	<li><a href="">Tours.com<span>876.00</span></a></li>
+  	  	  	  	  	  	<li><a href="">ClearTrip<span>342.00</span></a></li>
+  	  	  	  	  	  </ul>
+  	  	  	  	  	  <a href="" class="tour-more-deals">More Deals : 12</a>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+  	  	  	  	  	<div class="tour-booking">
+  	  	  	  	  	  <div class="tour-provider">MakeMyTrip</div>
+  	  	  	  	  	  <div class="tour-price"><del>9,654</del>7,895</div>
+  	  	  	  	  	  <div class="brck-optn">Breakfast included</div>
+  	  	  	  	  	  <a href="" class="tour-view-details">View Deal</a>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	</div>  	  	  	  	
+  	  	  	  </div>  	  	  		
+  	  	  	</div>
+  	  	  	<div class="listing-info">
+  	  	  	  <div class="listing-info-sec">
+  	  	  	  	<div class="row">
+  	  	  	  	  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+  	  	  	  	  	<div class="listing-img">
+  	  	  	  	  	  <figure>
+  	  	  	  	  	  	<img src="images/img-2.jpg" alt="" title="" class="img-responsive">
+  	  	  	  	  	  	<figcaption>
+  	  	  	  	  	  	  <div class="tour-add-list">
+  	  	  	  	  	  	  	<i class="fa fa-heart" aria-hidden="true"></i>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	</figcaption>
+  	  	  	  	  	  </figure>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+  	  	  	  	  	<div class="listing-details">
+  	  	  	  	  	  <h2 class="tour-name">Honeymoon Tour Packages...</h2>
+  	  	  	  	  	  <div class="tour-rating">
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star-o" aria-hidden="true"></i>
+  	  	  	  	  	  </div>
+  	  	  	  	  	  <div class="tour-location"><i class="fa fa-map-marker" aria-hidden="true"></i> Dehradun, 6.6 km to City centre</div>
+  	  	  	  	  	  <div class="tour-reviews"><i class="fa fa-smile-o" aria-hidden="true"></i> 75 / 100 (179 reviews)</div>
+  	  	  	  	  	  <div class="tour-inclusions">
+  	  	  	  	  	  	<div class="row">
+  	  	  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+  	  	  	  	  	  	  	<div class="tour-inclusions-info">
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-icon"><i class="fa fa-bed" aria-hidden="true"></i></div>
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-title">Accommodation</div>
+  	  	  	  	  	  	  	</div>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+  	  	  	  	  	  	  	<div class="tour-inclusions-info">
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-icon"><i class="fa fa-car" aria-hidden="true"></i></div>
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-title">Transfers</div>
+  	  	  	  	  	  	  	</div>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+  	  	  	  	  	  	  	<div class="tour-inclusions-info">
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-icon"><i class="fa fa-eye" aria-hidden="true"></i></div>
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-title">Sightseeing</div>
+  	  	  	  	  	  	  	</div>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	</div>
+  	  	  	  	  	  </div>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	  <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+  	  	  	  	  	<div class="tour-orgnizer">
+  	  	  	  	  	  <ul class="tour-organizer-list">
+  	  	  	  	  	  	<li><a href="">Booking.com<span>555.00</span></a></li>
+  	  	  	  	  	  	<li><a href="">Tours.com<span>876.00</span></a></li>
+  	  	  	  	  	  	<li><a href="">ClearTrip<span>342.00</span></a></li>
+  	  	  	  	  	  </ul>
+  	  	  	  	  	  <a href="" class="tour-more-deals">More Deals : 12</a>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+  	  	  	  	  	<div class="tour-booking">
+  	  	  	  	  	  <div class="tour-provider">MakeMyTrip</div>
+  	  	  	  	  	  <div class="tour-price"><del>9,654</del>7,895</div>
+  	  	  	  	  	  <div class="brck-optn">Breakfast included</div>
+  	  	  	  	  	  <a href="" class="tour-view-details">View Deal</a>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	</div>  	  	  	  	
+  	  	  	  </div>  	  	  		
+  	  	  	</div>
+  	  	  	<div class="listing-info">
+  	  	  	  <div class="listing-info-sec">
+  	  	  	  	<div class="row">
+  	  	  	  	  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+  	  	  	  	  	<div class="listing-img">
+  	  	  	  	  	  <figure>
+  	  	  	  	  	  	<img src="images/img-3.jpg" alt="" title="" class="img-responsive">
+  	  	  	  	  	  	<figcaption>
+  	  	  	  	  	  	  <div class="tour-add-list">
+  	  	  	  	  	  	  	<i class="fa fa-heart" aria-hidden="true"></i>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	</figcaption>
+  	  	  	  	  	  </figure>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+  	  	  	  	  	<div class="listing-details">
+  	  	  	  	  	  <h2 class="tour-name">Honeymoon Tour Packages...</h2>
+  	  	  	  	  	  <div class="tour-rating">
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star-o" aria-hidden="true"></i>
+  	  	  	  	  	  </div>
+  	  	  	  	  	  <div class="tour-location"><i class="fa fa-map-marker" aria-hidden="true"></i> Dehradun, 6.6 km to City centre</div>
+  	  	  	  	  	  <div class="tour-reviews"><i class="fa fa-smile-o" aria-hidden="true"></i> 75 / 100 (179 reviews)</div>
+  	  	  	  	  	  <div class="tour-inclusions">
+  	  	  	  	  	  	<div class="row">
+  	  	  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+  	  	  	  	  	  	  	<div class="tour-inclusions-info">
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-icon"><i class="fa fa-bed" aria-hidden="true"></i></div>
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-title">Accommodation</div>
+  	  	  	  	  	  	  	</div>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+  	  	  	  	  	  	  	<div class="tour-inclusions-info">
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-icon"><i class="fa fa-car" aria-hidden="true"></i></div>
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-title">Transfers</div>
+  	  	  	  	  	  	  	</div>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+  	  	  	  	  	  	  	<div class="tour-inclusions-info">
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-icon"><i class="fa fa-eye" aria-hidden="true"></i></div>
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-title">Sightseeing</div>
+  	  	  	  	  	  	  	</div>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	</div>
+  	  	  	  	  	  </div>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	  <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+  	  	  	  	  	<div class="tour-orgnizer">
+  	  	  	  	  	  <ul class="tour-organizer-list">
+  	  	  	  	  	  	<li><a href="">Booking.com<span>555.00</span></a></li>
+  	  	  	  	  	  	<li><a href="">Tours.com<span>876.00</span></a></li>
+  	  	  	  	  	  	<li><a href="">ClearTrip<span>342.00</span></a></li>
+  	  	  	  	  	  </ul>
+  	  	  	  	  	  <a href="" class="tour-more-deals">More Deals : 12</a>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+  	  	  	  	  	<div class="tour-booking">
+  	  	  	  	  	  <div class="tour-provider">MakeMyTrip</div>
+  	  	  	  	  	  <div class="tour-price"><del>9,654</del>7,895</div>
+  	  	  	  	  	  <div class="brck-optn">Breakfast included</div>
+  	  	  	  	  	  <a href="" class="tour-view-details">View Deal</a>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	</div>  	  	  	  	
+  	  	  	  </div>  	  	  		
+  	  	  	</div>
+  	  	  	<div class="listing-info">
+  	  	  	  <div class="listing-info-sec">
+  	  	  	  	<div class="row">
+  	  	  	  	  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+  	  	  	  	  	<div class="listing-img">
+  	  	  	  	  	  <figure>
+  	  	  	  	  	  	<img src="images/img-4.jpg" alt="" title="" class="img-responsive">
+  	  	  	  	  	  	<figcaption>
+  	  	  	  	  	  	  <div class="tour-add-list">
+  	  	  	  	  	  	  	<i class="fa fa-heart" aria-hidden="true"></i>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	</figcaption>
+  	  	  	  	  	  </figure>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+  	  	  	  	  	<div class="listing-details">
+  	  	  	  	  	  <h2 class="tour-name">Honeymoon Tour Packages...</h2>
+  	  	  	  	  	  <div class="tour-rating">
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star-o" aria-hidden="true"></i>
+  	  	  	  	  	  </div>
+  	  	  	  	  	  <div class="tour-location"><i class="fa fa-map-marker" aria-hidden="true"></i> Dehradun, 6.6 km to City centre</div>
+  	  	  	  	  	  <div class="tour-reviews"><i class="fa fa-smile-o" aria-hidden="true"></i> 75 / 100 (179 reviews)</div>
+  	  	  	  	  	  <div class="tour-inclusions">
+  	  	  	  	  	  	<div class="row">
+  	  	  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+  	  	  	  	  	  	  	<div class="tour-inclusions-info">
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-icon"><i class="fa fa-bed" aria-hidden="true"></i></div>
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-title">Accommodation</div>
+  	  	  	  	  	  	  	</div>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+  	  	  	  	  	  	  	<div class="tour-inclusions-info">
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-icon"><i class="fa fa-car" aria-hidden="true"></i></div>
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-title">Transfers</div>
+  	  	  	  	  	  	  	</div>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+  	  	  	  	  	  	  	<div class="tour-inclusions-info">
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-icon"><i class="fa fa-eye" aria-hidden="true"></i></div>
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-title">Sightseeing</div>
+  	  	  	  	  	  	  	</div>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	</div>
+  	  	  	  	  	  </div>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	  <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+  	  	  	  	  	<div class="tour-orgnizer">
+  	  	  	  	  	  <ul class="tour-organizer-list">
+  	  	  	  	  	  	<li><a href="">Booking.com<span>555.00</span></a></li>
+  	  	  	  	  	  	<li><a href="">Tours.com<span>876.00</span></a></li>
+  	  	  	  	  	  	<li><a href="">ClearTrip<span>342.00</span></a></li>
+  	  	  	  	  	  </ul>
+  	  	  	  	  	  <a href="" class="tour-more-deals">More Deals : 12</a>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+  	  	  	  	  	<div class="tour-booking">
+  	  	  	  	  	  <div class="tour-provider">MakeMyTrip</div>
+  	  	  	  	  	  <div class="tour-price"><del>9,654</del>7,895</div>
+  	  	  	  	  	  <div class="brck-optn">Breakfast included</div>
+  	  	  	  	  	  <a href="" class="tour-view-details">View Deal</a>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	</div>  	  	  	  	
+  	  	  	  </div>  	  	  		
+  	  	  	</div>
+  	  	  	<div class="listing-info">
+  	  	  	  <div class="listing-info-sec">
+  	  	  	  	<div class="row">
+  	  	  	  	  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+  	  	  	  	  	<div class="listing-img">
+  	  	  	  	  	  <figure>
+  	  	  	  	  	  	<img src="images/img-5.jpg" alt="" title="" class="img-responsive">
+  	  	  	  	  	  	<figcaption>
+  	  	  	  	  	  	  <div class="tour-add-list">
+  	  	  	  	  	  	  	<i class="fa fa-heart" aria-hidden="true"></i>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	</figcaption>
+  	  	  	  	  	  </figure>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+  	  	  	  	  	<div class="listing-details">
+  	  	  	  	  	  <h2 class="tour-name">Honeymoon Tour Packages...</h2>
+  	  	  	  	  	  <div class="tour-rating">
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star-o" aria-hidden="true"></i>
+  	  	  	  	  	  </div>
+  	  	  	  	  	  <div class="tour-location"><i class="fa fa-map-marker" aria-hidden="true"></i> Dehradun, 6.6 km to City centre</div>
+  	  	  	  	  	  <div class="tour-reviews"><i class="fa fa-smile-o" aria-hidden="true"></i> 75 / 100 (179 reviews)</div>
+  	  	  	  	  	  <div class="tour-inclusions">
+  	  	  	  	  	  	<div class="row">
+  	  	  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+  	  	  	  	  	  	  	<div class="tour-inclusions-info">
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-icon"><i class="fa fa-bed" aria-hidden="true"></i></div>
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-title">Accommodation</div>
+  	  	  	  	  	  	  	</div>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+  	  	  	  	  	  	  	<div class="tour-inclusions-info">
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-icon"><i class="fa fa-car" aria-hidden="true"></i></div>
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-title">Transfers</div>
+  	  	  	  	  	  	  	</div>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+  	  	  	  	  	  	  	<div class="tour-inclusions-info">
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-icon"><i class="fa fa-eye" aria-hidden="true"></i></div>
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-title">Sightseeing</div>
+  	  	  	  	  	  	  	</div>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	</div>
+  	  	  	  	  	  </div>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	  <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+  	  	  	  	  	<div class="tour-orgnizer">
+  	  	  	  	  	  <ul class="tour-organizer-list">
+  	  	  	  	  	  	<li><a href="">Booking.com<span>555.00</span></a></li>
+  	  	  	  	  	  	<li><a href="">Tours.com<span>876.00</span></a></li>
+  	  	  	  	  	  	<li><a href="">ClearTrip<span>342.00</span></a></li>
+  	  	  	  	  	  </ul>
+  	  	  	  	  	  <a href="" class="tour-more-deals">More Deals : 12</a>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+  	  	  	  	  	<div class="tour-booking">
+  	  	  	  	  	  <div class="tour-provider">MakeMyTrip</div>
+  	  	  	  	  	  <div class="tour-price"><del>9,654</del>7,895</div>
+  	  	  	  	  	  <div class="brck-optn">Breakfast included</div>
+  	  	  	  	  	  <a href="" class="tour-view-details">View Deal</a>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	</div>  	  	  	  	
+  	  	  	  </div>  	  	  		
+  	  	  	</div>
+  	  	  	<div class="listing-info">
+  	  	  	  <div class="listing-info-sec">
+  	  	  	  	<div class="row">
+  	  	  	  	  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+  	  	  	  	  	<div class="listing-img">
+  	  	  	  	  	  <figure>
+  	  	  	  	  	  	<img src="images/img-6.jpg" alt="" title="" class="img-responsive">
+  	  	  	  	  	  	<figcaption>
+  	  	  	  	  	  	  <div class="tour-add-list">
+  	  	  	  	  	  	  	<i class="fa fa-heart" aria-hidden="true"></i>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	</figcaption>
+  	  	  	  	  	  </figure>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+  	  	  	  	  	<div class="listing-details">
+  	  	  	  	  	  <h2 class="tour-name">Honeymoon Tour Packages...</h2>
+  	  	  	  	  	  <div class="tour-rating">
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star-o" aria-hidden="true"></i>
+  	  	  	  	  	  </div>
+  	  	  	  	  	  <div class="tour-location"><i class="fa fa-map-marker" aria-hidden="true"></i> Dehradun, 6.6 km to City centre</div>
+  	  	  	  	  	  <div class="tour-reviews"><i class="fa fa-smile-o" aria-hidden="true"></i> 75 / 100 (179 reviews)</div>
+  	  	  	  	  	  <div class="tour-inclusions">
+  	  	  	  	  	  	<div class="row">
+  	  	  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+  	  	  	  	  	  	  	<div class="tour-inclusions-info">
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-icon"><i class="fa fa-bed" aria-hidden="true"></i></div>
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-title">Accommodation</div>
+  	  	  	  	  	  	  	</div>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+  	  	  	  	  	  	  	<div class="tour-inclusions-info">
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-icon"><i class="fa fa-car" aria-hidden="true"></i></div>
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-title">Transfers</div>
+  	  	  	  	  	  	  	</div>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+  	  	  	  	  	  	  	<div class="tour-inclusions-info">
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-icon"><i class="fa fa-eye" aria-hidden="true"></i></div>
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-title">Sightseeing</div>
+  	  	  	  	  	  	  	</div>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	</div>
+  	  	  	  	  	  </div>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	  <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+  	  	  	  	  	<div class="tour-orgnizer">
+  	  	  	  	  	  <ul class="tour-organizer-list">
+  	  	  	  	  	  	<li><a href="">Booking.com<span>555.00</span></a></li>
+  	  	  	  	  	  	<li><a href="">Tours.com<span>876.00</span></a></li>
+  	  	  	  	  	  	<li><a href="">ClearTrip<span>342.00</span></a></li>
+  	  	  	  	  	  </ul>
+  	  	  	  	  	  <a href="" class="tour-more-deals">More Deals : 12</a>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+  	  	  	  	  	<div class="tour-booking">
+  	  	  	  	  	  <div class="tour-provider">MakeMyTrip</div>
+  	  	  	  	  	  <div class="tour-price"><del>9,654</del>7,895</div>
+  	  	  	  	  	  <div class="brck-optn">Breakfast included</div>
+  	  	  	  	  	  <a href="" class="tour-view-details">View Deal</a>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	</div>  	  	  	  	
+  	  	  	  </div>  	  	  		
+  	  	  	</div>
+  	  	  	<div class="listing-info">
+  	  	  	  <div class="listing-info-sec">
+  	  	  	  	<div class="row">
+  	  	  	  	  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+  	  	  	  	  	<div class="listing-img">
+  	  	  	  	  	  <figure>
+  	  	  	  	  	  	<img src="images/img-7.jpg" alt="" title="" class="img-responsive">
+  	  	  	  	  	  	<figcaption>
+  	  	  	  	  	  	  <div class="tour-add-list">
+  	  	  	  	  	  	  	<i class="fa fa-heart" aria-hidden="true"></i>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	</figcaption>
+  	  	  	  	  	  </figure>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+  	  	  	  	  	<div class="listing-details">
+  	  	  	  	  	  <h2 class="tour-name">Honeymoon Tour Packages...</h2>
+  	  	  	  	  	  <div class="tour-rating">
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star-o" aria-hidden="true"></i>
+  	  	  	  	  	  </div>
+  	  	  	  	  	  <div class="tour-location"><i class="fa fa-map-marker" aria-hidden="true"></i> Dehradun, 6.6 km to City centre</div>
+  	  	  	  	  	  <div class="tour-reviews"><i class="fa fa-smile-o" aria-hidden="true"></i> 75 / 100 (179 reviews)</div>
+  	  	  	  	  	  <div class="tour-inclusions">
+  	  	  	  	  	  	<div class="row">
+  	  	  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+  	  	  	  	  	  	  	<div class="tour-inclusions-info">
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-icon"><i class="fa fa-bed" aria-hidden="true"></i></div>
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-title">Accommodation</div>
+  	  	  	  	  	  	  	</div>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+  	  	  	  	  	  	  	<div class="tour-inclusions-info">
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-icon"><i class="fa fa-car" aria-hidden="true"></i></div>
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-title">Transfers</div>
+  	  	  	  	  	  	  	</div>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+  	  	  	  	  	  	  	<div class="tour-inclusions-info">
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-icon"><i class="fa fa-eye" aria-hidden="true"></i></div>
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-title">Sightseeing</div>
+  	  	  	  	  	  	  	</div>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	</div>
+  	  	  	  	  	  </div>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	  <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+  	  	  	  	  	<div class="tour-orgnizer">
+  	  	  	  	  	  <ul class="tour-organizer-list">
+  	  	  	  	  	  	<li><a href="">Booking.com<span>555.00</span></a></li>
+  	  	  	  	  	  	<li><a href="">Tours.com<span>876.00</span></a></li>
+  	  	  	  	  	  	<li><a href="">ClearTrip<span>342.00</span></a></li>
+  	  	  	  	  	  </ul>
+  	  	  	  	  	  <a href="" class="tour-more-deals">More Deals : 12</a>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+  	  	  	  	  	<div class="tour-booking">
+  	  	  	  	  	  <div class="tour-provider">MakeMyTrip</div>
+  	  	  	  	  	  <div class="tour-price"><del>9,654</del>7,895</div>
+  	  	  	  	  	  <div class="brck-optn">Breakfast included</div>
+  	  	  	  	  	  <a href="" class="tour-view-details">View Deal</a>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	</div>  	  	  	  	
+  	  	  	  </div>  	  	  		
+  	  	  	</div>
+  	  	  	<div class="listing-info">
+  	  	  	  <div class="listing-info-sec">
+  	  	  	  	<div class="row">
+  	  	  	  	  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+  	  	  	  	  	<div class="listing-img">
+  	  	  	  	  	  <figure>
+  	  	  	  	  	  	<img src="images/img-8.jpg" alt="" title="" class="img-responsive">
+  	  	  	  	  	  	<figcaption>
+  	  	  	  	  	  	  <div class="tour-add-list">
+  	  	  	  	  	  	  	<i class="fa fa-heart" aria-hidden="true"></i>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	</figcaption>
+  	  	  	  	  	  </figure>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+  	  	  	  	  	<div class="listing-details">
+  	  	  	  	  	  <h2 class="tour-name">Honeymoon Tour Packages...</h2>
+  	  	  	  	  	  <div class="tour-rating">
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star" aria-hidden="true"></i>
+  	  	  	  	  	  	<i class="fa fa-star-o" aria-hidden="true"></i>
+  	  	  	  	  	  </div>
+  	  	  	  	  	  <div class="tour-location"><i class="fa fa-map-marker" aria-hidden="true"></i> Dehradun, 6.6 km to City centre</div>
+  	  	  	  	  	  <div class="tour-reviews"><i class="fa fa-smile-o" aria-hidden="true"></i> 75 / 100 (179 reviews)</div>
+  	  	  	  	  	  <div class="tour-inclusions">
+  	  	  	  	  	  	<div class="row">
+  	  	  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+  	  	  	  	  	  	  	<div class="tour-inclusions-info">
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-icon"><i class="fa fa-bed" aria-hidden="true"></i></div>
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-title">Accommodation</div>
+  	  	  	  	  	  	  	</div>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+  	  	  	  	  	  	  	<div class="tour-inclusions-info">
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-icon"><i class="fa fa-car" aria-hidden="true"></i></div>
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-title">Transfers</div>
+  	  	  	  	  	  	  	</div>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+  	  	  	  	  	  	  	<div class="tour-inclusions-info">
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-icon"><i class="fa fa-eye" aria-hidden="true"></i></div>
+  	  	  	  	  	  	  	  <div class="tour-inclusions-info-title">Sightseeing</div>
+  	  	  	  	  	  	  	</div>
+  	  	  	  	  	  	  </div>
+  	  	  	  	  	  	</div>
+  	  	  	  	  	  </div>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	  <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+  	  	  	  	  	<div class="tour-orgnizer">
+  	  	  	  	  	  <ul class="tour-organizer-list">
+  	  	  	  	  	  	<li><a href="">Booking.com<span>555.00</span></a></li>
+  	  	  	  	  	  	<li><a href="">Tours.com<span>876.00</span></a></li>
+  	  	  	  	  	  	<li><a href="">ClearTrip<span>342.00</span></a></li>
+  	  	  	  	  	  </ul>
+  	  	  	  	  	  <a href="" class="tour-more-deals">More Deals : 12</a>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	  <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+  	  	  	  	  	<div class="tour-booking">
+  	  	  	  	  	  <div class="tour-provider">MakeMyTrip</div>
+  	  	  	  	  	  <div class="tour-price"><del>9,654</del>7,895</div>
+  	  	  	  	  	  <div class="brck-optn">Breakfast included</div>
+  	  	  	  	  	  <a href="" class="tour-view-details">View Deal</a>
+  	  	  	  	  	</div>
+  	  	  	  	  </div>
+  	  	  	  	</div>  	  	  	  	
+  	  	  	  </div>  	  	  		
+  	  	  	</div>
+  	  	  	<div class="tour-pagination">
+  	  	  	  <nav aria-label="Page navigation">
+			  	<ul class="pagination">
+			      <li>
+			      	<a href="#" aria-label="Previous">
+			          <span aria-hidden="true">&laquo;</span>
+			      	</a>
+			      </li>
+			      <li><a href="#">1</a></li>
+			      <li><a href="#">2</a></li>
+			      <li><a href="#">3</a></li>
+			      <li><a href="#">4</a></li>
+			      <li><a href="#">5</a></li>
+			      <li><a href="#">6</a></li>
+			      <li><a href="#">7</a></li>
+			      <li><a href="#">8</a></li>
+			      <li><a href="#">9</a></li>
+			      <li><a href="#">10</a></li>
+			      <li>
+			      	<a href="#" aria-label="Next">
+			          <span aria-hidden="true">&raquo;</span>
+			      	</a>
+			      </li>
+			  	</ul>
+			  </nav>
+  	  	  	</div>
+  	  	  </div>
+  	  	</div>
+  	  </div>  		
+  	</div>
+  </div>
+</section>
+<footer>
+  <div class="top-footer">
+    <div class="container">
+      <div class="top-footer-sec">
+        <div class="row">
+          <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+            <div class="footer-brand">
+              <div class="footer-logo">
+                <img src="images/logo.png" class="img-responsive">
+              </div>
+              <div class="footer-brand-content">
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+              </div>
+              <div class="footer-social">
+                <h4>Conect With Us</h4>
+                <ul class="f-social-listing">
+                  <li><a href=""><i class="fa fa-facebook"></i></a></li>
+                  <li><a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                  <li><a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                  <li><a href=""><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                  <li><a href=""><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li>
+                  <li><a href=""><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
+            <div class="row">
+              <div class="col-lg-4 col-md-4 col-sm-4 col-xs-6">
+                <div class="mani-footer">
+                  <div class="mani-footer-heading">simplifytrips</div>
+                  <ul class="mani-listing">
+                    <li><a href="">About Us</a></li>
+                    <li><a href="">Investor Relations</a></li>
+                    <li><a href="">Testimonial</a></li>
+                    <li><a href="">Reviews</a></li>
+                    <li><a href="">Careers</a></li>
+                    <li><a href="">Corporate Travel</a></li>
+                    <li><a href="">Travel Guide</a></li>
+                    <li><a href="">Offers</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-4 col-sm-4 col-xs-6">
+                <div class="mani-footer">
+                  <div class="mani-footer-heading">ABOUT THE SITE</div>
+                  <ul class="mani-listing">
+                    <li><a href="">FAQs</a></li>
+                    <li><a href="">Complaints</a></li>
+                    <li><a href="">Contact Us</a></li>
+                    <li><a href="">Payment Security</a></li>
+                    <li><a href="">Privacy Policy</a></li>
+                    <li><a href="">User Agreement</a></li>
+                    <li><a href="">More Offices</a></li>
+                    <li><a href="">File Rail TDR</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-4 col-sm-4 col-xs-6">
+                <div class="mani-footer">
+                  <div class="mani-footer-heading">IMPORTANT LINKS</div>
+                  <ul class="mani-listing">
+                    <li><a href="">Cheap Tours</a></li>
+                    <li><a href="">Tours in Goa</a></li>
+                    <li><a href="">Tours in Jaipur</a></li>
+                    <li><a href="">Tours in Ooty</a></li>
+                    <li><a href="">Kerala Packages</a></li>
+                    <li><a href="">Kashmir Packages</a></li>
+                    <li><a href="">Ladakh Packages</a></li>
+                    <li><a href="">Manali Packages</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>        
+      </div>
+    </div>
+  </div>
+  <div class="bottom-footer">
+    <div class="container">
+      <div class="bottom-footer-sec">
+        <p class="text-center">Copyright 2016 simplifytrips | All rights reserved.</p>
+      </div>
+    </div>
+  </div>
+</footer>
+<script type="text/javascript" src="js/jquery-3.1.0.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/datepicker.js"></script>
+<script type="text/javascript" src="js/jquery.datetimepicker.full.js"></script>
+</body>
+</html>

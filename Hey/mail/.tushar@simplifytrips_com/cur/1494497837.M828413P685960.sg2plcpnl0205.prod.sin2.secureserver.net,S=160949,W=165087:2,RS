@@ -1,0 +1,4138 @@
+Return-Path: <info@wanderlustindia.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id qV0oMS06FFmIdwoAwZeyeg
+	for <tushar@simplifytrips.com>; Thu, 11 May 2017 03:17:17 -0700
+Return-path: <info@wanderlustindia.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Thu, 11 May 2017 03:17:17 -0700
+Received: from mail-oln040092253061.outbound.protection.outlook.com ([40.92.253.61]:62688 helo=APC01-SG2-obe.outbound.protection.outlook.com)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <info@wanderlustindia.com>)
+	id 1d8l9p-002sjO-Ma
+	for tushar@simplifytrips.com; Thu, 11 May 2017 03:17:17 -0700
+Received: from SG2APC01FT029.eop-APC01.prod.protection.outlook.com
+ (10.152.250.57) by SG2APC01HT180.eop-APC01.prod.protection.outlook.com
+ (10.152.251.183) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.1019.14; Thu, 11
+ May 2017 10:16:36 +0000
+Received: from BM1PR01MB0625.INDPRD01.PROD.OUTLOOK.COM (10.152.250.59) by
+ SG2APC01FT029.mail.protection.outlook.com (10.152.250.214) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id 15.1.1075.5 via
+ Frontend Transport; Thu, 11 May 2017 10:16:35 +0000
+Received: from BM1PR01MB0625.INDPRD01.PROD.OUTLOOK.COM ([10.174.209.11]) by
+ BM1PR01MB0625.INDPRD01.PROD.OUTLOOK.COM ([10.174.209.11]) with mapi id
+ 15.01.1084.020; Thu, 11 May 2017 10:16:35 +0000
+From: "Info @ Wanderlust India" <info@wanderlustindia.com>
+To: "tushar@simplifytrips.com" <tushar@simplifytrips.com>
+CC: "Info @ Wanderlust India" <info@wanderlustindia.com>
+Subject: Re: Query Received for leh-ladakh
+Thread-Topic: Query Received for leh-ladakh
+Thread-Index: AQHSyiPf+SoKjaJp/0yKc17zLWuVmKHut8hXgAAuW4CAAAStbQ==
+Date: Thu, 11 May 2017 10:16:35 +0000
+Message-ID: <BM1PR01MB06259A2CB1263F8156FC4B87C5ED0@BM1PR01MB0625.INDPRD01.PROD.OUTLOOK.COM>
+References: <e0ecf55053647c42bb20b61c7ed225d0@simplifytrips.com>
+ <BM1PR01MB06253FD107B6E4441E7A6011C5ED0@BM1PR01MB0625.INDPRD01.PROD.OUTLOOK.COM>,<d4408d2105d1fc7f7fd0a90cdf8bfbe3@simplifytrips.com>
+In-Reply-To: <d4408d2105d1fc7f7fd0a90cdf8bfbe3@simplifytrips.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: wanderlustindia.com; dkim=none (message not signed)
+ header.d=none;wanderlustindia.com; dmarc=none action=none
+ header.from=wanderlustindia.com;
+x-incomingtopheadermarker: OriginalChecksum:ADC422E518BEC6BBD4F73A1CE780601A95A36E8FA53C3BD986E7CF6A703B0E1B;UpperCasedChecksum:3ED1DE22425EAF8430489F7D0536847B750836E1EE0E9CA078889A7D9113D1D4;SizeAsReceived:8350;Count:45
+x-tmn: [q8QskizTMySgUyArtmdhYTRarv890FgA]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;SG2APC01HT180;5:0hx1W9B5mv9ta2PT2m4oLO59Sj53/r+POFkyDR6xZ4A/AMhKIV0pFiY+AiB6vm5ISYzxutm8g9D/SjyiQtsZJaYH+h+gDvjBzq+g23Iz9oQ0qnhnf98DL6654o4v43xn/HCcz+7y5ftDrnflGH8pJA==;24:EHaezGJtzHIqmIBxSpvS29iegeBXzyPUj1dqQTp/IJdKt9b1REgupoKbGVIZd6/GjpRrTwD/7xTw1nv39LKzyDe3JDFrNapnrotTsOveWWI=;7:IZT2samVr4B2u0Y+3dCIQ2F3c7u0MBH1qNm5Y2UsDr3+xYOzdY+norZCFsSonauyLG/Y8gHPtLlSZpgfuv0puJV5SFHqmR9Cb9XMT4jx14jZzGNHqRfZMjy8MFPQbxBoc+8ZSMld0hxaWPEUvbosSmSfxzAAy4PCDgIVu1+LgLd64gd6e4I9oGNfVB6igwKWS8SZYsSjx/Z3c+J7S/WzIHJ21gpBbt+IRJuRoCp0LLGirhkCUwmeuh5mwJDjAJ4PlelTLsN7viyh+flJQHq70w15t/8waBA6k4F+P7hI9hHhzQMm7T0c29fnxegh/3f0
+x-incomingheadercount: 45
+x-eopattributedmessage: 0
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(7070007)(98901004);DIR:OUT;SFP:1901;SCL:1;SRVR:SG2APC01HT180;H:BM1PR01MB0625.INDPRD01.PROD.OUTLOOK.COM;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: 543a3cc2-5015-4ab2-c7c0-08d49856ce13
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(2017031322274)(1601125374)(1603101448)(1701031045);SRVR:SG2APC01HT180;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444000031);SRVR:SG2APC01HT180;BCL:0;PCL:0;RULEID:;SRVR:SG2APC01HT180;
+x-forefront-prvs: 0304E36CA3
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BM1PR01MB06259A2CB1263F8156FC4B87C5ED0BM1PR01MB0625INDP_"
+MIME-Version: 1.0
+X-OriginatorOrg: outlook.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 11 May 2017 10:16:35.5852
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SG2APC01HT180
+
+--_000_BM1PR01MB06259A2CB1263F8156FC4B87C5ED0BM1PR01MB0625INDP_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Mr Duangron,
+1) Thank you for your enquiry.
+2) You have contacted India=92s no 1 Inbound Tour Operator & winners of 04 =
+National Tourism Awards.
+3) Please find below suggested itineraries of Leh/Ladakh. You may choose mo=
+re from our website www.wanderlustindia.com<http://www.wanderlustindia.com/=
+>. Please be free to suggest changes and preferences so that we can tailor-=
+make the itinerary exactly to your requirement. For any clarification pleas=
+e call Maj.Yadav on mobile 91-9811043497 or Email us.
+4) Do have a look at our website http://www.wanderlustindia.com/ & Facebook=
+ page: https://www.facebook.com/wanderlust.indiatours/photos for more itine=
+raries & pictures.
+
+Ladakh
+LADAKH is situated between 30 degree to 36 degree east latitude and 76 degr=
+ee to 79 degree north longitude. The region of Ladakh is spread over an are=
+a of 96,701 Sq. Kms and has a population of  2.5 Lacs habitants and consist=
+s of two districts, Leh and Kargil. The region of Ladakh normally remains l=
+and locked between November to June every year as Srinagar/Ladakh and Ladak=
+h/Manali highways, which connect Ladakh with the other parts of the country=
+, remain closed during this period because of snow and rigorous winter. Sit=
+uated at 10,000ft above sea level, the capital  Leh is higher than most Alp=
+ine mountains. In Ladakh you can travel to the world=92s highest motorable =
+road at 18,000 + ft (KhardungLa pass).
+
+
+
+  1.  LADAKH =96 LONG WEEKEND OFFER
+Day 01: Arrive Leh
+Upon arrival at Leh Airport you will met by our representative and transfer=
+ to Hotel for Check in. Complete day for rest and leisure to acclimatize. E=
+vening Visit to Leh Market & Shanti Stupa.
+Overnight at Hotel.
+
+Day 02: Leh (Excursion to Monasteries)
+Post Breakfast we proceed for Indus Valley Monastery tour including Shey Pa=
+lace, The ancient capital of Ladakh, Thiksey an impressive complex rising t=
+ier upon tier on a hill above the village, Hemis Gompa, the largest monasti=
+c foundation of Drukpa Kagyu Order of Tibetan Buddhism, Sindhu Ghat & Stok =
+Palace Museum. Packed or Hot Lunch will be provided. Overnight at Hotel
+
+Day 03: Leh (Excursion to Khardungla Top - 18,390 Ft.)
+Post Breakfast we drive to Khardung la, the highest motorable road in the w=
+orld at 18,390 ft. is around 39 Kms away from Leh. The views from the top o=
+f the pass are amazing. Return to the hotel for hot lunch. Afternoon at lei=
+sure for last day shopping. Overnight at hotel.
+
+Day 04: Depart Leh (Fly Out)
+Tour concludes.
+COST OF THE PACKAGE (PER PERSON):-
+
+CATEGORY
+
+02 PAX
+
+04 PAX
+
+06 PAX
+
+08 PAX
+
+10 PAX
+
+Extra Adult
+
+Extra Child   With Extra Bed
+
+Extra Child   Without    Extra Bed
+
+Single Room Supp.
+
+Standard
+
+9500
+
+8960
+
+8276
+
+7780
+
+7384
+
+6500
+
+        6250
+
+    3500
+
+2128
+
+Deluxe
+
+   10355
+
+9870
+
+9276
+
+8760
+
+8250
+
+       7650
+
+6690
+
+   3900
+
+2464
+
+Super Dlx
+
+21999
+
+20999
+
+18999
+
+18400
+
+18100
+
+       10500
+
+       9500
+
+   5500
+
+6048
+
+
+
+HOTELS INCORPORATED
+
+DESTINATION
+
+STANDARD
+
+DELUXE
+
+SUPER DELUXE
+
+LEH
+
+Grand Willow / Hill Town
+
+Mandala, Sinnge Palace, City Palace, The Kaal, Noble House or Similar
+
+The Grand Dragon
+
+
+PACKAGE COST INCLUDES:-
+
+Assistance upon arrival at Leh airport with traditional welcome in the Hote=
+l
+03 Nights / 04 Days Accommodation on twin sharing Basis as per the Itinerar=
+y
+All Meals (Bed Tea, Breakfast, Hot / Pack Lunch, Evening Tea & Dinner)
+Return airport and round trip transfers along with all sightseeing tours by=
+ Non-ac Scorpio / Qualis / Tavera or Tata Safari as per the program.
+Inner line Permit to restricted / protected areas (Khardungla Top)
+Monument & Museum Entrance Fees for the sights mentioned in the Itinerary
+01 Bottle of Mineral Water every day to each tourist
+
+LADAKH HIGHLIGHTS
+Day 01: Arrive Leh
+Upon arrival at Leh Airport you will met by our representative and transfer=
+ to Hotel for Check in. Complete day for rest and leisure to acclimatize. E=
+vening Visit to Leh Market & Shanti Stupa. Overnight at Hotel.
+
+Day 02: Leh (Excursion to Monasteries)
+Post Breakfast we proceed for Indus Valley Monastery tour including Shey Pa=
+lace, The ancient capital of Ladakh, Thiksey an impressive complex rising t=
+ier upon tier on a hill above the village, Hemis Gompa, the largest monasti=
+c foundation of Drukpa Kagyu Order of Tibetan Buddhism, Sindhu Ghat & Stok =
+Palace Museum. Packed or Hot Lunch will be provided. Overnight at Hotel
+
+DAY 03: Leh (Excursion to Pangong Lake =96 14,000 Ft.)
+After an early breakfast we leave for Pangong Lake through Changla pass 548=
+6 Mtrs. Pangong Lake, situated at 14,000 feet (4,267 m). A long narrow basi=
+n of inland drainage, hardly six to seven kilometer at its widest point and=
+ over 130km long, it is bisected by the international border between India =
+and China. A few years back the government decided to open it to tourists t=
+hough the lake and its surrounding is under army surveillance.
+After spending some time at Pangong we drive back to hotel for overnight st=
+ay.
+
+Day 04: Leh (Excursion to Khardungla Top - 18,390 Ft.)
+Post Breakfast we drive to Khardung la, the highest motorable road in the w=
+orld at 18,390 ft. is around 39 Kms away from Leh. The views from the top o=
+f the pass are amazing. Return to the hotel for hot lunch. Afternoon at lei=
+sure for last day shopping. Overnight at hotel.
+
+Day 05: Depart Leh (Fly Out)
+Tour concludes.
+
+COST OF THE PACKAGE (PER PERSON):-
+
+CATEGORY
+
+02 PAX
+
+04 PAX
+
+06 PAX
+
+08 PAX
+
+10 PAX
+
+Extra Adult
+
+Extra Child   With
+Extra Bed
+
+Extra Child   Without    Extra Bed
+
+Single Room Supp.
+
+Standard
+
+15891
+
+14500
+
+13900
+
+13200
+
+12785
+
+6500
+
+6000
+
+4500
+
+3800
+
+Deluxe
+
+16900
+
+16399
+
+15899
+
+14500
+
+13900
+
+7500
+
+7300
+
+5200
+
+4500
+
+Super Dlx
+
+34599
+
+29,500
+
+28,999
+
+27,800
+
+27,200
+
+13,200
+
+12,900
+
+7500
+
+9500
+
+
+HOTELS INCORPORATED
+
+DESTINATION
+
+STANDARD
+
+DELUXE
+
+SUPER DELUXE
+
+LEH
+
+Grand Willow / Hill Town
+
+Mandala, Sinnge Palace, City Palace, The Kaal, Noble House or Similar
+
+The Grand Dragon
+
+
+PACKAGE COST INCLUDES:-
+
+Assistance upon arrival at Leh airport with traditional welcome in the Hote=
+l
+04 Nights / 05 Days Accommodation on twin sharing Basis as per the Itinerar=
+y
+All Meals (Bed Tea, Breakfast, Hot / Pack Lunch, Evening Tea & Dinner)
+Return airport and round trip transfers along with all sightseeing tours by=
+ Non-ac Scorpio / Qualis / Tavera or Tata Safari as per the program.
+Inner line Permit to restricted / protected areas (Pangong Lake & Khardungl=
+a Top)
+Monument & Museum Entrance Fees for the sights mentioned in the Itinerary
+01 Bottle of Mineral Water every day to each tourist
+
+LADAKH- NUBRA VALLEY
+Day 01: Arrive Leh
+Upon arrival at Leh Airport you will met by our representative and transfer=
+ to Hotel for Check in. Complete day for rest and leisure to acclimatize. E=
+vening Visit to Leh Market & Shanti Stupa. Overnight at Hotel.
+
+Day 02: Leh (Excursion to Monasteries)
+Post Breakfast we proceed for Indus Valley Monastery tour including Shey Pa=
+lace, The ancient capital of Ladakh, Thiksey an impressive complex rising t=
+ier upon tier on a hill above the village, Hemis Gompa, the largest monasti=
+c foundation of Drukpa Kagyu Order of Tibetan Buddhism, Sindhu Ghat & Stok =
+Palace Museum. Packed or Hot Lunch will be provided. Overnight at Hotel
+
+Day 03: Leh to Hunder (Nubra Valley) (126 Kms / aprx. 06 hrs)
+After an early breakfast we drive to NUBRA VALLEY leads through KHARDUNG-LA=
+-PASS (the highest motorable road in the world) at 18,390 ft, around 39kms =
+from Leh.
+
+Nubra Valley is popularly known as Ldorma or the valley of flowers. It is s=
+ituated to the North of Ladakh between the Karakoram and Ladakh ranges of t=
+he Himalayas.
+
+Arrive Hunder by afternoon and rest of the day at leisure to explore Hunder=
+ & Diskit Village. Overnight at Camp
+at Nubra Organic Retreat situated in a beautiful village called HUNDAR with=
+ lot of trees.
+
+Day 04: Hunder (Nubra Valley) =96 Leh
+After your breakfast at the camp, visit the SAND DUNES to enjoy a camel saf=
+ari (Optional). Later we drive to Leh by same route over Khardung La.  Afte=
+rnoon rest and relax or take a walk to the local market.  Overnight at hote=
+l.
+
+Day 05: Depart Leh (Fly Out)
+Tour concludes
+
+COST OF THE PACKAGE (PER PERSON):-
+CATEGORY
+
+02 PAX
+
+04 PAX
+
+06 PAX
+
+08 PAX
+
+10 PAX
+
+Extra Adult
+
+Extra Child   With
+Extra Bed
+
+Extra Child   Without    Extra Bed
+
+Single Room Supp.
+
+Standard
+
+19,999
+
+19,399
+
+18,800
+
+17,600
+
+17,000
+
+8000
+
+7500
+
+4200
+
+4500
+
+Deluxe
+
+21,999
+
+21,200
+
+19,500
+
+18,900
+
+18,100
+
+8700
+
+7900
+
+5000
+
+5500
+
+Super Dlx
+
+39,000
+
+38,300
+
+37,800
+
+37,000
+
+36,500
+
+12,000
+
+11,000
+
+6500
+
+7500
+
+
+HOTELS INCORPORATED
+
+DESTINATION
+
+STANDARD
+
+DELUXE
+
+SUPER DELUXE
+
+LEH
+
+Grand Willow / Hill Town
+
+Mandala, Sinnge Palace, City Palace, The Kaal, Noble House or Similar
+
+The Grand Dragon
+
+NUBRA VALLEY
+
+Karma Inn or Similar
+
+Nubra Organic Retreat
+
+Nubra Organic Retreat
+
+
+PACKAGE COST INCLUDES:-
+
+Assistance upon arrival at Leh airport with traditional welcome in the Hote=
+l
+04 Nights / 05 Days Accommodation on twin sharing Basis as per the Itinerar=
+y
+All Meals (Bed Tea, Breakfast, Hot / Pack Lunch, Evening Tea & Dinner)
+Return airport and round trip transfers along with all sightseeing tours by=
+ Non-ac Scorpio / Qualis / Tavera or Tata Safari as per the program.
+Inner line Permit to restricted / protected areas (Nubra Valley)
+Monument & Museum Entrance Fees for the sights mentioned in the Itinerary
+01 Bottle of Mineral Water every day to each tourist
+
+LADAKH WITH PANGONGTSO LAKE
+Day 01: Arrive Leh
+Upon arrival at Leh Airport you will met by our representative and transfer=
+ to Hotel for Check in. Complete day for rest and leisure to acclimatize. E=
+vening Visit to Leh Market & Shanti Stupa. Overnight at Hotel.
+
+Day 02: Leh to Uleytokpo
+Post Breakfast we drive to visit Phyang Gompa, located 6 kms away from Leh.=
+ Further we drive to Likir, Likir gompa situated atop a windy cliff top ove=
+rlooking the beautiful village of Likir. Basgo is certainly the most impres=
+sive of Ladakhi citadels despite its ruined state. Then we drive and cross =
+the River Indus and reach Alchi, Ladakh's most loved monastery. After visit=
+ing above monasteries we drive to Uleytokpo to checkin at our Campsite for =
+overnight stay.
+
+Day 03: Uleytokpo - Leh
+Post breakfast start early morning we drive further to visit Lamayuru, Belo=
+ngs to Dripung Kagyu (Red Hat) like Phyang. After visiting Lamayuru we driv=
+e back to Leh enroute visiting Rizong Gompa, known as the paradise for Medi=
+tation. After Ridzong visit we drive back to Leh and check in at our hotel =
+for overnight stay
+
+Day 04: Leh to Pangong Lake (06 hours approx.)
+After an early breakfast we leave for Pangong Lake through Changla pass 548=
+6 Mtrs. Pangong Lake, situated at 14,000 feet (4,267 m). A long narrow basi=
+n of inland drainage, hardly six to seven kilometer at its widest point and=
+ over 130km long, it is bisected by the international border between India =
+and China. A few years back the government decided to open it to tourists t=
+hough the lake and its surrounding is under army surveillance.
+Enjoy the landscape in the back drop of the Lake. One rarely feels so close=
+ to nature and environment and the scenery is unforgettable. Evening at lei=
+sure and overnight stay at Camp Watermark on the shore of Lake.
+
+Day 05: Pangong Lake to Leh (06 hours approx.)
+Morning at leisure to explore the beauty of lake and later we drive back to=
+ leh enroute visiting Hemis Gompa, the largest monastic foundation of Drukp=
+a Kagyu Order of Tibetan Buddhism, Thiksey an impressive complex rising tie=
+r upon tier on a hill above the village, Shey Palace, The ancient capital o=
+f Ladakh & Stok Palace Museum.
+Drive further to Leh and check in at our hotel for Overnight
+
+Day 06: Depart Leh (Fly Out)
+Tour concludes.
+COST OF THE PACKAGE (PER PERSON):-
+
+CATEGORY
+
+02 PAX
+
+04 PAX
+
+06 PAX
+
+08 PAX
+
+10 PAX
+
+Extra Adult
+
+Extra Child   With
+Extra Bed
+
+Extra Child   Without    Extra Bed
+
+Single Room Supp.
+
+Standard
+
+23,999
+
+23,300
+
+22,800
+
+22,100
+
+21,500
+
+8600
+
+7900
+
+6500
+
+4500
+
+Deluxe
+
+25,999
+
+25,299
+
+24,800
+
+24,100
+
+23,700
+
+9500
+
+9000
+
+7000
+
+5500
+
+Super Dlx
+
+36,700
+
+35,900
+
+35,100
+
+34,600
+
+33,900
+
+12,500
+
+12,000
+
+7900
+
+8500
+
+
+HOTELS INCORPORATED
+
+DESTINATION
+
+STANDARD
+
+DELUXE
+
+SUPER DELUXE
+
+LEH
+
+Grand Willow / Hill Town
+
+Mandala, Sinnge Palace, City Palace, The Kaal, Noble House or Similar
+
+The Grand Dragon
+
+ULEYTOKPO
+
+Uley Adventure Camp
+
+West Ladakh Camp
+
+West Ladakh Camp
+
+PANGONG
+
+Pangong Resort
+
+Camp Watermark (Deluxe)
+
+Camp Watermark (Deluxe)
+
+
+PACKAGE COST INCLUDES:-
+
+Assistance upon arrival at Leh airport with traditional welcome in the Hote=
+l
+05 Nights / 06 Days Accommodation on twin sharing Basis as per the Itinerar=
+y
+All Meals (Bed Tea, Breakfast, Hot / Pack Lunch, Evening Tea & Dinner)
+Return airport and round trip transfers along with all sightseeing tours by=
+ Non-ac Scorpio / Qualis / Tavera or Tata Safari as per the program.
+Inner line Permit to restricted / protected areas (Pangong Lake)
+Wildlife fee for Pangong area
+Monument & Museum Entrance Fees for the sights mentioned in the Itinerary
+01 Bottle of Mineral Water every day to each tourist
+
+BEST OF LADAKH
+Day 01: Arrive Leh
+Upon arrival at Leh Airport you will met by our representative and transfer=
+ to Hotel for Check in. Complete day for rest and leisure to acclimatize. E=
+vening Visit to Leh Market & Shanti Stupa. Overnight at Hotel.
+
+Day 02: Leh (Full Day Excursion)
+Post breakfast we drive towards Kargil road and start our sightseeing with =
+Hall of Fame near Leh is worth a visit for every citizen. It is a glorious =
+museum constructed by Indian army, Kali Mata Temple, Gurudwara Patthar Sahi=
+b Nestled deep in the Himalayas, which was built by the Lamas of Leh in 151=
+7 to commemorate the visit of Guru Nanak Dev. A drive of another 4 km took =
+us to Magnetic Hill which defies the law of gravity. It has been noticed th=
+at when a vehicle is parked on neutral gear on this metallic road the vehic=
+le slides up & further Driving through a picturesque landscape we reached t=
+he confluence of the Indus and Zanskar river 4 km before Nimmu village. And=
+ Visit to Basgo a certainly the most impressive of Ladakhi citadels despite=
+ its ruined state. After visiting above places we drive back to Hotel for O=
+vernight Stay.
+
+Day 03: Leh to Pangong Lake (06 hours approx.)
+After an early breakfast we leave for Pangong Lake through Changla pass 548=
+6 Mtrs. Pangong Lake, situated at 14,000 feet (4,267 m). A long narrow basi=
+n of inland drainage, hardly six to seven kilometer at its widest point and=
+ over 130km long, it is bisected by the international border between India =
+and China. A few years back the government decided to open it to tourists t=
+hough the lake and its surrounding is under army surveillance.
+Enjoy the landscape in the back drop of the Lake. One rarely feels so close=
+ to nature and environment and the scenery is unforgettable. Evening at lei=
+sure and overnight stay at Camp Watermark on the shore of Lake.
+
+Day 04: Pangong Lake to Leh (06 hours approx.)
+Morning at leisure to explore the beauty of lake and later we drive back to=
+ leh enroute visiting Hemis Gompa, the largest monastic foundation of Drukp=
+a Kagyu Order of Tibetan Buddhism, Thiksey an impressive complex rising tie=
+r upon tier on a hill above the village, Shey Palace, The ancient capital o=
+f Ladakh & Stok Palace Museum.
+Drive further to Leh and check in at our hotel for Overnight
+
+Day 05: Leh to Hunder (Nubra Valley) (126 Kms / aprx. 06 hrs)
+After an early breakfast we drive to NUBRA VALLEY leads through KHARDUNG-LA=
+-PASS (the highest motorable road in the world) at 18,390 ft, around 39kms =
+from Leh.
+
+Nubra Valley is popularly known as Ldorma or the valley of flowers. It is s=
+ituated to the North of Ladakh between the Karakoram and Ladakh ranges of t=
+he Himalayas.
+
+Arrive Hunder by afternoon and rest of the day at leisure to explore Hunder=
+ & Diskit Village. Overnight at Camp
+at Nubra Organic Retreat situated in a beautiful village called HUNDAR with=
+ lot of trees.
+
+Day 06: Hunder (Nubra Valley) =96 Leh
+After your breakfast at the camp, visit the SAND DUNES to enjoy a camel saf=
+ari (Optional). Later we drive to Leh by same route over Khardung La.  Afte=
+rnoon rest and relax or take a walk to the local market.  Overnight at hote=
+l.
+
+Day 07: Depart Leh (Fly Out)
+Tour concludes
+
+COST OF THE PACKAGE (PER PERSON):-
+
+CATEGORY
+
+02 PAX
+
+04 PAX
+
+06 PAX
+
+08 PAX
+
+10 PAX
+
+Extra Adult
+
+Extra Child   With
+Extra Bed
+
+Extra Child   Without    Extra Bed
+
+Single Room Supp.
+
+Standard
+
+26,900
+
+26,200
+
+25,700
+
+25,900
+
+25,100
+
+10500
+
+9900
+
+7500
+
+6000
+
+Deluxe
+
+27,999
+
+27,299
+
+26,500
+
+26,000
+
+25,600
+
+11500
+
+10900
+
+9500
+
+7500
+
+Super Dlx
+
+43,999
+
+43,000
+
+42,500
+
+41,999
+
+40,500
+
+15500
+
+14900
+
+11000
+
+10500
+
+
+HOTELS INCORPORATED
+DESTINATION
+
+STANDARD
+
+DELUXE
+
+SUPER DELUXE
+
+LEH
+
+Grand Willow / Hill Town
+
+Mandala, Sinnge Palace, City Palace, The Kaal, Noble House or Similar
+
+The Grand Dragon
+
+PANGONG
+
+Pangong Resort
+
+Camp Watermark (Deluxe)
+
+Camp Watermark (Deluxe)
+
+NUBRA VALLEY
+
+Karma Inn or Similar
+
+Nubra Organic Retreat
+
+Nubra Organic Retreat
+
+
+PACKAGE COST INCLUDES:-
+Assistance upon arrival at Leh airport with traditional welcome in the Hote=
+l
+06 Nights / 07 Days Accommodation on twin sharing Basis as per the Itinerar=
+y
+All Meals (Bed Tea, Breakfast, Hot / Pack Lunch, Evening Tea & Dinner)
+Return airport and round trip transfers along with all sightseeing tours by=
+ Non-ac Scorpio / Qualis / Tavera or Tata Safari as per the program.
+Inner line Permit to restricted / protected areas (Pangong & Nubra valley)
+Wildlife fee for Pangong area
+Monument & Museum Entrance Fees for the sights mentioned in the Itinerary
+01 Bottle of Mineral Water every day to each tourist
+
+Regards
+Maj. S.K.Yadav
+Managing Director
+Mobile: 91-9811043497
+
+WANDERLUST  TRAVELS PVT.LTD.
+G 18,MASJID MOTH, GREATER KAILASH-II
+NEW DELHI- 110048 (INDIA)
+PHONES :91-11-29228483, 40537116
+MOBILE.    91-9810530004.
+E-mail: info@wanderlustindia.com<mailto:info@wanderlustindia.com>, ,travel@=
+wanderlustindia.com<http://203.199.113.30/src/compose.php?send_to=3Dtravel%=
+40wanderlustindia.com>,
+Website: www.wanderlustindia.com
+Affiliations : IATA,PATA,TAAI,ASTA,IATO,JATA. Recognised by Ministry of Tou=
+rism , Govt.of India
+
+
+
+
+________________________________
+From: tushar@simplifytrips.com <tushar@simplifytrips.com>
+Sent: Thursday, May 11, 2017 3:28 PM
+To: Info @ Wanderlust India
+Subject: Re: Query Received for leh-ladakh
+
+
+On 2017-05-11 01:15, Info @ Wanderlust India wrote:
+
+Dear Mr Tushar,
+
+Please let us know date of travel, number of days & number of persons.
+
+
+Regards
+
+Amar
+
+
+________________________________
+From: tushar@simplifytrips.com <tushar@simplifytrips.com>
+Sent: Thursday, May 11, 2017 12:26 PM
+To: info@wanderlustindia.com
+Subject: Query Received for leh-ladakh
+
+
+Dear SK Yadav,
+
+
+Query was received from a Mr. Methee B Duangron from thailand, he has shown=
+ his interest for leh packages. His email id is methee.baw@gmail.com<mailto=
+:methee.baw@gmail.com> as shared with us on our FB page. Request you kindly=
+ send best offers to him ASAP. Kindly mention our reference in the mail.
+
+
+WBR
+
+
+Tushar Choudhary
+
+
+
+Dear Amar,
+
+You can drop your mail directly to the concerned person and revert to their=
+ queries.
+
+
+WBR,
+ Tushar Choudhary.
+
+--_000_BM1PR01MB06259A2CB1263F8156FC4B87C5ED0BM1PR01MB0625INDP_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Arial,Helvetica,sans-serif;" dir=3D"ltr">
+<p></p>
+<p class=3D"MsoNormal">Dear Mr Duangron,<o:p></o:p></p>
+<p class=3D"MsoNormal">1) Thank you for your enquiry.<o:p></o:p></p>
+<p class=3D"MsoNormal">2) You have contacted <st1:place w:st=3D"on">India</=
+st1:place>=92s no 1 Inbound Tour Operator &amp; winners of 04 National Tour=
+ism Awards.<o:p></o:p></p>
+<p class=3D"MsoNormal">3) Please find below suggested itineraries of Leh/La=
+dakh. You may choose more from our website
+<a href=3D"http://www.wanderlustindia.com/" id=3D"LPlnk914011">www.wanderlu=
+stindia.com</a>. Please be free to suggest changes and preferences so that =
+we can tailor-make the itinerary exactly to your requirement. For any clari=
+fication please call Maj.Yadav on mobile
+ 91-9811043497 or Email us. <o:p></o:p></p>
+<p class=3D"MsoNormal">4) Do have a look at our website <a href=3D"http://w=
+ww.wanderlustindia.com/">
+http://www.wanderlustindia.com/</a> &amp; Facebook page: <a href=3D"https:/=
+/www.facebook.com/wanderlust.indiatours/photos">
+https://www.facebook.com/wanderlust.indiatours/photos</a> for more itinerar=
+ies &amp; pictures.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:18.0pt">Ladakh<o:p></o:p=
+></span></b></p>
+<p class=3D"MsoNormal">LADAKH is situated between 30 degree to 36 degree ea=
+st latitude and 76 degree to 79 degree north longitude. The region of Ladak=
+h is spread over an area of 96,701 Sq. Kms and has a population of &nbsp;2.=
+5 Lacs habitants and consists of two districts,
+ Leh and Kargil. The region of Ladakh normally remains land locked between =
+November to June every year as Srinagar/Ladakh and Ladakh/Manali highways, =
+which connect Ladakh with the other parts of the country, remain closed dur=
+ing this period because of snow
+ and rigorous winter. Situated at 10,000ft above sea level, the capital&nbs=
+p; Leh is higher than most Alpine mountains. In Ladakh you can travel to th=
+e world=92s highest motorable road at 18,000 &#43; ft (KhardungLa pass).<o:=
+p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<ol style=3D"margin-top:0in" start=3D"1" type=3D"1">
+<li class=3D"MsoNormal"><b>LADAKH =96 LONG WEEKEND OFFER<o:p></o:p></b> </l=
+i></ol>
+<p class=3D"MsoNormal">Day 01: Arrive Leh<o:p></o:p></p>
+<p class=3D"MsoNormal">Upon arrival at <st1:place w:st=3D"on"><st1:placenam=
+e w:st=3D"on">Leh</st1:placename>
+<st1:placetype w:st=3D"on">Airport</st1:placetype></st1:place> you will met=
+ by our representative and transfer to Hotel for Check in. Complete day for=
+ rest and leisure to acclimatize. Evening Visit to Leh Market &amp; Shanti =
+Stupa.
+<o:p></o:p></p>
+<p class=3D"MsoNormal">Overnight at Hotel.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Day 02: Leh (Excursion to Monasteries) <o:p></o:p></=
+p>
+<p class=3D"MsoNormal">Post Breakfast we proceed for Indus Valley Monastery=
+ tour including
+<st1:placename w:st=3D"on">Shey</st1:placename> <st1:placetype w:st=3D"on">=
+Palace</st1:placetype>, The ancient capital of Ladakh, Thiksey an impressiv=
+e complex rising tier upon tier on a hill above the village, Hemis Gompa, t=
+he largest monastic foundation of Drukpa
+ Kagyu Order of Tibetan Buddhism, <st1:place w:st=3D"on"><st1:placename w:s=
+t=3D"on">Sindhu</st1:placename>
+<st1:placename w:st=3D"on">Ghat &amp; Stok</st1:placename> <st1:placetype w=
+:st=3D"on">Palace</st1:placetype>
+<st1:placetype w:st=3D"on">Museum</st1:placetype></st1:place>. Packed or Ho=
+t Lunch will be provided. Overnight at Hotel<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Day 03: Leh (Excursion to Khardungla Top - 18,390 Ft=
+.) <o:p>
+</o:p></p>
+<p class=3D"MsoNormal">Post Breakfast we drive to Khardung la, the highest =
+motorable road in the world at 18,390 ft. is around 39 Kms away from Leh. T=
+he views from the top of the pass are amazing. Return to the hotel for hot =
+lunch. Afternoon at leisure for last
+ day shopping. Overnight at hotel.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Day 04: Depart Leh (Fly Out)<o:p></o:p></p>
+<p class=3D"MsoNormal">Tour concludes. <o:p></o:p></p>
+<p class=3D"MsoNormal"><st1:stockticker w:st=3D"on">COST</st1:stockticker> =
+OF THE P<st1:stockticker w:st=3D"on">ACK</st1:stockticker>AGE (<st1:stockti=
+cker w:st=3D"on">PER
+</st1:stockticker>PERSON):-<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"787" style=3D"width:8.2in;margin-left:4.65pt;border-collaps=
+e:collapse;mso-yfti-tbllook:=0A=
+ 1184;mso-padding-alt:0in 5.4pt 0in 5.4pt">
+<tbody>
+<tr style=3D"mso-yfti-irow:0;mso-yfti-firstrow:yes;height:49.45pt">
+<td width=3D"102" nowrap=3D"" style=3D"width:76.15pt;border:solid windowtex=
+t 1.0pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:4=
+9.45pt">
+<p class=3D"MsoNormal">CATEGORY<o:p></o:p></p>
+</td>
+<td width=3D"54" nowrap=3D"" style=3D"width:40.8pt;border:solid windowtext =
+1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:49.45pt">
+<p class=3D"MsoNormal">02 <st1:stockticker w:st=3D"on">PAX</st1:stockticker=
+><o:p></o:p></p>
+</td>
+<td width=3D"54" nowrap=3D"" style=3D"width:40.8pt;border:solid windowtext =
+1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:49.45pt">
+<p class=3D"MsoNormal">04 <st1:stockticker w:st=3D"on">PAX</st1:stockticker=
+><o:p></o:p></p>
+</td>
+<td width=3D"62" nowrap=3D"" style=3D"width:.65in;border:solid windowtext 1=
+.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:49.45pt">
+<p class=3D"MsoNormal">06 <st1:stockticker w:st=3D"on">PAX</st1:stockticker=
+><o:p></o:p></p>
+</td>
+<td width=3D"64" nowrap=3D"" style=3D"width:48.2pt;border:solid windowtext =
+1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:49.45pt">
+<p class=3D"MsoNormal">08 <st1:stockticker w:st=3D"on">PAX</st1:stockticker=
+><o:p></o:p></p>
+</td>
+<td width=3D"54" nowrap=3D"" style=3D"width:40.8pt;border:solid windowtext =
+1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:49.45pt">
+<p class=3D"MsoNormal">10 <st1:stockticker w:st=3D"on">PAX</st1:stockticker=
+><o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" style=3D"width:44.7pt;border:solid windowtext =
+1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:49.45pt">
+<p class=3D"MsoNormal">Extra Adult<o:p></o:p></p>
+</td>
+<td width=3D"60" style=3D"width:45.0pt;border-top:solid windowtext 1.0pt;=
+=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:none;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:solid wind=
+owtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:49.45pt">
+<p class=3D"MsoNormal">Extra Child&nbsp;&nbsp; With Extra Bed<o:p></o:p></p=
+>
+</td>
+<td width=3D"196" style=3D"width:147.1pt;border:solid windowtext 1.0pt;bord=
+er-right:=0A=
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid w=
+indowtext .5pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;=
+=0A=
+  height:49.45pt">
+<p class=3D"MsoNormal">Extra Child&nbsp;&nbsp; Without&nbsp;&nbsp;&nbsp; Ex=
+tra Bed<o:p></o:p></p>
+</td>
+<td width=3D"80" style=3D"width:60.05pt;border:solid windowtext 1.0pt;mso-b=
+order-alt:=0A=
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:49.45pt">
+<p class=3D"MsoNormal">Single Room Supp.<o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"mso-yfti-irow:1;height:16.95pt">
+<td width=3D"102" nowrap=3D"" valign=3D"bottom" style=3D"width:76.15pt;bord=
+er:solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">Standard<o:p></o:p></p>
+</td>
+<td width=3D"54" nowrap=3D"" valign=3D"bottom" style=3D"width:40.8pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">9500<o:p></o:p></p>
+</td>
+<td width=3D"54" nowrap=3D"" valign=3D"bottom" style=3D"width:40.8pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">8960<o:p></o:p></p>
+</td>
+<td width=3D"62" nowrap=3D"" valign=3D"bottom" style=3D"width:.65in;border-=
+top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">8276<o:p></o:p></p>
+</td>
+<td width=3D"64" nowrap=3D"" valign=3D"bottom" style=3D"width:48.2pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">7780<o:p></o:p></p>
+</td>
+<td width=3D"54" nowrap=3D"" valign=3D"bottom" style=3D"width:40.8pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">7384<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.7pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">6500<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;border=
+:none;border-bottom:=0A=
+  solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6250<o:p>=
+</o:p></p>
+</td>
+<td width=3D"196" nowrap=3D"" valign=3D"bottom" style=3D"width:147.1pt;bord=
+er:solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">&nbsp;&nbsp;&nbsp; 3500<o:p></o:p></p>
+</td>
+<td width=3D"80" nowrap=3D"" valign=3D"bottom" style=3D"width:60.05pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">2128<o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"mso-yfti-irow:2;height:16.95pt">
+<td width=3D"102" nowrap=3D"" valign=3D"bottom" style=3D"width:76.15pt;bord=
+er:solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">Deluxe<o:p></o:p></p>
+</td>
+<td width=3D"54" nowrap=3D"" valign=3D"bottom" style=3D"width:40.8pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">&nbsp;&nbsp; 10355<o:p></o:p></p>
+</td>
+<td width=3D"54" nowrap=3D"" valign=3D"bottom" style=3D"width:40.8pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">9870<o:p></o:p></p>
+</td>
+<td width=3D"62" nowrap=3D"" valign=3D"bottom" style=3D"width:.65in;border-=
+top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">9276<o:p></o:p></p>
+</td>
+<td width=3D"64" nowrap=3D"" valign=3D"bottom" style=3D"width:48.2pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">8760<o:p></o:p></p>
+</td>
+<td width=3D"54" nowrap=3D"" valign=3D"bottom" style=3D"width:40.8pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">8250<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.7pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7650<o:p></o:p>=
+</p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;border=
+:none;border-bottom:=0A=
+  solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">6690<o:p></o:p></p>
+</td>
+<td width=3D"196" nowrap=3D"" valign=3D"bottom" style=3D"width:147.1pt;bord=
+er:solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">&nbsp;&nbsp; 3900<o:p></o:p></p>
+</td>
+<td width=3D"80" nowrap=3D"" valign=3D"bottom" style=3D"width:60.05pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">2464<o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"mso-yfti-irow:3;mso-yfti-lastrow:yes;height:16.95pt">
+<td width=3D"102" nowrap=3D"" valign=3D"bottom" style=3D"width:76.15pt;bord=
+er:solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">Super Dlx<o:p></o:p></p>
+</td>
+<td width=3D"54" nowrap=3D"" valign=3D"bottom" style=3D"width:40.8pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">21999<o:p></o:p></p>
+</td>
+<td width=3D"54" nowrap=3D"" valign=3D"bottom" style=3D"width:40.8pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">20999<o:p></o:p></p>
+</td>
+<td width=3D"62" nowrap=3D"" valign=3D"bottom" style=3D"width:.65in;border-=
+top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">18999<o:p></o:p></p>
+</td>
+<td width=3D"64" nowrap=3D"" valign=3D"bottom" style=3D"width:48.2pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">18400<o:p></o:p></p>
+</td>
+<td width=3D"54" nowrap=3D"" valign=3D"bottom" style=3D"width:40.8pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">18100<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:44.7pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10500<o:p></o:p=
+></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.0pt;border=
+:none;border-bottom:=0A=
+  solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9500<o:p></o:p>=
+</p>
+</td>
+<td width=3D"196" nowrap=3D"" valign=3D"bottom" style=3D"width:147.1pt;bord=
+er:solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">&nbsp;&nbsp; 5500<o:p></o:p></p>
+</td>
+<td width=3D"80" nowrap=3D"" valign=3D"bottom" style=3D"width:60.05pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:16.95pt">
+<p class=3D"MsoNormal">6048<o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">HOTELS INCORPORATED<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<table class=3D"MsoNormalTable" border=3D"1" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"719" style=3D"margin-left:5.4pt;border-collapse:collapse;ms=
+o-table-layout-alt:fixed;=0A=
+ border:none;mso-border-alt:solid windowtext .5pt;mso-padding-alt:0in 5.4pt=
+ 0in 5.4pt;=0A=
+ mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid win=
+dowtext">
+<tbody>
+<tr style=3D"mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.6pt">
+<td width=3D"114" nowrap=3D"" style=3D"width:85.5pt;border:solid windowtext=
+ 1.0pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">DESTINATION<o:p></o:p></p>
+</td>
+<td width=3D"180" nowrap=3D"" style=3D"width:135.0pt;border:solid windowtex=
+t 1.0pt;=0A=
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt=
+:=0A=
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.6pt">
+<p class=3D"MsoNormal">STANDARD<o:p></o:p></p>
+</td>
+<td width=3D"216" style=3D"width:2.25in;border:solid windowtext 1.0pt;borde=
+r-left:=0A=
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windo=
+wtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:15.6pt">
+<p class=3D"MsoNormal">DELUXE<o:p></o:p></p>
+</td>
+<td width=3D"209" style=3D"width:156.95pt;border:solid windowtext 1.0pt;bor=
+der-left:=0A=
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windo=
+wtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:15.6pt">
+<p class=3D"MsoNormal">SUPER DELUXE<o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"mso-yfti-irow:1;mso-yfti-lastrow:yes;height:15.6pt">
+<td width=3D"114" nowrap=3D"" style=3D"width:85.5pt;border:solid windowtext=
+ 1.0pt;=0A=
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:s=
+olid windowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:15.6pt">
+<p class=3D"MsoNormal"><st1:stockticker w:st=3D"on">LEH</st1:stockticker><o=
+:p></o:p></p>
+</td>
+<td width=3D"180" nowrap=3D"" style=3D"width:135.0pt;border-top:none;border=
+-left:none;=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">Grand <st1:city w:st=3D"on">Willow</st1:city> / <st1=
+:place w:st=3D"on">
+<st1:placetype w:st=3D"on">Hill</st1:placetype> <st1:placetype w:st=3D"on">=
+Town</st1:placetype></st1:place><o:p></o:p></p>
+</td>
+<td width=3D"216" style=3D"width:2.25in;border-top:none;border-left:none;=
+=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">Mandala, <st1:placename w:st=3D"on">Sinnge</st1:plac=
+ename> <st1:placetype w:st=3D"on">
+Palace</st1:placetype>, <st1:place w:st=3D"on"><st1:placetype w:st=3D"on">C=
+ity</st1:placetype>
+<st1:placetype w:st=3D"on">Palace</st1:placetype></st1:place>, The Kaal, No=
+ble House or Similar<o:p></o:p></p>
+</td>
+<td width=3D"209" style=3D"width:156.95pt;border-top:none;border-left:none;=
+=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">The Grand Dragon<o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">PACKAGE <st1:stockticker w:st=3D"on">COST</st1:stock=
+ticker> INCLUDES:-<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Assistance upon arrival at Leh airport with traditio=
+nal welcome in the Hotel<o:p></o:p></p>
+<p class=3D"MsoNormal">03 Nights / 04 Days Accommodation on twin sharing Ba=
+sis as per the Itinerary<o:p></o:p></p>
+<p class=3D"MsoNormal">All Meals (Bed Tea, Breakfast, Hot / Pack Lunch, Eve=
+ning Tea &amp; Dinner)
+<o:p></o:p></p>
+<p class=3D"MsoNormal">Return airport and round trip transfers along with a=
+ll sightseeing tours by Non-ac Scorpio / Qualis / Tavera or Tata Safari as =
+per the program.
+<o:p></o:p></p>
+<p class=3D"MsoNormal">Inner line Permit to restricted / protected areas (K=
+hardungla Top)<o:p></o:p></p>
+<p class=3D"MsoNormal">Monument &amp; Museum Entrance Fees for the sights m=
+entioned in the Itinerary
+<o:p></o:p></p>
+<p class=3D"MsoNormal">01 Bottle of Mineral Water every day to each tourist=
+<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:14.0pt">LADAKH HIGHLIGHT=
+S<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal">Day 01: Arrive Leh<o:p></o:p></p>
+<p class=3D"MsoNormal">Upon arrival at <st1:place w:st=3D"on"><st1:placenam=
+e w:st=3D"on">Leh</st1:placename>
+<st1:placetype w:st=3D"on">Airport</st1:placetype></st1:place> you will met=
+ by our representative and transfer to Hotel for Check in. Complete day for=
+ rest and leisure to acclimatize. Evening Visit to Leh Market &amp; Shanti =
+Stupa. Overnight at Hotel.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Day 02: Leh (Excursion to Monasteries) <o:p></o:p></=
+p>
+<p class=3D"MsoNormal">Post Breakfast we proceed for Indus Valley Monastery=
+ tour including
+<st1:placename w:st=3D"on">Shey</st1:placename> <st1:placetype w:st=3D"on">=
+Palace</st1:placetype>, The ancient capital of Ladakh, Thiksey an impressiv=
+e complex rising tier upon tier on a hill above the village, Hemis Gompa, t=
+he largest monastic foundation of Drukpa
+ Kagyu Order of Tibetan Buddhism, <st1:place w:st=3D"on"><st1:placename w:s=
+t=3D"on">Sindhu</st1:placename>
+<st1:placename w:st=3D"on">Ghat &amp; Stok</st1:placename> <st1:placetype w=
+:st=3D"on">Palace</st1:placetype>
+<st1:placetype w:st=3D"on">Museum</st1:placetype></st1:place>. Packed or Ho=
+t Lunch will be provided. Overnight at Hotel<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">DAY 03: Leh (Excursion to <st1:place w:st=3D"on"><st=
+1:placename w:st=3D"on">Pangong</st1:placename>
+<st1:placetype w:st=3D"on">Lake</st1:placetype></st1:place> =96 14,000 Ft.)=
+ <o:p></o:p></p>
+<p class=3D"MsoNormal">After an early breakfast we leave for <st1:placename=
+ w:st=3D"on">
+Pangong</st1:placename> <st1:placetype w:st=3D"on">Lake</st1:placetype> thr=
+ough Changla pass 5486
+<st1:place w:st=3D"on"><st1:placename w:st=3D"on">Mtrs.</st1:placename> <st=
+1:placename w:st=3D"on">
+Pangong</st1:placename> <st1:placetype w:st=3D"on">Lake</st1:placetype></st=
+1:place>, situated at 14,000 feet (4,267 m). A long narrow basin of inland =
+drainage, hardly six to seven kilometer at its widest point and over 130km =
+long, it is bisected by the international
+ border between <st1:country-region w:st=3D"on">India</st1:country-region> =
+and <st1:place w:st=3D"on">
+China</st1:place>. A few years back the government decided to open it to to=
+urists though the lake and its surrounding is under army surveillance.&nbsp=
+;
+<o:p></o:p></p>
+<p class=3D"MsoNormal">After spending some time at Pangong we drive back to=
+ hotel for overnight stay.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Day 04: Leh (Excursion to Khardungla Top - 18,390 Ft=
+.) <o:p>
+</o:p></p>
+<p class=3D"MsoNormal">Post Breakfast we drive to Khardung la, the highest =
+motorable road in the world at 18,390 ft. is around 39 Kms away from Leh. T=
+he views from the top of the pass are amazing. Return to the hotel for hot =
+lunch. Afternoon at leisure for last
+ day shopping. Overnight at hotel.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Day 05: Depart Leh (Fly Out)<o:p></o:p></p>
+<p class=3D"MsoNormal">Tour concludes. <o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><st1:stockticker w:st=3D"on">COST</st1:stockticker> =
+OF THE P<st1:stockticker w:st=3D"on">ACK</st1:stockticker>AGE (<st1:stockti=
+cker w:st=3D"on">PER
+</st1:stockticker>PERSON):-<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"730" style=3D"width:547.4pt;margin-left:4.65pt;border-colla=
+pse:collapse;mso-yfti-tbllook:=0A=
+ 1184;mso-padding-alt:0in 5.4pt 0in 5.4pt">
+<tbody>
+<tr style=3D"mso-yfti-irow:0;mso-yfti-firstrow:yes;height:58.3pt">
+<td width=3D"102" nowrap=3D"" style=3D"width:76.15pt;border:solid windowtex=
+t 1.0pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:5=
+8.3pt">
+<p class=3D"MsoNormal">CATEGORY<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" style=3D"width:45.35pt;border:solid windowtext=
+ 1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:58.3pt">
+<p class=3D"MsoNormal">02 <st1:stockticker w:st=3D"on">PAX</st1:stockticker=
+><o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" style=3D"width:45.35pt;border:solid windowtext=
+ 1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:58.3pt">
+<p class=3D"MsoNormal">04 <st1:stockticker w:st=3D"on">PAX</st1:stockticker=
+><o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" style=3D"width:45.35pt;border:solid windowtext=
+ 1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:58.3pt">
+<p class=3D"MsoNormal">06 <st1:stockticker w:st=3D"on">PAX</st1:stockticker=
+><o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" style=3D"width:45.35pt;border:solid windowtext=
+ 1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:58.3pt">
+<p class=3D"MsoNormal">08 <st1:stockticker w:st=3D"on">PAX</st1:stockticker=
+><o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" style=3D"width:45.35pt;border:solid windowtext=
+ 1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:58.3pt">
+<p class=3D"MsoNormal">10 <st1:stockticker w:st=3D"on">PAX</st1:stockticker=
+><o:p></o:p></p>
+</td>
+<td width=3D"54" nowrap=3D"" style=3D"width:40.8pt;border:solid windowtext =
+1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:58.3pt">
+<p class=3D"MsoNormal">Extra Adult<o:p></o:p></p>
+</td>
+<td width=3D"71" style=3D"width:53.05pt;border-top:solid windowtext 1.0pt;=
+=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:none;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:solid wind=
+owtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:58.3pt">
+<p class=3D"MsoNormal">Extra Child&nbsp;&nbsp; With<o:p></o:p></p>
+<p class=3D"MsoNormal">Extra Bed<o:p></o:p></p>
+</td>
+<td width=3D"72" style=3D"width:.75in;border:solid windowtext 1.0pt;border-=
+right:=0A=
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid w=
+indowtext .5pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;=
+=0A=
+  height:58.3pt">
+<p class=3D"MsoNormal">Extra Child&nbsp;&nbsp; Without&nbsp;&nbsp;&nbsp; Ex=
+tra Bed<o:p></o:p></p>
+</td>
+<td width=3D"129" style=3D"width:96.65pt;border:solid windowtext 1.0pt;mso-=
+border-alt:=0A=
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:58.3pt">
+<p class=3D"MsoNormal">Single Room Supp.<o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"mso-yfti-irow:1;height:19.7pt">
+<td width=3D"102" nowrap=3D"" valign=3D"bottom" style=3D"width:76.15pt;bord=
+er:solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">Standard<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.35pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">15891<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.35pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">14500<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.35pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">13900<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.35pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">13200<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.35pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">12785<o:p></o:p></p>
+</td>
+<td width=3D"54" nowrap=3D"" valign=3D"bottom" style=3D"width:40.8pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">6500<o:p></o:p></p>
+</td>
+<td width=3D"71" nowrap=3D"" valign=3D"bottom" style=3D"width:53.05pt;borde=
+r:none;=0A=
+  border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowte=
+xt .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">6000<o:p></o:p></p>
+</td>
+<td width=3D"72" nowrap=3D"" valign=3D"bottom" style=3D"width:.75in;border:=
+solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">4500<o:p></o:p></p>
+</td>
+<td width=3D"129" nowrap=3D"" valign=3D"bottom" style=3D"width:96.65pt;bord=
+er-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">3800<o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"mso-yfti-irow:2;height:19.7pt">
+<td width=3D"102" nowrap=3D"" valign=3D"bottom" style=3D"width:76.15pt;bord=
+er:solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">Deluxe<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.35pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">16900<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.35pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">16399<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.35pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">15899<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.35pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">14500<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.35pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">13900<o:p></o:p></p>
+</td>
+<td width=3D"54" nowrap=3D"" valign=3D"bottom" style=3D"width:40.8pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">7500<o:p></o:p></p>
+</td>
+<td width=3D"71" nowrap=3D"" valign=3D"bottom" style=3D"width:53.05pt;borde=
+r:none;=0A=
+  border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowte=
+xt .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">7300<o:p></o:p></p>
+</td>
+<td width=3D"72" nowrap=3D"" valign=3D"bottom" style=3D"width:.75in;border:=
+solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">5200<o:p></o:p></p>
+</td>
+<td width=3D"129" nowrap=3D"" valign=3D"bottom" style=3D"width:96.65pt;bord=
+er-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">4500<o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"mso-yfti-irow:3;mso-yfti-lastrow:yes;height:19.7pt">
+<td width=3D"102" nowrap=3D"" valign=3D"bottom" style=3D"width:76.15pt;bord=
+er:solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">Super Dlx<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.35pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">34599<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.35pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">29,500<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.35pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">28,999<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.35pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">27,800<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.35pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">27,200<o:p></o:p></p>
+</td>
+<td width=3D"54" nowrap=3D"" valign=3D"bottom" style=3D"width:40.8pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">13,200<o:p></o:p></p>
+</td>
+<td width=3D"71" nowrap=3D"" valign=3D"bottom" style=3D"width:53.05pt;borde=
+r:none;=0A=
+  border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:solid windowte=
+xt .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">12,900<o:p></o:p></p>
+</td>
+<td width=3D"72" nowrap=3D"" valign=3D"bottom" style=3D"width:.75in;border:=
+solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">7500<o:p></o:p></p>
+</td>
+<td width=3D"129" nowrap=3D"" valign=3D"bottom" style=3D"width:96.65pt;bord=
+er-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:19.7pt">
+<p class=3D"MsoNormal">9500<o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">HOTELS INCORPORATED<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<table class=3D"MsoNormalTable" border=3D"1" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"719" style=3D"margin-left:5.4pt;border-collapse:collapse;ms=
+o-table-layout-alt:fixed;=0A=
+ border:none;mso-border-alt:solid windowtext .5pt;mso-padding-alt:0in 5.4pt=
+ 0in 5.4pt;=0A=
+ mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid win=
+dowtext">
+<tbody>
+<tr style=3D"mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.6pt">
+<td width=3D"96" nowrap=3D"" style=3D"width:1.0in;border:solid windowtext 1=
+.0pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">DESTINATION<o:p></o:p></p>
+</td>
+<td width=3D"198" nowrap=3D"" style=3D"width:148.5pt;border:solid windowtex=
+t 1.0pt;=0A=
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt=
+:=0A=
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.6pt">
+<p class=3D"MsoNormal">STANDARD<o:p></o:p></p>
+</td>
+<td width=3D"216" style=3D"width:2.25in;border:solid windowtext 1.0pt;borde=
+r-left:=0A=
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windo=
+wtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:15.6pt">
+<p class=3D"MsoNormal">DELUXE<o:p></o:p></p>
+</td>
+<td width=3D"209" style=3D"width:156.95pt;border:solid windowtext 1.0pt;bor=
+der-left:=0A=
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windo=
+wtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:15.6pt">
+<p class=3D"MsoNormal">SUPER DELUXE<o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"mso-yfti-irow:1;mso-yfti-lastrow:yes;height:15.6pt">
+<td width=3D"96" nowrap=3D"" style=3D"width:1.0in;border:solid windowtext 1=
+.0pt;=0A=
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:s=
+olid windowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:15.6pt">
+<p class=3D"MsoNormal"><st1:stockticker w:st=3D"on">LEH</st1:stockticker><o=
+:p></o:p></p>
+</td>
+<td width=3D"198" nowrap=3D"" style=3D"width:148.5pt;border-top:none;border=
+-left:none;=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">Grand <st1:city w:st=3D"on">Willow</st1:city> / <st1=
+:place w:st=3D"on">
+<st1:placetype w:st=3D"on">Hill</st1:placetype> <st1:placetype w:st=3D"on">=
+Town</st1:placetype></st1:place><o:p></o:p></p>
+</td>
+<td width=3D"216" style=3D"width:2.25in;border-top:none;border-left:none;=
+=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">Mandala, <st1:placename w:st=3D"on">Sinnge</st1:plac=
+ename> <st1:placetype w:st=3D"on">
+Palace</st1:placetype>, <st1:place w:st=3D"on"><st1:placetype w:st=3D"on">C=
+ity</st1:placetype>
+<st1:placetype w:st=3D"on">Palace</st1:placetype></st1:place>, The Kaal, No=
+ble House or Similar<o:p></o:p></p>
+</td>
+<td width=3D"209" style=3D"width:156.95pt;border-top:none;border-left:none;=
+=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">The Grand Dragon<o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">PACKAGE <st1:stockticker w:st=3D"on">COST</st1:stock=
+ticker> INCLUDES:-<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Assistance upon arrival at Leh airport with traditio=
+nal welcome in the Hotel<o:p></o:p></p>
+<p class=3D"MsoNormal">04 Nights / 05 Days Accommodation on twin sharing Ba=
+sis as per the Itinerary<o:p></o:p></p>
+<p class=3D"MsoNormal">All Meals (Bed Tea, Breakfast, Hot / Pack Lunch, Eve=
+ning Tea &amp; Dinner)
+<o:p></o:p></p>
+<p class=3D"MsoNormal">Return airport and round trip transfers along with a=
+ll sightseeing tours by Non-ac Scorpio / Qualis / Tavera or Tata Safari as =
+per the program.
+<o:p></o:p></p>
+<p class=3D"MsoNormal">Inner line Permit to restricted / protected areas (P=
+angong Lake &amp; Khardungla Top)<o:p></o:p></p>
+<p class=3D"MsoNormal">Monument &amp; Museum Entrance Fees for the sights m=
+entioned in the Itinerary
+<o:p></o:p></p>
+<p class=3D"MsoNormal">01 Bottle of Mineral Water every day to each tourist=
+<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><st1:place w:st=3D"on"><st1:placename w:st=3D"on">LA=
+DAKH-</st1:placename>
+<st1:placename w:st=3D"on">NUBRA</st1:placename> <st1:placetype w:st=3D"on"=
+>VALLEY</st1:placetype></st1:place><o:p></o:p></p>
+<p class=3D"MsoNormal">Day 01: Arrive Leh<o:p></o:p></p>
+<p class=3D"MsoNormal">Upon arrival at <st1:place w:st=3D"on"><st1:placenam=
+e w:st=3D"on">Leh</st1:placename>
+<st1:placetype w:st=3D"on">Airport</st1:placetype></st1:place> you will met=
+ by our representative and transfer to Hotel for Check in. Complete day for=
+ rest and leisure to acclimatize. Evening Visit to Leh Market &amp; Shanti =
+Stupa. Overnight at Hotel.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Day 02: Leh (Excursion to Monasteries) <o:p></o:p></=
+p>
+<p class=3D"MsoNormal">Post Breakfast we proceed for Indus Valley Monastery=
+ tour including
+<st1:placename w:st=3D"on">Shey</st1:placename> <st1:placetype w:st=3D"on">=
+Palace</st1:placetype>, The ancient capital of Ladakh, Thiksey an impressiv=
+e complex rising tier upon tier on a hill above the village, Hemis Gompa, t=
+he largest monastic foundation of Drukpa
+ Kagyu Order of Tibetan Buddhism, <st1:place w:st=3D"on"><st1:placename w:s=
+t=3D"on">Sindhu</st1:placename>
+<st1:placename w:st=3D"on">Ghat &amp; Stok</st1:placename> <st1:placetype w=
+:st=3D"on">Palace</st1:placetype>
+<st1:placetype w:st=3D"on">Museum</st1:placetype></st1:place>. Packed or Ho=
+t Lunch will be provided. Overnight at Hotel<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Day 03: Leh to Hunder (<st1:place w:st=3D"on"><st1:p=
+lacename w:st=3D"on">Nubra</st1:placename>
+<st1:placetype w:st=3D"on">Valley</st1:placetype></st1:place>) (126 Kms / a=
+prx. 06 hrs)
+<o:p></o:p></p>
+<p class=3D"MsoNormal">After an early breakfast we drive to <st1:place w:st=
+=3D"on"><st1:placename w:st=3D"on">NUBRA</st1:placename>
+<st1:placetype w:st=3D"on">VALLEY</st1:placetype></st1:place> leads through=
+ KHARDUNG-LA-PASS (the highest motorable road in the world) at 18,390 ft, a=
+round 39kms from Leh.
+<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><st1:place w:st=3D"on"><st1:placename w:st=3D"on">Nu=
+bra</st1:placename>
+<st1:placetype w:st=3D"on">Valley</st1:placetype></st1:place> is popularly =
+known as Ldorma or the valley of flowers. It is situated to the North of La=
+dakh between the Karakoram and Ladakh ranges of the
+<st1:place w:st=3D"on">Himalayas</st1:place>. <o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Arrive Hunder by afternoon and rest of the day at le=
+isure to explore
+<st1:place w:st=3D"on"><st1:placename w:st=3D"on">Hunder &amp; Diskit</st1:=
+placename> <st1:placetype w:st=3D"on">
+Village</st1:placetype></st1:place>. Overnight at Camp<o:p></o:p></p>
+<p class=3D"MsoNormal">at Nubra Organic Retreat situated in a beautiful vil=
+lage called HUNDAR with lot of trees.
+<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Day 04: Hunder (<st1:place w:st=3D"on"><st1:placenam=
+e w:st=3D"on">Nubra</st1:placename>
+<st1:placetype w:st=3D"on">Valley</st1:placetype></st1:place>) =96 Leh <o:p=
+></o:p></p>
+<p class=3D"MsoNormal">After your breakfast at the camp, visit the <st1:sto=
+ckticker w:st=3D"on">
+SAND</st1:stockticker> DUNES to enjoy a camel safari (Optional). Later we d=
+rive to Leh by same route over
+<st1:street w:st=3D"on">Khardung La.</st1:street>&nbsp; Afternoon rest and =
+relax or take a walk to the local market.&nbsp; Overnight at hotel.<o:p></o=
+:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Day 05: Depart Leh (Fly Out)<o:p></o:p></p>
+<p class=3D"MsoNormal">Tour concludes<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><st1:stockticker w:st=3D"on">COST</st1:stockticker> =
+OF THE P<st1:stockticker w:st=3D"on">ACK</st1:stockticker>AGE (<st1:stockti=
+cker w:st=3D"on">PER
+</st1:stockticker>PERSON):-<o:p></o:p></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"721" style=3D"width:540.75pt;margin-left:4.65pt;border-coll=
+apse:collapse;mso-yfti-tbllook:=0A=
+ 1184;mso-padding-alt:0in 5.4pt 0in 5.4pt">
+<tbody>
+<tr style=3D"mso-yfti-irow:0;mso-yfti-firstrow:yes;height:51.65pt">
+<td width=3D"102" nowrap=3D"" style=3D"width:76.15pt;border:solid windowtex=
+t 1.0pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:5=
+1.65pt">
+<p class=3D"MsoNormal">CATEGORY<o:p></o:p></p>
+</td>
+<td width=3D"65" nowrap=3D"" style=3D"width:48.8pt;border:solid windowtext =
+1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:51.65pt">
+<p class=3D"MsoNormal">02 <st1:stockticker w:st=3D"on">PAX</st1:stockticker=
+><o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" style=3D"width:45.4pt;border:solid windowtext =
+1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:51.65pt">
+<p class=3D"MsoNormal">04 <st1:stockticker w:st=3D"on">PAX</st1:stockticker=
+><o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" style=3D"width:45.4pt;border:solid windowtext =
+1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:51.65pt">
+<p class=3D"MsoNormal">06 <st1:stockticker w:st=3D"on">PAX</st1:stockticker=
+><o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" style=3D"width:45.4pt;border:solid windowtext =
+1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:51.65pt">
+<p class=3D"MsoNormal">08 <st1:stockticker w:st=3D"on">PAX</st1:stockticker=
+><o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" style=3D"width:45.4pt;border:solid windowtext =
+1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:51.65pt">
+<p class=3D"MsoNormal">10 <st1:stockticker w:st=3D"on">PAX</st1:stockticker=
+><o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" style=3D"width:45.2pt;border:solid windowtext =
+1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:51.65pt">
+<p class=3D"MsoNormal">Extra Adult<o:p></o:p></p>
+</td>
+<td width=3D"66" style=3D"width:49.5pt;border-top:solid windowtext 1.0pt;=
+=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:none;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:solid wind=
+owtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:51.65pt">
+<p class=3D"MsoNormal">Extra Child&nbsp;&nbsp; With<o:p></o:p></p>
+<p class=3D"MsoNormal">Extra Bed<o:p></o:p></p>
+</td>
+<td width=3D"72" style=3D"width:.75in;border:solid windowtext 1.0pt;border-=
+right:=0A=
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid w=
+indowtext .5pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;=
+=0A=
+  height:51.65pt">
+<p class=3D"MsoNormal">Extra Child&nbsp;&nbsp; Without&nbsp;&nbsp;&nbsp; Ex=
+tra Bed<o:p></o:p></p>
+</td>
+<td width=3D"114" style=3D"width:85.5pt;border:solid windowtext 1.0pt;mso-b=
+order-alt:=0A=
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:51.65pt">
+<p class=3D"MsoNormal">Single Room Supp.<o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"mso-yfti-irow:1;height:17.75pt">
+<td width=3D"102" nowrap=3D"" valign=3D"bottom" style=3D"width:76.15pt;bord=
+er:solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">Standard<o:p></o:p></p>
+</td>
+<td width=3D"65" nowrap=3D"" valign=3D"bottom" style=3D"width:48.8pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">19,999<o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" valign=3D"bottom" style=3D"width:45.4pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">19,399<o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" valign=3D"bottom" style=3D"width:45.4pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">18,800<o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" valign=3D"bottom" style=3D"width:45.4pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">17,600<o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" valign=3D"bottom" style=3D"width:45.4pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">17,000<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.2pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">8000<o:p></o:p></p>
+</td>
+<td width=3D"66" nowrap=3D"" valign=3D"bottom" style=3D"width:49.5pt;border=
+:none;border-bottom:=0A=
+  solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">7500<o:p></o:p></p>
+</td>
+<td width=3D"72" nowrap=3D"" valign=3D"bottom" style=3D"width:.75in;border:=
+solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">4200<o:p></o:p></p>
+</td>
+<td width=3D"114" nowrap=3D"" valign=3D"bottom" style=3D"width:85.5pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">4500<o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"mso-yfti-irow:2;height:17.75pt">
+<td width=3D"102" nowrap=3D"" valign=3D"bottom" style=3D"width:76.15pt;bord=
+er:solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">Deluxe<o:p></o:p></p>
+</td>
+<td width=3D"65" nowrap=3D"" valign=3D"bottom" style=3D"width:48.8pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">21,999<o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" valign=3D"bottom" style=3D"width:45.4pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">21,200<o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" valign=3D"bottom" style=3D"width:45.4pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">19,500<o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" valign=3D"bottom" style=3D"width:45.4pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">18,900<o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" valign=3D"bottom" style=3D"width:45.4pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">18,100<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.2pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">8700<o:p></o:p></p>
+</td>
+<td width=3D"66" nowrap=3D"" valign=3D"bottom" style=3D"width:49.5pt;border=
+:none;border-bottom:=0A=
+  solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">7900<o:p></o:p></p>
+</td>
+<td width=3D"72" nowrap=3D"" valign=3D"bottom" style=3D"width:.75in;border:=
+solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">5000<o:p></o:p></p>
+</td>
+<td width=3D"114" nowrap=3D"" valign=3D"bottom" style=3D"width:85.5pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">5500<o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"mso-yfti-irow:3;mso-yfti-lastrow:yes;height:17.75pt">
+<td width=3D"102" nowrap=3D"" valign=3D"bottom" style=3D"width:76.15pt;bord=
+er:solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">Super Dlx<o:p></o:p></p>
+</td>
+<td width=3D"65" nowrap=3D"" valign=3D"bottom" style=3D"width:48.8pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">39,000<o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" valign=3D"bottom" style=3D"width:45.4pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">38,300<o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" valign=3D"bottom" style=3D"width:45.4pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">37,800<o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" valign=3D"bottom" style=3D"width:45.4pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">37,000<o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" valign=3D"bottom" style=3D"width:45.4pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">36,500<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.2pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">12,000<o:p></o:p></p>
+</td>
+<td width=3D"66" nowrap=3D"" valign=3D"bottom" style=3D"width:49.5pt;border=
+:none;border-bottom:=0A=
+  solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">11,000<o:p></o:p></p>
+</td>
+<td width=3D"72" nowrap=3D"" valign=3D"bottom" style=3D"width:.75in;border:=
+solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">6500<o:p></o:p></p>
+</td>
+<td width=3D"114" nowrap=3D"" valign=3D"bottom" style=3D"width:85.5pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">7500<o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">HOTELS INCORPORATED<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<table class=3D"MsoNormalTable" border=3D"1" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"672" style=3D"margin-left:5.4pt;border-collapse:collapse;ms=
+o-table-layout-alt:fixed;=0A=
+ border:none;mso-border-alt:solid windowtext .5pt;mso-padding-alt:0in 5.4pt=
+ 0in 5.4pt;=0A=
+ mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid win=
+dowtext">
+<tbody>
+<tr style=3D"mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.6pt">
+<td width=3D"96" nowrap=3D"" style=3D"width:1.0in;border:solid windowtext 1=
+.0pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">DESTINATION<o:p></o:p></p>
+</td>
+<td width=3D"210" nowrap=3D"" style=3D"width:157.5pt;border:solid windowtex=
+t 1.0pt;=0A=
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt=
+:=0A=
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.6pt">
+<p class=3D"MsoNormal">STANDARD<o:p></o:p></p>
+</td>
+<td width=3D"204" style=3D"width:153.0pt;border:solid windowtext 1.0pt;bord=
+er-left:=0A=
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windo=
+wtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:15.6pt">
+<p class=3D"MsoNormal">DELUXE<o:p></o:p></p>
+</td>
+<td width=3D"162" style=3D"width:121.5pt;border:solid windowtext 1.0pt;bord=
+er-left:=0A=
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windo=
+wtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:15.6pt">
+<p class=3D"MsoNormal">SUPER DELUXE<o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"mso-yfti-irow:1;height:15.6pt">
+<td width=3D"96" nowrap=3D"" style=3D"width:1.0in;border:solid windowtext 1=
+.0pt;=0A=
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:s=
+olid windowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:15.6pt">
+<p class=3D"MsoNormal"><st1:stockticker w:st=3D"on">LEH</st1:stockticker><o=
+:p></o:p></p>
+</td>
+<td width=3D"210" nowrap=3D"" style=3D"width:157.5pt;border-top:none;border=
+-left:none;=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">Grand <st1:city w:st=3D"on">Willow</st1:city> / <st1=
+:place w:st=3D"on">
+<st1:placetype w:st=3D"on">Hill</st1:placetype> <st1:placetype w:st=3D"on">=
+Town</st1:placetype></st1:place><o:p></o:p></p>
+</td>
+<td width=3D"204" style=3D"width:153.0pt;border-top:none;border-left:none;=
+=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">Mandala, <st1:placename w:st=3D"on">Sinnge</st1:plac=
+ename> <st1:placetype w:st=3D"on">
+Palace</st1:placetype>, <st1:place w:st=3D"on"><st1:placetype w:st=3D"on">C=
+ity</st1:placetype>
+<st1:placetype w:st=3D"on">Palace</st1:placetype></st1:place>, The Kaal, No=
+ble House or Similar<o:p></o:p></p>
+</td>
+<td width=3D"162" style=3D"width:121.5pt;border-top:none;border-left:none;=
+=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">The Grand Dragon<o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"mso-yfti-irow:2;mso-yfti-lastrow:yes;height:15.6pt">
+<td width=3D"96" nowrap=3D"" style=3D"width:1.0in;border:solid windowtext 1=
+.0pt;=0A=
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:s=
+olid windowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:15.6pt">
+<p class=3D"MsoNormal"><st1:place w:st=3D"on"><st1:placename w:st=3D"on">NU=
+BRA</st1:placename>
+<st1:placetype w:st=3D"on">VALLEY</st1:placetype></st1:place><o:p></o:p></p=
+>
+</td>
+<td width=3D"210" nowrap=3D"" style=3D"width:157.5pt;border-top:none;border=
+-left:none;=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">Karma Inn or Similar<o:p></o:p></p>
+</td>
+<td width=3D"204" style=3D"width:153.0pt;border-top:none;border-left:none;=
+=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">Nubra Organic Retreat<o:p></o:p></p>
+</td>
+<td width=3D"162" style=3D"width:121.5pt;border-top:none;border-left:none;=
+=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">Nubra Organic Retreat<o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">PACKAGE <st1:stockticker w:st=3D"on">COST</st1:stock=
+ticker> INCLUDES:-<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Assistance upon arrival at Leh airport with traditio=
+nal welcome in the Hotel<o:p></o:p></p>
+<p class=3D"MsoNormal">04 Nights / 05 Days Accommodation on twin sharing Ba=
+sis as per the Itinerary<o:p></o:p></p>
+<p class=3D"MsoNormal">All Meals (Bed Tea, Breakfast, Hot / Pack Lunch, Eve=
+ning Tea &amp; Dinner)
+<o:p></o:p></p>
+<p class=3D"MsoNormal">Return airport and round trip transfers along with a=
+ll sightseeing tours by Non-ac Scorpio / Qualis / Tavera or Tata Safari as =
+per the program.
+<o:p></o:p></p>
+<p class=3D"MsoNormal">Inner line Permit to restricted / protected areas (<=
+st1:place w:st=3D"on"><st1:placename w:st=3D"on">Nubra</st1:placename>
+<st1:placetype w:st=3D"on">Valley</st1:placetype></st1:place>)<o:p></o:p></=
+p>
+<p class=3D"MsoNormal">Monument &amp; Museum Entrance Fees for the sights m=
+entioned in the Itinerary
+<o:p></o:p></p>
+<p class=3D"MsoNormal">01 Bottle of Mineral Water every day to each tourist=
+<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">LADAKH WITH <st1:place w:st=3D"on"><st1:placename w:=
+st=3D"on">PANGONGTSO</st1:placename>
+<st1:placetype w:st=3D"on"><st1:stockticker w:st=3D"on">LAKE</st1:stocktick=
+er></st1:placetype></st1:place><o:p></o:p></p>
+<p class=3D"MsoNormal">Day 01: Arrive Leh<o:p></o:p></p>
+<p class=3D"MsoNormal">Upon arrival at <st1:place w:st=3D"on"><st1:placenam=
+e w:st=3D"on">Leh</st1:placename>
+<st1:placetype w:st=3D"on">Airport</st1:placetype></st1:place> you will met=
+ by our representative and transfer to Hotel for Check in. Complete day for=
+ rest and leisure to acclimatize. Evening Visit to Leh Market &amp; Shanti =
+Stupa. Overnight at Hotel.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Day 02: Leh to Uleytokpo <o:p></o:p></p>
+<p class=3D"MsoNormal">Post Breakfast we drive to visit Phyang Gompa, locat=
+ed 6 kms away from Leh. Further we drive to Likir, Likir gompa situated ato=
+p a windy cliff top overlooking the beautiful
+<st1:place w:st=3D"on"><st1:placetype w:st=3D"on">village</st1:placetype> o=
+f <st1:placename w:st=3D"on">
+Likir</st1:placename></st1:place>. Basgo is certainly the most impressive o=
+f Ladakhi citadels despite its ruined state. Then we drive and cross the Ri=
+ver Indus and reach Alchi, Ladakh's most loved monastery. After visiting ab=
+ove monasteries we drive to Uleytokpo
+ to checkin at our Campsite for overnight stay.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Day 03: Uleytokpo - Leh <o:p></o:p></p>
+<p class=3D"MsoNormal">Post breakfast start early morning we drive further =
+to visit Lamayuru, Belongs to Dripung Kagyu (Red Hat) like Phyang. After vi=
+siting Lamayuru we drive back to Leh enroute visiting Rizong Gompa, known a=
+s the paradise for Meditation. After
+ Ridzong visit we drive back to Leh and check in at our hotel for overnight=
+ stay <o:p>
+</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Day 04: Leh to <st1:place w:st=3D"on"><st1:placename=
+ w:st=3D"on">Pangong</st1:placename>
+<st1:placetype w:st=3D"on">Lake</st1:placetype></st1:place> (06 hours appro=
+x.)<o:p></o:p></p>
+<p class=3D"MsoNormal">After an early breakfast we leave for <st1:placename=
+ w:st=3D"on">
+Pangong</st1:placename> <st1:placetype w:st=3D"on">Lake</st1:placetype> thr=
+ough Changla pass 5486
+<st1:place w:st=3D"on"><st1:placename w:st=3D"on">Mtrs.</st1:placename> <st=
+1:placename w:st=3D"on">
+Pangong</st1:placename> <st1:placetype w:st=3D"on">Lake</st1:placetype></st=
+1:place>, situated at 14,000 feet (4,267 m). A long narrow basin of inland =
+drainage, hardly six to seven kilometer at its widest point and over 130km =
+long, it is bisected by the international
+ border between <st1:country-region w:st=3D"on">India</st1:country-region> =
+and <st1:place w:st=3D"on">
+China</st1:place>. A few years back the government decided to open it to to=
+urists though the lake and its surrounding is under army surveillance.&nbsp=
+;
+<o:p></o:p></p>
+<p class=3D"MsoNormal">Enjoy the landscape in the back drop of the <st1:pla=
+ce w:st=3D"on">
+Lake</st1:place>. One rarely feels so close to nature and environment and t=
+he scenery is unforgettable. Evening at leisure and overnight stay at
+<st1:placetype w:st=3D"on">Camp</st1:placetype> <st1:placename w:st=3D"on">=
+Watermark</st1:placename> on the
+<st1:place w:st=3D"on"><st1:placetype w:st=3D"on">shore</st1:placetype> of =
+<st1:placename w:st=3D"on">
+Lake</st1:placename></st1:place>. <o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Day 05: <st1:place w:st=3D"on"><st1:placename w:st=
+=3D"on">Pangong</st1:placename>
+<st1:placetype w:st=3D"on">Lake</st1:placetype></st1:place> to Leh (06 hour=
+s approx.)<o:p></o:p></p>
+<p class=3D"MsoNormal">Morning at leisure to explore the beauty of lake and=
+ later we drive back to leh enroute visiting Hemis Gompa, the largest monas=
+tic foundation of Drukpa Kagyu Order of Tibetan Buddhism, Thiksey an impres=
+sive complex rising tier upon tier
+ on a hill above the village, Shey Palace, The ancient capital of Ladakh &a=
+mp; Stok Palace Museum.<o:p></o:p></p>
+<p class=3D"MsoNormal">Drive further to Leh and check in at our hotel for O=
+vernight
+<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Day 06: Depart Leh (Fly Out)<o:p></o:p></p>
+<p class=3D"MsoNormal">Tour concludes. <o:p></o:p></p>
+<p class=3D"MsoNormal"><st1:stockticker w:st=3D"on">COST</st1:stockticker> =
+OF THE P<st1:stockticker w:st=3D"on">ACK</st1:stockticker>AGE (<st1:stockti=
+cker w:st=3D"on">PER
+</st1:stockticker>PERSON):-<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"721" style=3D"width:541.05pt;margin-left:4.65pt;border-coll=
+apse:collapse;mso-yfti-tbllook:=0A=
+ 1184;mso-padding-alt:0in 5.4pt 0in 5.4pt">
+<tbody>
+<tr style=3D"mso-yfti-irow:0;mso-yfti-firstrow:yes;height:51.65pt">
+<td width=3D"102" nowrap=3D"" style=3D"width:76.15pt;border:solid windowtex=
+t 1.0pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:5=
+1.65pt">
+<p class=3D"MsoNormal">CATEGORY<o:p></o:p></p>
+</td>
+<td width=3D"65" nowrap=3D"" style=3D"width:48.8pt;border:solid windowtext =
+1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:51.65pt">
+<p class=3D"MsoNormal">02 <st1:stockticker w:st=3D"on">PAX</st1:stockticker=
+><o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" style=3D"width:45.4pt;border:solid windowtext =
+1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:51.65pt">
+<p class=3D"MsoNormal">04 <st1:stockticker w:st=3D"on">PAX</st1:stockticker=
+><o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" style=3D"width:45.4pt;border:solid windowtext =
+1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:51.65pt">
+<p class=3D"MsoNormal">06 <st1:stockticker w:st=3D"on">PAX</st1:stockticker=
+><o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" style=3D"width:45.4pt;border:solid windowtext =
+1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:51.65pt">
+<p class=3D"MsoNormal">08 <st1:stockticker w:st=3D"on">PAX</st1:stockticker=
+><o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" style=3D"width:45.4pt;border:solid windowtext =
+1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:51.65pt">
+<p class=3D"MsoNormal">10 <st1:stockticker w:st=3D"on">PAX</st1:stockticker=
+><o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" style=3D"width:45.2pt;border:solid windowtext =
+1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:51.65pt">
+<p class=3D"MsoNormal">Extra Adult<o:p></o:p></p>
+</td>
+<td width=3D"54" style=3D"width:40.8pt;border-top:solid windowtext 1.0pt;=
+=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:none;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:solid wind=
+owtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:51.65pt">
+<p class=3D"MsoNormal">Extra Child&nbsp;&nbsp; With<o:p></o:p></p>
+<p class=3D"MsoNormal">Extra Bed<o:p></o:p></p>
+</td>
+<td width=3D"67" style=3D"width:50.15pt;border:solid windowtext 1.0pt;borde=
+r-right:=0A=
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid w=
+indowtext .5pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;=
+=0A=
+  height:51.65pt">
+<p class=3D"MsoNormal">Extra Child&nbsp;&nbsp; Without&nbsp;&nbsp;&nbsp; Ex=
+tra Bed<o:p></o:p></p>
+</td>
+<td width=3D"131" style=3D"width:98.35pt;border:solid windowtext 1.0pt;mso-=
+border-alt:=0A=
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:51.65pt">
+<p class=3D"MsoNormal">Single Room Supp.<o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"mso-yfti-irow:1;height:17.75pt">
+<td width=3D"102" nowrap=3D"" valign=3D"bottom" style=3D"width:76.15pt;bord=
+er:solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">Standard<o:p></o:p></p>
+</td>
+<td width=3D"65" nowrap=3D"" valign=3D"bottom" style=3D"width:48.8pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">23,999<o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" valign=3D"bottom" style=3D"width:45.4pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">23,300<o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" valign=3D"bottom" style=3D"width:45.4pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">22,800<o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" valign=3D"bottom" style=3D"width:45.4pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">22,100<o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" valign=3D"bottom" style=3D"width:45.4pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">21,500<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.2pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">8600<o:p></o:p></p>
+</td>
+<td width=3D"54" nowrap=3D"" valign=3D"bottom" style=3D"width:40.8pt;border=
+:none;border-bottom:=0A=
+  solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">7900<o:p></o:p></p>
+</td>
+<td width=3D"67" nowrap=3D"" valign=3D"bottom" style=3D"width:50.15pt;borde=
+r:solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">6500<o:p></o:p></p>
+</td>
+<td width=3D"131" nowrap=3D"" valign=3D"bottom" style=3D"width:98.35pt;bord=
+er-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">4500<o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"mso-yfti-irow:2;height:17.75pt">
+<td width=3D"102" nowrap=3D"" valign=3D"bottom" style=3D"width:76.15pt;bord=
+er:solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">Deluxe<o:p></o:p></p>
+</td>
+<td width=3D"65" nowrap=3D"" valign=3D"bottom" style=3D"width:48.8pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">25,999<o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" valign=3D"bottom" style=3D"width:45.4pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">25,299<o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" valign=3D"bottom" style=3D"width:45.4pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">24,800<o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" valign=3D"bottom" style=3D"width:45.4pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">24,100<o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" valign=3D"bottom" style=3D"width:45.4pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">23,700<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.2pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">9500<o:p></o:p></p>
+</td>
+<td width=3D"54" nowrap=3D"" valign=3D"bottom" style=3D"width:40.8pt;border=
+:none;border-bottom:=0A=
+  solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">9000<o:p></o:p></p>
+</td>
+<td width=3D"67" nowrap=3D"" valign=3D"bottom" style=3D"width:50.15pt;borde=
+r:solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">7000<o:p></o:p></p>
+</td>
+<td width=3D"131" nowrap=3D"" valign=3D"bottom" style=3D"width:98.35pt;bord=
+er-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">5500<o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"mso-yfti-irow:3;mso-yfti-lastrow:yes;height:17.75pt">
+<td width=3D"102" nowrap=3D"" valign=3D"bottom" style=3D"width:76.15pt;bord=
+er:solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">Super Dlx<o:p></o:p></p>
+</td>
+<td width=3D"65" nowrap=3D"" valign=3D"bottom" style=3D"width:48.8pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">36,700<o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" valign=3D"bottom" style=3D"width:45.4pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">35,900<o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" valign=3D"bottom" style=3D"width:45.4pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">35,100<o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" valign=3D"bottom" style=3D"width:45.4pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">34,600<o:p></o:p></p>
+</td>
+<td width=3D"61" nowrap=3D"" valign=3D"bottom" style=3D"width:45.4pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">33,900<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.2pt;border=
+-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">12,500<o:p></o:p></p>
+</td>
+<td width=3D"54" nowrap=3D"" valign=3D"bottom" style=3D"width:40.8pt;border=
+:none;border-bottom:=0A=
+  solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">12,000<o:p></o:p></p>
+</td>
+<td width=3D"67" nowrap=3D"" valign=3D"bottom" style=3D"width:50.15pt;borde=
+r:solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">7900<o:p></o:p></p>
+</td>
+<td width=3D"131" nowrap=3D"" valign=3D"bottom" style=3D"width:98.35pt;bord=
+er-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:17.75pt">
+<p class=3D"MsoNormal">8500<o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">HOTELS INCORPORATED<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<table class=3D"MsoNormalTable" border=3D"1" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"726" style=3D"border-collapse:collapse;mso-table-layout-alt=
+:fixed;border:none;=0A=
+ mso-border-alt:solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt;=
+=0A=
+ mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid win=
+dowtext">
+<tbody>
+<tr style=3D"mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.6pt">
+<td width=3D"97" nowrap=3D"" style=3D"width:72.5pt;border:solid windowtext =
+1.0pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">DESTINATION<o:p></o:p></p>
+</td>
+<td width=3D"217" nowrap=3D"" style=3D"width:162.4pt;border:solid windowtex=
+t 1.0pt;=0A=
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt=
+:=0A=
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.6pt">
+<p class=3D"MsoNormal">STANDARD<o:p></o:p></p>
+</td>
+<td width=3D"204" style=3D"width:153.0pt;border:solid windowtext 1.0pt;bord=
+er-left:=0A=
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windo=
+wtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:15.6pt">
+<p class=3D"MsoNormal">DELUXE<o:p></o:p></p>
+</td>
+<td width=3D"209" style=3D"width:156.95pt;border:solid windowtext 1.0pt;bor=
+der-left:=0A=
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windo=
+wtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:15.6pt">
+<p class=3D"MsoNormal">SUPER DELUXE<o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"mso-yfti-irow:1;height:15.6pt">
+<td width=3D"97" nowrap=3D"" style=3D"width:72.5pt;border:solid windowtext =
+1.0pt;=0A=
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:s=
+olid windowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:15.6pt">
+<p class=3D"MsoNormal"><st1:stockticker w:st=3D"on">LEH</st1:stockticker><o=
+:p></o:p></p>
+</td>
+<td width=3D"217" nowrap=3D"" style=3D"width:162.4pt;border-top:none;border=
+-left:none;=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">Grand <st1:city w:st=3D"on">Willow</st1:city> / <st1=
+:place w:st=3D"on">
+<st1:placetype w:st=3D"on">Hill</st1:placetype> <st1:placetype w:st=3D"on">=
+Town</st1:placetype></st1:place><o:p></o:p></p>
+</td>
+<td width=3D"204" style=3D"width:153.0pt;border-top:none;border-left:none;=
+=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">Mandala, <st1:placename w:st=3D"on">Sinnge</st1:plac=
+ename> <st1:placetype w:st=3D"on">
+Palace</st1:placetype>, <st1:place w:st=3D"on"><st1:placetype w:st=3D"on">C=
+ity</st1:placetype>
+<st1:placetype w:st=3D"on">Palace</st1:placetype></st1:place>, The Kaal, No=
+ble House or Similar<o:p></o:p></p>
+</td>
+<td width=3D"209" style=3D"width:156.95pt;border-top:none;border-left:none;=
+=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">The Grand Dragon<o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"mso-yfti-irow:2;height:15.6pt">
+<td width=3D"97" nowrap=3D"" style=3D"width:72.5pt;border:solid windowtext =
+1.0pt;=0A=
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:s=
+olid windowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:15.6pt">
+<p class=3D"MsoNormal">ULEYTOKPO<o:p></o:p></p>
+</td>
+<td width=3D"217" nowrap=3D"" style=3D"width:162.4pt;border-top:none;border=
+-left:none;=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">Uley Adventure Camp<o:p></o:p></p>
+</td>
+<td width=3D"204" style=3D"width:153.0pt;border-top:none;border-left:none;=
+=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal"><st1:place w:st=3D"on">West Ladakh</st1:place> Camp<=
+o:p></o:p></p>
+</td>
+<td width=3D"209" style=3D"width:156.95pt;border-top:none;border-left:none;=
+=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal"><st1:place w:st=3D"on">West Ladakh</st1:place> Camp<=
+o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"mso-yfti-irow:3;mso-yfti-lastrow:yes;height:15.6pt">
+<td width=3D"97" nowrap=3D"" style=3D"width:72.5pt;border:solid windowtext =
+1.0pt;=0A=
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:s=
+olid windowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:15.6pt">
+<p class=3D"MsoNormal">PANGONG<o:p></o:p></p>
+</td>
+<td width=3D"217" nowrap=3D"" style=3D"width:162.4pt;border-top:none;border=
+-left:none;=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">Pangong Resort<o:p></o:p></p>
+</td>
+<td width=3D"204" style=3D"width:153.0pt;border-top:none;border-left:none;=
+=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal"><st1:place w:st=3D"on"><st1:placetype w:st=3D"on">Ca=
+mp</st1:placetype>
+<st1:placename w:st=3D"on">Watermark</st1:placename></st1:place> (Deluxe)<o=
+:p></o:p></p>
+</td>
+<td width=3D"209" style=3D"width:156.95pt;border-top:none;border-left:none;=
+=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal"><st1:place w:st=3D"on"><st1:placetype w:st=3D"on">Ca=
+mp</st1:placetype>
+<st1:placename w:st=3D"on">Watermark</st1:placename></st1:place> (Deluxe)<o=
+:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">PACKAGE <st1:stockticker w:st=3D"on">COST</st1:stock=
+ticker> INCLUDES:-<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Assistance upon arrival at Leh airport with traditio=
+nal welcome in the Hotel<o:p></o:p></p>
+<p class=3D"MsoNormal">05 Nights / 06 Days Accommodation on twin sharing Ba=
+sis as per the Itinerary<o:p></o:p></p>
+<p class=3D"MsoNormal">All Meals (Bed Tea, Breakfast, Hot / Pack Lunch, Eve=
+ning Tea &amp; Dinner)
+<o:p></o:p></p>
+<p class=3D"MsoNormal">Return airport and round trip transfers along with a=
+ll sightseeing tours by Non-ac Scorpio / Qualis / Tavera or Tata Safari as =
+per the program.
+<o:p></o:p></p>
+<p class=3D"MsoNormal">Inner line Permit to restricted / protected areas (<=
+st1:place w:st=3D"on"><st1:placename w:st=3D"on">Pangong</st1:placename>
+<st1:placetype w:st=3D"on">Lake</st1:placetype></st1:place>)<o:p></o:p></p>
+<p class=3D"MsoNormal">Wildlife fee for Pangong area<o:p></o:p></p>
+<p class=3D"MsoNormal">Monument &amp; Museum Entrance Fees for the sights m=
+entioned in the Itinerary
+<o:p></o:p></p>
+<p class=3D"MsoNormal">01 Bottle of Mineral Water every day to each tourist=
+<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">BEST OF LADAKH<o:p></o:p></p>
+<p class=3D"MsoNormal">Day 01: Arrive Leh<o:p></o:p></p>
+<p class=3D"MsoNormal">Upon arrival at <st1:place w:st=3D"on"><st1:placenam=
+e w:st=3D"on">Leh</st1:placename>
+<st1:placetype w:st=3D"on">Airport</st1:placetype></st1:place> you will met=
+ by our representative and transfer to Hotel for Check in. Complete day for=
+ rest and leisure to acclimatize. Evening Visit to Leh Market &amp; Shanti =
+Stupa. Overnight at Hotel.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Day 02: Leh (Full Day Excursion)<o:p></o:p></p>
+<p class=3D"MsoNormal">Post breakfast we drive towards Kargil road and star=
+t our sightseeing with Hall of Fame near Leh is worth a visit for every cit=
+izen. It is a glorious museum constructed by Indian army,
+<st1:placename w:st=3D"on">Kali</st1:placename> <st1:placename w:st=3D"on">=
+Mata</st1:placename>
+<st1:placetype w:st=3D"on">Temple</st1:placetype>, Gurudwara Patthar Sahib =
+Nestled deep in the
+<st1:place w:st=3D"on">Himalayas</st1:place>, which was built by the Lamas =
+of Leh in 1517 to commemorate the visit of Guru Nanak Dev. A drive of anoth=
+er 4 km took us to Magnetic Hill which defies the law of gravity. It has be=
+en noticed that when a vehicle is
+ parked on neutral gear on this metallic road the vehicle slides up &amp; f=
+urther Driving through a picturesque landscape we reached the confluence of=
+ the
+<st1:place w:st=3D"on">Indus</st1:place> and Zanskar river 4 km before Nimm=
+u village. And Visit to Basgo a certainly the most impressive of Ladakhi ci=
+tadels despite its ruined state. After visiting above places we drive back =
+to Hotel for Overnight Stay.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Day 03: Leh to <st1:place w:st=3D"on"><st1:placename=
+ w:st=3D"on">Pangong</st1:placename>
+<st1:placetype w:st=3D"on">Lake</st1:placetype></st1:place> (06 hours appro=
+x.)<o:p></o:p></p>
+<p class=3D"MsoNormal">After an early breakfast we leave for <st1:placename=
+ w:st=3D"on">
+Pangong</st1:placename> <st1:placetype w:st=3D"on">Lake</st1:placetype> thr=
+ough Changla pass 5486
+<st1:place w:st=3D"on"><st1:placename w:st=3D"on">Mtrs.</st1:placename> <st=
+1:placename w:st=3D"on">
+Pangong</st1:placename> <st1:placetype w:st=3D"on">Lake</st1:placetype></st=
+1:place>, situated at 14,000 feet (4,267 m). A long narrow basin of inland =
+drainage, hardly six to seven kilometer at its widest point and over 130km =
+long, it is bisected by the international
+ border between <st1:country-region w:st=3D"on">India</st1:country-region> =
+and <st1:place w:st=3D"on">
+China</st1:place>. A few years back the government decided to open it to to=
+urists though the lake and its surrounding is under army surveillance.&nbsp=
+;
+<o:p></o:p></p>
+<p class=3D"MsoNormal">Enjoy the landscape in the back drop of the <st1:pla=
+ce w:st=3D"on">
+Lake</st1:place>. One rarely feels so close to nature and environment and t=
+he scenery is unforgettable. Evening at leisure and overnight stay at
+<st1:placetype w:st=3D"on">Camp</st1:placetype> <st1:placename w:st=3D"on">=
+Watermark</st1:placename> on the
+<st1:place w:st=3D"on"><st1:placetype w:st=3D"on">shore</st1:placetype> of =
+<st1:placename w:st=3D"on">
+Lake</st1:placename></st1:place>. <o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Day 04: <st1:place w:st=3D"on"><st1:placename w:st=
+=3D"on">Pangong</st1:placename>
+<st1:placetype w:st=3D"on">Lake</st1:placetype></st1:place> to Leh (06 hour=
+s approx.)<o:p></o:p></p>
+<p class=3D"MsoNormal">Morning at leisure to explore the beauty of lake and=
+ later we drive back to leh enroute visiting Hemis Gompa, the largest monas=
+tic foundation of Drukpa Kagyu Order of Tibetan Buddhism, Thiksey an impres=
+sive complex rising tier upon tier
+ on a hill above the village, Shey Palace, The ancient capital of Ladakh &a=
+mp; Stok Palace Museum.<o:p></o:p></p>
+<p class=3D"MsoNormal">Drive further to Leh and check in at our hotel for O=
+vernight
+<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Day 05: Leh to Hunder (<st1:place w:st=3D"on"><st1:p=
+lacename w:st=3D"on">Nubra</st1:placename>
+<st1:placetype w:st=3D"on">Valley</st1:placetype></st1:place>) (126 Kms / a=
+prx. 06 hrs)
+<o:p></o:p></p>
+<p class=3D"MsoNormal">After an early breakfast we drive to <st1:place w:st=
+=3D"on"><st1:placename w:st=3D"on">NUBRA</st1:placename>
+<st1:placetype w:st=3D"on">VALLEY</st1:placetype></st1:place> leads through=
+ KHARDUNG-LA-PASS (the highest motorable road in the world) at 18,390 ft, a=
+round 39kms from Leh.
+<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><st1:place w:st=3D"on"><st1:placename w:st=3D"on">Nu=
+bra</st1:placename>
+<st1:placetype w:st=3D"on">Valley</st1:placetype></st1:place> is popularly =
+known as Ldorma or the valley of flowers. It is situated to the North of La=
+dakh between the Karakoram and Ladakh ranges of the
+<st1:place w:st=3D"on">Himalayas</st1:place>. <o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Arrive Hunder by afternoon and rest of the day at le=
+isure to explore
+<st1:place w:st=3D"on"><st1:placename w:st=3D"on">Hunder &amp; Diskit</st1:=
+placename> <st1:placetype w:st=3D"on">
+Village</st1:placetype></st1:place>. Overnight at Camp<o:p></o:p></p>
+<p class=3D"MsoNormal">at Nubra Organic Retreat situated in a beautiful vil=
+lage called HUNDAR with lot of trees.
+<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Day 06: Hunder (<st1:place w:st=3D"on"><st1:placenam=
+e w:st=3D"on">Nubra</st1:placename>
+<st1:placetype w:st=3D"on">Valley</st1:placetype></st1:place>) =96 Leh <o:p=
+></o:p></p>
+<p class=3D"MsoNormal">After your breakfast at the camp, visit the <st1:sto=
+ckticker w:st=3D"on">
+SAND</st1:stockticker> DUNES to enjoy a camel safari (Optional). Later we d=
+rive to Leh by same route over
+<st1:street w:st=3D"on">Khardung La.</st1:street>&nbsp; Afternoon rest and =
+relax or take a walk to the local market.&nbsp; Overnight at hotel.<o:p></o=
+:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Day 07: Depart Leh (Fly Out)<o:p></o:p></p>
+<p class=3D"MsoNormal">Tour concludes<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">COST OF THE PACKAGE (PER PERSON):-<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"726" style=3D"width:544.45pt;margin-left:4.65pt;border-coll=
+apse:collapse;mso-yfti-tbllook:=0A=
+ 1184;mso-padding-alt:0in 5.4pt 0in 5.4pt">
+<tbody>
+<tr style=3D"mso-yfti-irow:0;mso-yfti-firstrow:yes;height:53.5pt">
+<td width=3D"102" nowrap=3D"" style=3D"width:76.15pt;border:solid windowtex=
+t 1.0pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:5=
+3.5pt">
+<p class=3D"MsoNormal">CATEGORY<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" style=3D"width:45.15pt;border:solid windowtext=
+ 1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:53.5pt">
+<p class=3D"MsoNormal">02 <st1:stockticker w:st=3D"on">PAX</st1:stockticker=
+><o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" style=3D"width:45.15pt;border:solid windowtext=
+ 1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:53.5pt">
+<p class=3D"MsoNormal">04 <st1:stockticker w:st=3D"on">PAX</st1:stockticker=
+><o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" style=3D"width:45.15pt;border:solid windowtext=
+ 1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:53.5pt">
+<p class=3D"MsoNormal">06 <st1:stockticker w:st=3D"on">PAX</st1:stockticker=
+><o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" style=3D"width:45.15pt;border:solid windowtext=
+ 1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:53.5pt">
+<p class=3D"MsoNormal">08 <st1:stockticker w:st=3D"on">PAX</st1:stockticker=
+><o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" style=3D"width:45.15pt;border:solid windowtext=
+ 1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:53.5pt">
+<p class=3D"MsoNormal">10 <st1:stockticker w:st=3D"on">PAX</st1:stockticker=
+><o:p></o:p></p>
+</td>
+<td width=3D"54" nowrap=3D"" style=3D"width:40.85pt;border:solid windowtext=
+ 1.0pt;=0A=
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:53.5pt">
+<p class=3D"MsoNormal">Extra Adult<o:p></o:p></p>
+</td>
+<td width=3D"66" style=3D"width:49.5pt;border-top:solid windowtext 1.0pt;=
+=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:none;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:solid wind=
+owtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:53.5pt">
+<p class=3D"MsoNormal">Extra Child&nbsp;&nbsp; With<o:p></o:p></p>
+<p class=3D"MsoNormal">Extra Bed<o:p></o:p></p>
+</td>
+<td width=3D"67" style=3D"width:50.15pt;border:solid windowtext 1.0pt;borde=
+r-right:=0A=
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid w=
+indowtext .5pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;=
+=0A=
+  height:53.5pt">
+<p class=3D"MsoNormal">Extra Child&nbsp;&nbsp; Without&nbsp;&nbsp;&nbsp; Ex=
+tra Bed<o:p></o:p></p>
+</td>
+<td width=3D"136" style=3D"width:102.05pt;border:solid windowtext 1.0pt;mso=
+-border-alt:=0A=
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:53.5pt">
+<p class=3D"MsoNormal">Single Room Supp.<o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"mso-yfti-irow:1;height:18.1pt">
+<td width=3D"102" nowrap=3D"" valign=3D"bottom" style=3D"width:76.15pt;bord=
+er:solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">Standard<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.15pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">26,900<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.15pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">26,200<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.15pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">25,700<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.15pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">25,900<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.15pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">25,100<o:p></o:p></p>
+</td>
+<td width=3D"54" nowrap=3D"" valign=3D"bottom" style=3D"width:40.85pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">10500<o:p></o:p></p>
+</td>
+<td width=3D"66" nowrap=3D"" valign=3D"bottom" style=3D"width:49.5pt;border=
+:none;border-bottom:=0A=
+  solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">9900<o:p></o:p></p>
+</td>
+<td width=3D"67" nowrap=3D"" valign=3D"bottom" style=3D"width:50.15pt;borde=
+r:solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">7500<o:p></o:p></p>
+</td>
+<td width=3D"136" nowrap=3D"" valign=3D"bottom" style=3D"width:102.05pt;bor=
+der-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">6000<o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"mso-yfti-irow:2;height:18.1pt">
+<td width=3D"102" nowrap=3D"" valign=3D"bottom" style=3D"width:76.15pt;bord=
+er:solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">Deluxe<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.15pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">27,999<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.15pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">27,299<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.15pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">26,500<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.15pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">26,000<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.15pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">25,600<o:p></o:p></p>
+</td>
+<td width=3D"54" nowrap=3D"" valign=3D"bottom" style=3D"width:40.85pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">11500<o:p></o:p></p>
+</td>
+<td width=3D"66" nowrap=3D"" valign=3D"bottom" style=3D"width:49.5pt;border=
+:none;border-bottom:=0A=
+  solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">10900<o:p></o:p></p>
+</td>
+<td width=3D"67" nowrap=3D"" valign=3D"bottom" style=3D"width:50.15pt;borde=
+r:solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">9500<o:p></o:p></p>
+</td>
+<td width=3D"136" nowrap=3D"" valign=3D"bottom" style=3D"width:102.05pt;bor=
+der-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">7500<o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"mso-yfti-irow:3;mso-yfti-lastrow:yes;height:18.1pt">
+<td width=3D"102" nowrap=3D"" valign=3D"bottom" style=3D"width:76.15pt;bord=
+er:solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">Super Dlx<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.15pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">43,999<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.15pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">43,000<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.15pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">42,500<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.15pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">41,999<o:p></o:p></p>
+</td>
+<td width=3D"60" nowrap=3D"" valign=3D"bottom" style=3D"width:45.15pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">40,500<o:p></o:p></p>
+</td>
+<td width=3D"54" nowrap=3D"" valign=3D"bottom" style=3D"width:40.85pt;borde=
+r-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">15500<o:p></o:p></p>
+</td>
+<td width=3D"66" nowrap=3D"" valign=3D"bottom" style=3D"width:49.5pt;border=
+:none;border-bottom:=0A=
+  solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">14900<o:p></o:p></p>
+</td>
+<td width=3D"67" nowrap=3D"" valign=3D"bottom" style=3D"width:50.15pt;borde=
+r:solid windowtext 1.0pt;=0A=
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bott=
+om-alt:=0A=
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:=
+=0A=
+  0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">11000<o:p></o:p></p>
+</td>
+<td width=3D"136" nowrap=3D"" valign=3D"bottom" style=3D"width:102.05pt;bor=
+der-top:none;=0A=
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;=0A=
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:18.1pt">
+<p class=3D"MsoNormal">10500<o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">HOTELS INCORPORATED<o:p></o:p></p>
+<table class=3D"MsoNormalTable" border=3D"1" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"726" style=3D"border-collapse:collapse;mso-table-layout-alt=
+:fixed;border:none;=0A=
+ mso-border-alt:solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt;=
+=0A=
+ mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid win=
+dowtext">
+<tbody>
+<tr style=3D"mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.6pt">
+<td width=3D"97" nowrap=3D"" style=3D"width:72.5pt;border:solid windowtext =
+1.0pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">DESTINATION<o:p></o:p></p>
+</td>
+<td width=3D"217" nowrap=3D"" style=3D"width:162.4pt;border:solid windowtex=
+t 1.0pt;=0A=
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt=
+:=0A=
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:15.6pt">
+<p class=3D"MsoNormal">STANDARD<o:p></o:p></p>
+</td>
+<td width=3D"204" style=3D"width:153.0pt;border:solid windowtext 1.0pt;bord=
+er-left:=0A=
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windo=
+wtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:15.6pt">
+<p class=3D"MsoNormal">DELUXE<o:p></o:p></p>
+</td>
+<td width=3D"209" style=3D"width:156.95pt;border:solid windowtext 1.0pt;bor=
+der-left:=0A=
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windo=
+wtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:15.6pt">
+<p class=3D"MsoNormal">SUPER DELUXE<o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"mso-yfti-irow:1;height:15.6pt">
+<td width=3D"97" nowrap=3D"" style=3D"width:72.5pt;border:solid windowtext =
+1.0pt;=0A=
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:s=
+olid windowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:15.6pt">
+<p class=3D"MsoNormal"><st1:stockticker w:st=3D"on">LEH</st1:stockticker><o=
+:p></o:p></p>
+</td>
+<td width=3D"217" nowrap=3D"" style=3D"width:162.4pt;border-top:none;border=
+-left:none;=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">Grand <st1:city w:st=3D"on">Willow</st1:city> / <st1=
+:place w:st=3D"on">
+<st1:placetype w:st=3D"on">Hill</st1:placetype> <st1:placetype w:st=3D"on">=
+Town</st1:placetype></st1:place><o:p></o:p></p>
+</td>
+<td width=3D"204" style=3D"width:153.0pt;border-top:none;border-left:none;=
+=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">Mandala, <st1:placename w:st=3D"on">Sinnge</st1:plac=
+ename> <st1:placetype w:st=3D"on">
+Palace</st1:placetype>, <st1:place w:st=3D"on"><st1:placetype w:st=3D"on">C=
+ity</st1:placetype>
+<st1:placetype w:st=3D"on">Palace</st1:placetype></st1:place>, The Kaal, No=
+ble House or Similar<o:p></o:p></p>
+</td>
+<td width=3D"209" style=3D"width:156.95pt;border-top:none;border-left:none;=
+=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">The Grand Dragon<o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"mso-yfti-irow:2;height:15.6pt">
+<td width=3D"97" nowrap=3D"" style=3D"width:72.5pt;border:solid windowtext =
+1.0pt;=0A=
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:s=
+olid windowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:15.6pt">
+<p class=3D"MsoNormal">PANGONG<o:p></o:p></p>
+</td>
+<td width=3D"217" nowrap=3D"" style=3D"width:162.4pt;border-top:none;border=
+-left:none;=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">Pangong Resort<o:p></o:p></p>
+</td>
+<td width=3D"204" style=3D"width:153.0pt;border-top:none;border-left:none;=
+=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal"><st1:place w:st=3D"on"><st1:placetype w:st=3D"on">Ca=
+mp</st1:placetype>
+<st1:placename w:st=3D"on">Watermark</st1:placename></st1:place> (Deluxe)<o=
+:p></o:p></p>
+</td>
+<td width=3D"209" style=3D"width:156.95pt;border-top:none;border-left:none;=
+=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal"><st1:place w:st=3D"on"><st1:placetype w:st=3D"on">Ca=
+mp</st1:placetype>
+<st1:placename w:st=3D"on">Watermark</st1:placename></st1:place> (Deluxe)<o=
+:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"mso-yfti-irow:3;mso-yfti-lastrow:yes;height:15.6pt">
+<td width=3D"97" nowrap=3D"" style=3D"width:72.5pt;border:solid windowtext =
+1.0pt;=0A=
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:s=
+olid windowtext .5pt;=0A=
+  padding:0in 5.4pt 0in 5.4pt;height:15.6pt">
+<p class=3D"MsoNormal"><st1:place w:st=3D"on"><st1:placename w:st=3D"on">NU=
+BRA</st1:placename>
+<st1:placetype w:st=3D"on">VALLEY</st1:placetype></st1:place><o:p></o:p></p=
+>
+</td>
+<td width=3D"217" nowrap=3D"" style=3D"width:162.4pt;border-top:none;border=
+-left:none;=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">Karma Inn or Similar<o:p></o:p></p>
+</td>
+<td width=3D"204" style=3D"width:153.0pt;border-top:none;border-left:none;=
+=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">Nubra Organic Retreat<o:p></o:p></p>
+</td>
+<td width=3D"209" style=3D"width:156.95pt;border-top:none;border-left:none;=
+=0A=
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;=
+=0A=
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;=0A=
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:1=
+5.6pt">
+<p class=3D"MsoNormal">Nubra Organic Retreat<o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">PACKAGE <st1:stockticker w:st=3D"on">COST</st1:stock=
+ticker> INCLUDES:-<o:p></o:p></p>
+<p class=3D"MsoNormal">Assistance upon arrival at Leh airport with traditio=
+nal welcome in the Hotel<o:p></o:p></p>
+<p class=3D"MsoNormal">06 Nights / 07 Days Accommodation on twin sharing Ba=
+sis as per the Itinerary<o:p></o:p></p>
+<p class=3D"MsoNormal">All Meals (Bed Tea, Breakfast, Hot / Pack Lunch, Eve=
+ning Tea &amp; Dinner)
+<o:p></o:p></p>
+<p class=3D"MsoNormal">Return airport and round trip transfers along with a=
+ll sightseeing tours by Non-ac Scorpio / Qualis / Tavera or Tata Safari as =
+per the program.
+<o:p></o:p></p>
+<p class=3D"MsoNormal">Inner line Permit to restricted / protected areas (P=
+angong &amp; Nubra valley)<o:p></o:p></p>
+<p class=3D"MsoNormal">Wildlife fee for Pangong area<o:p></o:p></p>
+<p class=3D"MsoNormal">Monument &amp; Museum Entrance Fees for the sights m=
+entioned in the Itinerary
+<o:p></o:p></p>
+<p class=3D"MsoNormal">01 Bottle of Mineral Water every day to each tourist=
+<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><strong><span style=3D"=
+font-family: Arial, sans-serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<o:p></o:p></span></strong=
+></p>
+<p class=3D"MsoNormal">Regards<o:p></o:p></p>
+<p class=3D"MsoNormal">Maj. S.K.Yadav<o:p></o:p></p>
+<p class=3D"MsoNormal">Managing Director<o:p></o:p></p>
+<p class=3D"MsoNormal">Mobile: 91-9811043497<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">WANDERLUST&nbsp; TRAVELS PVT.LTD.<br>
+G 18,MASJID MOTH, GREATER KAILASH-II<br>
+NEW DELHI- 110048 (INDIA) <o:p></o:p></p>
+<p class=3D"MsoNormal">PHONES :91-11-29228483, 40537116&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp; &nbsp; <o:p></o:p></p>
+<p class=3D"MsoNormal">MOBILE.&nbsp;&nbsp;&nbsp; 91-9810530004. <br>
+E-mail: <a href=3D"mailto:info@wanderlustindia.com">info@wanderlustindia.co=
+m</a>, ,<a href=3D"http://203.199.113.30/src/compose.php?send_to=3Dtravel%4=
+0wanderlustindia.com">travel@wanderlustindia.com</a>,
+<br>
+Website: www.wanderlustindia.com <o:p></o:p></p>
+<p class=3D"MsoNormal">Affiliations : IATA,PATA,TAAI,ASTA,IATO,JATA. Recogn=
+ised by Ministry of Tourism , Govt.of India<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"text-align:justify"><o:p>&nbsp;</o:p></p>
+<br>
+<p></p>
+<br>
+<br>
+<div style=3D"color: rgb(0, 0, 0);">
+<hr tabindex=3D"-1" style=3D"display:inline-block; width:98%">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" co=
+lor=3D"#000000" style=3D"font-size:11pt"><b>From:</b> tushar@simplifytrips.=
+com &lt;tushar@simplifytrips.com&gt;<br>
+<b>Sent:</b> Thursday, May 11, 2017 3:28 PM<br>
+<b>To:</b> Info @ Wanderlust India<br>
+<b>Subject:</b> Re: Query Received for leh-ladakh</font>
+<div>&nbsp;</div>
+</div>
+<div>
+<p>On 2017-05-11 01:15, Info @ Wanderlust India wrote:</p>
+<blockquote type=3D"cite" style=3D"padding:0 0.4em; border-left:#1010ff 2px=
+ solid; margin:0">
+<div id=3D"divtagdefaultwrapper" dir=3D"ltr" style=3D"font-size:12pt; color=
+:#000000; font-family:Calibri,Arial,Helvetica,sans-serif">
+<p>Dear Mr Tushar,</p>
+<p>Please let us know date of travel, number of days &amp; number of person=
+s.</p>
+<p><br>
+</p>
+<p>Regards</p>
+<p>Amar</p>
+<br>
+<br>
+<div style=3D"color:#000000">
+<hr style=3D"display:inline-block; width:98%">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><span style=3D"font-size:11pt; color:=
+#000000; font-family:Calibri,sans-serif"><strong>From:</strong> tushar@simp=
+lifytrips.com &lt;tushar@simplifytrips.com&gt;<br>
+<strong>Sent:</strong> Thursday, May 11, 2017 12:26 PM<br>
+<strong>To:</strong> info@wanderlustindia.com<br>
+<strong>Subject:</strong> Query Received for leh-ladakh</span>
+<div>&nbsp;</div>
+</div>
+<div>
+<p>Dear SK Yadav,<br>
+<br>
+</p>
+<p>Query was received from a Mr. Methee B Duangron from thailand, he has sh=
+own his interest for leh packages. His email id is
+<a href=3D"mailto:methee.baw@gmail.com" rel=3D"noreferrer">methee.baw@gmail=
+.com</a>&nbsp;as shared with us on our FB page. Request you kindly send bes=
+t offers to him ASAP. Kindly mention our reference in the mail.<br>
+<br>
+<br>
+WBR<br>
+<br>
+</p>
+<p>Tushar Choudhary</p>
+<p><span>&nbsp;</span></p>
+</div>
+</div>
+</div>
+</blockquote>
+<p>Dear Amar,</p>
+<p>You can drop your mail directly to the concerned person and revert to th=
+eir queries.</p>
+<p><br>
+</p>
+<p>WBR,<br>
+&nbsp;Tushar Choudhary.</p>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_BM1PR01MB06259A2CB1263F8156FC4B87C5ED0BM1PR01MB0625INDP_--

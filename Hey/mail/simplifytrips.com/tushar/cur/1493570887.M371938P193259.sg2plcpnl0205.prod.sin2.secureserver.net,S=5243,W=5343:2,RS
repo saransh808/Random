@@ -1,0 +1,100 @@
+Return-Path: <khuranarhythm07@gmail.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id qC4LFkcVBlnr8gIAwZeyeg
+	for <tushar@simplifytrips.com>; Sun, 30 Apr 2017 09:48:07 -0700
+Return-path: <khuranarhythm07@gmail.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Sun, 30 Apr 2017 09:48:07 -0700
+Received: from mail-io0-f180.google.com ([209.85.223.180]:34888)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.88)
+	(envelope-from <khuranarhythm07@gmail.com>)
+	id 1d4s11-000o40-7f
+	for tushar@simplifytrips.com; Sun, 30 Apr 2017 09:48:07 -0700
+Received: by mail-io0-f180.google.com with SMTP id r16so94662780ioi.2
+        for <tushar@simplifytrips.com>; Sun, 30 Apr 2017 09:47:47 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=O2Cx2oXvqlID4lIt09Ibi2Gtin73fIHeU0gxAbCOcmg=;
+        b=XUqmtmv3u8R+BQucr27ILYHBgyDc1yoR9b0ARJ62Yr/zxRdEQY8eX+u6MohOZkbQx5
+         h6VIuq4y75VRIvVSl4w+MNNKYFxig/KRF9SjNLcvQwbx22hoB+DvUgpGTsZ+BeHAR9xA
+         fOP31PVmThYlXVJoqZes/qCwTAxVDTRQt6+a8KFxsJsTYkpmZKu7B/zqdENYCohJuM1e
+         Tgnqen3lKg8Y/+vfkUekoJGG4c/Nw0AUlxwUMILnVl9XbH8JE4qXQTKs1BW8C24upaha
+         yUi4xUYS2Ow5AtQwNFuyf7fPcchu/anbbKX+W9FhNxAXr14Gv9Gw9MymDg0iGcqMN7W5
+         /Yow==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=O2Cx2oXvqlID4lIt09Ibi2Gtin73fIHeU0gxAbCOcmg=;
+        b=o8+Ohk9FBdTTogb3XQGFp5MmTY6Ss+mFk3QtTjZBXZuE0KXqu0ExZNGB8L4Ao+QHMw
+         1WwlwNnSHPKepvlA1gN1vkT90K348co5q5qx4aUitgjZ2+ineUYPQZgM41WrYMGk/Gku
+         6CjVGAiUZ3R2IA59oBoeKc7AOQBhrqjfkpZ3xXUL9MDtXkd80HEicT2AOGfAjEIesLn0
+         /AcKP4YRxUeIhVzN+LohvQoAXsofCQsWzG1hkXn9JGal9vqFXZrjY+/paCCByHCqMq8c
+         jN37Wnu5ix3wE1jmCNl8DMYIsd6RUE8RncEmLFucPycncyx3g4hgL2yF1nfCmmgMZ8NZ
+         AFzw==
+X-Gm-Message-State: AN3rC/6rR+9bWeub8WmK6llLHd0BtkW9yX/Mqq46K7ftzrl9wNvZf2GL
+	J83O/S+QPwHgbYpw052E6jT2R0GNi6/a
+X-Received: by 10.107.59.1 with SMTP id i1mr19052895ioa.18.1493570845273; Sun,
+ 30 Apr 2017 09:47:25 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.36.248.66 with HTTP; Sun, 30 Apr 2017 09:47:24 -0700 (PDT)
+Received: by 10.36.248.66 with HTTP; Sun, 30 Apr 2017 09:47:24 -0700 (PDT)
+In-Reply-To: <CAK6Y09-8=J=DryHfDMZAG+Ya6vrdKomkZfNeBFnabgX9mxZuuQ@mail.gmail.com>
+References: <CAK6Y098H+gb6mOVoO8ZhcRYXJ48D070k9VMHRbZrJp9Ak79p2Q@mail.gmail.com>
+ <CAK6Y09-X64Kx75gJmz_YbUMuNn=vwZ=gGM9SbQ6ddp+NW4WHaQ@mail.gmail.com>
+ <CAK6Y098DbNz8+k8DTfzdJYooBikxxYgBQ_eJtXJ=vjNmM1DNeg@mail.gmail.com>
+ <CAK6Y099ERLSDndwM_iR0GeEQpWthfcAPtaXt53KWNnqPnxMsvA@mail.gmail.com>
+ <CAK6Y09_ok0iWXXR9=MCE=Qyh1-UgyTzkY67p-WEQKPpKFvifqA@mail.gmail.com>
+ <CAK6Y09-ecS5NoEKwbxxPuCdt7YQ=9CdMd1xgEXLbXdERrU1WTg@mail.gmail.com>
+ <CAK6Y099txHbgukkBpCjRZgzL+Vu=sOwFkCXu6ghLSqB_heTFCQ@mail.gmail.com>
+ <CAK6Y09_n7dCo-t=CY2-YxC1r9LXZmvejTvtNbSa71WNw5eke0Q@mail.gmail.com> <CAK6Y09-8=J=DryHfDMZAG+Ya6vrdKomkZfNeBFnabgX9mxZuuQ@mail.gmail.com>
+From: rhythm khurana <khuranarhythm07@gmail.com>
+Date: Sun, 30 Apr 2017 22:17:24 +0530
+Message-ID: <CAK6Y098+ZmqeXmmgqWBpSNkT_ms14XH10CLMLLYZ8f_fuwjb2g@mail.gmail.com>
+Subject: Thank you note
+To: tushar@simplifytrips.com
+Content-Type: multipart/alternative; boundary=94eb2c05c36aadfe77054e650fed
+
+--94eb2c05c36aadfe77054e650fed
+Content-Type: text/plain; charset=UTF-8
+
+Hey Tushar
+
+It was a delightful conversation yesterday. I am excited to work in your
+start up in the capacity of an online marketing intern. Hopefully, I will
+also get a chance to hone my data analytical skills as well along with
+marketing skills.
+
+Like I mentioned on our call that I have my exams till 19th of May but will
+be able to visit your office after 15th of May to discuss the timings and
+schedule.
+
+ Let me know when can I visit after 15th to finalise the working schedule.
+Looking forward to hearing from you.
+
+Best
+
+Rhythm Khurana
+M.Sc. Economics
+
+--94eb2c05c36aadfe77054e650fed
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Hey Tushar<div dir=3D"auto"><br></div><div dir=3D"auto">I=
+t was a delightful conversation yesterday. I am excited to work in your sta=
+rt up in the capacity of an online marketing intern. Hopefully, I will also=
+ get a chance to hone my data analytical skills as well along with marketin=
+g skills.</div><div dir=3D"auto"><br></div><div dir=3D"auto">Like I mention=
+ed on our call that I have my exams till 19th of May but will be able to vi=
+sit your office after 15th of May to discuss the timings and schedule.</div=
+><div dir=3D"auto"><br></div><div dir=3D"auto">=C2=A0Let me know when can I=
+ visit after 15th to finalise the working schedule. Looking forward to hear=
+ing from you.</div><div dir=3D"auto"><br></div><div dir=3D"auto">Best</div>=
+<div dir=3D"auto"><br></div><div dir=3D"auto">Rhythm Khurana</div><div dir=
+=3D"auto">M.Sc. Economics</div></div>
+
+--94eb2c05c36aadfe77054e650fed--

@@ -1,0 +1,113 @@
+head	1.7;
+access;
+symbols;
+locks
+	tusharchoudhary:1.7; strict;
+comment	@# @;
+
+
+1.7
+date	2017.04.03.05.59.14;	author tusharchoudhary;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2017.01.18.18.24.48;	author tusharchoudhary;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2017.01.12.09.30.10;	author tusharchoudhary;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2016.08.11.05.46.04;	author tusharchoudhary;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2016.08.10.08.16.47;	author tusharchoudhary;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2016.08.10.08.13.43;	author tusharchoudhary;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2016.08.10.08.13.43;	author tusharchoudhary;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.7
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@tushar:262144000
+shashank:262144000
+social:262144000
+contact:262144000
+@
+
+
+1.6
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@a3 1
+nikita:262144000
+@
+
+
+1.5
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d5 1
+@
+
+
+1.4
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d4 1
+@
+
+
+1.3
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d3 1
+@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

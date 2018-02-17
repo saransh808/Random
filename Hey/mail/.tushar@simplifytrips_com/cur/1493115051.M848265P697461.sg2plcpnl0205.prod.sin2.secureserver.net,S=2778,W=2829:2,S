@@ -1,0 +1,51 @@
+Return-Path: <no-reply@getclicky.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id sclxMqsg/1h1pAoAwZeyeg
+	for <tushar@simplifytrips.com>; Tue, 25 Apr 2017 03:10:51 -0700
+Return-path: <no-reply@getclicky.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Tue, 25 Apr 2017 03:10:51 -0700
+Received: from helo.getclicky.com ([198.145.13.4]:55652)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <no-reply@getclicky.com>)
+	id 1d2xQp-002x7z-J2
+	for tushar@simplifytrips.com; Tue, 25 Apr 2017 03:10:51 -0700
+Received: from getclicky.com (unknown [10.0.0.2])
+	by helo.getclicky.com (Postfix) with ESMTP id A7C33B422
+	for <tushar@simplifytrips.com>; Tue, 25 Apr 2017 03:10:08 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=getclicky.com;
+	s=default.private; t=1493115008;
+	bh=4smMcZI5nrFf5tgDdQWnmypAV+FRsMQfcBIlO6cfhNE=;
+	h=To:Subject:From:Reply-To:Date;
+	b=Uv5Cm5n34WKxB7LBua2+vgXqp5ss7KVBZtQJeDcyg9ugTXpRNVbNpPxxeNscf/1Qn
+	 6b4PjLLqsHF42Zy4aXArM7X4x47JPtU0VgxLygaa++rlpOs8L8bH5dNLiOJDb0Mugw
+	 JDYRIQu/qO2jpGohyV/dnwan95DfEjgWQA8QdLYE=
+Received: by getclicky.com (Postfix, from userid 1000)
+	id A67FE101D6; Tue, 25 Apr 2017 03:10:08 -0700 (PDT)
+To: Tushar Choudhary <tushar@simplifytrips.com>
+Subject: Clicky account reminder
+X-PHP-Originating-Script: 1000:functions.php
+From: Clicky <no-reply@getclicky.com>
+Reply-To: Clicky <no-reply@getclicky.com>
+Message-Id: <20170425101008.A67FE101D6@getclicky.com>
+Date: Tue, 25 Apr 2017 03:10:08 -0700 (PDT)
+
+Hi Tushar,
+
+You recently registered an account with Clicky Web Analytics, but we noticed you haven't logged in for at least 7 days. So, we're just sending you a quick reminder about your new account, in case you forgot!
+
+If you need any help getting Clicky installed on your site, please take a look at the following web page. It includes links to plugins for various platforms, such as WordPress and Drupal, as well as instructions for manually adding the tracking code to your site's HTML if needed: http://clicky.com/help/apps-plugins?utm_campaign=email&utm_content=no+login+trial
+
+Please feel free to contact us directly if you have any questions: http://clicky.com/contact?utm_campaign=email&utm_content=no+login+trial
+
+Thanks for your time, and we hope to see you back at Clicky soon!
+
+(In case you have multiple accounts, this message is in regards to username "Simplifytrips").
+
+
+-- Your friends at Clicky :)
+http://clicky.com
+
+Note: This is an automated message. Please do not reply, as this email address is not monitored. If you wish to contact us, please go to our contact page via the link above.

@@ -1,0 +1,351 @@
+Return-Path: <yourjobconsultant007@gmail.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id WavzEjeEGlnE1gEAwZeyeg
+	for <tushar@simplifytrips.com>; Mon, 15 May 2017 21:46:47 -0700
+Return-path: <yourjobconsultant007@gmail.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Mon, 15 May 2017 21:46:47 -0700
+Received: from mail-yb0-f182.google.com ([209.85.213.182]:34361)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.88)
+	(envelope-from <yourjobconsultant007@gmail.com>)
+	id 1dAUNj-000W7o-77
+	for tushar@simplifytrips.com; Mon, 15 May 2017 21:46:47 -0700
+Received: by mail-yb0-f182.google.com with SMTP id 132so14451184ybq.1
+        for <tushar@simplifytrips.com>; Mon, 15 May 2017 21:46:26 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to;
+        bh=tU0LJZjjWE/rDdCjIeaDXPLnThhWoX6rbmQ1SbNyXMU=;
+        b=XNZtq+qNXfc2wC5hO8NNrmMJG8BHp5Lx5PpwOlFuGoArWucNF3K+cUnmfEJiLCdKoZ
+         VLl6TzxVauuO79LbVlI4UEU+svcf6S5tdz2rahAlpddg2TEOoQwmN8hGFWV875KcNfSg
+         +zfVDx6o/WPJBk2cJIc0yevGEmMrHKUoUPcHszVNE9bKdpEmgVdhszHOFIiOap590AXf
+         Q8wyIn+N7T3amReeRQocL1zulKyTJ3jY6veqd7aDXAoOxJeCGkXszyabGE4TU81d4I0c
+         lj2lzdbUbN+6iDMBnHUi2/VYt5R8hTJSksKmWsnh1i9GTt9Nf+TaeHG0vwaJsFyqcBRU
+         QeaQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to;
+        bh=tU0LJZjjWE/rDdCjIeaDXPLnThhWoX6rbmQ1SbNyXMU=;
+        b=MoLYAB2L1iUJviff2lRWRvYkZDTzCjwznR4+dpHaUlXkRPdqKocJTMUKw+6O0zPq53
+         +PFMeYq1cWCcMkyxhCTkx6LgSgKJkUaDT3Ls0x991+fj3h0kJBDWQOpLB6N6Gv+rzZ8W
+         IT74BMkCCAQfTMPehN/uvA+5SItppTOos60J5RhuvBg6IoD56I1fsqSxlDTlOweFfxIw
+         2u2VwsMhMp+UR0K4VrXtKiFmSUedF0/wCdAP1SmesSVPRQqoe6otWb3FRanYspy/t1+x
+         PnamCEATWQZcVDb+3umyZJGJCWxJoUaYzq4asGhfD/7PxucDOVXsCXNPR+5xILLh/ZKS
+         5Iqw==
+X-Gm-Message-State: AODbwcBXTZCoGq+GKZQ9qQNzbDX4Rz+92Mv/1bt1rjQRfwmLI8hi3HmN
+	HN3/Poa6G9l5IzkUr5RTpzJ00PIvhwzFFmQ=
+X-Received: by 10.37.35.210 with SMTP id j201mr8059924ybj.103.1494909964406;
+ Mon, 15 May 2017 21:46:04 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.37.99.4 with HTTP; Mon, 15 May 2017 21:45:43 -0700 (PDT)
+In-Reply-To: <CALkLK3087HcfRr_sPc78zJcaNSnoOuSK-2zu9Co4ODWz95S2ag@mail.gmail.com>
+References: <CALkLK33AzyaMBRVYnqx+WoSnB28ukgOoTkdi+DpgKrqd-yKhvA@mail.gmail.com>
+ <CALkLK3087HcfRr_sPc78zJcaNSnoOuSK-2zu9Co4ODWz95S2ag@mail.gmail.com>
+From: yourjob consul <yourjobconsultant007@gmail.com>
+Date: Tue, 16 May 2017 10:15:43 +0530
+Message-ID: <CALkLK32m3TDyLs6c0r+jXhkANxzvKoi-n3iO+PuF+WnzO3zymQ@mail.gmail.com>
+Subject: Re: Term and Conditions of Candidate
+To: tushar@simplifytrips.com
+Content-Type: multipart/alternative; boundary="001a113d431a66568e054f9cd994"
+
+--001a113d431a66568e054f9cd994
+Content-Type: text/plain; charset="UTF-8"
+
+We align these candidates for your company is there any turn up kindly let
+us know.
+AMIT KUMAR
+GYANSINGH YADAV
+Heena Parveen
+SANTOSH JYOTI
+Nupur Shrivastava
+
+Regards
+Divanshu Gupta
+9821552460, +9111-45701059
+*Your Job Consultant LLP*
+
+On Thu, May 11, 2017 at 9:45 AM, yourjob consul <
+yourjobconsultant007@gmail.com> wrote:
+
+> We align these candidates for your company is there any turn up kindly let
+> us know.
+> AMIT KUMAR
+> SMONIKA
+>
+> Regards
+> Divanshu Gupta
+> 9821552460, +9111-45701059
+> *Your Job Consultant LLP*
+>
+> On Mon, May 8, 2017 at 11:09 AM, yourjob consul <
+> yourjobconsultant007@gmail.com> wrote:
+>
+>> Thanks for contacting with us.
+>> Our Company will take 15days salary of each candidate from the company
+>> side not from the candidate side after the joining of the candidate with in
+>> 7 to 10days and not any salary will deduct from the candidate side.
+>> This Contract will run only one and half months for each candidate who
+>> will join in first day and after 45days the contract will be over. Is
+>> there any candidate will leave job before one and half months then
+>> company will replace another candidate without getting any charges from
+>> your side.We will not take any guarantee & liability of candidate  regarding
+>> your cash and your things you can take by own police verification or you
+>> can take documentation of candidate.(If your company eliminate the
+>> candidate after the joining of the candidate then our company will not be
+>> responsible for the replacement but we will take our payment.)
+>>
+>> If you agree with these term and conditions Kindly send us acceptance,
+>> proper Job discription, two contact numbers, date and timings of an
+>> interview along with your Company Details and Address or Website.
+>>
+>>
+>> Regards
+>> Divanshu Gupta
+>> 9555944777, +9111-45701059
+>> *Your Job Consultant LLP*
+>>
+>
+>
+
+--001a113d431a66568e054f9cd994
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><span class=3D"gmail-m_-1066882720657040436gmail-m_-136343=
+278886288458gmail-im" style=3D"font-size:12.8px"><span class=3D"gmail-m_-10=
+66882720657040436gmail-m_-136343278886288458gmail-m_6985214777788847596gmai=
+l-m_-5753151384760933960gmail-m_4144852632793461101gmail-im" style=3D"font-=
+size:12.8px"><span class=3D"gmail-m_-1066882720657040436gmail-m_-1363432788=
+86288458gmail-m_6985214777788847596gmail-m_-5753151384760933960gmail-m_4144=
+852632793461101gmail-m_3215265798840305748gmail-m_-1189518263464952774gmail=
+-m_191219060457463212gmail-im" style=3D"font-size:12.8px"><span style=3D"fo=
+nt-size:12.8px">We align these candidates for your company is there any tur=
+n up kindly let us know.=C2=A0</span><br style=3D"font-size:12.8px"></span>=
+<div style=3D"font-size:12.8px"><span class=3D"gmail-m_-1066882720657040436=
+gmail-m_-136343278886288458gmail-m_6985214777788847596gmail-m_-575315138476=
+0933960gmail-m_4144852632793461101gmail-m_3215265798840305748gmail-m_-11895=
+18263464952774gmail-m_191219060457463212gmail-im" style=3D"font-size:12.8px=
+"></span></div><div style=3D"font-size:12.8px"><span class=3D"gmail-m_-1066=
+882720657040436gmail-m_-136343278886288458gmail-m_6985214777788847596gmail-=
+m_-5753151384760933960gmail-m_4144852632793461101gmail-m_321526579884030574=
+8gmail-m_-1189518263464952774gmail-m_191219060457463212gmail-im" style=3D"f=
+ont-size:12.8px"></span></div></span><div style=3D"font-size:12.8px"><span =
+class=3D"gmail-m_-1066882720657040436gmail-m_-136343278886288458gmail-m_698=
+5214777788847596gmail-m_-5753151384760933960gmail-m_4144852632793461101gmai=
+l-m_3215265798840305748gmail-m_-1189518263464952774gmail-m_1912190604574632=
+12gmail-im" style=3D"font-size:12.8px"></span></div><div style=3D"font-size=
+:12.8px"><span class=3D"gmail-m_-1066882720657040436gmail-m_-13634327888628=
+8458gmail-m_6985214777788847596gmail-m_-5753151384760933960gmail-m_41448526=
+32793461101gmail-im" style=3D"font-size:12.8px"><span class=3D"gmail-m_-106=
+6882720657040436gmail-m_-136343278886288458gmail-m_6985214777788847596gmail=
+-m_-5753151384760933960gmail-m_4144852632793461101gmail-m_32152657988403057=
+48gmail-m_-1189518263464952774gmail-m_191219060457463212gmail-im" style=3D"=
+font-size:12.8px"></span></span></div><div style=3D"font-size:12.8px"><span=
+ class=3D"gmail-m_-1066882720657040436gmail-m_-136343278886288458gmail-m_69=
+85214777788847596gmail-m_-5753151384760933960gmail-m_4144852632793461101gma=
+il-im" style=3D"font-size:12.8px"><span class=3D"gmail-m_-10668827206570404=
+36gmail-m_-136343278886288458gmail-m_6985214777788847596gmail-m_-5753151384=
+760933960gmail-m_4144852632793461101gmail-m_3215265798840305748gmail-m_-118=
+9518263464952774gmail-m_191219060457463212gmail-im" style=3D"font-size:12.8=
+px"></span></span></div></span><div style=3D"font-size:12.8px"><span class=
+=3D"gmail-m_-1066882720657040436gmail-m_-136343278886288458gmail-m_69852147=
+77788847596gmail-m_-5753151384760933960gmail-m_4144852632793461101gmail-im"=
+ style=3D"font-size:12.8px"><span class=3D"gmail-m_-1066882720657040436gmai=
+l-m_-136343278886288458gmail-m_6985214777788847596gmail-m_-5753151384760933=
+960gmail-m_4144852632793461101gmail-m_3215265798840305748gmail-m_-118951826=
+3464952774gmail-m_191219060457463212gmail-im" style=3D"font-size:12.8px"></=
+span></span></div><div style=3D"font-size:12.8px"><span class=3D"gmail-m_-1=
+066882720657040436gmail-m_-136343278886288458gmail-im" style=3D"font-size:1=
+2.8px"><span class=3D"gmail-m_-1066882720657040436gmail-m_-1363432788862884=
+58gmail-m_6985214777788847596gmail-m_-5753151384760933960gmail-m_4144852632=
+793461101gmail-m_3215265798840305748gmail-m_-1189518263464952774gmail-m_191=
+219060457463212gmail-im" style=3D"font-size:12.8px"></span></span></div><di=
+v style=3D"font-size:12.8px"><span class=3D"gmail-m_-1066882720657040436gma=
+il-m_-136343278886288458gmail-im" style=3D"font-size:12.8px"><span class=3D=
+"gmail-m_-1066882720657040436gmail-m_-136343278886288458gmail-m_69852147777=
+88847596gmail-m_-5753151384760933960gmail-m_4144852632793461101gmail-m_3215=
+265798840305748gmail-m_-1189518263464952774gmail-m_191219060457463212gmail-=
+im" style=3D"font-size:12.8px"></span></span></div><div><span class=3D"gmai=
+l-m_-1066882720657040436gmail-m_-136343278886288458gmail-im" style=3D"font-=
+size:12.8px"><span class=3D"gmail-m_-1066882720657040436gmail-m_-1363432788=
+86288458gmail-m_6985214777788847596gmail-m_-5753151384760933960gmail-m_4144=
+852632793461101gmail-im" style=3D"font-size:12.8px"><span class=3D"gmail-m_=
+-1066882720657040436gmail-m_-136343278886288458gmail-m_6985214777788847596g=
+mail-m_-5753151384760933960gmail-m_4144852632793461101gmail-m_3215265798840=
+305748gmail-m_-1189518263464952774gmail-m_191219060457463212gmail-im" style=
+=3D"font-size:12.8px"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" width=3D"141" style=3D"border-collapse:collapse;width:106pt">
+ <colgroup><col width=3D"141" style=3D"width:106pt">
+ </colgroup><tbody><tr height=3D"21" style=3D"height:15.6pt">
+  <td height=3D"21" class=3D"gmail-xl65" width=3D"141" style=3D"height:15.6=
+pt;width:106pt">AMIT
+  KUMAR</td>
+ </tr>
+ <tr height=3D"21" style=3D"height:15.6pt">
+  <td height=3D"21" class=3D"gmail-xl65" style=3D"height:15.6pt">GYANSINGH =
+YADAV</td>
+ </tr>
+ <tr height=3D"21" style=3D"height:15.6pt">
+  <td height=3D"21" class=3D"gmail-xl65" style=3D"height:15.6pt">Heena Parv=
+een</td>
+ </tr>
+ <tr height=3D"21" style=3D"height:15.6pt">
+  <td height=3D"21" class=3D"gmail-xl65" style=3D"height:15.6pt">SANTOSH JY=
+OTI</td>
+ </tr>
+ <tr height=3D"21" style=3D"height:15.6pt">
+  <td height=3D"21" class=3D"gmail-xl65" style=3D"height:15.6pt">Nupur Shri=
+vastava</td>
+ </tr></tbody></table></span></span></span></div></div><div class=3D"gmail_=
+extra"><br clear=3D"all"><div><div class=3D"gmail_signature" data-smartmail=
+=3D"gmail_signature"><div dir=3D"ltr"><div><div dir=3D"ltr"><div style=3D"b=
+ackground-color:rgb(255,255,255);color:rgb(34,34,34);font-size:13.333333969=
+116211px;font-family:arial,sans-serif">Regards</div><div style=3D"backgroun=
+d-color:rgb(255,255,255);color:rgb(34,34,34);font-size:13.333333969116211px=
+;font-family:arial,sans-serif">Divanshu Gupta</div><div style=3D"background=
+-color:rgb(255,255,255);color:rgb(34,34,34);font-size:13.333333969116211px;=
+font-family:arial,sans-serif">9821552460, +9111-45701059</div><div style=3D=
+"background-color:rgb(255,255,255);color:rgb(34,34,34);font-size:13.3333339=
+69116211px;font-family:arial,sans-serif"><b>Your Job Consultant LLP</b></di=
+v></div></div></div></div></div>
+<br><div class=3D"gmail_quote">On Thu, May 11, 2017 at 9:45 AM, yourjob con=
+sul <span dir=3D"ltr">&lt;<a href=3D"mailto:yourjobconsultant007@gmail.com"=
+ target=3D"_blank">yourjobconsultant007@gmail.com</a>&gt;</span> wrote:<br>=
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex"><div dir=3D"ltr"><span class=3D"m_-106688272=
+0657040436gmail-m_-136343278886288458gmail-im" style=3D"font-size:12.8px"><=
+span class=3D"m_-1066882720657040436gmail-m_-136343278886288458gmail-m_6985=
+214777788847596gmail-m_-5753151384760933960gmail-m_4144852632793461101gmail=
+-im" style=3D"font-size:12.8px"><span class=3D"m_-1066882720657040436gmail-=
+m_-136343278886288458gmail-m_6985214777788847596gmail-m_-575315138476093396=
+0gmail-m_4144852632793461101gmail-m_3215265798840305748gmail-m_-11895182634=
+64952774gmail-m_191219060457463212gmail-im" style=3D"font-size:12.8px"><spa=
+n style=3D"font-size:12.8px">We align these candidates for your company is =
+there any turn up kindly let us know.=C2=A0</span><br style=3D"font-size:12=
+.8px"></span><div style=3D"font-size:12.8px"><span class=3D"m_-106688272065=
+7040436gmail-m_-136343278886288458gmail-m_6985214777788847596gmail-m_-57531=
+51384760933960gmail-m_4144852632793461101gmail-m_3215265798840305748gmail-m=
+_-1189518263464952774gmail-m_191219060457463212gmail-im" style=3D"font-size=
+:12.8px"></span></div><div style=3D"font-size:12.8px"><span class=3D"m_-106=
+6882720657040436gmail-m_-136343278886288458gmail-m_6985214777788847596gmail=
+-m_-5753151384760933960gmail-m_4144852632793461101gmail-m_32152657988403057=
+48gmail-m_-1189518263464952774gmail-m_191219060457463212gmail-im" style=3D"=
+font-size:12.8px"></span></div></span><div style=3D"font-size:12.8px"><span=
+ class=3D"m_-1066882720657040436gmail-m_-136343278886288458gmail-m_69852147=
+77788847596gmail-m_-5753151384760933960gmail-m_4144852632793461101gmail-m_3=
+215265798840305748gmail-m_-1189518263464952774gmail-m_191219060457463212gma=
+il-im" style=3D"font-size:12.8px"></span></div><div style=3D"font-size:12.8=
+px"><span class=3D"m_-1066882720657040436gmail-m_-136343278886288458gmail-m=
+_6985214777788847596gmail-m_-5753151384760933960gmail-m_4144852632793461101=
+gmail-im" style=3D"font-size:12.8px"><span class=3D"m_-1066882720657040436g=
+mail-m_-136343278886288458gmail-m_6985214777788847596gmail-m_-5753151384760=
+933960gmail-m_4144852632793461101gmail-m_3215265798840305748gmail-m_-118951=
+8263464952774gmail-m_191219060457463212gmail-im" style=3D"font-size:12.8px"=
+></span></span></div><div style=3D"font-size:12.8px"><span class=3D"m_-1066=
+882720657040436gmail-m_-136343278886288458gmail-m_6985214777788847596gmail-=
+m_-5753151384760933960gmail-m_4144852632793461101gmail-im" style=3D"font-si=
+ze:12.8px"><span class=3D"m_-1066882720657040436gmail-m_-136343278886288458=
+gmail-m_6985214777788847596gmail-m_-5753151384760933960gmail-m_414485263279=
+3461101gmail-m_3215265798840305748gmail-m_-1189518263464952774gmail-m_19121=
+9060457463212gmail-im" style=3D"font-size:12.8px"></span></span></div></spa=
+n><div style=3D"font-size:12.8px"><span class=3D"m_-1066882720657040436gmai=
+l-m_-136343278886288458gmail-m_6985214777788847596gmail-m_-5753151384760933=
+960gmail-m_4144852632793461101gmail-im" style=3D"font-size:12.8px"><span cl=
+ass=3D"m_-1066882720657040436gmail-m_-136343278886288458gmail-m_69852147777=
+88847596gmail-m_-5753151384760933960gmail-m_4144852632793461101gmail-m_3215=
+265798840305748gmail-m_-1189518263464952774gmail-m_191219060457463212gmail-=
+im" style=3D"font-size:12.8px"></span></span></div><div style=3D"font-size:=
+12.8px"><span class=3D"m_-1066882720657040436gmail-m_-136343278886288458gma=
+il-im" style=3D"font-size:12.8px"><span class=3D"m_-1066882720657040436gmai=
+l-m_-136343278886288458gmail-m_6985214777788847596gmail-m_-5753151384760933=
+960gmail-m_4144852632793461101gmail-m_3215265798840305748gmail-m_-118951826=
+3464952774gmail-m_191219060457463212gmail-im" style=3D"font-size:12.8px"></=
+span></span></div><div><span class=3D"m_-1066882720657040436gmail-m_-136343=
+278886288458gmail-im" style=3D"font-size:12.8px"><span class=3D"m_-10668827=
+20657040436gmail-m_-136343278886288458gmail-m_6985214777788847596gmail-m_-5=
+753151384760933960gmail-m_4144852632793461101gmail-im" style=3D"font-size:1=
+2.8px"><span class=3D"m_-1066882720657040436gmail-m_-136343278886288458gmai=
+l-m_6985214777788847596gmail-m_-5753151384760933960gmail-m_4144852632793461=
+101gmail-m_3215265798840305748gmail-m_-1189518263464952774gmail-m_191219060=
+457463212gmail-im" style=3D"font-size:12.8px"><table border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" width=3D"201" style=3D"border-collapse:collapse;=
+width:151pt">
+ <colgroup><col width=3D"60" style=3D"width:45pt">
+ <col width=3D"141" style=3D"width:106pt">
+ </colgroup><tbody><tr height=3D"21" style=3D"height:15.6pt">
+  <td height=3D"21" class=3D"m_-1066882720657040436gmail-xl64" width=3D"60"=
+ style=3D"height:15.6pt;width:45pt"></td>
+  <td class=3D"m_-1066882720657040436gmail-xl64" width=3D"141" style=3D"wid=
+th:106pt">AMIT KUMAR</td>
+ </tr>
+ <tr height=3D"21" style=3D"height:15.6pt">
+  <td height=3D"21" class=3D"m_-1066882720657040436gmail-xl64" style=3D"hei=
+ght:15.6pt"></td>
+  <td class=3D"m_-1066882720657040436gmail-xl64">SMONIKA</td>
+ </tr></tbody></table></span></span></span></div></div><div class=3D"gmail_=
+extra"><br clear=3D"all"><div><div class=3D"m_-1066882720657040436gmail_sig=
+nature" data-smartmail=3D"gmail_signature"><div dir=3D"ltr"><div><div dir=
+=3D"ltr"><div style=3D"background-color:rgb(255,255,255);color:rgb(34,34,34=
+);font-size:13.333333969116211px;font-family:arial,sans-serif">Regards</div=
+><div style=3D"background-color:rgb(255,255,255);color:rgb(34,34,34);font-s=
+ize:13.333333969116211px;font-family:arial,sans-serif">Divanshu Gupta</div>=
+<div style=3D"background-color:rgb(255,255,255);color:rgb(34,34,34);font-si=
+ze:13.333333969116211px;font-family:arial,sans-serif">9821552460, +9111-457=
+01059</div><div style=3D"background-color:rgb(255,255,255);color:rgb(34,34,=
+34);font-size:13.333333969116211px;font-family:arial,sans-serif"><b>Your Jo=
+b Consultant LLP</b></div></div></div></div></div></div><div><div class=3D"=
+h5">
+<br><div class=3D"gmail_quote">On Mon, May 8, 2017 at 11:09 AM, yourjob con=
+sul <span dir=3D"ltr">&lt;<a href=3D"mailto:yourjobconsultant007@gmail.com"=
+ target=3D"_blank">yourjobconsultant007@gmail.<wbr>com</a>&gt;</span> wrote=
+:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-le=
+ft:1px #ccc solid;padding-left:1ex"><div dir=3D"ltr"><h2 style=3D"font-fami=
+ly:roboto,&quot;helvetica neue&quot;,helvetica,arial,sans-serif"><span styl=
+e=3D"font-size:12.7273px;font-weight:normal">Thanks for contacting with us.=
+</span><br></h2><div style=3D"font-size:12.8px;font-family:roboto,&quot;hel=
+vetica neue&quot;,helvetica,arial,sans-serif"><span style=3D"font-size:17.6=
+px"><div dir=3D"ltr" style=3D"font-size:12.8px"><div dir=3D"ltr" style=3D"f=
+ont-size:12.8px"><div style=3D"font-size:12.7273px">Our Company will take 1=
+5days salary of each candidate from the=C2=A0company side not from the cand=
+idate side after the joining of the=C2=A0candidate with in 7 to 10days and =
+not any salary will deduct from the candidate side. This=C2=A0Contract will=
+ run only one and half months for each candidate who will=C2=A0join in firs=
+t=C2=A0<span class=3D"m_-1066882720657040436m_-745437667477813420gmail-m_-3=
+551743057225253015gmail-m_-9113382740992370482gmail-m_5993500613370203843gm=
+ail-m_4242843752097228416gmail-m_-8753576260779222817gmail-m_-2618760906798=
+286678gmail-m_-6483767989802822114gmail-m_-741535391136823089gmail-m_271737=
+8839398244620gmail-m_148956533341416179gmail-m_6078829219680726008gmail-m_5=
+869057242950975966gmail-m_8264380660463326637gmail-m_6790364126562610486gma=
+il-m_7211005343252270821gmail-m_-1340134774412609679gmail-m_-46173759957642=
+70562gmail-m_-8253049529677900595gmail-m_-5482035406676671500gmail-m_211743=
+760107650502gmail-m_7166483494754036862gmail-m_-5334495984138152936gmail-m_=
+-3564372843707450500gmail-m_-8211679529352910744gmail-m_-824598226490261262=
+8gmail-m_6414402567719725556gmail-il">day</span>=C2=A0and after 45days the =
+contract will be over. Is there=C2=A0any candidate will leave job before on=
+e and half months then company=C2=A0will replace another candidate without =
+getting any charges from your=C2=A0side.<span style=3D"background-color:rgb=
+(255,217,102)">We will not take any guarantee &amp; liability of candidate=
+=C2=A0</span><span style=3D"background-color:rgb(255,217,102)">=C2=A0regard=
+ing your cash and your things you can take by own police verification or yo=
+u can take documentation of candidate</span>.(If your=C2=A0company eliminat=
+e the candidate after the joining of the candidate=C2=A0then our company wi=
+ll not be responsible for the replacement but we=C2=A0will take our payment=
+.)<div><br></div><div>If you agree with these term and conditions Kindly se=
+nd us acceptance, proper Job discription, two contact numbers, date and tim=
+ings of an interview=C2=A0along with your Company Details and Address or We=
+bsite.</div><div><br></div></div></div></div></span></div><div class=3D"gma=
+il_extra" style=3D"font-size:12.8px;font-family:roboto,&quot;helvetica neue=
+&quot;,helvetica,arial,sans-serif"><br clear=3D"all" style=3D"font-size:12.=
+8px"><div style=3D"font-size:12.8px"><div dir=3D"ltr"><div dir=3D"ltr"><div=
+ style=3D"font-size:13.3333px">Regards</div><div style=3D"font-size:13.3333=
+px">Divanshu Gupta</div><div style=3D"font-size:13.3333px">9555944777, +911=
+1-45701059</div><div style=3D"font-size:13.3333px"><b>Your Job Consultant L=
+LP</b></div></div></div></div></div>
+</div>
+</blockquote></div><br></div></div></div>
+</blockquote></div><br></div>
+
+--001a113d431a66568e054f9cd994--

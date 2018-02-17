@@ -1,0 +1,21 @@
+Last login: Thu Jul 13 21:47:50 on ttys000
+Saransh:~ Saransh$ python
+Python 2.7.10 (default, Feb  6 2017, 23:53:20) 
+[GCC 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.34)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> D={}
+>>> D={'spam':2,'ham':1,'eggs':3}
+>>> d=['spam']
+>>> len (D)
+3
+>>> list(D.keys())
+['eggs', 'ham', 'spam']
+>>> D
+{'eggs': 3, 'ham': 1, 'spam': 2}
+>>> list(D.values())
+[3, 1, 2]
+>>> list(D.items())
+[('eggs', 3), ('ham', 1), ('spam', 2)]
+>>> D.get('spam')
+2
+>>> 

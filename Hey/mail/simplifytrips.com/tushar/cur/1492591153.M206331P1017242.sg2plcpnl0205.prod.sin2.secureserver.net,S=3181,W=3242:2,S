@@ -1,0 +1,61 @@
+Return-Path: <0102015b855ce655-0c628851-415c-4856-91e5-6113382d5a54-000000@eu-west-1.amazonses.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id sdcvDDEi91iahQ8AwZeyeg
+	for <tushar@simplifytrips.com>; Wed, 19 Apr 2017 01:39:13 -0700
+Return-path: <0102015b855ce655-0c628851-415c-4856-91e5-6113382d5a54-000000@eu-west-1.amazonses.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Wed, 19 Apr 2017 01:39:13 -0700
+Received: from a3-7.smtp-out.eu-west-1.amazonses.com ([54.240.3.7]:35588)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1:ECDHE-RSA-AES128-SHA:128)
+	(Exim 4.87)
+	(envelope-from <0102015b855ce655-0c628851-415c-4856-91e5-6113382d5a54-000000@eu-west-1.amazonses.com>)
+	id 1d0l8q-004K4v-Ua
+	for tushar@simplifytrips.com; Wed, 19 Apr 2017 01:39:13 -0700
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=shh3fegwg5fppqsuzphvschd53n6ihuv; d=amazonses.com; t=1492591109;
+	h=Message-ID:Date:Subject:From:To:MIME-Version:Content-Type:Content-Transfer-Encoding:Feedback-ID;
+	bh=1kAHGnTvJ/tTy8KFMaGjgy0a/6C9njMm/YndROGr+e8=;
+	b=ai7chgG84lW6GL2u1bCE5zRrL70cuxdoiffH7fu5xpYIbP0RDUv2hDUCi+/M/eHH
+	4rXGQUjwjDXSDYO9JI4hZ48xktXIZROcR81nH8iq7bfF2Ipr5KqbNZaUrdoc/m99cUp
+	oZVFxaAhUv9+d+nBCya5crP3ilEWAxpDe32T5DIA=
+Message-ID: <0102015b855ce655-0c628851-415c-4856-91e5-6113382d5a54-000000@eu-west-1.amazonses.com>
+Date: Wed, 19 Apr 2017 08:38:29 +0000
+Subject: Tushar, Your vCommission Publisher Application is Approved!
+From: vCommission <support@vcommission.com>
+To: tushar@simplifytrips.com
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-SES-Outgoing: 2017.04.19-54.240.3.7
+Feedback-ID: 1.eu-west-1.TFO10dZ+1clW2oJs+xWQ3zf0JaGZHc2qz1d+E2q1T74=:AmazonSES
+
+Hi Tushar,
+<br><br>
+Welcome to vCommission, we=E2=80=99re excited to have you on board. We have=
+ reviewed your application and you have been approved as a vCommission affi=
+liate. You may now log in to your publisher dashboard to grab affiliate lin=
+ks.
+<br><br>
+Unique affiliate ID: 63272<br>
+Login URL: http://partners.vcommission.com<br>
+Username: tushar@simplifytrips.com (Same as your registered email ID)<br>
+<i>Password is the same as entered by you during signup. It is not mentione=
+d here due to security reasons. In case you have forgotten your password, p=
+lease generate a new one here: http://partners.vcommission.com/users/forgot=
+_password</i>
+<br><br>
+Tushar, as a valued part of our network, you will also receive daily/weekly=
+ update through emails. You may also like us on Facebook (http://www.facebo=
+ok.com/vcommission) & follow us on Twitter (http://twitter.com/vcommission)=
+ to know more about business, our team & our work culture.
+<br><br>
+Please be noted - we hold very strong policy against Incent traffic on our =
+Non-Incent offers. Please do not promote Non-Incent offers as Incent, if fo=
+und doing so, your account will be blocked without any warning. All our cam=
+paigns are Non-Incent unless it=E2=80=99s EXPLICITLY mentioned to be Incent=
+.
+<br><br>
+All the best,<br>
+vCommission
+

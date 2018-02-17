@@ -1,0 +1,167 @@
+Return-Path: <wanderglobeaccts@gmail.com>
+Delivered-To: tushar@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id l2XwE58rFFlnNAkAwZeyeg
+	for <tushar@simplifytrips.com>; Thu, 11 May 2017 02:15:11 -0700
+Return-path: <wanderglobeaccts@gmail.com>
+Envelope-to: tushar@simplifytrips.com
+Delivery-date: Thu, 11 May 2017 02:15:11 -0700
+Received: from mail-qt0-f176.google.com ([209.85.216.176]:36254)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.88)
+	(envelope-from <wanderglobeaccts@gmail.com>)
+	id 1d8kBj-002WnP-7s
+	for tushar@simplifytrips.com; Thu, 11 May 2017 02:15:11 -0700
+Received: by mail-qt0-f176.google.com with SMTP id m91so11979026qte.3
+        for <tushar@simplifytrips.com>; Thu, 11 May 2017 02:14:50 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to;
+        bh=vDgcgIt6iyhMCJUEILdF0MU3J97rq/AJIBaWc/Yd1+k=;
+        b=cuCojun7FpoB7mS3v+dyO5pJa4YB2lvk9WaxCKiz+26g3tmaozNtZ1PLNtXGcLqa+X
+         Dy0m97Q3mKke2vAYj1iQHLElYWzJ+xpI7rkRVTgW5yGc/EhKIOdcsap96nx+2DBPfQ8b
+         PFvHfrILTc3bxcwCE3dzjiIxnDUAzxbGJX1rVSBNySotkEYc6bSHCG7XY0/Ke2QIuGyZ
+         LbhS4GvnON4q5sD96VEU4HWmO/77H1JADnpDCli7QXbKAGof6gnwa10cWcNR2keA5F6C
+         PriCgdM0Zc14870GtEuvc6KRh6qkNG5/LoPLDm+h761uuAzAaoZIP9pECpSur/6fwoLn
+         isyg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to;
+        bh=vDgcgIt6iyhMCJUEILdF0MU3J97rq/AJIBaWc/Yd1+k=;
+        b=cztEocAQUO+7PpNdgQ7MhmSzo64CgudE8mJ7XeQIKHG9ViY+wZ/r35SeJJSDrCYUcW
+         xcSzsbi7XInPTxJEiwirplh3ymJ7r0Qu+MNTZH3tFnSrZ6Z9KtlZ/zNxv5HxE4DQ82GG
+         N8blkzNHJRcv6jMn01ldYFLWwCa9PwA6G0RonPf/orM7N8biUCWI6vQwQpQFkEMwYkto
+         T+efiizfjlK4Ctgt/5Y5ESsd1uLqUDnMyhfx7dsPAaJzm+6EMFAWRHdPQxy5093Y+ywQ
+         lVPd7SK5x8Eui/d7596orXBN7YQMJKX+UvoHp+hxF4H1BELTsx2ZKb2vj0ONUDlrM+eR
+         jMKw==
+X-Gm-Message-State: AODbwcCDqgPDYJgcTKhfu+wPe7bf/OY7iODZT21rD9vQTY6QrPt25jwF
+	YQpG3bBSHfxsZNCQqa0I2VOIevv6dg==
+X-Received: by 10.237.34.58 with SMTP id n55mr2678674qtc.117.1494494068705;
+ Thu, 11 May 2017 02:14:28 -0700 (PDT)
+MIME-Version: 1.0
+References: <4707630081b24f9acf07d9565ee4f6e8@simplifytrips.com>
+In-Reply-To: <4707630081b24f9acf07d9565ee4f6e8@simplifytrips.com>
+From: wander globe <wanderglobeaccts@gmail.com>
+Date: Thu, 11 May 2017 09:14:18 +0000
+Message-ID: <CAEcCNwT8kAMQ4-k6sTONywydyMYor6D=7-hNa4DFcqFL9KF59A@mail.gmail.com>
+Subject: Re: Query Received for leh-ladakh
+To: tushar@simplifytrips.com
+Content-Type: multipart/alternative; boundary=001a113e3694159404054f3c040a
+
+--001a113e3694159404054f3c040a
+Content-Type: text/plain; charset=UTF-8
+
+Many thanks for your mail!! We will send him our best package on Leh tour
+with your reference.
+On Thu, 11 May 2017 at 12:26 PM, <tushar@simplifytrips.com> wrote:
+
+> Hi wander globe ,
+>
+>
+> Query was received from a Mr. Methee B Duangron from thailand, he has
+> shown his interest for leh packages. His email id is methee.baw@gmail.com as
+> shared with us on our FB page. Request you kindly send best offers to him
+> ASAP. Kindly mention our reference in the mail.
+>
+>
+> WBR
+>
+> Tushar Choudhary
+>
+>
+>
+-- 
+
+
+
+
+*Thanks & Regards**,*
+*AVINASH SINGH*
+*(Accounts Dept.)*
+
+*T-28, Okhla Indl. Area, Phase-II,*
+
+*New Delhi-110020.*
+
+*T +91 11 65154032, 40516434, 9811004344  *
+
+ *info@wanderglobe.in <info@wanderglobe.in>*
+
+--001a113e3694159404054f3c040a
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div>Many thanks for your mail!! We will send him our best package on Leh t=
+our with your reference.<br><div class=3D"gmail_quote"><div>On Thu, 11 May =
+2017 at 12:26 PM, &lt;<a href=3D"mailto:tushar@simplifytrips.com">tushar@si=
+mplifytrips.com</a>&gt; wrote:<br></div><blockquote class=3D"gmail_quote" s=
+tyle=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><div=
+ style=3D"font-size:10pt;font-family:Verdana,Geneva,sans-serif">
+<p>Hi wander globe ,<br><br><br></p>
+<p>Query was received from a Mr. Methee B Duangron from thailand, he has sh=
+own his interest for leh packages. His email id is <a href=3D"mailto:methee=
+.baw@gmail.com" rel=3D"noreferrer" target=3D"_blank">methee.baw@gmail.com</=
+a>=C2=A0as shared with us on our FB page. Request you kindly send best offe=
+rs to him ASAP. Kindly mention our reference in the mail.<br><br><br>WBR<br=
+><br></p>
+<p>Tushar Choudhary</p>
+<p><span>=C2=A0</span></p>
+
+</div>
+</blockquote></div></div><div dir=3D"ltr">-- <br></div><div data-smartmail=
+=3D"gmail_signature"><div dir=3D"ltr"><div><div dir=3D"ltr"><br></div><div =
+dir=3D"ltr"><br></div><div dir=3D"ltr"><br><div><br></div><div><font face=
+=3D"arial black, sans-serif" size=3D"4"><font color=3D"#ff0000"><b>Thanks &=
+amp; Regards</b></font><b style=3D"color:rgb(255,0,0)">,</b></font></div><d=
+iv><font color=3D"#9900ff" face=3D"arial black, sans-serif" size=3D"4"><b>A=
+VINASH SINGH</b></font></div><div><font color=3D"#ff00ff" size=3D"4"><b><fo=
+nt face=3D"arial black, sans-serif">(</font><font face=3D"georgia, serif">A=
+ccounts Dept.)</font></b></font></div><div><b style=3D"color:rgb(255,0,0);f=
+ont-size:12.8px"><img src=3D"https://docs.google.com/uc?export=3Ddownload&a=
+mp;id=3D0B-623Nn_-iO3X1NZZndld0s4MjA&amp;revid=3D0B-623Nn_-iO3WkV0WUhVc2UvK=
+zkzWGcwaW5YdDkvc0NFT3ZvPQ" width=3D"200" height=3D"79"><br></b></div><div><=
+div style=3D"border:solid windowtext 1.0pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"=
+>
+
+<p style=3D"border:none;padding:0in"><b><span lang=3D"FR"><font face=3D"ari=
+al black, sans-serif" color=3D"#e06666">T-28, Okhla Indl. Area, Phase-II,</=
+font></span></b></p><p style=3D"border:none;padding:0in"><b><span lang=3D"F=
+R"><font face=3D"arial black, sans-serif" color=3D"#e06666">New Delhi-11002=
+0.</font></span></b></p><p style=3D"border:none;padding:0in"><b><span lang=
+=3D"FR"><font face=3D"arial black, sans-serif" color=3D"#e06666">T +91 11
+65154032, 40516434, 9811004344 =C2=A0</font></span></b></p><p style=3D"bord=
+er:none;padding:0in"><b><span lang=3D"FR" style=3D"font-family:&quot;Book A=
+ntiqua&quot;,serif">=C2=A0</span></b><b><span style=3D"font-family:&quot;Bo=
+ok Antiqua&quot;,serif"><a href=3D"mailto:info@wanderglobe.in" target=3D"_b=
+lank"><span lang=3D"FR">info@wanderglobe.in</span></a></span></b><b><span l=
+ang=3D"FR" style=3D"font-family:&quot;Book Antiqua&quot;,serif"></span></b>=
+</p>
+
+</div></div><div>
+
+<table cellpadding=3D"0" cellspacing=3D"0" align=3D"left">
+ <tbody><tr>
+  <td width=3D"162" height=3D"83">
+
+<table cellpadding=3D"0" cellspacing=3D"0" align=3D"left">
+ <tbody><tr>
+  <td width=3D"162" height=3D"83"></td>
+ </tr>
+ <tr>
+  <td></td>
+  <td></td>
+ </tr>
+</tbody></table>
+
+</td>
+ </tr>
+ <tr>
+  <td></td>
+  <td></td>
+ </tr>
+</tbody></table>
+
+</div></div></div></div></div>
+
+--001a113e3694159404054f3c040a--

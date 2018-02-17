@@ -1,0 +1,115 @@
+Return-Path: <ops@artoftravel.co.in>
+Delivered-To: info@simplifytrips.com
+Received: from sg2plcpnl0205.prod.sin2.secureserver.net
+	by sg2plcpnl0205.prod.sin2.secureserver.net (Dovecot) with LMTP id 6THCDyYHB1n44QEAwZeyeg
+	for <info@simplifytrips.com>; Mon, 01 May 2017 03:00:06 -0700
+Return-path: <ops@artoftravel.co.in>
+Envelope-to: info@simplifytrips.com
+Delivery-date: Mon, 01 May 2017 03:00:06 -0700
+Received: from rs104.nsresponse.com ([204.93.177.139]:53541)
+	by sg2plcpnl0205.prod.sin2.secureserver.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <ops@artoftravel.co.in>)
+	id 1d587i-000W2k-6J
+	for info@simplifytrips.com; Mon, 01 May 2017 03:00:06 -0700
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=artoftravel.co.in; s=default; h=Content-Type:MIME-Version:Message-ID:Date:
+	Subject:In-Reply-To:To:From:Sender:Reply-To:Cc:Content-Transfer-Encoding:
+	Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:
+	Resent-To:Resent-Cc:Resent-Message-ID:References:List-Id:List-Help:
+	List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=FXKej6tZFa9yNpw+Lmx/oNy5h/t0SMqVZ0l8h6FUhXI=; b=lx5yKNYYtjom/w6/5LpGhQDqR5
+	X5ucJrs9tjiwbiY8vuYRhEgNIe+rKLuSOwkZHLhXZgNpHk0ysWbSgLtvcTQsKo4uNNAegEsM5HuEh
+	q5YQSb+f8k8EdwEYXxLgLc1LIKRI6K3G5mncLfsqhGz0t9To2NlpQ8206LYbjCurA8Ec=;
+Received: from [45.115.190.35] (port=26816 helo=Nitin)
+	by rs104.nsresponse.com with esmtpsa (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.88)
+	(envelope-from <ops@artoftravel.co.in>)
+	id 1d5870-003ZLB-Pf
+	for info@simplifytrips.com; Mon, 01 May 2017 04:59:23 -0500
+From: "Kapil Sharma" <ops@artoftravel.co.in>
+To: <info@simplifytrips.com>
+In-Reply-To: <232666ca37afb2f56e0a7e942e1affdc@simplifytrips.com>
+Subject: Read: Activate your Simplifytrips account
+Date: Mon, 1 May 2017 15:29:20 +0530
+Message-ID: <005901d2c261$9bd74b80$d385e280$@artoftravel.co.in>
+MIME-Version: 1.0
+Content-Type: multipart/report;
+	report-type=disposition-notification;
+	boundary="----=_NextPart_000_005A_01D2C28F.B59B6E60"
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQHDrYmfoQ/EbnI+Ehmf3oKkVHQBbAGK6tz5AeWblGeh4ePlsQ==
+X-OutGoing-Spam-Status: No, score=-1.0
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - rs104.nsresponse.com
+X-AntiAbuse: Original Domain - simplifytrips.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - artoftravel.co.in
+X-Get-Message-Sender-Via: rs104.nsresponse.com: authenticated_id: ops@artoftravel.co.in
+X-Authenticated-Sender: rs104.nsresponse.com: ops@artoftravel.co.in
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_005A_01D2C28F.B59B6E60
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_005B_01D2C28F.B59B6E60"
+
+
+------=_NextPart_001_005B_01D2C28F.B59B6E60
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+Your message
+
+    To:  Ops
+    Subject:  Activate your Simplifytrips account
+    Sent:  5/1/2017 3:19 PM
+
+was read on 5/1/2017 3:29 PM.
+
+------=_NextPart_001_005B_01D2C28F.B59B6E60
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3DUTF-8">
+<META NAME=3D"Generator" CONTENT=3D"MS Exchange Server version =
+rmj.rmm.rup.rpr">
+<TITLE>Read: Activate your Simplifytrips account</TITLE>
+</HEAD>
+<BODY>
+<!-- Converted from text/plain format -->
+
+<P><FONT SIZE=3D2>Your message<BR>
+<BR>
+&nbsp;&nbsp;&nbsp; To:&nbsp; Ops<BR>
+&nbsp;&nbsp;&nbsp; Subject:&nbsp; Activate your Simplifytrips =
+account<BR>
+&nbsp;&nbsp;&nbsp; Sent:&nbsp; 5/1/2017 3:19 PM<BR>
+<BR>
+was read on 5/1/2017 3:29 PM.</FONT>
+</P>
+
+</BODY>
+</HTML>
+------=_NextPart_001_005B_01D2C28F.B59B6E60--
+
+------=_NextPart_000_005A_01D2C28F.B59B6E60
+Content-Type: message/disposition-notification
+Content-Transfer-Encoding: 7bit
+
+Reporting-UA: artoftravel.co.in; Microsoft Outlook 15.0
+Final-Recipient: rfc822;ops@artoftravel.co.in
+Original-Message-ID: <232666ca37afb2f56e0a7e942e1affdc@simplifytrips.com>
+Disposition: manual-action/MDN-sent-automatically; displayed
+
+------=_NextPart_000_005A_01D2C28F.B59B6E60--
+
